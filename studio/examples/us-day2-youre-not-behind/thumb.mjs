@@ -1,0 +1,16 @@
+import { createRequire } from 'module'; import fs from 'fs';
+const require = createRequire('/home/claude/repo/stickman-video-director/skills/directing-stickman-videos/package.json');
+const { createCanvas } = require('@napi-rs/canvas');
+const R = await import('/home/claude/work/proj/render.mjs');
+const { fig, text, strokePath, fillPoly, underline, box } = R;
+const c = createCanvas(1280, 720), x = c.getContext('2d');
+x.fillStyle = '#FDFDFC'; x.fillRect(0, 0, 1280, 720);
+fillPoly(x, [[760, 0], [1280, 0], [1280, 720], [860, 720]], '#d9ecdd', 3, 3);
+text(x, "YOU'RE NOT", 380, 230, { size: 120 });
+text(x, 'BEHIND', 380, 380, { size: 170, c: '#2f9a5a', rot: -0.03 });
+underline(x, 120, 640, 410, 0, 10, { c: '#2f9a5a', w: 10 });
+box(x, 90, 470, 580, 170, { fill: '#fff8de', lw: 5, seed: 7 });
+text(x, 'Median under 35:', 380, 540, { size: 52, c: '#444' });
+text(x, '$33,000', 380, 615, { size: 76, c: '#e0452f' });
+fig(x, { x: 1030, y: 450, s: 1.35, seed: 5, t: 0, mood: 'grin', arms: [[-150, -200], [150, 200]], legs: [[-16, -10], [16, 10]], lw: 7 });
+fs.writeFileSync('/home/claude/work/us2/thumbnail.png', c.toBuffer('image/png')); console.log('ok');
