@@ -1,0 +1,127 @@
+1
+00:00:00,300 --> 00:00:01,972
+Your SIP isn't broken.
+
+2
+00:00:01,992 --> 00:00:03,510
+It's just early.
+
+3
+00:00:03,530 --> 00:00:05,142
+Say you invest five thousand
+
+4
+00:00:05,162 --> 00:00:06,325
+rupees a month.
+
+5
+00:00:06,345 --> 00:00:07,369
+After five years,
+
+6
+00:00:07,389 --> 00:00:08,882
+you've put in three lakh.
+
+7
+00:00:08,902 --> 00:00:10,500
+It's worth about four lakh.
+
+8
+00:00:10,520 --> 00:00:11,499
+Feels slow.
+
+9
+00:00:11,519 --> 00:00:12,495
+After ten years:
+
+10
+00:00:12,515 --> 00:00:13,282
+six lakh in.
+
+11
+00:00:13,302 --> 00:00:14,804
+About eleven and a half
+
+12
+00:00:14,824 --> 00:00:15,439
+lakh.
+
+13
+00:00:15,459 --> 00:00:16,638
+After twenty years:
+
+14
+00:00:16,658 --> 00:00:17,620
+twelve lakh in.
+
+15
+00:00:17,640 --> 00:00:19,030
+About fifty lakh.
+
+16
+00:00:19,050 --> 00:00:19,730
+Same SIP.
+
+17
+00:00:19,750 --> 00:00:20,621
+Same amount.
+
+18
+00:00:20,641 --> 00:00:22,530
+The growth just shows up
+
+19
+00:00:22,550 --> 00:00:23,232
+late.
+
+20
+00:00:23,252 --> 00:00:24,329
+That's compounding.
+
+21
+00:00:24,349 --> 00:00:26,029
+Your returns start earning
+
+22
+00:00:26,049 --> 00:00:27,501
+their own returns.
+
+23
+00:00:27,521 --> 00:00:28,940
+And most people quit in
+
+24
+00:00:28,960 --> 00:00:29,586
+year three,
+
+25
+00:00:29,606 --> 00:00:31,594
+right before the curve bends.
+
+26
+00:00:31,614 --> 00:00:33,366
+This assumes twelve percent
+
+27
+00:00:33,386 --> 00:00:33,865
+a year.
+
+28
+00:00:33,885 --> 00:00:35,748
+Real returns go up and down,
+
+29
+00:00:35,768 --> 00:00:37,730
+and nothing is guaranteed.
+
+30
+00:00:37,750 --> 00:00:39,370
+So don't judge your SIP
+
+31
+00:00:39,390 --> 00:00:40,248
+by year one.
+
+32
+00:00:40,268 --> 00:00:42,783
+Judge it by year fifteen.

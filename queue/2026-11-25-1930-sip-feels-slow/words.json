@@ -1,0 +1,557 @@
+[
+{
+"text": "Your",
+"start": 0.0,
+"end": 0.374
+},
+{
+"text": "SIP",
+"start": 0.406,
+"end": 0.717
+},
+{
+"text": "isn't",
+"start": 0.745,
+"end": 1.118
+},
+{
+"text": "broken.",
+"start": 1.151,
+"end": 1.649
+},
+{
+"text": "It's",
+"start": 1.692,
+"end": 2.004
+},
+{
+"text": "just",
+"start": 2.031,
+"end": 2.404
+},
+{
+"text": "early.",
+"start": 2.437,
+"end": 2.873
+},
+{
+"text": "Say",
+"start": 3.23,
+"end": 3.451
+},
+{
+"text": "you",
+"start": 3.47,
+"end": 3.691
+},
+{
+"text": "invest",
+"start": 3.71,
+"end": 4.063
+},
+{
+"text": "five",
+"start": 4.094,
+"end": 4.359
+},
+{
+"text": "thousand",
+"start": 4.382,
+"end": 4.823
+},
+{
+"text": "rupees",
+"start": 4.862,
+"end": 5.215
+},
+{
+"text": "a",
+"start": 5.245,
+"end": 5.378
+},
+{
+"text": "month.",
+"start": 5.389,
+"end": 5.698
+},
+{
+"text": "After",
+"start": 6.045,
+"end": 6.381
+},
+{
+"text": "five",
+"start": 6.411,
+"end": 6.699
+},
+{
+"text": "years,",
+"start": 6.724,
+"end": 7.06
+},
+{
+"text": "you've",
+"start": 7.089,
+"end": 7.425
+},
+{
+"text": "put",
+"start": 7.454,
+"end": 7.694
+},
+{
+"text": "in",
+"start": 7.715,
+"end": 7.907
+},
+{
+"text": "three",
+"start": 7.924,
+"end": 8.26
+},
+{
+"text": "lakh.",
+"start": 8.289,
+"end": 8.577
+},
+{
+"text": "It's",
+"start": 8.602,
+"end": 8.842
+},
+{
+"text": "worth",
+"start": 8.863,
+"end": 9.199
+},
+{
+"text": "about",
+"start": 9.229,
+"end": 9.565
+},
+{
+"text": "four",
+"start": 9.594,
+"end": 9.882
+},
+{
+"text": "lakh.",
+"start": 9.907,
+"end": 10.195
+},
+{
+"text": "Feels",
+"start": 10.22,
+"end": 10.556
+},
+{
+"text": "slow.",
+"start": 10.586,
+"end": 10.874
+},
+{
+"text": "After",
+"start": 11.219,
+"end": 11.557
+},
+{
+"text": "ten",
+"start": 11.586,
+"end": 11.827
+},
+{
+"text": "years:",
+"start": 11.848,
+"end": 12.186
+},
+{
+"text": "six",
+"start": 12.215,
+"end": 12.457
+},
+{
+"text": "lakh",
+"start": 12.478,
+"end": 12.767
+},
+{
+"text": "in.",
+"start": 12.793,
+"end": 12.986
+},
+{
+"text": "About",
+"start": 13.002,
+"end": 13.34
+},
+{
+"text": "eleven",
+"start": 13.37,
+"end": 13.756
+},
+{
+"text": "and",
+"start": 13.789,
+"end": 14.031
+},
+{
+"text": "a",
+"start": 14.052,
+"end": 14.197
+},
+{
+"text": "half",
+"start": 14.209,
+"end": 14.499
+},
+{
+"text": "lakh.",
+"start": 14.524,
+"end": 14.814
+},
+{
+"text": "After",
+"start": 15.159,
+"end": 15.51
+},
+{
+"text": "twenty",
+"start": 15.54,
+"end": 15.942
+},
+{
+"text": "years:",
+"start": 15.977,
+"end": 16.328
+},
+{
+"text": "twelve",
+"start": 16.358,
+"end": 16.76
+},
+{
+"text": "lakh",
+"start": 16.795,
+"end": 17.096
+},
+{
+"text": "in.",
+"start": 17.122,
+"end": 17.322
+},
+{
+"text": "About",
+"start": 17.34,
+"end": 17.691
+},
+{
+"text": "fifty",
+"start": 17.722,
+"end": 18.073
+},
+{
+"text": "lakh.",
+"start": 18.103,
+"end": 18.404
+},
+{
+"text": "Same",
+"start": 18.75,
+"end": 19.102
+},
+{
+"text": "SIP.",
+"start": 19.132,
+"end": 19.425
+},
+{
+"text": "Same",
+"start": 19.45,
+"end": 19.802
+},
+{
+"text": "amount.",
+"start": 19.832,
+"end": 20.3
+},
+{
+"text": "The",
+"start": 20.341,
+"end": 20.634
+},
+{
+"text": "growth",
+"start": 20.659,
+"end": 21.128
+},
+{
+"text": "just",
+"start": 21.168,
+"end": 21.519
+},
+{
+"text": "shows",
+"start": 21.55,
+"end": 21.96
+},
+{
+"text": "up",
+"start": 21.995,
+"end": 22.23
+},
+{
+"text": "late.",
+"start": 22.25,
+"end": 22.601
+},
+{
+"text": "That's",
+"start": 22.952,
+"end": 23.305
+},
+{
+"text": "compounding.",
+"start": 23.336,
+"end": 23.992
+},
+{
+"text": "Your",
+"start": 24.049,
+"end": 24.351
+},
+{
+"text": "returns",
+"start": 24.378,
+"end": 24.832
+},
+{
+"text": "start",
+"start": 24.871,
+"end": 25.225
+},
+{
+"text": "earning",
+"start": 25.255,
+"end": 25.71
+},
+{
+"text": "their",
+"start": 25.749,
+"end": 26.102
+},
+{
+"text": "own",
+"start": 26.133,
+"end": 26.385
+},
+{
+"text": "returns.",
+"start": 26.407,
+"end": 26.861
+},
+{
+"text": "And",
+"start": 27.221,
+"end": 27.449
+},
+{
+"text": "most",
+"start": 27.469,
+"end": 27.743
+},
+{
+"text": "people",
+"start": 27.767,
+"end": 28.132
+},
+{
+"text": "quit",
+"start": 28.164,
+"end": 28.438
+},
+{
+"text": "in",
+"start": 28.462,
+"end": 28.645
+},
+{
+"text": "year",
+"start": 28.66,
+"end": 28.934
+},
+{
+"text": "three,",
+"start": 28.958,
+"end": 29.278
+},
+{
+"text": "right",
+"start": 29.306,
+"end": 29.625
+},
+{
+"text": "before",
+"start": 29.653,
+"end": 30.019
+},
+{
+"text": "the",
+"start": 30.05,
+"end": 30.279
+},
+{
+"text": "curve",
+"start": 30.299,
+"end": 30.618
+},
+{
+"text": "bends.",
+"start": 30.646,
+"end": 30.966
+},
+{
+"text": "This",
+"start": 31.314,
+"end": 31.619
+},
+{
+"text": "assumes",
+"start": 31.646,
+"end": 32.105
+},
+{
+"text": "twelve",
+"start": 32.145,
+"end": 32.552
+},
+{
+"text": "percent",
+"start": 32.588,
+"end": 33.046
+},
+{
+"text": "a",
+"start": 33.086,
+"end": 33.239
+},
+{
+"text": "year.",
+"start": 33.252,
+"end": 33.558
+},
+{
+"text": "Real",
+"start": 33.585,
+"end": 33.891
+},
+{
+"text": "returns",
+"start": 33.917,
+"end": 34.376
+},
+{
+"text": "go",
+"start": 34.416,
+"end": 34.62
+},
+{
+"text": "up",
+"start": 34.637,
+"end": 34.841
+},
+{
+"text": "and",
+"start": 34.859,
+"end": 35.114
+},
+{
+"text": "down,",
+"start": 35.136,
+"end": 35.442
+},
+{
+"text": "and",
+"start": 35.468,
+"end": 35.723
+},
+{
+"text": "nothing",
+"start": 35.745,
+"end": 36.204
+},
+{
+"text": "is",
+"start": 36.244,
+"end": 36.448
+},
+{
+"text": "guaranteed.",
+"start": 36.466,
+"end": 37.077
+},
+{
+"text": "So",
+"start": 37.45,
+"end": 37.666
+},
+{
+"text": "don't",
+"start": 37.685,
+"end": 38.008
+},
+{
+"text": "judge",
+"start": 38.036,
+"end": 38.413
+},
+{
+"text": "your",
+"start": 38.446,
+"end": 38.769
+},
+{
+"text": "SIP",
+"start": 38.797,
+"end": 39.066
+},
+{
+"text": "by",
+"start": 39.09,
+"end": 39.305
+},
+{
+"text": "year",
+"start": 39.324,
+"end": 39.647
+},
+{
+"text": "one.",
+"start": 39.675,
+"end": 39.945
+},
+{
+"text": "Judge",
+"start": 39.968,
+"end": 40.345
+},
+{
+"text": "it",
+"start": 40.378,
+"end": 40.594
+},
+{
+"text": "by",
+"start": 40.612,
+"end": 40.828
+},
+{
+"text": "year",
+"start": 40.847,
+"end": 41.17
+},
+{
+"text": "fifteen.",
+"start": 41.198,
+"end": 41.683
+}
+]
