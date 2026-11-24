@@ -1,0 +1,15 @@
+import { createRequire } from 'module'; import fs from 'fs';
+const require = createRequire('/home/claude/repo/stickman-video-director/skills/directing-stickman-videos/package.json');
+const { createCanvas } = require('@napi-rs/canvas');
+const R = await import('/home/claude/work/proj/render.mjs');
+const { fig, text, strokePath, circlePts, fillPoly, underline } = R;
+const c = createCanvas(1280, 720), x = c.getContext('2d');
+x.fillStyle = '#FDFDFC'; x.fillRect(0, 0, 1280, 720);
+fillPoly(x, [[700, 0], [1280, 0], [1280, 720], [820, 720]], '#f3d35b', 3, 3);
+text(x, '$0', 330, 330, { size: 300, c: '#e0452f', rot: -0.06 });
+text(x, 'TO INVESTING', 330, 470, { size: 92 });
+text(x, 'IN 2026', 330, 580, { size: 110, c: '#2f9a5a' });
+underline(x, 120, 540, 600, 0, 10, { c: '#2f9a5a', w: 10 });
+fig(x, { x: 1010, y: 520, s: 1.7, seed: 5, t: 0, mood: 'shock', arms: [[-150, -200], [150, 200]], legs: [[-16, -10], [16, 10]], lw: 7 });
+fillPoly(x, circlePts(1150, 130, 85, 85, 24), '#e0452f', 9, 2); text(x, '7', 1150, 158, { size: 96, c: '#fff' }); text(x, 'STEPS', 1150, 250, { size: 52 });
+fs.writeFileSync('/mnt/user-data/outputs/us-pilot-thumbnail.png', c.toBuffer('image/png')); console.log('ok');
