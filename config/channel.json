@@ -1,0 +1,51 @@
+{
+  "description": "Learn the stock market, F&O trading and personal finance in 45-second animated Shorts. SEBI found 93% of F&O traders lost money in 3 years. The 7% Club explains why, and what the 7% do differently.\n\nWhat you'll learn:\n• Trading psychology: revenge trading, FOMO, stop-loss mistakes\n• Option trading basics: time decay, leverage, expiry-day risk\n• Investing in India: SIP, mutual funds, index funds, compounding\n• Money traps: credit cards, EMIs, BNPL, lifestyle inflation\n• Scam red flags: Telegram tips, fake profit screenshots, \"guaranteed returns\"\n• Tax basics: new tax regime, STCG vs LTCG\n\nNew Shorts daily at 8:30 AM and 7:30 PM IST.\n📌 Educational content only. Not SEBI-registered. Not investment advice.\n📩 the7percentclub@gmail.com",
+  "keywords": [
+    "stock market india",
+    "share market",
+    "trading for beginners",
+    "option trading",
+    "F&O trading",
+    "SEBI",
+    "personal finance india",
+    "investing for beginners",
+    "mutual funds",
+    "SIP",
+    "index funds",
+    "trading psychology",
+    "money tips",
+    "financial literacy",
+    "nifty",
+    "intraday trading",
+    "finance shorts",
+    "the 7% club"
+  ],
+  "country": "IN",
+  "defaultLanguage": "en",
+  "playlists": {
+    "trading-psychology": {
+      "title": "Trading Psychology: Why 93% Lose",
+      "description": "Revenge trading, FOMO, moving stop-losses and the other habits that make most traders lose money, in 45-second Shorts. Educational only, not investment advice."
+    },
+    "options-basics": {
+      "title": "Option Trading Basics for Beginners",
+      "description": "Time decay, leverage, expiry-day risk and position sizing explained simply in 45-second Shorts. Educational only, not investment advice."
+    },
+    "investing-india": {
+      "title": "Investing in India: SIP, Mutual Funds & Index Funds",
+      "description": "SIP, compounding, index funds, expense ratios and goal planning for Indian investors in 45-second Shorts. Educational only, not investment advice."
+    },
+    "money-traps": {
+      "title": "Money Traps: Credit Cards, EMIs & BNPL",
+      "description": "Credit card minimum due, no-cost EMI, buy now pay later and lifestyle inflation explained in 45-second Shorts."
+    },
+    "scams": {
+      "title": "Stock Market Scams & Red Flags",
+      "description": "Telegram tip groups, pump-and-dump, fake profit screenshots and 'guaranteed returns' red flags explained in 45-second Shorts."
+    },
+    "tax": {
+      "title": "Tax Basics for Indian Investors",
+      "description": "New vs old tax regime and STCG vs LTCG on stocks explained in 45-second Shorts. Educational only, not tax advice."
+    }
+  }
+}
