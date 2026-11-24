@@ -12,7 +12,7 @@ usage: seo.py [--scopes] [--channel] [--videos]   (no flags = channel + videos)
 """
 import json, os, sys, pathlib, requests
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from post import yt_token, guard_channel, log, CH, QUEUE  # noqa: E402
+from post import yt_token, guard_channel, log, CH, CH_KEY, QUEUE  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CFG = json.loads((ROOT / CH["config"]).read_text())
@@ -116,6 +116,72 @@ def fix_videos(tok, playlists):
         pj.write_text(json.dumps(item, indent=2, ensure_ascii=False) + "\n")
 
 
+STATE_FILE = ROOT / CH["playlists"].replace("playlists.json", "state.json")
+
+
+def load_state():
+    return json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
+
+
+def save_state(st):
+    STATE_FILE.write_text(json.dumps(st, indent=2) + "\n")
+
+
+def snapshot(tok):
+    """Save the channel's current profile picture and stats into status/ so they can be checked without Studio."""
+    ch = call("GET", "channels", tok, params={"part": "snippet,statistics", "mine": "true"})["items"][0]
+    url = ch["snippet"]["thumbnails"].get("high", ch["snippet"]["thumbnails"]["default"])["url"]
+    out = ROOT / "status"; out.mkdir(exist_ok=True)
+    img = requests.get(url, timeout=60)
+    if img.ok:
+        (out / f"{CH_KEY}-avatar.jpg").write_bytes(img.content)
+    st = ch["statistics"]
+    log(f"Profile picture saved to status/{CH_KEY}-avatar.jpg; subscribers {st.get('subscriberCount')}, "
+        f"videos {st.get('videoCount')}, views {st.get('viewCount')}")
+    return ch["id"]
+
+
+def extras(tok, channel_id, playlists):
+    """One-time growth extras: subscribe watermark, channel trailer, home-page playlist shelf."""
+    st = load_state()
+    wm = CFG.get("watermark")
+    if wm and not st.get("watermark"):
+        meta = json.dumps({"timing": {"type": "offsetFromStart", "offsetMs": 0, "durationMs": 0},
+                           "position": {"type": "corner", "cornerPosition": "bottomRight"}})
+        r = requests.post(f"https://www.googleapis.com/upload/youtube/v3/watermarks/set?channelId={channel_id}&uploadType=multipart",
+                          headers={"Authorization": f"Bearer {tok}"}, timeout=120,
+                          files={"metadata": (None, meta, "application/json; charset=UTF-8"),
+                                 "media": ("watermark.png", (ROOT / wm).read_bytes(), "image/png")})
+        if r.status_code < 300:
+            st["watermark"] = True; log("Subscribe watermark set on all videos")
+        else:
+            log(f"Watermark FAILED: {r.status_code} {r.text[:300]}")
+    # trailer + home shelf need the first video to be live
+    first = CFG.get("trailer_item")
+    vid = None
+    if first and (QUEUE / first / "post.json").exists():
+        vid = json.loads((QUEUE / first / "post.json").read_text()).get("results", {}).get("youtube", {}).get("id")
+    if vid and not st.get("trailer"):
+        try:
+            ch = call("GET", "channels", tok, params={"part": "brandingSettings", "mine": "true"})["items"][0]
+            b = ch["brandingSettings"]; b["channel"]["unsubscribedTrailer"] = vid
+            call("PUT", "channels", tok, params={"part": "brandingSettings"},
+                 json={"id": ch["id"], "brandingSettings": {"channel": b["channel"]}})
+            st["trailer"] = vid; log(f"Channel trailer set to {vid}")
+        except Exception as e:
+            log(f"Trailer FAILED: {e}")
+    shelf = CFG.get("home_shelf")
+    if vid and shelf and not st.get("shelf"):
+        try:
+            call("POST", "channelSections", tok, params={"part": "snippet,contentDetails"}, json={
+                "snippet": {"type": "singlePlaylist", "position": 0},
+                "contentDetails": {"playlists": [playlists[shelf]]}})
+            st["shelf"] = shelf; log(f"Home page shelf added: {CFG['playlists'][shelf]['title']}")
+        except Exception as e:
+            log(f"Home shelf FAILED: {e}")
+    save_state(st)
+
+
 def main():
     tok = yt_token()
     title = guard_channel(tok)
@@ -128,6 +194,8 @@ def main():
     if "--channel" in flags: apply_channel(tok)
     pls = ensure_playlists(tok)
     if "--videos" in flags: fix_videos(tok, pls)
+    cid = snapshot(tok)
+    extras(tok, cid, pls)
 
 
 if __name__ == "__main__":

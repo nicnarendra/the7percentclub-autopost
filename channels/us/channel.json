@@ -1,21 +1,22 @@
 {
-  "description": "Get rich slowly. On purpose.\n\nThe Boring Rich Club makes personal finance simple for regular Americans, with short animated videos and no hype. No stock tips, no crypto pumps, no \"get rich quick\". Just the boring steps that actually build wealth: budgeting, emergency funds, paying off credit card debt, your 401(k) and Roth IRA, index funds, and staying invested when the market drops.\n\nNew videos every day:\n• Full guides (6–10 min) at 3 PM ET\n• Shorts at 7 PM ET\n\nWhat you'll learn:\n• How to start investing from $0\n• 401(k) match, Roth IRA and HSA basics\n• Index funds and ETFs for beginners\n• Getting out of credit card debt\n• Money mistakes that keep people broke\n• Scam red flags and \"too good to be true\" offers\n\n📌 Educational content only. Not financial advice. Do your own research or talk to a licensed professional.",
+  "description": "Personal finance and investing for beginners, explained simply. The Boring Rich Club shows regular Americans how to build wealth the boring way: budgeting, an emergency fund, paying off credit card debt, your 401(k) match, a Roth IRA and low-cost index funds. Get rich slowly. On purpose.\n\nNo stock tips. No crypto pumps. No get-rich-quick. Just the steps that actually work, in the right order, in short animated videos.\n\nWhat you'll learn:\n• How to start investing from $0\n• 401(k) match, Roth IRA and HSA basics\n• Index funds and ETFs for beginners\n• How to pay off credit card debt\n• Budgeting and emergency funds\n• Money mistakes that keep people broke\n• Scam red flags and \"guaranteed return\" traps\n\nNew videos every day: full guides at 3 PM ET, Shorts at 7 PM ET. Subscribe and start with the \"Start Here: Investing From $0\" playlist.\n\n📌 Educational content only. Not financial advice. Do your own research or talk to a licensed professional.",
   "keywords": [
     "personal finance",
     "investing for beginners",
     "how to start investing",
+    "how to invest money",
     "index funds",
     "roth ira",
     "401k",
+    "ETF investing",
+    "stock market for beginners",
     "financial independence",
     "budgeting",
-    "money tips",
-    "credit card debt",
+    "pay off credit card debt",
     "emergency fund",
-    "stock market for beginners",
-    "ETF investing",
     "build wealth",
     "financial literacy",
+    "money tips",
     "boring investing",
     "the boring rich club"
   ],
@@ -47,5 +48,8 @@
       "title": "Scams & Too-Good-To-Be-True Offers",
       "description": "Pump-and-dumps, fake gurus and 'guaranteed returns': how the scams work and how to spot them."
     }
-  }
+  },
+  "watermark": "channels/us/watermark.png",
+  "trailer_item": "2026-11-27-1500-start-investing-from-zero",
+  "home_shelf": "start-here"
 }
