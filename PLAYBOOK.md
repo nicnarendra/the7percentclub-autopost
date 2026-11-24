@@ -82,6 +82,7 @@ Work in `studio/work/<slug>/`, which is git-ignored.
    ```
    - Playlists: see `config/channel.json` (India) and `channels/us/channel.json` (US).
    - Shorts get " #Shorts" added automatically.
+   - India Shorts also go to Facebook Reels and Instagram Reels: always pass `--caption-file` (hook line, 2–4 short lines, a question, the disclaimer, 5–8 hashtags incl. #the7percentclub). Without it they post to YouTube only.
    - Titles must be ≤ 100 characters.
 10. **Update the plan:** set the row's Status in `plans/*.csv` to `Queued`.
 

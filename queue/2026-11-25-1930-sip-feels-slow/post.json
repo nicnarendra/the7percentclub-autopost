@@ -3,7 +3,9 @@
   "slot": "PM",
   "publish_at": "2026-11-25T19:30:00+05:30",
   "platforms": [
-    "youtube"
+    "youtube",
+    "facebook",
+    "instagram"
   ],
   "youtube": {
     "title": "₹5,000 SIP → ₹50 Lakh? Why It Feels Slow #Shorts",

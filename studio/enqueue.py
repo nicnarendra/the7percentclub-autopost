@@ -22,7 +22,7 @@ cfg = json.loads((ROOT / ("config/channel.json" if a.channel == "in" else f"chan
 if a.playlist and a.playlist not in cfg["playlists"]: sys.exit(f"unknown playlist {a.playlist}; choose from {list(cfg['playlists'])}")
 title = a.title if a.format == "long" or "#Shorts" in a.title else a.title + " #Shorts"
 if len(title) > 100: sys.exit(f"title too long ({len(title)} > 100)")
-item = {"day": a.day, "slot": a.format, "format": a.format, "publish_at": when.isoformat(), "platforms": ["youtube"],
+item = {"day": a.day, "slot": a.format, "format": a.format, "publish_at": when.isoformat(), "platforms": ["youtube", "facebook", "instagram"] if (a.channel == "in" and a.caption_file) else ["youtube"],
         "youtube": {"title": title, "description": pathlib.Path(a.description_file).read_text().strip(),
                     "tags": [t.strip() for t in a.tags.split(",") if t.strip()], "categoryId": "27", "privacy": "public", "playlist": a.playlist or None}}
 if a.caption_file: item["caption"] = pathlib.Path(a.caption_file).read_text().strip()
