@@ -52,6 +52,7 @@ Work in `studio/work/<slug>/`, which is git-ignored.
      (ink + terracotta), people with coloured shirts, and Noto Sans captions on a rounded ivory label. Copy the helper
      functions (`ink`, `shape`, `rect`, `hand`, `sans`, `heading`, `person`, `desk`, caption block) from the B2 example for both US Shorts and US long-form.
    - US Short (B2): `studio/examples/us-day2-short-b2-youre-not-behind/`
+   - US long-form (B2): `studio/examples/us-day2-long-b2/` (a B1 long-form scene converted with `python studio/b2_restyle.py in.mjs out.mjs`: warm paper, B2 palette, thin hand headings, Noto Sans numbers, finer ink figures). Prefer drawing new B2 props/colour fills directly over relying on the converter alone.
    - 9:16 Short with camera motion (B1): `studio/examples/us-day1-short-7-steps/`
    - 9:16 Short with charts: `studio/examples/in-day1-sip/`
    - 16:9 long-form with 9 chapters: `studio/examples/us-day2-youre-not-behind/` (best reference)
