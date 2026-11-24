@@ -1,0 +1,25 @@
+{
+  "day": 2,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-28T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "Are You Actually Behind? What the Typical American Has #Shorts",
+    "description": "Everyone online seems rich. So are you actually behind? Here's what the typical American family really has, using the Federal Reserve's newest data (2025 Survey of Consumer Finances).\n\n• Average (mean) family net worth: about $1.24 million. Averages get dragged up by the very rich.\n• Median family net worth: about $215,900\n• Median net worth, families under 35: about $33,000\n• Median checking + savings: about $8,200\n\nFull breakdown by age on the channel: \"You're Not Behind: What the Average American Actually Has\".\n\n📌 Educational content only, not financial advice.\n\n#personalfinance #networth #money",
+    "tags": [
+      "net worth by age",
+      "am i behind financially",
+      "median net worth",
+      "average savings",
+      "personal finance",
+      "money tips",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "start-here"
+  }
+}

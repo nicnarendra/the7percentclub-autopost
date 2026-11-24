@@ -46,7 +46,13 @@ Work in `studio/work/<slug>/`, which is git-ignored.
    - Shorts: `python studio/tts.py studio/work/<slug> --speed 1.05 --gap 0.3`
    - Long-form: `python studio/tts.py studio/work/<slug> --speed 0.95 --gap 0.4`
 4. **Scenes** → copy the closest example into your work folder as `scene.mjs` and rewrite the scene functions:
-   - 9:16 Short with camera motion: `studio/examples/us-day1-short-7-steps/`
+   - **Style per channel:** The 7% Club (India) uses **B1 Minimal Line Art**. The Boring Rich Club (US) uses
+     **B2 Colorful Hand-Drawn**: warm paper `#F3EFE6`, fine ink `#3a3a37`, muted flat props (terracotta `#b86f52`, sage `#9fb39a`,
+     mustard `#d9b45f`, dusty blue `#7f9bb3`, rose `#e3a89a`), a tan desk/floor band, two-tone thin handwritten headings
+     (ink + terracotta), people with coloured shirts, and Noto Sans captions on a rounded ivory label. Copy the helper
+     functions (`ink`, `shape`, `rect`, `hand`, `sans`, `heading`, `person`, `desk`, caption block) from the B2 example for both US Shorts and US long-form.
+   - US Short (B2): `studio/examples/us-day2-short-b2-youre-not-behind/`
+   - 9:16 Short with camera motion (B1): `studio/examples/us-day1-short-7-steps/`
    - 9:16 Short with charts: `studio/examples/in-day1-sip/`
    - 16:9 long-form with 9 chapters: `studio/examples/us-day2-youre-not-behind/` (best reference)
    - 16:9 long-form with a steps tracker: `studio/examples/us-day1-start-from-zero/`
