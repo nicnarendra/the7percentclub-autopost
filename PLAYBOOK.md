@@ -97,4 +97,4 @@ Work in `studio/work/<slug>/`, which is git-ignored.
 
 - Touch `.github/workflows`, `scripts/` or secrets unless a run is broken and the fix is obvious. Then say exactly what changed.
 - Upload to YouTube or Meta directly, or change channel settings by hand.
-- Overwrite a queue item that has already been posted (`queue.py` refuses).
+- Overwrite a queue item that has already been posted (`enqueue.py` refuses).
