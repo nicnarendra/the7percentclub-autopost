@@ -1,2 +1,2 @@
-mode=seo channel=us at 2026-11-24T19:16:26Z
-Missing secret YT_REFRESH_TOKEN_US. Add it in GitHub: Settings > Secrets and variables > Actions.
+mode=check channel=us at 2026-11-24T19:25:33Z
+YouTube: key works, uploads to 'The Boring Rich Club' (@boringrichclub)
