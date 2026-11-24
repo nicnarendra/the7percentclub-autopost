@@ -1,0 +1,31 @@
+{
+  "day": 2,
+  "slot": "long",
+  "format": "long",
+  "publish_at": "2026-11-28T15:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "You're Not Behind: What the Average American Actually Has (2025 Fed Data)",
+    "description": "Everyone online seems rich. So what do American families actually have? Using the Federal Reserve's newest data (2025 Survey of Consumer Finances), here's median net worth by age, how much cash the typical family keeps, how many carry credit card debt, and how many have a retirement account. Spoiler: you're probably not as behind as you feel.\n\nChapters\n0:00 Intro\n0:24 The average trap\n1:24 Net worth by age\n2:26 Cash\n2:47 Debt\n3:16 Retirement\n3:43 Why you feel behind\n4:04 What actually matters\n4:59 Recap\n\nNumbers in this video (Federal Reserve, 2025 Survey of Consumer Finances):\n• Median family net worth: about $215,900 (mean: about $1.24 million)\n• Median net worth by age: under 35 ≈ $33,000 · 35–44 ≈ $155,600 · 45–54 ≈ $253,700 · 55–64 ≈ $411,900 · 65–74 ≈ $431,300 · 75+ ≈ $504,900\n• Median checking + savings (transaction accounts): about $8,200\n• About 45% of families carry a credit card balance; median balance about $3,100\n• About 1 in 5 families were late on a loan payment in the past year (12.2% in 2022)\n• About 55% of families have a retirement account; median balance among them about $106,000\n• The investing illustration assumes 7% a year and is not guaranteed.\n\nWatch next: If I Had to Start Investing From $0 in 2026.\n\nWhere are you on the curve? Tell me your age group in the comments.\n\n📌 Educational content only, not financial advice.\n\n#personalfinance #networth #money",
+    "tags": [
+      "net worth by age",
+      "average net worth",
+      "median net worth",
+      "average savings by age",
+      "am i behind financially",
+      "personal finance",
+      "how much should i have saved",
+      "survey of consumer finances",
+      "federal reserve data",
+      "retirement savings by age",
+      "credit card debt",
+      "money mindset",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "start-here"
+  }
+}

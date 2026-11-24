@@ -1,0 +1,943 @@
+1
+00:00:00,400 --> 00:00:02,743
+Everyone online seems rich.
+
+2
+00:00:02,763 --> 00:00:04,720
+Twenty-somethings with paid-off
+
+3
+00:00:04,740 --> 00:00:05,199
+houses.
+
+4
+00:00:05,219 --> 00:00:06,757
+Thirty-year-olds retiring
+
+5
+00:00:06,777 --> 00:00:07,177
+early.
+
+6
+00:00:07,197 --> 00:00:08,914
+Your feed makes it look
+
+7
+00:00:08,934 --> 00:00:10,951
+like everyone is miles ahead
+
+8
+00:00:10,971 --> 00:00:11,890
+of you.
+
+9
+00:00:11,910 --> 00:00:13,935
+So let's look at what American
+
+10
+00:00:13,955 --> 00:00:15,412
+families actually have,
+
+11
+00:00:15,432 --> 00:00:17,173
+using the Federal Reserve's
+
+12
+00:00:17,193 --> 00:00:18,539
+newest numbers.
+
+13
+00:00:18,559 --> 00:00:19,305
+By the end,
+
+14
+00:00:19,325 --> 00:00:20,892
+you'll know exactly where
+
+15
+00:00:20,912 --> 00:00:21,548
+you stand,
+
+16
+00:00:21,568 --> 00:00:23,026
+and why you're probably
+
+17
+00:00:23,046 --> 00:00:25,177
+not as behind as you feel.
+
+18
+00:00:25,197 --> 00:00:25,617
+First,
+
+19
+00:00:25,637 --> 00:00:26,584
+a trap.
+
+20
+00:00:26,604 --> 00:00:28,620
+The Federal Reserve's 2025
+
+21
+00:00:28,640 --> 00:00:30,792
+Survey of Consumer Finances
+
+22
+00:00:30,812 --> 00:00:32,829
+says the average American
+
+23
+00:00:32,849 --> 00:00:34,933
+family is worth about one
+
+24
+00:00:34,953 --> 00:00:37,777
+point two four million dollars.
+
+25
+00:00:37,797 --> 00:00:38,696
+A millionaire.
+
+26
+00:00:38,716 --> 00:00:40,359
+The average family.
+
+27
+00:00:40,379 --> 00:00:41,411
+That sounds wrong,
+
+28
+00:00:41,431 --> 00:00:43,264
+because it is misleading.
+
+29
+00:00:43,284 --> 00:00:45,005
+Picture ten regular people
+
+30
+00:00:45,025 --> 00:00:45,735
+in a room.
+
+31
+00:00:45,755 --> 00:00:47,364
+Then a billionaire walks
+
+32
+00:00:47,384 --> 00:00:47,989
+in.
+
+33
+00:00:48,009 --> 00:00:49,725
+The average wealth in that
+
+34
+00:00:49,745 --> 00:00:50,919
+room just exploded.
+
+35
+00:00:50,939 --> 00:00:52,819
+But nobody else got a single
+
+36
+00:00:52,839 --> 00:00:54,087
+dollar richer.
+
+37
+00:00:54,107 --> 00:00:55,652
+That's what averages do.
+
+38
+00:00:55,672 --> 00:00:57,390
+A few very rich families
+
+39
+00:00:57,410 --> 00:00:59,471
+drag the average way up.
+
+40
+00:00:59,491 --> 00:01:01,450
+So we use the median instead.
+
+41
+00:01:01,470 --> 00:01:03,204
+Line every family up from
+
+42
+00:01:03,224 --> 00:01:04,448
+poorest to richest,
+
+43
+00:01:04,468 --> 00:01:06,145
+and pick the one in the
+
+44
+00:01:06,165 --> 00:01:07,393
+exact middle.
+
+45
+00:01:07,413 --> 00:01:09,236
+The median American family
+
+46
+00:01:09,256 --> 00:01:11,138
+is worth about two hundred
+
+47
+00:01:11,158 --> 00:01:13,203
+sixteen thousand dollars.
+
+48
+00:01:13,223 --> 00:01:15,396
+Not one point two four million.
+
+49
+00:01:15,416 --> 00:01:17,752
+Two hundred sixteen thousand.
+
+50
+00:01:17,772 --> 00:01:19,504
+And that number includes
+
+51
+00:01:19,524 --> 00:01:20,349
+home equity,
+
+52
+00:01:20,369 --> 00:01:21,678
+retirement accounts,
+
+53
+00:01:21,698 --> 00:01:22,040
+cars,
+
+54
+00:01:22,060 --> 00:01:22,765
+everything,
+
+55
+00:01:22,785 --> 00:01:24,252
+minus all debt.
+
+56
+00:01:24,272 --> 00:01:25,880
+Now let's break it down
+
+57
+00:01:25,900 --> 00:01:26,403
+by age,
+
+58
+00:01:26,423 --> 00:01:28,146
+because comparing yourself
+
+59
+00:01:28,166 --> 00:01:29,774
+to a sixty-year-old makes
+
+60
+00:01:29,794 --> 00:01:30,813
+no sense.
+
+61
+00:01:30,833 --> 00:01:32,644
+Families under thirty-five:
+
+62
+00:01:32,664 --> 00:01:34,790
+a median net worth of about
+
+63
+00:01:34,810 --> 00:01:37,211
+thirty-three thousand dollars.
+
+64
+00:01:37,231 --> 00:01:39,016
+Thirty-five to forty-four:
+
+65
+00:01:39,036 --> 00:01:41,089
+about one hundred fifty-six
+
+66
+00:01:41,109 --> 00:01:42,157
+thousand.
+
+67
+00:01:42,177 --> 00:01:43,867
+Forty-five to fifty-four:
+
+68
+00:01:43,887 --> 00:01:45,971
+about two hundred fifty-four
+
+69
+00:01:45,991 --> 00:01:47,028
+thousand.
+
+70
+00:01:47,048 --> 00:01:48,763
+Fifty-five to sixty-four:
+
+71
+00:01:48,783 --> 00:01:50,765
+about four hundred twelve
+
+72
+00:01:50,785 --> 00:01:51,833
+thousand.
+
+73
+00:01:51,853 --> 00:01:53,611
+Sixty-five to seventy-four:
+
+74
+00:01:53,631 --> 00:01:55,706
+about four hundred thirty-one
+
+75
+00:01:55,726 --> 00:01:56,741
+thousand.
+
+76
+00:01:56,761 --> 00:01:58,658
+And seventy-five and older:
+
+77
+00:01:58,678 --> 00:02:00,447
+about five hundred five
+
+78
+00:02:00,467 --> 00:02:01,487
+thousand.
+
+79
+00:02:01,507 --> 00:02:02,582
+Notice the shape.
+
+80
+00:02:02,602 --> 00:02:04,169
+Wealth is slow at first,
+
+81
+00:02:04,189 --> 00:02:06,595
+and then it builds for decades.
+
+82
+00:02:06,615 --> 00:02:08,372
+And if you're under thirty-five
+
+83
+00:02:08,392 --> 00:02:09,997
+and it feels harder lately,
+
+84
+00:02:10,017 --> 00:02:11,768
+you're not imagining it.
+
+85
+00:02:11,788 --> 00:02:13,844
+The median net worth for
+
+86
+00:02:13,864 --> 00:02:15,851
+families under thirty-five
+
+87
+00:02:15,871 --> 00:02:18,342
+actually fell about twenty-three
+
+88
+00:02:18,362 --> 00:02:20,349
+percent between 2022 and
+
+89
+00:02:20,369 --> 00:02:21,164
+2025.
+
+90
+00:02:21,184 --> 00:02:22,710
+So if you're young and your
+
+91
+00:02:22,730 --> 00:02:23,741
+number looks small,
+
+92
+00:02:23,761 --> 00:02:25,240
+you're looking at the start
+
+93
+00:02:25,260 --> 00:02:25,989
+of the curve,
+
+94
+00:02:26,009 --> 00:02:27,092
+not the end.
+
+95
+00:02:27,112 --> 00:02:27,385
+Now,
+
+96
+00:02:27,405 --> 00:02:27,737
+cash.
+
+97
+00:02:27,757 --> 00:02:29,556
+How much does the typical
+
+98
+00:02:29,576 --> 00:02:31,199
+family keep in checking
+
+99
+00:02:31,219 --> 00:02:32,421
+and savings?
+
+100
+00:02:32,441 --> 00:02:34,074
+The median is about eight
+
+101
+00:02:34,094 --> 00:02:36,233
+thousand two hundred dollars.
+
+102
+00:02:36,253 --> 00:02:37,238
+Eight thousand.
+
+103
+00:02:37,258 --> 00:02:37,888
+That's it.
+
+104
+00:02:37,908 --> 00:02:39,189
+Not fifty thousand.
+
+105
+00:02:39,209 --> 00:02:41,244
+Not a year of expenses.
+
+106
+00:02:41,264 --> 00:02:42,750
+So if you have even one
+
+107
+00:02:42,770 --> 00:02:44,155
+month of expenses saved,
+
+108
+00:02:44,175 --> 00:02:45,561
+you're doing better than
+
+109
+00:02:45,581 --> 00:02:47,316
+a lot of people think.
+
+110
+00:02:47,336 --> 00:02:47,722
+Next,
+
+111
+00:02:47,742 --> 00:02:48,527
+debt.
+
+112
+00:02:48,547 --> 00:02:50,063
+About forty-five percent
+
+113
+00:02:50,083 --> 00:02:51,939
+of families carry a balance
+
+114
+00:02:51,959 --> 00:02:53,759
+on their credit cards from
+
+115
+00:02:53,779 --> 00:02:55,183
+month to month.
+
+116
+00:02:55,203 --> 00:02:56,381
+For those families,
+
+117
+00:02:56,401 --> 00:02:58,179
+the median balance is about
+
+118
+00:02:58,199 --> 00:02:59,868
+three thousand one hundred
+
+119
+00:02:59,888 --> 00:03:00,759
+dollars.
+
+120
+00:03:00,779 --> 00:03:02,894
+And nearly one in five families
+
+121
+00:03:02,914 --> 00:03:04,523
+said they'd been late on
+
+122
+00:03:04,543 --> 00:03:06,377
+a loan payment in the past
+
+123
+00:03:06,397 --> 00:03:06,714
+year.
+
+124
+00:03:06,734 --> 00:03:08,343
+That's up from about one
+
+125
+00:03:08,363 --> 00:03:09,923
+in eight in 2022.
+
+126
+00:03:09,943 --> 00:03:11,607
+So if you're juggling some
+
+127
+00:03:11,627 --> 00:03:11,933
+debt,
+
+128
+00:03:11,953 --> 00:03:13,672
+you have a lot of company.
+
+129
+00:03:13,692 --> 00:03:14,976
+The goal isn't shame.
+
+130
+00:03:14,996 --> 00:03:16,680
+The goal is a plan.
+
+131
+00:03:16,700 --> 00:03:18,204
+Then retirement.
+
+132
+00:03:18,224 --> 00:03:20,573
+Only about fifty-five percent
+
+133
+00:03:20,593 --> 00:03:23,230
+of families have any retirement
+
+134
+00:03:23,250 --> 00:03:24,522
+account at all.
+
+135
+00:03:24,542 --> 00:03:25,671
+That's a 401(k),
+
+136
+00:03:25,691 --> 00:03:26,317
+an IRA,
+
+137
+00:03:26,337 --> 00:03:27,435
+anything.
+
+138
+00:03:27,455 --> 00:03:28,816
+Which means almost half
+
+139
+00:03:28,836 --> 00:03:30,345
+have nothing set aside in
+
+140
+00:03:30,365 --> 00:03:30,991
+one.
+
+141
+00:03:31,011 --> 00:03:32,916
+Among families that do have
+
+142
+00:03:32,936 --> 00:03:33,208
+one,
+
+143
+00:03:33,228 --> 00:03:35,133
+the median balance is about
+
+144
+00:03:35,153 --> 00:03:36,825
+one hundred six thousand
+
+145
+00:03:36,845 --> 00:03:37,750
+dollars.
+
+146
+00:03:37,770 --> 00:03:39,278
+If you have a retirement
+
+147
+00:03:39,298 --> 00:03:39,736
+account,
+
+148
+00:03:39,756 --> 00:03:40,398
+any amount,
+
+149
+00:03:40,418 --> 00:03:41,773
+you're already ahead of
+
+150
+00:03:41,793 --> 00:03:43,599
+nearly half the country.
+
+151
+00:03:43,619 --> 00:03:45,106
+So why does it feel like
+
+152
+00:03:45,126 --> 00:03:46,964
+everyone is ahead of you?
+
+153
+00:03:46,984 --> 00:03:47,727
+Reason one:
+
+154
+00:03:47,747 --> 00:03:49,253
+you're seeing highlight
+
+155
+00:03:49,273 --> 00:03:49,663
+reels.
+
+156
+00:03:49,683 --> 00:03:51,365
+People post the new car,
+
+157
+00:03:51,385 --> 00:03:52,997
+not the car loan.
+
+158
+00:03:53,017 --> 00:03:53,778
+Reason two:
+
+159
+00:03:53,798 --> 00:03:55,702
+you're comparing to averages,
+
+160
+00:03:55,722 --> 00:03:57,806
+and we just saw how averages
+
+161
+00:03:57,826 --> 00:03:58,506
+lie.
+
+162
+00:03:58,526 --> 00:03:59,298
+Reason three:
+
+163
+00:03:59,318 --> 00:04:00,776
+you're comparing yourself
+
+164
+00:04:00,796 --> 00:04:02,413
+to people who are ten or
+
+165
+00:04:02,433 --> 00:04:04,049
+twenty years further along
+
+166
+00:04:04,069 --> 00:04:05,083
+the curve.
+
+167
+00:04:05,103 --> 00:04:06,511
+Here's the thing nobody
+
+168
+00:04:06,531 --> 00:04:07,969
+online tells you.
+
+169
+00:04:07,989 --> 00:04:09,685
+Your position today matters
+
+170
+00:04:09,705 --> 00:04:11,640
+less than your direction.
+
+171
+00:04:11,660 --> 00:04:13,317
+A twenty-five-year-old with
+
+172
+00:04:13,337 --> 00:04:15,115
+five thousand dollars who
+
+173
+00:04:15,135 --> 00:04:17,272
+saves every month will usually
+
+174
+00:04:17,292 --> 00:04:19,789
+end up far ahead of a forty-year-old
+
+175
+00:04:19,809 --> 00:04:21,466
+with fifty thousand who
+
+176
+00:04:21,486 --> 00:04:22,406
+stopped.
+
+177
+00:04:22,426 --> 00:04:23,826
+So instead of asking,
+
+178
+00:04:23,846 --> 00:04:24,677
+am I behind,
+
+179
+00:04:24,697 --> 00:04:26,838
+ask three better questions.
+
+180
+00:04:26,858 --> 00:04:27,100
+One.
+
+181
+00:04:27,120 --> 00:04:28,933
+Do I spend less than I earn?
+
+182
+00:04:28,953 --> 00:04:30,432
+Even by a little.
+
+183
+00:04:30,452 --> 00:04:30,716
+Two.
+
+184
+00:04:30,736 --> 00:04:32,533
+Do I have a small cushion
+
+185
+00:04:32,553 --> 00:04:33,554
+for emergencies?
+
+186
+00:04:33,574 --> 00:04:35,314
+Even one month is a real
+
+187
+00:04:35,334 --> 00:04:36,111
+start.
+
+188
+00:04:36,131 --> 00:04:36,526
+Three.
+
+189
+00:04:36,546 --> 00:04:38,246
+Am I investing something
+
+190
+00:04:38,266 --> 00:04:39,076
+every month?
+
+191
+00:04:39,096 --> 00:04:41,254
+Even fifty dollars counts.
+
+192
+00:04:41,274 --> 00:04:43,024
+If you can say yes to those
+
+193
+00:04:43,044 --> 00:04:43,378
+three,
+
+194
+00:04:43,398 --> 00:04:44,845
+you're on the right path,
+
+195
+00:04:44,865 --> 00:04:46,261
+whatever your number is
+
+196
+00:04:46,281 --> 00:04:47,015
+today.
+
+197
+00:04:47,035 --> 00:04:49,032
+And here's the only comparison
+
+198
+00:04:49,052 --> 00:04:50,473
+that actually matters:
+
+199
+00:04:50,493 --> 00:04:51,510
+you versus you,
+
+200
+00:04:51,530 --> 00:04:52,716
+a year ago.
+
+201
+00:04:52,736 --> 00:04:54,372
+Write down your net worth
+
+202
+00:04:54,392 --> 00:04:54,746
+today.
+
+203
+00:04:54,766 --> 00:04:56,348
+Check it again in twelve
+
+204
+00:04:56,368 --> 00:04:56,775
+months.
+
+205
+00:04:56,795 --> 00:04:57,790
+Is it going up?
+
+206
+00:04:57,810 --> 00:04:59,525
+That's the whole game.
+
+207
+00:04:59,545 --> 00:05:00,908
+Let's recap.
+
+208
+00:05:00,928 --> 00:05:01,837
+Averages lie.
+
+209
+00:05:01,857 --> 00:05:03,819
+The median family is worth
+
+210
+00:05:03,839 --> 00:05:05,678
+about two hundred sixteen
+
+211
+00:05:05,698 --> 00:05:06,297
+thousand,
+
+212
+00:05:06,317 --> 00:05:07,750
+not a million.
+
+213
+00:05:07,770 --> 00:05:08,941
+Under thirty-five,
+
+214
+00:05:08,961 --> 00:05:11,259
+the median is about thirty-three
+
+215
+00:05:11,279 --> 00:05:11,885
+thousand.
+
+216
+00:05:11,905 --> 00:05:14,015
+The typical family has about
+
+217
+00:05:14,035 --> 00:05:16,107
+eight thousand in cash.
+
+218
+00:05:16,127 --> 00:05:17,808
+Almost half carry credit
+
+219
+00:05:17,828 --> 00:05:18,512
+card debt,
+
+220
+00:05:18,532 --> 00:05:20,213
+and almost half have no
+
+221
+00:05:20,233 --> 00:05:21,844
+retirement account.
+
+222
+00:05:21,864 --> 00:05:23,502
+You're probably not behind.
+
+223
+00:05:23,522 --> 00:05:24,883
+And even if you are,
+
+224
+00:05:24,903 --> 00:05:26,831
+direction beats position.
+
+225
+00:05:26,851 --> 00:05:28,748
+If you want the exact order
+
+226
+00:05:28,768 --> 00:05:30,552
+of steps to start building
+
+227
+00:05:30,572 --> 00:05:31,229
+from zero,
+
+228
+00:05:31,249 --> 00:05:33,033
+watch my video on starting
+
+229
+00:05:33,053 --> 00:05:34,956
+from zero dollars next.
+
+230
+00:05:34,976 --> 00:05:37,232
+These numbers are from the
+
+231
+00:05:37,252 --> 00:05:39,580
+Federal Reserve's 2025 Survey
+
+232
+00:05:39,600 --> 00:05:41,287
+of Consumer Finances.
+
+233
+00:05:41,307 --> 00:05:42,781
+This is education,
+
+234
+00:05:42,801 --> 00:05:44,888
+not financial advice.
+
+235
+00:05:44,908 --> 00:05:46,215
+I'll see you in the next
+
+236
+00:05:46,235 --> 00:05:47,239
+one.

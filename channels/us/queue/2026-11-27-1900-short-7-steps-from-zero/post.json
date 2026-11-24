@@ -1,0 +1,27 @@
+{
+  "day": 1,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-27T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "Starting From $0? Do These 7 Money Steps in This Order #Shorts",
+    "description": "Starting from $0? These 7 money steps work best in this exact order:\n1. Find your number\n2. Starter emergency fund\n3. Kill credit card debt (around 21% interest)\n4. Grab your full 401(k) match\n5. Open a Roth IRA\n6. Buy a low-cost index fund\n7. Automate it and leave it alone\n\nFull step-by-step guide on the channel: \"If I Had to Start Investing From $0 in 2026\".\n\n📌 Educational content only, not financial advice.\n\n#investing #personalfinance #moneytips",
+    "tags": [
+      "how to start investing",
+      "investing for beginners",
+      "personal finance",
+      "money tips",
+      "roth ira",
+      "401k",
+      "index funds",
+      "emergency fund",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "start-here"
+  }
+}
