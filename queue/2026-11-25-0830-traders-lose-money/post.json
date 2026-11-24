@@ -42,7 +42,12 @@
       "id": "MySh2kVoCZM",
       "url": "https://youtube.com/shorts/MySh2kVoCZM",
       "privacy": "public",
-      "posted_at": "2026-11-24T21:46:20.337908+05:30"
+      "posted_at": "2026-11-24T21:46:20.337908+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "trading-psychology"
+      }
     }
   }
 }
