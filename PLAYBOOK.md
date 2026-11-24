@@ -76,7 +76,7 @@ Work in `studio/work/<slug>/`, which is git-ignored.
    - Disclaimer US: "📌 Educational content only, not financial advice."
 9. **Queue it:**
    ```bash
-   python studio/queue.py studio/work/<slug> --channel us --slug <slug> --format long \
+   python studio/enqueue.py studio/work/<slug> --channel us --slug <slug> --format long \
      --publish 2026-11-29T15:00:00-05:00 --title "..." --description-file studio/work/<slug>/description.txt \
      --tags "a,b,c" --playlist start-here --lead 0.4 --day 3
    ```

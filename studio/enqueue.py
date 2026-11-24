@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Put a finished video into a channel's posting queue.
-usage: python studio/queue.py <video-dir> --channel us|in --slug my-video --publish "2026-11-29T15:00:00-05:00" \
+usage: python studio/enqueue.py <video-dir> --channel us|in --slug my-video --publish "2026-11-29T15:00:00-05:00" \
          --format short|long --title "..." --description-file desc.txt --tags "a,b,c" --playlist start-here [--lead 0.3] [--caption-file cap.txt]
 Copies final.mp4 (as video.mp4), words.json and thumbnail.png (if present), writes post.json and captions.srt."""
 import argparse, datetime as dt, json, pathlib, shutil, subprocess, sys
