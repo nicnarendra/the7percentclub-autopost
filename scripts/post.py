@@ -42,8 +42,34 @@ def yt_token():
     return r.json()["access_token"]
 
 
+EXPECTED_HANDLE = os.environ.get("YT_EXPECTED_HANDLE", "@the.7percentclub").lower()
+
+
+def yt_channel(tok):
+    """Return the handle of the channel this key uploads to (needs youtube.readonly)."""
+    r = requests.get("https://www.googleapis.com/youtube/v3/channels",
+                     params={"part": "snippet", "mine": "true"},
+                     headers={"Authorization": f"Bearer {tok}"}, timeout=30)
+    if r.status_code != 200:
+        raise RuntimeError("Cannot confirm which YouTube channel this key belongs to "
+                           f"(the key needs the youtube.readonly scope too): {r.status_code} {r.text[:300]}")
+    items = r.json().get("items", [])
+    if len(items) != 1:
+        raise RuntimeError(f"Key belongs to {len(items)} channels; expected exactly one")
+    sn = items[0]["snippet"]
+    return (sn.get("customUrl") or "").lower(), sn.get("title")
+
+
+def guard_channel(tok):
+    handle, title = yt_channel(tok)
+    if handle != EXPECTED_HANDLE:
+        raise RuntimeError(f"WRONG CHANNEL: key uploads to '{title}' ({handle}), expected {EXPECTED_HANDLE}. Nothing uploaded.")
+    return title
+
+
 def post_youtube(item, video):
     tok = yt_token()
+    guard_channel(tok)
     yt = item["youtube"]
     meta = {
         "snippet": {"title": yt["title"][:100], "description": yt["description"],
@@ -130,7 +156,7 @@ PLATFORMS = {"youtube": post_youtube, "facebook": post_facebook, "instagram": po
 def check():
     ok = True
     try:
-        yt_token(); log("YouTube: key works")
+        title = guard_channel(yt_token()); log(f"YouTube: key works, uploads to '{title}' ({EXPECTED_HANDLE})")
     except Exception as e:
         ok = False; log("YouTube: FAILED -", e)
     tok = os.environ.get("META_PAGE_TOKEN", "")
