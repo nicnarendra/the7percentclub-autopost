@@ -23,7 +23,7 @@ CHANNELS = {
            "handle": "@the.7percentclub"},
     "us": {"name": "The Boring Rich Club", "queue": "channels/us/queue", "config": "channels/us/channel.json",
            "playlists": "channels/us/playlists.json", "token_env": "YT_REFRESH_TOKEN_US",
-           "handle": "@boringrichclub"},
+           "handle": "@boringrichclub", "channel_id": "UCsWQ7_HX6iB1s2cHB2RD-sA"},
 }
 CH_KEY = os.environ.get("CHANNEL", "in").strip().lower() or "in"
 CH = CHANNELS[CH_KEY]
@@ -69,6 +69,8 @@ def yt_channel(tok):
     if len(items) != 1:
         raise RuntimeError(f"Key belongs to {len(items)} channels; expected exactly one")
     sn = items[0]["snippet"]
+    if CH.get("channel_id") and items[0]["id"] != CH["channel_id"]:
+        return f"id:{items[0]['id']}", sn.get("title")
     return (sn.get("customUrl") or "").lower(), sn.get("title")
 
 
