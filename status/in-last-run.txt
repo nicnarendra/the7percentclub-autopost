@@ -1,0 +1,4 @@
+mode=check channel=in at 2026-11-24T21:20:55Z
+YouTube: key works, uploads to 'The 7% Club' (@the.7percentclub)
+Facebook Page: key works (The 7% Club)
+Instagram: key works (the7.percentclub)
