@@ -5,11 +5,21 @@ on:
     # 08:30 IST and 19:30 IST (GitHub cron is in UTC and can start a few minutes late)
     - cron: "0 3 * * *"
     - cron: "0 14 * * *"
+    # US channel: 3 PM ET long-form (20:00 UTC) and 7 PM ET Short (00:00 UTC)
+    - cron: "0 20 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "post | check | dry-run | seo | scopes"
-        default: "post"
+        description: "What to run"
+        type: choice
+        options: [post, check, dry-run, seo, scopes]
+        default: post
+      channel:
+        description: "Which channel"
+        type: choice
+        options: [both, in, us]
+        default: both
 
 permissions:
   contents: write
@@ -28,27 +38,31 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
-      - name: Post
+      - name: Post - The 7% Club (India)
+        if: ${{ github.event.inputs.channel != 'us' }}
+        continue-on-error: true
         env:
+          CHANNEL: in
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: |
-          MODE="${{ github.event.inputs.mode || 'post' }}"
-          case "$MODE" in
-            check) python scripts/post.py --check ;;
-            dry-run) python scripts/post.py --dry-run ;;
-            scopes) python scripts/seo.py --scopes ;;
-            seo) python scripts/seo.py ;;
-            *) python scripts/post.py; S=$?; python scripts/seo.py --videos || true; exit $S ;;
-          esac
+        run: bash scripts/run.sh "${{ github.event.inputs.mode || 'post' }}"
+      - name: Post - The Boring Rich Club (US)
+        if: ${{ github.event.inputs.channel != 'in' }}
+        continue-on-error: true
+        env:
+          CHANNEL: us
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_US: ${{ secrets.YT_REFRESH_TOKEN_US }}
+        run: bash scripts/run.sh "${{ github.event.inputs.mode || 'post' }}"
       - name: Save results
         if: always()
         run: |
           git config user.name "7club-autopost"
           git config user.email "actions@users.noreply.github.com"
-          git add queue config
+          git add queue config channels status
           git diff --cached --quiet || (git commit -m "Record posting results" && git push)

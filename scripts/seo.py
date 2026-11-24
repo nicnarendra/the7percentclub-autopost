@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""YouTube SEO upkeep for The 7% Club.
+"""YouTube SEO upkeep (CHANNEL=in: The 7% Club, CHANNEL=us: The Boring Rich Club).
 
 - Applies the channel description, keywords, country and language from config/channel.json
 - Creates the playlists in config/channel.json if they don't exist (ids saved to config/playlists.json)
@@ -12,11 +12,11 @@ usage: seo.py [--scopes] [--channel] [--videos]   (no flags = channel + videos)
 """
 import json, os, sys, pathlib, requests
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from post import yt_token, guard_channel, log  # noqa: E402
+from post import yt_token, guard_channel, log, CH, QUEUE  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CFG = json.loads((ROOT / "config/channel.json").read_text())
-PL_FILE = ROOT / "config/playlists.json"
+CFG = json.loads((ROOT / CH["config"]).read_text())
+PL_FILE = ROOT / CH["playlists"]
 API = "https://www.googleapis.com/youtube/v3"
 
 
@@ -43,6 +43,18 @@ def apply_channel(tok):
     call("PUT", "channels", tok, params={"part": "brandingSettings"},
          json={"id": ch["id"], "brandingSettings": {"channel": b["channel"]}})
     log("Channel description, keywords, country and language updated")
+    banner = CFG.get("banner")
+    if banner and not (ROOT / CH["playlists"]).with_name("banner.done").exists():
+        img = (ROOT / banner).read_bytes()
+        r = requests.post("https://www.googleapis.com/upload/youtube/v3/channelBanners/insert",
+                          headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/png"}, data=img, timeout=120)
+        if r.status_code >= 300:
+            log(f"Banner upload FAILED: {r.status_code} {r.text[:300]}"); return
+        b.setdefault("image", {})["bannerExternalUrl"] = r.json()["url"]
+        call("PUT", "channels", tok, params={"part": "brandingSettings"},
+             json={"id": ch["id"], "brandingSettings": {"channel": b["channel"], "image": b["image"]}})
+        (ROOT / CH["playlists"]).with_name("banner.done").write_text(r.json()["url"] + "\n")
+        log("Channel banner uploaded")
 
 
 def ensure_playlists(tok):
@@ -70,7 +82,7 @@ def ensure_playlists(tok):
 
 
 def fix_videos(tok, playlists):
-    for d in sorted(p for p in (ROOT / "queue").iterdir() if p.is_dir()):
+    for d in sorted(p for p in QUEUE.iterdir() if p.is_dir()) if QUEUE.exists() else []:
         pj = d / "post.json"
         if not pj.exists(): continue
         item = json.loads(pj.read_text())

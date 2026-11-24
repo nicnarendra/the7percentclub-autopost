@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The 7% Club auto-poster.
+"""Auto-poster for The 7% Club (CHANNEL=in) and The Boring Rich Club (CHANNEL=us).
 
 Posts every queue item whose publish_at has passed to YouTube (Shorts),
 Facebook (Reel) and Instagram (Reel). Each platform's result is written back
@@ -15,7 +15,19 @@ import datetime as dt, json, os, sys, time, pathlib
 import requests
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-QUEUE = ROOT / "queue"
+
+# One profile per YouTube channel. Pick with the CHANNEL env var (default: in).
+CHANNELS = {
+    "in": {"name": "The 7% Club", "queue": "queue", "config": "config/channel.json",
+           "playlists": "config/playlists.json", "token_env": "YT_REFRESH_TOKEN",
+           "handle": "@the.7percentclub"},
+    "us": {"name": "The Boring Rich Club", "queue": "channels/us/queue", "config": "channels/us/channel.json",
+           "playlists": "channels/us/playlists.json", "token_env": "YT_REFRESH_TOKEN_US",
+           "handle": "@boringrichclub"},
+}
+CH_KEY = os.environ.get("CHANNEL", "in").strip().lower() or "in"
+CH = CHANNELS[CH_KEY]
+QUEUE = ROOT / CH["queue"]
 GRAPH = "https://graph.facebook.com/" + os.environ.get("META_API_VERSION", "v22.0")
 RUPLOAD = "https://rupload.facebook.com"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
@@ -36,13 +48,13 @@ def log(*a):
 def yt_token():
     r = requests.post("https://oauth2.googleapis.com/token", data={
         "client_id": env("YT_CLIENT_ID"), "client_secret": env("YT_CLIENT_SECRET"),
-        "refresh_token": env("YT_REFRESH_TOKEN"), "grant_type": "refresh_token"}, timeout=30)
+        "refresh_token": env(CH["token_env"]), "grant_type": "refresh_token"}, timeout=30)
     if r.status_code != 200:
         raise RuntimeError(f"YouTube token refresh failed: {r.status_code} {r.text}")
     return r.json()["access_token"]
 
 
-EXPECTED_HANDLE = os.environ.get("YT_EXPECTED_HANDLE", "@the.7percentclub").lower()
+EXPECTED_HANDLE = (os.environ.get("YT_EXPECTED_HANDLE") or CH["handle"]).lower()
 
 
 def yt_channel(tok):
@@ -93,7 +105,23 @@ def post_youtube(item, video):
     body = r2.json()
     vid = body["id"]
     privacy = body.get("status", {}).get("privacyStatus")
-    return {"id": vid, "url": f"https://youtube.com/shorts/{vid}", "privacy": privacy}
+    short = item.get("format", "short") == "short"
+    out = {"id": vid, "url": f"https://youtube.com/{'shorts/' + vid if short else 'watch?v=' + vid}", "privacy": privacy}
+    thumb = video.parent / "thumbnail.png"
+    if thumb.exists():
+        out["thumbnail"] = set_thumbnail(tok, vid, thumb)
+    return out
+
+
+def set_thumbnail(tok, vid, path):
+    """Custom thumbnail. Needs a phone-verified channel; a failure here never fails the upload."""
+    r = requests.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
+                      headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/png"},
+                      data=path.read_bytes(), timeout=120)
+    if r.status_code >= 300:
+        log(f"   thumbnail not set: {r.status_code} {r.text[:200]}")
+        return "failed"
+    return "set"
 
 
 # ---------------- Facebook Reel ----------------
@@ -159,6 +187,8 @@ def check():
         title = guard_channel(yt_token()); log(f"YouTube: key works, uploads to '{title}' ({EXPECTED_HANDLE})")
     except Exception as e:
         ok = False; log("YouTube: FAILED -", e)
+    if CH_KEY != "in":
+        return ok
     tok = os.environ.get("META_PAGE_TOKEN", "")
     for name, path, fields in (("Facebook Page", os.environ.get("FB_PAGE_ID", ""), "name"),
                                ("Instagram", os.environ.get("IG_USER_ID", ""), "username")):
@@ -176,6 +206,9 @@ def main():
     dry = "--dry-run" in sys.argv
     now = dt.datetime.now(IST)
     failures = 0
+    log(f"Channel: {CH['name']} ({CH_KEY})")
+    if not QUEUE.exists():
+        log("Queue folder empty"); return
     for d in sorted(p for p in QUEUE.iterdir() if p.is_dir()):
         pj = d / "post.json"
         if not pj.exists():
