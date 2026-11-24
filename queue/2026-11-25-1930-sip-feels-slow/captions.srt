@@ -1,127 +1,135 @@
 1
-00:00:00,300 --> 00:00:01,972
-Your SIP isn't broken.
+00:00:00,300 --> 00:00:02,311
+Five thousand rupees a month
 
 2
-00:00:01,992 --> 00:00:03,510
-It's just early.
+00:00:02,331 --> 00:00:03,864
+can become fifty lakh.
 
 3
-00:00:03,530 --> 00:00:05,142
-Say you invest five thousand
+00:00:03,884 --> 00:00:05,776
+So why does your SIP feel
 
 4
-00:00:05,162 --> 00:00:06,325
-rupees a month.
+00:00:05,796 --> 00:00:06,633
+useless?
 
 5
-00:00:06,345 --> 00:00:07,369
-After five years,
+00:00:06,653 --> 00:00:08,265
+Say you invest five thousand
 
 6
-00:00:07,389 --> 00:00:08,882
-you've put in three lakh.
+00:00:08,285 --> 00:00:09,448
+rupees a month.
 
 7
-00:00:08,902 --> 00:00:10,500
-It's worth about four lakh.
+00:00:09,468 --> 00:00:10,492
+After five years,
 
 8
-00:00:10,520 --> 00:00:11,499
-Feels slow.
+00:00:10,512 --> 00:00:12,005
+you've put in three lakh.
 
 9
-00:00:11,519 --> 00:00:12,495
-After ten years:
+00:00:12,025 --> 00:00:13,623
+It's worth about four lakh.
 
 10
-00:00:12,515 --> 00:00:13,282
-six lakh in.
+00:00:13,643 --> 00:00:14,621
+Feels slow.
 
 11
-00:00:13,302 --> 00:00:14,804
-About eleven and a half
+00:00:14,641 --> 00:00:15,618
+After ten years:
 
 12
-00:00:14,824 --> 00:00:15,439
-lakh.
+00:00:15,638 --> 00:00:16,405
+six lakh in.
 
 13
-00:00:15,459 --> 00:00:16,638
-After twenty years:
+00:00:16,425 --> 00:00:17,927
+About eleven and a half
 
 14
-00:00:16,658 --> 00:00:17,620
-twelve lakh in.
+00:00:17,947 --> 00:00:18,562
+lakh.
 
 15
-00:00:17,640 --> 00:00:19,030
-About fifty lakh.
+00:00:18,582 --> 00:00:19,761
+After twenty years:
 
 16
-00:00:19,050 --> 00:00:19,730
-Same SIP.
+00:00:19,781 --> 00:00:20,743
+twelve lakh in.
 
 17
-00:00:19,750 --> 00:00:20,621
-Same amount.
+00:00:20,763 --> 00:00:22,153
+About fifty lakh.
 
 18
-00:00:20,641 --> 00:00:22,530
-The growth just shows up
+00:00:22,173 --> 00:00:22,853
+Same SIP.
 
 19
-00:00:22,550 --> 00:00:23,232
-late.
+00:00:22,873 --> 00:00:23,744
+Same amount.
 
 20
-00:00:23,252 --> 00:00:24,329
-That's compounding.
+00:00:23,764 --> 00:00:25,653
+The growth just shows up
 
 21
-00:00:24,349 --> 00:00:26,029
-Your returns start earning
+00:00:25,673 --> 00:00:26,354
+late.
 
 22
-00:00:26,049 --> 00:00:27,501
-their own returns.
+00:00:26,374 --> 00:00:27,451
+That's compounding.
 
 23
-00:00:27,521 --> 00:00:28,940
-And most people quit in
+00:00:27,471 --> 00:00:29,152
+Your returns start earning
 
 24
-00:00:28,960 --> 00:00:29,586
-year three,
+00:00:29,172 --> 00:00:30,624
+their own returns.
 
 25
-00:00:29,606 --> 00:00:31,594
-right before the curve bends.
+00:00:30,644 --> 00:00:32,063
+And most people quit in
 
 26
-00:00:31,614 --> 00:00:33,366
-This assumes twelve percent
+00:00:32,083 --> 00:00:32,709
+year three,
 
 27
-00:00:33,386 --> 00:00:33,865
-a year.
+00:00:32,729 --> 00:00:34,716
+right before the curve bends.
 
 28
-00:00:33,885 --> 00:00:35,748
-Real returns go up and down,
+00:00:34,736 --> 00:00:36,489
+This assumes twelve percent
 
 29
-00:00:35,768 --> 00:00:37,730
-and nothing is guaranteed.
+00:00:36,509 --> 00:00:36,988
+a year.
 
 30
-00:00:37,750 --> 00:00:39,370
-So don't judge your SIP
+00:00:37,008 --> 00:00:38,871
+Real returns go up and down,
 
 31
-00:00:39,390 --> 00:00:40,248
-by year one.
+00:00:38,891 --> 00:00:40,853
+and nothing is guaranteed.
 
 32
-00:00:40,268 --> 00:00:42,783
+00:00:40,873 --> 00:00:42,493
+So don't judge your SIP
+
+33
+00:00:42,513 --> 00:00:43,371
+by year one.
+
+34
+00:00:43,391 --> 00:00:45,906
 Judge it by year fifteen.

@@ -1,557 +1,602 @@
 [
 {
-"text": "Your",
+"text": "Five",
 "start": 0.0,
-"end": 0.374
-},
-{
-"text": "SIP",
-"start": 0.406,
-"end": 0.717
-},
-{
-"text": "isn't",
-"start": 0.745,
-"end": 1.118
-},
-{
-"text": "broken.",
-"start": 1.151,
-"end": 1.649
-},
-{
-"text": "It's",
-"start": 1.692,
-"end": 2.004
-},
-{
-"text": "just",
-"start": 2.031,
-"end": 2.404
-},
-{
-"text": "early.",
-"start": 2.437,
-"end": 2.873
-},
-{
-"text": "Say",
-"start": 3.23,
-"end": 3.451
-},
-{
-"text": "you",
-"start": 3.47,
-"end": 3.691
-},
-{
-"text": "invest",
-"start": 3.71,
-"end": 4.063
-},
-{
-"text": "five",
-"start": 4.094,
-"end": 4.359
+"end": 0.33
 },
 {
 "text": "thousand",
-"start": 4.382,
-"end": 4.823
+"start": 0.358,
+"end": 0.908
 },
 {
 "text": "rupees",
-"start": 4.862,
-"end": 5.215
+"start": 0.956,
+"end": 1.395
 },
 {
 "text": "a",
-"start": 5.245,
-"end": 5.378
+"start": 1.434,
+"end": 1.599
 },
 {
-"text": "month.",
-"start": 5.389,
-"end": 5.698
+"text": "month",
+"start": 1.613,
+"end": 1.998
 },
 {
-"text": "After",
-"start": 6.045,
-"end": 6.381
+"text": "can",
+"start": 2.031,
+"end": 2.306
 },
 {
-"text": "five",
-"start": 6.411,
-"end": 6.699
-},
-{
-"text": "years,",
-"start": 6.724,
-"end": 7.06
-},
-{
-"text": "you've",
-"start": 7.089,
-"end": 7.425
-},
-{
-"text": "put",
-"start": 7.454,
-"end": 7.694
-},
-{
-"text": "in",
-"start": 7.715,
-"end": 7.907
-},
-{
-"text": "three",
-"start": 7.924,
-"end": 8.26
-},
-{
-"text": "lakh.",
-"start": 8.289,
-"end": 8.577
-},
-{
-"text": "It's",
-"start": 8.602,
-"end": 8.842
-},
-{
-"text": "worth",
-"start": 8.863,
-"end": 9.199
-},
-{
-"text": "about",
-"start": 9.229,
-"end": 9.565
-},
-{
-"text": "four",
-"start": 9.594,
-"end": 9.882
-},
-{
-"text": "lakh.",
-"start": 9.907,
-"end": 10.195
-},
-{
-"text": "Feels",
-"start": 10.22,
-"end": 10.556
-},
-{
-"text": "slow.",
-"start": 10.586,
-"end": 10.874
-},
-{
-"text": "After",
-"start": 11.219,
-"end": 11.557
-},
-{
-"text": "ten",
-"start": 11.586,
-"end": 11.827
-},
-{
-"text": "years:",
-"start": 11.848,
-"end": 12.186
-},
-{
-"text": "six",
-"start": 12.215,
-"end": 12.457
-},
-{
-"text": "lakh",
-"start": 12.478,
-"end": 12.767
-},
-{
-"text": "in.",
-"start": 12.793,
-"end": 12.986
-},
-{
-"text": "About",
-"start": 13.002,
-"end": 13.34
-},
-{
-"text": "eleven",
-"start": 13.37,
-"end": 13.756
-},
-{
-"text": "and",
-"start": 13.789,
-"end": 14.031
-},
-{
-"text": "a",
-"start": 14.052,
-"end": 14.197
-},
-{
-"text": "half",
-"start": 14.209,
-"end": 14.499
-},
-{
-"text": "lakh.",
-"start": 14.524,
-"end": 14.814
-},
-{
-"text": "After",
-"start": 15.159,
-"end": 15.51
-},
-{
-"text": "twenty",
-"start": 15.54,
-"end": 15.942
-},
-{
-"text": "years:",
-"start": 15.977,
-"end": 16.328
-},
-{
-"text": "twelve",
-"start": 16.358,
-"end": 16.76
-},
-{
-"text": "lakh",
-"start": 16.795,
-"end": 17.096
-},
-{
-"text": "in.",
-"start": 17.122,
-"end": 17.322
-},
-{
-"text": "About",
-"start": 17.34,
-"end": 17.691
+"text": "become",
+"start": 2.33,
+"end": 2.769
 },
 {
 "text": "fifty",
-"start": 17.722,
-"end": 18.073
+"start": 2.808,
+"end": 3.192
 },
 {
 "text": "lakh.",
-"start": 18.103,
-"end": 18.404
-},
-{
-"text": "Same",
-"start": 18.75,
-"end": 19.102
-},
-{
-"text": "SIP.",
-"start": 19.132,
-"end": 19.425
-},
-{
-"text": "Same",
-"start": 19.45,
-"end": 19.802
-},
-{
-"text": "amount.",
-"start": 19.832,
-"end": 20.3
-},
-{
-"text": "The",
-"start": 20.341,
-"end": 20.634
-},
-{
-"text": "growth",
-"start": 20.659,
-"end": 21.128
-},
-{
-"text": "just",
-"start": 21.168,
-"end": 21.519
-},
-{
-"text": "shows",
-"start": 21.55,
-"end": 21.96
-},
-{
-"text": "up",
-"start": 21.995,
-"end": 22.23
-},
-{
-"text": "late.",
-"start": 22.25,
-"end": 22.601
-},
-{
-"text": "That's",
-"start": 22.952,
-"end": 23.305
-},
-{
-"text": "compounding.",
-"start": 23.336,
-"end": 23.992
-},
-{
-"text": "Your",
-"start": 24.049,
-"end": 24.351
-},
-{
-"text": "returns",
-"start": 24.378,
-"end": 24.832
-},
-{
-"text": "start",
-"start": 24.871,
-"end": 25.225
-},
-{
-"text": "earning",
-"start": 25.255,
-"end": 25.71
-},
-{
-"text": "their",
-"start": 25.749,
-"end": 26.102
-},
-{
-"text": "own",
-"start": 26.133,
-"end": 26.385
-},
-{
-"text": "returns.",
-"start": 26.407,
-"end": 26.861
-},
-{
-"text": "And",
-"start": 27.221,
-"end": 27.449
-},
-{
-"text": "most",
-"start": 27.469,
-"end": 27.743
-},
-{
-"text": "people",
-"start": 27.767,
-"end": 28.132
-},
-{
-"text": "quit",
-"start": 28.164,
-"end": 28.438
-},
-{
-"text": "in",
-"start": 28.462,
-"end": 28.645
-},
-{
-"text": "year",
-"start": 28.66,
-"end": 28.934
-},
-{
-"text": "three,",
-"start": 28.958,
-"end": 29.278
-},
-{
-"text": "right",
-"start": 29.306,
-"end": 29.625
-},
-{
-"text": "before",
-"start": 29.653,
-"end": 30.019
-},
-{
-"text": "the",
-"start": 30.05,
-"end": 30.279
-},
-{
-"text": "curve",
-"start": 30.299,
-"end": 30.618
-},
-{
-"text": "bends.",
-"start": 30.646,
-"end": 30.966
-},
-{
-"text": "This",
-"start": 31.314,
-"end": 31.619
-},
-{
-"text": "assumes",
-"start": 31.646,
-"end": 32.105
-},
-{
-"text": "twelve",
-"start": 32.145,
-"end": 32.552
-},
-{
-"text": "percent",
-"start": 32.588,
-"end": 33.046
-},
-{
-"text": "a",
-"start": 33.086,
-"end": 33.239
-},
-{
-"text": "year.",
-"start": 33.252,
-"end": 33.558
-},
-{
-"text": "Real",
-"start": 33.585,
-"end": 33.891
-},
-{
-"text": "returns",
-"start": 33.917,
-"end": 34.376
-},
-{
-"text": "go",
-"start": 34.416,
-"end": 34.62
-},
-{
-"text": "up",
-"start": 34.637,
-"end": 34.841
-},
-{
-"text": "and",
-"start": 34.859,
-"end": 35.114
-},
-{
-"text": "down,",
-"start": 35.136,
-"end": 35.442
-},
-{
-"text": "and",
-"start": 35.468,
-"end": 35.723
-},
-{
-"text": "nothing",
-"start": 35.745,
-"end": 36.204
-},
-{
-"text": "is",
-"start": 36.244,
-"end": 36.448
-},
-{
-"text": "guaranteed.",
-"start": 36.466,
-"end": 37.077
+"start": 3.226,
+"end": 3.555
 },
 {
 "text": "So",
-"start": 37.45,
-"end": 37.666
+"start": 3.584,
+"end": 3.804
 },
 {
-"text": "don't",
-"start": 37.685,
-"end": 38.008
+"text": "why",
+"start": 3.823,
+"end": 4.098
 },
 {
-"text": "judge",
-"start": 38.036,
-"end": 38.413
+"text": "does",
+"start": 4.122,
+"end": 4.452
 },
 {
 "text": "your",
-"start": 38.446,
-"end": 38.769
+"start": 4.48,
+"end": 4.81
 },
 {
 "text": "SIP",
-"start": 38.797,
-"end": 39.066
+"start": 4.839,
+"end": 5.113
 },
 {
-"text": "by",
-"start": 39.09,
-"end": 39.305
+"text": "feel",
+"start": 5.137,
+"end": 5.467
+},
+{
+"text": "useless?",
+"start": 5.496,
+"end": 5.99
+},
+{
+"text": "Say",
+"start": 6.353,
+"end": 6.574
+},
+{
+"text": "you",
+"start": 6.593,
+"end": 6.814
+},
+{
+"text": "invest",
+"start": 6.833,
+"end": 7.186
+},
+{
+"text": "five",
+"start": 7.217,
+"end": 7.482
+},
+{
+"text": "thousand",
+"start": 7.505,
+"end": 7.946
+},
+{
+"text": "rupees",
+"start": 7.985,
+"end": 8.338
+},
+{
+"text": "a",
+"start": 8.368,
+"end": 8.501
+},
+{
+"text": "month.",
+"start": 8.512,
+"end": 8.821
+},
+{
+"text": "After",
+"start": 9.168,
+"end": 9.504
+},
+{
+"text": "five",
+"start": 9.533,
+"end": 9.821
+},
+{
+"text": "years,",
+"start": 9.847,
+"end": 10.183
+},
+{
+"text": "you've",
+"start": 10.212,
+"end": 10.548
+},
+{
+"text": "put",
+"start": 10.577,
+"end": 10.817
+},
+{
+"text": "in",
+"start": 10.838,
+"end": 11.03
+},
+{
+"text": "three",
+"start": 11.047,
+"end": 11.383
+},
+{
+"text": "lakh.",
+"start": 11.412,
+"end": 11.7
+},
+{
+"text": "It's",
+"start": 11.725,
+"end": 11.965
+},
+{
+"text": "worth",
+"start": 11.986,
+"end": 12.322
+},
+{
+"text": "about",
+"start": 12.351,
+"end": 12.688
+},
+{
+"text": "four",
+"start": 12.717,
+"end": 13.005
+},
+{
+"text": "lakh.",
+"start": 13.03,
+"end": 13.318
+},
+{
+"text": "Feels",
+"start": 13.343,
+"end": 13.679
+},
+{
+"text": "slow.",
+"start": 13.708,
+"end": 13.996
+},
+{
+"text": "After",
+"start": 14.341,
+"end": 14.679
+},
+{
+"text": "ten",
+"start": 14.709,
+"end": 14.95
+},
+{
+"text": "years:",
+"start": 14.971,
+"end": 15.309
+},
+{
+"text": "six",
+"start": 15.338,
+"end": 15.58
+},
+{
+"text": "lakh",
+"start": 15.601,
+"end": 15.89
+},
+{
+"text": "in.",
+"start": 15.915,
+"end": 16.109
+},
+{
+"text": "About",
+"start": 16.125,
+"end": 16.463
+},
+{
+"text": "eleven",
+"start": 16.493,
+"end": 16.879
+},
+{
+"text": "and",
+"start": 16.912,
+"end": 17.154
+},
+{
+"text": "a",
+"start": 17.175,
+"end": 17.319
+},
+{
+"text": "half",
+"start": 17.332,
+"end": 17.622
+},
+{
+"text": "lakh.",
+"start": 17.647,
+"end": 17.936
+},
+{
+"text": "After",
+"start": 18.282,
+"end": 18.633
+},
+{
+"text": "twenty",
+"start": 18.663,
+"end": 19.065
+},
+{
+"text": "years:",
+"start": 19.1,
+"end": 19.451
+},
+{
+"text": "twelve",
+"start": 19.481,
+"end": 19.883
+},
+{
+"text": "lakh",
+"start": 19.917,
+"end": 20.218
+},
+{
+"text": "in.",
+"start": 20.245,
+"end": 20.445
+},
+{
+"text": "About",
+"start": 20.463,
+"end": 20.814
+},
+{
+"text": "fifty",
+"start": 20.844,
+"end": 21.196
+},
+{
+"text": "lakh.",
+"start": 21.226,
+"end": 21.527
+},
+{
+"text": "Same",
+"start": 21.873,
+"end": 22.225
+},
+{
+"text": "SIP.",
+"start": 22.255,
+"end": 22.548
+},
+{
+"text": "Same",
+"start": 22.573,
+"end": 22.924
+},
+{
+"text": "amount.",
+"start": 22.955,
+"end": 23.423
+},
+{
+"text": "The",
+"start": 23.464,
+"end": 23.757
+},
+{
+"text": "growth",
+"start": 23.782,
+"end": 24.25
+},
+{
+"text": "just",
+"start": 24.291,
+"end": 24.642
+},
+{
+"text": "shows",
+"start": 24.673,
+"end": 25.083
+},
+{
+"text": "up",
+"start": 25.118,
+"end": 25.352
+},
+{
+"text": "late.",
+"start": 25.373,
+"end": 25.724
+},
+{
+"text": "That's",
+"start": 26.074,
+"end": 26.428
+},
+{
+"text": "compounding.",
+"start": 26.458,
+"end": 27.114
+},
+{
+"text": "Your",
+"start": 27.171,
+"end": 27.474
+},
+{
+"text": "returns",
+"start": 27.501,
+"end": 27.955
+},
+{
+"text": "start",
+"start": 27.994,
+"end": 28.347
+},
+{
+"text": "earning",
+"start": 28.378,
+"end": 28.832
+},
+{
+"text": "their",
+"start": 28.872,
+"end": 29.225
+},
+{
+"text": "own",
+"start": 29.256,
+"end": 29.508
+},
+{
+"text": "returns.",
+"start": 29.53,
+"end": 29.984
+},
+{
+"text": "And",
+"start": 30.344,
+"end": 30.572
+},
+{
+"text": "most",
+"start": 30.592,
+"end": 30.866
+},
+{
+"text": "people",
+"start": 30.89,
+"end": 31.255
+},
+{
+"text": "quit",
+"start": 31.287,
+"end": 31.561
+},
+{
+"text": "in",
+"start": 31.585,
+"end": 31.767
 },
 {
 "text": "year",
-"start": 39.324,
-"end": 39.647
+"start": 31.783,
+"end": 32.057
+},
+{
+"text": "three,",
+"start": 32.081,
+"end": 32.401
+},
+{
+"text": "right",
+"start": 32.429,
+"end": 32.748
+},
+{
+"text": "before",
+"start": 32.776,
+"end": 33.141
+},
+{
+"text": "the",
+"start": 33.173,
+"end": 33.402
+},
+{
+"text": "curve",
+"start": 33.421,
+"end": 33.741
+},
+{
+"text": "bends.",
+"start": 33.769,
+"end": 34.089
+},
+{
+"text": "This",
+"start": 34.436,
+"end": 34.742
+},
+{
+"text": "assumes",
+"start": 34.769,
+"end": 35.227
+},
+{
+"text": "twelve",
+"start": 35.267,
+"end": 35.675
+},
+{
+"text": "percent",
+"start": 35.711,
+"end": 36.169
+},
+{
+"text": "a",
+"start": 36.209,
+"end": 36.362
+},
+{
+"text": "year.",
+"start": 36.375,
+"end": 36.681
+},
+{
+"text": "Real",
+"start": 36.708,
+"end": 37.013
+},
+{
+"text": "returns",
+"start": 37.04,
+"end": 37.499
+},
+{
+"text": "go",
+"start": 37.539,
+"end": 37.743
+},
+{
+"text": "up",
+"start": 37.76,
+"end": 37.964
+},
+{
+"text": "and",
+"start": 37.982,
+"end": 38.237
+},
+{
+"text": "down,",
+"start": 38.259,
+"end": 38.565
+},
+{
+"text": "and",
+"start": 38.591,
+"end": 38.846
+},
+{
+"text": "nothing",
+"start": 38.868,
+"end": 39.327
+},
+{
+"text": "is",
+"start": 39.367,
+"end": 39.571
+},
+{
+"text": "guaranteed.",
+"start": 39.588,
+"end": 40.2
+},
+{
+"text": "So",
+"start": 40.573,
+"end": 40.789
+},
+{
+"text": "don't",
+"start": 40.807,
+"end": 41.131
+},
+{
+"text": "judge",
+"start": 41.159,
+"end": 41.536
+},
+{
+"text": "your",
+"start": 41.569,
+"end": 41.892
+},
+{
+"text": "SIP",
+"start": 41.92,
+"end": 42.189
+},
+{
+"text": "by",
+"start": 42.213,
+"end": 42.428
+},
+{
+"text": "year",
+"start": 42.447,
+"end": 42.77
 },
 {
 "text": "one.",
-"start": 39.675,
-"end": 39.945
+"start": 42.798,
+"end": 43.068
 },
 {
 "text": "Judge",
-"start": 39.968,
-"end": 40.345
+"start": 43.091,
+"end": 43.468
 },
 {
 "text": "it",
-"start": 40.378,
-"end": 40.594
+"start": 43.501,
+"end": 43.716
 },
 {
 "text": "by",
-"start": 40.612,
-"end": 40.828
+"start": 43.735,
+"end": 43.951
 },
 {
 "text": "year",
-"start": 40.847,
-"end": 41.17
+"start": 43.969,
+"end": 44.293
 },
 {
 "text": "fifteen.",
-"start": 41.198,
-"end": 41.683
+"start": 44.321,
+"end": 44.806
 }
 ]
