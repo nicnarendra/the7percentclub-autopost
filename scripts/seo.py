@@ -146,16 +146,17 @@ def extras(tok, channel_id, playlists):
     st = load_state()
     wm = CFG.get("watermark")
     if wm and not st.get("watermark"):
-        meta = json.dumps({"timing": {"type": "offsetFromStart", "offsetMs": 0, "durationMs": 0},
-                           "position": {"type": "corner", "cornerPosition": "bottomRight"}})
-        r = requests.post(f"https://www.googleapis.com/upload/youtube/v3/watermarks/set?channelId={channel_id}&uploadType=multipart",
-                          headers={"Authorization": f"Bearer {tok}"}, timeout=120,
-                          files={"metadata": (None, meta, "application/json; charset=UTF-8"),
-                                 "media": ("watermark.png", (ROOT / wm).read_bytes(), "image/png")})
-        if r.status_code < 300:
-            st["watermark"] = True; log("Subscribe watermark set on all videos")
-        else:
-            log(f"Watermark FAILED: {r.status_code} {r.text[:300]}")
+        tries = [{"type": "offsetFromStart", "offsetMs": "0"},  # whole video
+                 {"type": "offsetFromEnd", "offsetMs": "15000", "durationMs": "15000"}]  # last 15 s
+        for timing in tries:
+            meta = json.dumps({"timing": timing, "position": {"type": "corner", "cornerPosition": "bottomRight"}})
+            r = requests.post(f"https://www.googleapis.com/upload/youtube/v3/watermarks/set?channelId={channel_id}&uploadType=multipart",
+                              headers={"Authorization": f"Bearer {tok}"}, timeout=120,
+                              files={"metadata": (None, meta, "application/json; charset=UTF-8"),
+                                     "media": ("watermark.png", (ROOT / wm).read_bytes(), "image/png")})
+            if r.status_code < 300:
+                st["watermark"] = timing["type"]; log(f"Subscribe watermark set ({timing['type']})"); break
+            log(f"Watermark attempt {timing['type']} FAILED: {r.status_code} {r.text[:200]}")
     # trailer + home shelf need the first video to be live
     first = CFG.get("trailer_item")
     vid = None
