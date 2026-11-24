@@ -1,0 +1,2 @@
+mode=check channel=us at 2026-11-24T19:15:16Z
+Missing secret YT_REFRESH_TOKEN_US. Add it in GitHub: Settings > Secrets and variables > Actions.
