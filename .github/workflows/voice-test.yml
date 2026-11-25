@@ -1,0 +1,63 @@
+name: Voice test (Hinglish engines)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        engine: [veena, parler, chatterbox]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Free disk space
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install (veena)
+        if: matrix.engine == 'veena'
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install "transformers>=4.44" accelerate snac soundfile numpy
+      - name: Install (parler)
+        if: matrix.engine == 'parler'
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install git+https://github.com/huggingface/parler-tts.git soundfile numpy
+      - name: Install (chatterbox)
+        if: matrix.engine == 'chatterbox'
+        run: pip install chatterbox-tts soundfile numpy
+      - name: Voice the script
+        run: python voice-test/run.py ${{ matrix.engine }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: voice-${{ matrix.engine }}
+          path: voice-test/out/
+          if-no-files-found: ignore
+
+  save:
+    needs: voice
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: voice-test/out
+          merge-multiple: true
+      - name: Commit clips
+        run: |
+          git config user.name "7club-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f voice-test/out
+          git diff --cached --quiet && exit 0
+          git commit -m "Voice test clips"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
