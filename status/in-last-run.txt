@@ -1,7 +1,4 @@
-mode=post channel=in at 2026-11-25T14:59:18Z
+mode=post channel=in at 2026-11-25T18:05:01Z
 Channel: The 7% Club (in)
-== 2026-11-25-1930-sip-feels-slow: due 2026-11-25T19:30:00+05:30, posting to instagram
-   instagram: direct upload failed (Instagram upload failed: 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}), retrying via public file link in 20s
-   instagram: OK https://www.instagram.com/reel/DgKzVPpBBpv/
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 2, views 3
 Analytics saved to status/analytics-in.json: 0 videos with data
