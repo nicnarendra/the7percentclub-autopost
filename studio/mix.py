@@ -16,13 +16,13 @@ N = {"pop": "rubberduck-water-40/bubble_01.ogg", "error": "kenney-interface/erro
 N = {k: (v if os.path.exists(A + v) else "kenney-rpg/bookFlip1.ogg") for k, v in N.items()}
 dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f"{D}/picture.mp4"]).decode().strip())
 seg = [s["start"] + a.lead for s in json.load(open(f"{D}/segments.json"))]
-ch = [int(x) for x in a.chapters.split(",") if x] or list(range(1, len(seg)))
-sfx = [("swish", seg[i] - 0.15, .18) for i in ch if i < len(seg)] + [("pop", seg[i] + 0.3, .22) for i in ch if i < len(seg)]
+ch = [int(x) for x in a.chapters.split(",") if x]  # scene changes only; no SFX on every line (it fights the voice rhythm)
+sfx = [("swish", seg[i] - 0.35, .10) for i in ch if i < len(seg)]
 if a.sfx: sfx += [tuple(x) for x in json.load(open(a.sfx))]
 inp = ["-i", f"{D}/picture.mp4", "-i", f"{D}/voice.wav", "-stream_loop", "-1", "-i", A + f"music/bgm-{a.music}.mp3"]
 f = [f"[1:a]aresample=48000,highpass=f=80,equalizer=f=3000:t=q:w=1.2:g=3,acompressor=threshold=-20dB:ratio=3:attack=5:release=150:makeup=4dB,adelay={int(a.lead*1000)}:all=1,apad=whole_dur={dur},asplit=2[vo][vk]",
-     f"[2:a]aresample=48000,atrim=0:{dur},volume={0.06 if dur < 70 else 0.05},afade=t=in:d=0.8,afade=t=out:st={max(dur-2,0)}:d=2[m0]",
-     "[m0][vk]sidechaincompress=threshold=0.02:ratio=8:attack=20:release=400[mu]"]
+     f"[2:a]aresample=48000,atrim=0:{dur},volume={0.045 if dur < 70 else 0.04},afade=t=in:d=0.8,afade=t=out:st={max(dur-2,0)}:d=2[m0]",
+     "[m0][vk]sidechaincompress=threshold=0.03:ratio=4:attack=80:release=1200[mu]"]
 mx = ["[vo]", "[mu]"]; i = 3
 for name, t, g in sfx:
     inp += ["-i", A + N[name]]; f.append(f"[{i}:a]aresample=48000,volume={g*0.45:.3f},adelay={int(max(t,0)*1000)}:all=1[s{i}]"); mx.append(f"[s{i}]"); i += 1
