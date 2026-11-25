@@ -1,7 +1,7 @@
-mode=post channel=in at 2026-11-25T14:44:54Z
+mode=post channel=in at 2026-11-25T14:50:26Z
 Channel: The 7% Club (in)
-== 2026-11-25-1930-sip-feels-slow: due 2026-11-25T19:30:00+05:30, posting to facebook, instagram
-   facebook: OK https://www.facebook.com/reel/1515445770425467
-   instagram: FAILED Instagram upload failed: 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+== 2026-11-25-1930-sip-feels-slow: due 2026-11-25T19:30:00+05:30, posting to instagram
+   instagram: first attempt failed (Instagram upload failed: 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}), retrying in 30s
+   instagram: FAILED Instagram upload failed: 500 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"{\"success\":false,\"error\":{\"message\":\"{\\\"message\\\":\\\"(OVERALL_TIMEOUT) Overall timeout after '8052'ms for tier 'instagram.distillery.media_service', please follow wiki https:\\\\\\/\\\\\\/fburl.com\\\\\\/overall_timeout to debug it TAAL[BLAME_dirs,www\\\\\\/flib\\\\\\/core\\\\\\/servicerouter\\\\\\/,www\\\\\\/flib\\\\\\/core\\\\\\/thrift\\\\\\/,www\\\\\\/flib\\\\\\/thrift\\\\\\/]\\\\n\\\"}\"}}"}}
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 2, views 3
 Analytics saved to status/analytics-in.json: 0 videos with data
