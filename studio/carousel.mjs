@@ -62,7 +62,7 @@ slides.forEach((s, k) => {
   } else if (s.kind === 'compare') {
     if (s.title) text(ctx, s.title, 540, 260, { size: fit(ctx, s.title, 920, 92) });
     [[s.left, 290, RED], [s.right, 790, GREEN]].forEach(([[name, val], x, col], j) => {
-      card(ctx, x - 220, 380, 440, 520, j ? '#d9ecdd' : '#f9d6cf', seed + j); text(ctx, name, x, 500, { size: 84, c: col });
+      card(ctx, x - 220, 380, 440, 520, j ? '#d9ecdd' : '#f9d6cf', seed + j); text(ctx, name, x, 500, { size: fit(ctx, name, 380, 84), c: col });
       sans(ctx, val, x, 720, fit(ctx, val, 380, 110, 'Sans', 700), col, 700); });
     text(ctx, 'vs', 540, 680, { size: 90, c: GREY });
     if (s.note) sans(ctx, s.note, 540, 1060, 36, GREY, 500);

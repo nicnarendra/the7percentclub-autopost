@@ -1,135 +1,119 @@
 1
-00:00:00,300 --> 00:00:01,989
-Five hundred rupees a month.
+00:00:00,300 --> 00:00:01,151
+₹500 mahina.
 
 2
-00:00:02,009 --> 00:00:03,594
-Can it really make you a
+00:00:01,171 --> 00:00:03,027
+Kya sach mein crorepati
 
 3
-00:00:03,614 --> 00:00:04,464
-crorepati?
+00:00:03,047 --> 00:00:04,513
+bana sakta hai?
 
 4
-00:00:04,484 --> 00:00:05,264
+00:00:04,533 --> 00:00:05,308
 Short answer:
 
 5
-00:00:05,284 --> 00:00:05,530
-yes.
+00:00:05,328 --> 00:00:05,627
+haan.
 
 6
-00:00:05,550 --> 00:00:07,484
-But it takes a long time.
+00:00:05,647 --> 00:00:07,498
+Par time bahut lagta hai.
 
 7
-00:00:07,504 --> 00:00:09,056
-At twelve percent a year,
+00:00:07,518 --> 00:00:09,244
+12% per year maano,
 
 8
-00:00:09,076 --> 00:00:10,682
-after ten years you'd have
+00:00:09,264 --> 00:00:11,544
+toh 10 saal baad kareeb
 
 9
-00:00:10,702 --> 00:00:12,202
-about one point one six
+00:00:11,564 --> 00:00:12,697
+₹1.16 lakh.
 
 10
-00:00:12,222 --> 00:00:12,817
-lakh.
+00:00:12,717 --> 00:00:13,858
+30 saal baad,
 
 11
-00:00:12,837 --> 00:00:13,923
-After thirty years,
+00:00:13,878 --> 00:00:15,516
+kareeb ₹17.6 lakh.
 
 12
-00:00:13,943 --> 00:00:15,533
-about seventeen and a half
+00:00:15,536 --> 00:00:16,502
+Aur ₹1 crore?
 
 13
-00:00:15,553 --> 00:00:16,135
-lakh.
+00:00:16,522 --> 00:00:18,754
+Uske liye kareeb 45 saal.
 
 14
-00:00:16,155 --> 00:00:16,793
-One crore?
+00:00:18,774 --> 00:00:20,454
+Zyaadatar paisa aakhri 10
 
 15
-00:00:16,813 --> 00:00:18,547
-That takes around forty-four
+00:00:20,474 --> 00:00:21,870
+saalon mein aata hai.
 
 16
-00:00:18,567 --> 00:00:19,230
-years.
+00:00:21,890 --> 00:00:23,510
+Yahi hai compounding.
 
 17
-00:00:19,250 --> 00:00:20,858
-Most of it arrives in the
+00:00:23,530 --> 00:00:25,515
+Ab ek habit add karo:
 
 18
-00:00:20,878 --> 00:00:21,774
-last ten years.
+00:00:25,535 --> 00:00:28,418
+har saal apna SIP 10% badhao.
 
 19
-00:00:21,794 --> 00:00:23,092
-That's compounding.
+00:00:28,438 --> 00:00:29,506
+Same shuruaat,
 
 20
-00:00:23,112 --> 00:00:24,472
-Now add one habit:
+00:00:29,526 --> 00:00:30,254
+same ₹500.
 
 21
-00:00:24,492 --> 00:00:26,730
-raise your SIP by ten percent
+00:00:30,274 --> 00:00:32,157
+₹1 crore kareeb 36 saal
 
 22
-00:00:26,750 --> 00:00:27,845
-every year.
+00:00:32,177 --> 00:00:32,845
+mein.
 
 23
-00:00:27,865 --> 00:00:28,557
-Same start,
+00:00:32,865 --> 00:00:34,732
+Yeh 12% per year maan kar
 
 24
-00:00:28,577 --> 00:00:30,147
-same five hundred rupees.
+00:00:34,752 --> 00:00:35,036
+hai.
 
 25
-00:00:30,167 --> 00:00:31,846
-You cross one crore about
+00:00:35,056 --> 00:00:36,801
+Real returns upar neeche
 
 26
-00:00:31,866 --> 00:00:33,351
-eight years sooner.
+00:00:36,821 --> 00:00:37,531
+hote hain,
 
 27
-00:00:33,371 --> 00:00:35,124
-This assumes twelve percent
+00:00:37,551 --> 00:00:39,150
+koi guarantee nahi.
 
 28
-00:00:35,144 --> 00:00:35,622
-a year.
+00:00:39,170 --> 00:00:40,787
+Toh ₹500 se shuru karo.
 
 29
-00:00:35,642 --> 00:00:37,506
-Real returns go up and down,
+00:00:40,807 --> 00:00:42,582
+Bas ₹500 pe ruko mat.
 
 30
-00:00:37,526 --> 00:00:39,468
-and nothing is guaranteed.
-
-31
-00:00:39,488 --> 00:00:41,114
-So start with five hundred.
-
-32
-00:00:41,134 --> 00:00:42,554
-Just don't stay at five
-
-33
-00:00:42,574 --> 00:00:43,317
-hundred.
-
-34
-00:00:43,337 --> 00:00:45,797
-Follow The 7% Club.
+00:00:42,602 --> 00:00:45,469
+Follow karo The 7% Club.

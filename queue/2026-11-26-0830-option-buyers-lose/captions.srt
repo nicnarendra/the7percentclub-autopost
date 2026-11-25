@@ -1,131 +1,131 @@
 1
-00:00:00,300 --> 00:00:01,410
-You bought the option.
+00:00:00,300 --> 00:00:01,791
+Aapne option khareeda.
 
 2
-00:00:01,430 --> 00:00:02,757
-The market moved your way.
+00:00:01,811 --> 00:00:03,424
+Market aapki side gaya.
 
 3
-00:00:02,777 --> 00:00:04,143
-You still lost money?
+00:00:03,444 --> 00:00:05,336
+Phir bhi loss ho gaya?
 
 4
-00:00:04,163 --> 00:00:06,084
-SEBI's latest study found
+00:00:05,356 --> 00:00:07,213
+SEBI ki latest study:
 
 5
-00:00:06,104 --> 00:00:08,494
-almost nine in ten F&O traders
+00:00:07,233 --> 00:00:09,766
+March 2026 tak ke saal mein,
 
 6
-00:00:08,514 --> 00:00:10,635
-lost money in the year to
+00:00:09,786 --> 00:00:11,944
+kareeb 10 mein se 9 F&O
 
 7
-00:00:10,655 --> 00:00:11,806
-March 2026.
+00:00:11,964 --> 00:00:14,026
+traders ko loss hua.
 
 8
-00:00:11,826 --> 00:00:13,429
-And about ninety-two percent
+00:00:14,046 --> 00:00:16,003
+Aur un losses ka kareeb
 
 9
-00:00:13,449 --> 00:00:15,002
-of those losses came from
+00:00:16,023 --> 00:00:17,851
+92% options se aaya.
 
 10
-00:00:15,022 --> 00:00:15,759
-options.
+00:00:17,871 --> 00:00:19,290
+Ek badi wajah samjho.
 
 11
-00:00:15,779 --> 00:00:17,101
-Here's one big reason.
+00:00:19,310 --> 00:00:21,075
+Option ek ice cream jaisa
 
 12
-00:00:17,121 --> 00:00:18,766
-An option is like an ice
+00:00:21,095 --> 00:00:21,643
+hai.
 
 13
-00:00:18,786 --> 00:00:19,442
-cream.
+00:00:21,663 --> 00:00:23,377
+Aap iske liye premium dete
 
 14
-00:00:19,462 --> 00:00:20,933
-You pay a premium for it,
+00:00:23,397 --> 00:00:23,594
+ho,
 
 15
-00:00:20,953 --> 00:00:22,568
-and it melts a little every
+00:00:23,614 --> 00:00:25,436
+aur yeh har din thoda thoda
 
 16
-00:00:22,588 --> 00:00:23,493
-single day.
+00:00:25,456 --> 00:00:26,529
+pighalta hai.
 
 17
-00:00:23,513 --> 00:00:25,212
-That melting is called time
+00:00:26,549 --> 00:00:28,342
+Isi pighalne ko time decay,
 
 18
-00:00:25,232 --> 00:00:25,577
-decay,
+00:00:28,362 --> 00:00:29,982
+ya theta kehte hain.
 
 19
-00:00:25,597 --> 00:00:26,450
-or theta.
+00:00:30,002 --> 00:00:31,818
+Toh market ko aapki side
 
 20
-00:00:26,470 --> 00:00:27,945
-So the market has to move
+00:00:31,838 --> 00:00:32,613
+jaana hoga,
 
 21
-00:00:27,965 --> 00:00:28,459
-your way,
+00:00:32,633 --> 00:00:33,531
+kaafi zyaada,
 
 22
-00:00:28,479 --> 00:00:29,020
-by enough,
+00:00:33,551 --> 00:00:34,545
+aur jaldi.
 
 23
-00:00:29,040 --> 00:00:30,208
-and fast enough.
+00:00:34,565 --> 00:00:35,381
+Dheere chala,
 
 24
-00:00:30,228 --> 00:00:31,166
-Move too slowly,
+00:00:35,401 --> 00:00:37,053
+toh pighalna aapka profit
 
 25
-00:00:31,186 --> 00:00:33,283
-and the melt eats your profit.
+00:00:37,073 --> 00:00:38,280
+kha jaata hai.
 
 26
-00:00:33,303 --> 00:00:34,634
-Sellers collect that melt,
+00:00:38,300 --> 00:00:39,924
+Sellers yeh pighalna kamaate
 
 27
-00:00:34,654 --> 00:00:36,076
-though they take big risks
+00:00:39,944 --> 00:00:40,223
+hain,
 
 28
-00:00:36,096 --> 00:00:37,097
-of their own.
+00:00:40,243 --> 00:00:41,668
+par unke apne bade risk
 
 29
-00:00:37,117 --> 00:00:38,045
-Before you buy,
+00:00:41,688 --> 00:00:42,546
+hote hain.
 
 30
-00:00:38,065 --> 00:00:38,308
-ask:
+00:00:42,566 --> 00:00:44,334
+Khareedne se pehle poochho:
 
 31
-00:00:38,328 --> 00:00:39,835
-how much will this melt
+00:00:44,354 --> 00:00:46,007
+mere sahi hone se pehle,
 
 32
-00:00:39,855 --> 00:00:41,136
-before I'm right?
+00:00:46,027 --> 00:00:47,556
+yeh kitna pighlega?
 
 33
-00:00:41,156 --> 00:00:43,616
-Follow The 7% Club.
+00:00:47,576 --> 00:00:50,443
+Follow karo The 7% Club.
