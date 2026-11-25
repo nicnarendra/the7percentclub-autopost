@@ -1,6 +1,3 @@
-mode=post channel=in at 2026-11-25T03:29:45Z
+mode=post channel=in at 2026-11-25T03:59:25Z
 Channel: The 7% Club (in)
-== 2026-11-25-0830-traders-lose-money: due 2026-11-24T20:55:00+05:30, posting to facebook, instagram
-   facebook: OK https://www.facebook.com/reel/1161733302902358
-   instagram: OK https://www.instagram.com/reel/DgJkVHbo4xu/
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 0
