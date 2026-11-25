@@ -149,7 +149,7 @@ def post_facebook(item, video):
 
 
 # ---------------- Instagram Reel ----------------
-def post_instagram(item, video):
+def _post_instagram_once(item, video):
     tok, ig = env("META_PAGE_TOKEN"), env("IG_USER_ID")
     r = requests.post(f"{GRAPH}/{ig}/media", data={
         "media_type": "REELS", "upload_type": "resumable", "caption": item["caption"],
@@ -181,6 +181,16 @@ def post_instagram(item, video):
     return {"id": mid, "url": link}
 
 
+
+
+def post_instagram(item, video):
+    # Instagram sometimes rejects an upload with a one-off processing error; try once more.
+    try:
+        return _post_instagram_once(item, video)
+    except RuntimeError as e:
+        log(f"   instagram: first attempt failed ({str(e)[:160]}), retrying in 30s")
+        time.sleep(30)
+        return _post_instagram_once(item, video)
 
 
 def post_ig_carousel(item, video):

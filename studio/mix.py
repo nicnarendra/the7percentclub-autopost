@@ -27,6 +27,6 @@ mx = ["[vo]", "[mu]"]; i = 3
 for name, t, g in sfx:
     inp += ["-i", A + N[name]]; f.append(f"[{i}:a]aresample=48000,volume={g*0.45:.3f},adelay={int(max(t,0)*1000)}:all=1[s{i}]"); mx.append(f"[s{i}]"); i += 1
 f.append(f"{''.join(mx)}amix=inputs={len(mx)}:normalize=0,atrim=0:{dur},loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]")
-subprocess.run(["ffmpeg", "-v", "error", "-y", *inp, "-filter_complex", ";".join(f), "-map", "0:v", "-map", "[aout]", "-map_metadata", "-1",
+subprocess.run(["ffmpeg", "-v", "error", "-y", *inp, "-filter_complex", ";".join(f), "-map", "0:v", "-map", "[aout]", "-map_metadata", "-1", "-map_chapters", "-1",
                 "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", f"{D}/final.mp4"], check=True)
 print("wrote", f"{D}/final.mp4", round(dur, 2), "s")
