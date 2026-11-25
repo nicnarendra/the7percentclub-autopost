@@ -12,6 +12,8 @@ A = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets/audio/audio
 N = {"pop": "rubberduck-water-40/bubble_01.ogg", "error": "kenney-interface/error_002.ogg", "click": "kenney-interface/click_002.ogg",
      "drop": "kenney-interface/drop_002.ogg", "swish": "artisticdude-swishes/swish-1.wav", "swish2": "artisticdude-swishes/swish-10.wav",
      "coin": "kenney-rpg/handleCoins.ogg", "bell": "kenney-impact/impactBell_heavy_001.ogg", "page": "kenney-rpg/bookFlip1.ogg"}
+# *.wav is git-ignored, so the swish files are missing in a fresh clone: fall back to a committed page-flip sound.
+N = {k: (v if os.path.exists(A + v) else "kenney-rpg/bookFlip1.ogg") for k, v in N.items()}
 dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f"{D}/picture.mp4"]).decode().strip())
 seg = [s["start"] + a.lead for s in json.load(open(f"{D}/segments.json"))]
 ch = [int(x) for x in a.chapters.split(",") if x] or list(range(1, len(seg)))

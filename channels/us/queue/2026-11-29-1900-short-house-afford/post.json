@@ -1,0 +1,24 @@
+{
+  "day": 3,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-29T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "How Much House Can You Really Afford? #Shorts",
+    "description": "Your bank's mortgage approval is not your budget. The 28/36 rule shows how much house you can really afford on $60K, $100K or $150K a year at today's mortgage rates.\n\n• 30-year fixed rate: 7.28% average as of Nov 19, 2026 (Freddie Mac PMMS)\n• Lenders can allow a debt-to-income ratio up to 50% (Fannie Mae Selling Guide B3-6-02)\n• 28% rule: about $189K on $60K, $315K on $100K, $472K on $150K\n• Assumes 10% down, 30-year fixed at 7.28%, taxes + insurance ~1.5% of price per year. Estimates only.\n\nFull breakdown with the hidden costs on the channel: \"How Much House Can You Really Afford? ($60K, $100K, $150K)\".\n\n📌 Educational content only, not financial advice.\n\n#homebuying #mortgage #personalfinance",
+    "tags": [
+      "how much house can i afford",
+      "28/36 rule",
+      "mortgage",
+      "home buying",
+      "personal finance",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "money-mistakes"
+  }
+}

@@ -1,0 +1,507 @@
+[
+{
+"text": "Your",
+"start": 0.0,
+"end": 0.279
+},
+{
+"text": "bank's",
+"start": 0.303,
+"end": 0.629
+},
+{
+"text": "approval",
+"start": 0.657,
+"end": 1.122
+},
+{
+"text": "number",
+"start": 1.163,
+"end": 1.535
+},
+{
+"text": "is",
+"start": 1.567,
+"end": 1.753
+},
+{
+"text": "not",
+"start": 1.77,
+"end": 2.002
+},
+{
+"text": "your",
+"start": 2.022,
+"end": 2.301
+},
+{
+"text": "budget.",
+"start": 2.326,
+"end": 2.698
+},
+{
+"text": "Here's",
+"start": 2.73,
+"end": 3.056
+},
+{
+"text": "the",
+"start": 3.084,
+"end": 3.317
+},
+{
+"text": "real",
+"start": 3.337,
+"end": 3.616
+},
+{
+"text": "one.",
+"start": 3.64,
+"end": 3.873
+},
+{
+"text": "Lenders",
+"start": 4.193,
+"end": 4.595
+},
+{
+"text": "can",
+"start": 4.63,
+"end": 4.853
+},
+{
+"text": "let",
+"start": 4.872,
+"end": 5.095
+},
+{
+"text": "your",
+"start": 5.115,
+"end": 5.382
+},
+{
+"text": "debts",
+"start": 5.406,
+"end": 5.718
+},
+{
+"text": "reach",
+"start": 5.745,
+"end": 6.058
+},
+{
+"text": "fifty",
+"start": 6.085,
+"end": 6.397
+},
+{
+"text": "percent",
+"start": 6.424,
+"end": 6.826
+},
+{
+"text": "of",
+"start": 6.861,
+"end": 7.04
+},
+{
+"text": "your",
+"start": 7.055,
+"end": 7.323
+},
+{
+"text": "income",
+"start": 7.346,
+"end": 7.703
+},
+{
+"text": "before",
+"start": 7.734,
+"end": 8.091
+},
+{
+"text": "taxes.",
+"start": 8.122,
+"end": 8.435
+},
+{
+"text": "A",
+"start": 8.762,
+"end": 8.908
+},
+{
+"text": "safer",
+"start": 8.921,
+"end": 9.261
+},
+{
+"text": "guardrail",
+"start": 9.291,
+"end": 9.827
+},
+{
+"text": "is",
+"start": 9.873,
+"end": 10.068
+},
+{
+"text": "the",
+"start": 10.085,
+"end": 10.328
+},
+{
+"text": "twenty-eight",
+"start": 10.349,
+"end": 10.982
+},
+{
+"text": "thirty-six",
+"start": 11.037,
+"end": 11.573
+},
+{
+"text": "rule.",
+"start": 11.619,
+"end": 11.911
+},
+{
+"text": "Housing",
+"start": 12.237,
+"end": 12.691
+},
+{
+"text": "under",
+"start": 12.73,
+"end": 13.083
+},
+{
+"text": "twenty-eight",
+"start": 13.114,
+"end": 13.769
+},
+{
+"text": "percent",
+"start": 13.826,
+"end": 14.28
+},
+{
+"text": "of",
+"start": 14.32,
+"end": 14.521
+},
+{
+"text": "gross",
+"start": 14.539,
+"end": 14.892
+},
+{
+"text": "income.",
+"start": 14.923,
+"end": 15.326
+},
+{
+"text": "All",
+"start": 15.361,
+"end": 15.613
+},
+{
+"text": "debts",
+"start": 15.635,
+"end": 15.988
+},
+{
+"text": "under",
+"start": 16.019,
+"end": 16.372
+},
+{
+"text": "thirty-six.",
+"start": 16.403,
+"end": 16.957
+},
+{
+"text": "With",
+"start": 17.306,
+"end": 17.583
+},
+{
+"text": "mortgage",
+"start": 17.607,
+"end": 18.069
+},
+{
+"text": "rates",
+"start": 18.109,
+"end": 18.433
+},
+{
+"text": "around",
+"start": 18.461,
+"end": 18.831
+},
+{
+"text": "seven",
+"start": 18.863,
+"end": 19.186
+},
+{
+"text": "point",
+"start": 19.215,
+"end": 19.538
+},
+{
+"text": "three",
+"start": 19.566,
+"end": 19.89
+},
+{
+"text": "percent,",
+"start": 19.918,
+"end": 20.334
+},
+{
+"text": "here's",
+"start": 20.37,
+"end": 20.693
+},
+{
+"text": "roughly",
+"start": 20.722,
+"end": 21.137
+},
+{
+"text": "what",
+"start": 21.174,
+"end": 21.451
+},
+{
+"text": "that",
+"start": 21.475,
+"end": 21.752
+},
+{
+"text": "buys.",
+"start": 21.776,
+"end": 22.054
+},
+{
+"text": "Sixty",
+"start": 22.378,
+"end": 22.729
+},
+{
+"text": "thousand",
+"start": 22.759,
+"end": 23.261
+},
+{
+"text": "a",
+"start": 23.304,
+"end": 23.455
+},
+{
+"text": "year:",
+"start": 23.468,
+"end": 23.769
+},
+{
+"text": "about",
+"start": 23.795,
+"end": 24.146
+},
+{
+"text": "one",
+"start": 24.176,
+"end": 24.427
+},
+{
+"text": "hundred",
+"start": 24.449,
+"end": 24.9
+},
+{
+"text": "ninety",
+"start": 24.939,
+"end": 25.34
+},
+{
+"text": "thousand",
+"start": 25.375,
+"end": 25.877
+},
+{
+"text": "dollars",
+"start": 25.92,
+"end": 26.372
+},
+{
+"text": "of",
+"start": 26.411,
+"end": 26.611
+},
+{
+"text": "house.",
+"start": 26.629,
+"end": 26.98
+},
+{
+"text": "One",
+"start": 27.31,
+"end": 27.566
+},
+{
+"text": "hundred",
+"start": 27.588,
+"end": 28.049
+},
+{
+"text": "thousand:",
+"start": 28.089,
+"end": 28.601
+},
+{
+"text": "about",
+"start": 28.645,
+"end": 29.004
+},
+{
+"text": "three",
+"start": 29.035,
+"end": 29.393
+},
+{
+"text": "hundred",
+"start": 29.424,
+"end": 29.885
+},
+{
+"text": "fifteen",
+"start": 29.925,
+"end": 30.386
+},
+{
+"text": "thousand.",
+"start": 30.426,
+"end": 30.937
+},
+{
+"text": "One",
+"start": 31.282,
+"end": 31.547
+},
+{
+"text": "fifty:",
+"start": 31.57,
+"end": 31.941
+},
+{
+"text": "about",
+"start": 31.973,
+"end": 32.344
+},
+{
+"text": "four",
+"start": 32.376,
+"end": 32.694
+},
+{
+"text": "hundred",
+"start": 32.721,
+"end": 33.198
+},
+{
+"text": "seventy",
+"start": 33.24,
+"end": 33.716
+},
+{
+"text": "thousand.",
+"start": 33.758,
+"end": 34.288
+},
+{
+"text": "The",
+"start": 34.634,
+"end": 34.831
+},
+{
+"text": "bank",
+"start": 34.849,
+"end": 35.086
+},
+{
+"text": "might",
+"start": 35.107,
+"end": 35.383
+},
+{
+"text": "approve",
+"start": 35.407,
+"end": 35.763
+},
+{
+"text": "almost",
+"start": 35.794,
+"end": 36.111
+},
+{
+"text": "double.",
+"start": 36.138,
+"end": 36.455
+},
+{
+"text": "The",
+"start": 36.782,
+"end": 36.99
+},
+{
+"text": "full",
+"start": 37.009,
+"end": 37.258
+},
+{
+"text": "breakdown,",
+"start": 37.28,
+"end": 37.738
+},
+{
+"text": "with",
+"start": 37.778,
+"end": 38.028
+},
+{
+"text": "the",
+"start": 38.05,
+"end": 38.258
+},
+{
+"text": "hidden",
+"start": 38.276,
+"end": 38.609
+},
+{
+"text": "costs,",
+"start": 38.638,
+"end": 38.93
+},
+{
+"text": "is",
+"start": 38.955,
+"end": 39.122
+},
+{
+"text": "on",
+"start": 39.137,
+"end": 39.303
+},
+{
+"text": "our",
+"start": 39.318,
+"end": 39.526
+},
+{
+"text": "channel.",
+"start": 39.544,
+"end": 39.919
+}
+]

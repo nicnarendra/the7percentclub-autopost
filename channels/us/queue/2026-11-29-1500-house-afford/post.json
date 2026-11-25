@@ -1,0 +1,29 @@
+{
+  "day": 3,
+  "slot": "long",
+  "format": "long",
+  "publish_at": "2026-11-29T15:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "How Much House Can You Really Afford? ($60K, $100K, $150K)",
+    "description": "How much house can you really afford on a $60K, $100K or $150K salary? Your mortgage approval is not your budget. Here's the 28/36 rule worked out with this week's mortgage rate, plus the hidden costs of buying a home most calculators skip.\n\nChapters\n0:00 Intro\n0:20 The bank's number\n0:54 The 28/36 rule\n1:28 Today's rate\n2:02 $60K a year\n2:46 $100K a year\n3:32 $150K a year\n4:00 Hidden costs\n4:33 The typical home\n5:09 What to do\n5:37 Recap\n\nNumbers in this video\n• 30-year fixed mortgage rate: 7.28% average as of Nov 19, 2026; 6.26% a year earlier (Freddie Mac Primary Mortgage Market Survey)\n• Lenders: Fannie Mae allows a debt-to-income ratio up to 50% for loans run through Desktop Underwriter (Fannie Mae Selling Guide B3-6-02)\n• 28/36 rule: housing (principal, interest, taxes, insurance) under 28% of gross income; all debts under 36%. A guideline, not a law.\n• Median existing-home price: $416,700 in October 2026; first-time buyers were 29% of sales (National Association of Realtors)\n• Our examples assume 10% down, a 30-year fixed loan at 7.28%, and property taxes + insurance of about 1.5% of the price per year. Results: about $189K (on $60K), $315K ($100K), $472K ($150K) at 28%, vs about $337K, $562K and $844K at a 50% debt ratio with no other debts. Estimates only; your taxes, insurance, PMI and rate will differ.\n• Maintenance of 1–2% of the home's value per year is a common rule of thumb.\n\nWatch next: The #1 Wealth Killer No One Talks About: Lifestyle Creep.\n\nWhich income is closest to yours, and what did your bank approve you for? Tell me in the comments.\n\n📌 Educational content only, not financial advice.\n\n#homebuying #mortgage #personalfinance",
+    "tags": [
+      "how much house can i afford",
+      "28/36 rule",
+      "mortgage affordability",
+      "home buying",
+      "first time home buyer",
+      "mortgage rates 2026",
+      "house affordability calculator",
+      "debt to income ratio",
+      "how much house on 100k salary",
+      "personal finance",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "money-mistakes"
+  }
+}
