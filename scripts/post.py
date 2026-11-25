@@ -191,11 +191,11 @@ def _post_instagram_once(item, video, by_url=False):
 def post_instagram(item, video):
     # Instagram sometimes rejects an upload with a one-off processing error; try once more.
     try:
-        return _post_instagram_once(item, video)
-    except RuntimeError as e:
-        log(f"   instagram: direct upload failed ({str(e)[:160]}), retrying via public file link in 20s")
-        time.sleep(20)
         return _post_instagram_once(item, video, by_url=True)
+    except RuntimeError as e:
+        log(f"   instagram: link upload failed ({str(e)[:160]}), retrying with direct upload in 20s")
+        time.sleep(20)
+        return _post_instagram_once(item, video)
 
 
 def post_ig_carousel(item, video):
