@@ -149,20 +149,25 @@ def post_facebook(item, video):
 
 
 # ---------------- Instagram Reel ----------------
-def _post_instagram_once(item, video):
+def _post_instagram_once(item, video, by_url=False):
     tok, ig = env("META_PAGE_TOKEN"), env("IG_USER_ID")
-    r = requests.post(f"{GRAPH}/{ig}/media", data={
-        "media_type": "REELS", "upload_type": "resumable", "caption": item["caption"],
-        "share_to_feed": "true", "access_token": tok}, timeout=60)
+    data = {"media_type": "REELS", "caption": item["caption"], "share_to_feed": "true", "access_token": tok}
+    if by_url:  # Instagram fetches the file itself from this public repo
+        repo = os.environ.get("GITHUB_REPOSITORY", "nicnarendra/the7percentclub-autopost")
+        data["video_url"] = f"https://raw.githubusercontent.com/{repo}/main/{video.relative_to(ROOT).as_posix()}"
+    else:
+        data["upload_type"] = "resumable"
+    r = requests.post(f"{GRAPH}/{ig}/media", data=data, timeout=60)
     if r.status_code != 200:
         raise RuntimeError(f"Instagram container failed: {r.status_code} {r.text}")
     cid = r.json()["id"]
-    size = video.stat().st_size
-    with open(video, "rb") as f:
-        r2 = requests.post(f"{RUPLOAD}/ig-api-upload/{GRAPH.rsplit('/',1)[1]}/{cid}", data=f,
-                           headers={"Authorization": f"OAuth {tok}", "offset": "0", "file_size": str(size)}, timeout=600)
-    if r2.status_code != 200:
-        raise RuntimeError(f"Instagram upload failed: {r2.status_code} {r2.text}")
+    if not by_url:
+        size = video.stat().st_size
+        with open(video, "rb") as f:
+            r2 = requests.post(f"{RUPLOAD}/ig-api-upload/{GRAPH.rsplit('/',1)[1]}/{cid}", data=f,
+                               headers={"Authorization": f"OAuth {tok}", "offset": "0", "file_size": str(size)}, timeout=600)
+        if r2.status_code != 200:
+            raise RuntimeError(f"Instagram upload failed: {r2.status_code} {r2.text}")
     for _ in range(60):  # wait up to ~10 min for Instagram to process the video
         s = requests.get(f"{GRAPH}/{cid}", params={"fields": "status_code,status", "access_token": tok}, timeout=30).json()
         code = s.get("status_code")
@@ -188,9 +193,9 @@ def post_instagram(item, video):
     try:
         return _post_instagram_once(item, video)
     except RuntimeError as e:
-        log(f"   instagram: first attempt failed ({str(e)[:160]}), retrying in 30s")
-        time.sleep(30)
-        return _post_instagram_once(item, video)
+        log(f"   instagram: direct upload failed ({str(e)[:160]}), retrying via public file link in 20s")
+        time.sleep(20)
+        return _post_instagram_once(item, video, by_url=True)
 
 
 def post_ig_carousel(item, video):
