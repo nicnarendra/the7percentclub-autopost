@@ -5,6 +5,8 @@ on:
     # 08:30 IST and 19:30 IST (GitHub cron is in UTC and can start a few minutes late)
     - cron: "0 3 * * *"
     - cron: "0 14 * * *"
+    # 13:00 IST: Instagram carousels
+    - cron: "30 7 * * *"
     # US channel: 3 PM ET long-form (20:00 UTC) and 7 PM ET Short (00:00 UTC)
     - cron: "0 20 * * *"
     - cron: "0 0 * * *"
@@ -13,7 +15,7 @@ on:
       mode:
         description: "What to run"
         type: choice
-        options: [post, check, dry-run, seo, scopes]
+        options: [post, check, dry-run, seo, scopes, analytics]
         default: post
       channel:
         description: "Which channel"

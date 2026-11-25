@@ -1,0 +1,7 @@
+{"handle": "@the7.percentclub", "slides": [
+ {"kind": "hook", "title": "₹5,000 a month", "accent": "= ₹50 lakh?", "sub": "So why does your SIP feel useless?", "mood": "shock"},
+ {"kind": "stat", "label": "After 5 years", "big": "₹4.1 lakh", "note": "₹3 lakh invested · assumes 12% a year, not guaranteed"},
+ {"kind": "stat", "label": "After 10 years", "big": "₹11.6 lakh", "note": "₹6 lakh invested · assumes 12% a year, not guaranteed"},
+ {"kind": "stat", "label": "After 20 years", "big": "₹50 lakh", "note": "₹12 lakh invested · assumes 12% a year, not guaranteed"},
+ {"kind": "point", "n": 1, "title": ["Growth shows", "up late"], "body": ["Your returns start earning", "their own returns.", "Most people quit in year 3,", "right before the curve bends."], "mood": "worried"},
+ {"kind": "end", "title": "Save this", "sub": "for the day you want to stop your SIP"}]}

@@ -9,7 +9,8 @@ LOG="status/${CHANNEL}-last-run.txt"
     dry-run) python scripts/post.py --dry-run ;;
     scopes) python scripts/seo.py --scopes ;;
     seo) python scripts/seo.py ;;
-    *) python scripts/post.py; S=$?; python scripts/seo.py --videos || true; exit $S ;;
+    analytics) python scripts/analytics.py ;;
+    *) python scripts/post.py; S=$?; python scripts/seo.py --videos || true; python scripts/analytics.py || true; exit $S ;;
   esac
 } 2>&1 | tee "$LOG"
 exit ${PIPESTATUS[0]}

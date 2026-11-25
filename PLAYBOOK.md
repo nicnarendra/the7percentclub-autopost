@@ -91,7 +91,18 @@ Work in `studio/work/<slug>/`, which is git-ignored.
    - Shorts get " #Shorts" added automatically.
    - India Shorts also go to Facebook Reels and Instagram Reels: always pass `--caption-file` (hook line, 2–4 short lines, a question, the disclaimer, 5–8 hashtags incl. #the7percentclub). Without it they post to YouTube only.
    - Titles must be ≤ 100 characters.
-10. **Update the plan:** set the row's Status in `plans/*.csv` to `Queued`.
+10. **India only: Instagram carousel** for every India Short, posted the next day at 13:00 IST.
+    - Make a folder `queue/<YYYY-MM-DD>-1300-carousel-<slug>/` (date = the day after the Short).
+    - Write `carousel.json` there with 5-7 slides: hook, 2-4 stat/point/compare slides, end. See the header of
+      `studio/carousel.mjs` and the example `queue/2026-11-26-1300-carousel-sip-feels-slow/`.
+    - Run `node studio/carousel.mjs <folder>`, then look at every slide image and fix overlaps or cut-off text.
+    - Write `post.json` with `"format": "carousel"`, `"platforms": ["instagram_carousel"]`, `publish_at` and a `caption`
+      (hook, the key numbers, a save prompt, a question, the disclaimer, 5–8 hashtags incl. #the7percentclub).
+    - Slides must be committed and pushed before 13:00 IST that day: Instagram downloads them from the public repo.
+11. **Optional first comment:** the robot automatically posts a first comment under every YouTube video:
+    a link to the same day's long video (US Shorts) or the playlist, plus a question. To choose the question, put
+    `"question": "..."` in post.json. To write the whole comment yourself, use `"comment": "..."`.
+12. **Update the plan:** set the row's Status in `plans/*.csv` to `Queued`.
 
 ## Finishing the run
 

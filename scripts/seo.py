@@ -111,9 +111,36 @@ def fix_videos(tok, playlists):
                 call("POST", "playlistItems", tok, params={"part": "snippet"}, json={"snippet": {
                     "playlistId": playlists[key], "resourceId": {"kind": "youtube#video", "videoId": vid}}})
                 done["playlist"] = key; log(f"{d.name}: added to playlist '{CFG['playlists'][key]['title']}'")
+            if not done.get("comment"):
+                txt = comment_text(d, item, playlists)
+                if txt:
+                    call("POST", "commentThreads", tok, params={"part": "snippet"}, json={"snippet": {
+                        "videoId": vid, "topLevelComment": {"snippet": {"textOriginal": txt}}}})
+                    done["comment"] = True; log(f"{d.name}: link comment posted (pin it in Studio for best results)")
         except Exception as e:
             log(f"{d.name}: SEO step FAILED - {e}")
         pj.write_text(json.dumps(item, indent=2, ensure_ascii=False) + "\n")
+
+
+def comment_text(d, item, playlists):
+    """First comment under each video: a question + where to watch next. Returns None to retry later."""
+    if item.get("comment"):
+        return item["comment"]
+    q = item.get("question") or "Which part surprised you most? Tell me below 👇"
+    key = item["youtube"].get("playlist")
+    pl = f"https://www.youtube.com/playlist?list={playlists[key]}" if key and key in playlists else None
+    if item.get("format", "short") == "short":
+        # US: point the Short at the same day's long video
+        for o in sorted(QUEUE.iterdir()):
+            pj = o / "post.json"
+            if o == d or not o.name.startswith(d.name[:10]) or not pj.exists(): continue
+            other = json.loads(pj.read_text())
+            if other.get("format") == "long":
+                lid = other.get("results", {}).get("youtube", {}).get("id")
+                if not lid: return None
+                return f"📺 Full step-by-step video: https://youtu.be/{lid}\n\n{q}"
+        return f"▶ More like this: {pl}\n\n{q}" if pl else q
+    return f"{q}\n\n▶ Next: the full series here {pl}" if pl else q
 
 
 STATE_FILE = ROOT / CH["playlists"].replace("playlists.json", "state.json")

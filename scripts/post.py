@@ -11,6 +11,7 @@ Usage:
   python scripts/post.py --check    # only test that every key works
   python scripts/post.py --dry-run  # show what would be posted
 """
+import re
 import datetime as dt, json, os, sys, time, pathlib
 import requests
 
@@ -180,7 +181,43 @@ def post_instagram(item, video):
     return {"id": mid, "url": link}
 
 
-PLATFORMS = {"youtube": post_youtube, "facebook": post_facebook, "instagram": post_instagram}
+
+
+def post_ig_carousel(item, video):
+    """Instagram carousel from <item>/carousel/*.jpg. Images are fetched by Instagram from this public repo."""
+    tok, ig = env("META_PAGE_TOKEN"), env("IG_USER_ID")
+    d = video.parent
+    imgs = sorted((d / "carousel").glob("*.jpg"), key=lambda x: int(re.sub(r"\D", "", x.stem) or 0))[:10]
+    if len(imgs) < 2:
+        raise RuntimeError("carousel needs 2-10 JPGs in carousel/")
+    repo = os.environ.get("GITHUB_REPOSITORY", "nicnarendra/the7percentclub-autopost")
+    ref = os.environ.get("CAROUSEL_REF", "main")
+    kids = []
+    for img in imgs:
+        url = f"https://raw.githubusercontent.com/{repo}/{ref}/{img.relative_to(ROOT).as_posix()}"
+        r = requests.post(f"{GRAPH}/{ig}/media", data={"image_url": url, "is_carousel_item": "true", "access_token": tok}, timeout=60)
+        if r.status_code != 200:
+            raise RuntimeError(f"carousel slide {img.name} failed: {r.status_code} {r.text[:300]}")
+        kids.append(r.json()["id"])
+    r = requests.post(f"{GRAPH}/{ig}/media", data={"media_type": "CAROUSEL", "children": ",".join(kids),
+                                                   "caption": item["caption"], "access_token": tok}, timeout=60)
+    if r.status_code != 200:
+        raise RuntimeError(f"carousel container failed: {r.status_code} {r.text[:300]}")
+    cid = r.json()["id"]
+    for _ in range(30):
+        st = requests.get(f"{GRAPH}/{cid}", params={"fields": "status_code", "access_token": tok}, timeout=30).json().get("status_code")
+        if st in ("FINISHED", None): break
+        if st == "ERROR": raise RuntimeError("carousel processing error")
+        time.sleep(5)
+    r3 = requests.post(f"{GRAPH}/{ig}/media_publish", data={"creation_id": cid, "access_token": tok}, timeout=60)
+    if r3.status_code != 200:
+        raise RuntimeError(f"carousel publish failed: {r3.status_code} {r3.text[:300]}")
+    mid = r3.json()["id"]
+    link = requests.get(f"{GRAPH}/{mid}", params={"fields": "permalink", "access_token": tok}, timeout=30).json().get("permalink")
+    return {"id": mid, "url": link}
+
+
+PLATFORMS = {"youtube": post_youtube, "facebook": post_facebook, "instagram": post_instagram, "instagram_carousel": post_ig_carousel}
 
 
 def check():
