@@ -67,7 +67,7 @@ def meta(idx):
 def main():
     tok = yt_token(); guard_channel(tok)
     idx = queue_index()
-    snap = {"generated_at": dt.datetime.utcnow().isoformat() + "Z", "channel": CH["name"], "youtube": youtube(tok, idx), "meta": meta(idx),
+    snap = {"generated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "channel": CH["name"], "youtube": youtube(tok, idx), "meta": meta(idx),
             "queue": list(idx.values())}
     out = ROOT / "status"; out.mkdir(exist_ok=True)
     (out / f"analytics-{CH_KEY}.json").write_text(json.dumps(snap, indent=1, ensure_ascii=False) + "\n")
