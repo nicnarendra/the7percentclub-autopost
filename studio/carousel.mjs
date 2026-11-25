@@ -70,7 +70,7 @@ slides.forEach((s, k) => {
     text(ctx, s.title || 'Save this', 540, 360, { size: 140, c: GREEN });
     if (s.sub) sans(ctx, s.sub, 540, 470, fit(ctx, s.sub, 900, 56, 'Sans', 600), '#444');
     fig(ctx, { x: 540, y: 840, s: 1.2, seed, t: 0, mood: 'grin', arms: [[-120, -150], [120, 150]], legs: [[-14, -10], [14, 10]] });
-    sans(ctx, cfg.follow || `Follow ${cfg.handle || '@the7.percentclub'} for daily money lessons`, 540, 1140, 40, NAVY, 600);
+    { const fl = cfg.follow || `Follow ${cfg.handle || '@the7.percentclub'} for daily money lessons`; sans(ctx, fl, 540, 1140, fit(ctx, fl, 960, 40, 'Sans', 600), NAVY, 600); }
     sans(ctx, cfg.disclaimer || 'Educational only. Not investment advice.', 540, 1210, 30, GREY, 500);
   }
   swipe(ctx, k + 1, slides.length, seed + 15);

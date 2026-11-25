@@ -1,135 +1,147 @@
 1
-00:00:00,300 --> 00:00:02,311
-Five thousand rupees a month
+00:00:00,300 --> 00:00:02,012
+₹5,000 ka monthly SIP,
 
 2
-00:00:02,331 --> 00:00:03,864
-can become fifty lakh.
+00:00:02,032 --> 00:00:03,960
+₹50 lakh ban sakta hai.
 
 3
-00:00:03,884 --> 00:00:05,776
-So why does your SIP feel
+00:00:03,980 --> 00:00:06,053
+Toh phir aapka SIP itna
 
 4
-00:00:05,796 --> 00:00:06,633
-useless?
+00:00:06,073 --> 00:00:08,209
+bekaar kyun lagta hai?
 
 5
-00:00:06,653 --> 00:00:08,265
-Say you invest five thousand
+00:00:08,229 --> 00:00:08,853
+Maan lo,
 
 6
-00:00:08,285 --> 00:00:09,448
-rupees a month.
+00:00:08,873 --> 00:00:10,912
+aap har mahine ₹5,000 invest
 
 7
-00:00:09,468 --> 00:00:10,492
-After five years,
+00:00:10,932 --> 00:00:11,900
+karte ho.
 
 8
-00:00:10,512 --> 00:00:12,005
-you've put in three lakh.
+00:00:11,920 --> 00:00:12,915
+5 saal baad:
 
 9
-00:00:12,025 --> 00:00:13,623
-It's worth about four lakh.
+00:00:12,935 --> 00:00:13,997
+₹3 lakh daale,
 
 10
-00:00:13,643 --> 00:00:14,621
-Feels slow.
+00:00:14,017 --> 00:00:15,959
+value hai kareeb ₹4 lakh.
 
 11
-00:00:14,641 --> 00:00:15,618
-After ten years:
+00:00:15,979 --> 00:00:18,200
+Kaafi slow lagta hai na?
 
 12
-00:00:15,638 --> 00:00:16,405
-six lakh in.
+00:00:18,220 --> 00:00:19,342
+10 saal baad:
 
 13
-00:00:16,425 --> 00:00:17,927
-About eleven and a half
+00:00:19,362 --> 00:00:20,484
+₹6 lakh daale,
 
 14
-00:00:17,947 --> 00:00:18,562
-lakh.
+00:00:20,504 --> 00:00:22,619
+value kareeb ₹11.5 lakh.
 
 15
-00:00:18,582 --> 00:00:19,761
-After twenty years:
+00:00:22,639 --> 00:00:23,726
+20 saal baad:
 
 16
-00:00:19,781 --> 00:00:20,743
-twelve lakh in.
+00:00:23,746 --> 00:00:24,902
+₹12 lakh daale,
 
 17
-00:00:20,763 --> 00:00:22,153
-About fifty lakh.
+00:00:24,922 --> 00:00:26,911
+value kareeb ₹50 lakh.
 
 18
-00:00:22,173 --> 00:00:22,853
-Same SIP.
+00:00:26,931 --> 00:00:27,572
+Same SIP,
 
 19
-00:00:22,873 --> 00:00:23,744
-Same amount.
+00:00:27,592 --> 00:00:28,414
+same amount.
 
 20
-00:00:23,764 --> 00:00:25,653
-The growth just shows up
+00:00:28,434 --> 00:00:30,617
+Bas growth late dikhti hai.
 
 21
-00:00:25,673 --> 00:00:26,354
-late.
+00:00:30,637 --> 00:00:31,980
+Yahi hai compounding.
 
 22
-00:00:26,374 --> 00:00:27,451
-That's compounding.
+00:00:32,000 --> 00:00:33,911
+Aapke returns pe bhi returns
 
 23
-00:00:27,471 --> 00:00:29,152
-Your returns start earning
+00:00:33,931 --> 00:00:35,270
+aane lagte hain.
 
 24
-00:00:29,172 --> 00:00:30,624
-their own returns.
+00:00:35,290 --> 00:00:36,925
+Aur zyaadatar log teesre
 
 25
-00:00:30,644 --> 00:00:32,063
-And most people quit in
+00:00:36,945 --> 00:00:38,751
+saal mein hi SIP band kar
 
 26
-00:00:32,083 --> 00:00:32,709
-year three,
+00:00:38,771 --> 00:00:39,436
+dete hain,
 
 27
-00:00:32,729 --> 00:00:34,716
-right before the curve bends.
+00:00:39,456 --> 00:00:40,121
+theek tab,
 
 28
-00:00:34,736 --> 00:00:36,489
-This assumes twelve percent
+00:00:40,141 --> 00:00:41,947
+jab curve upar jaane waala
 
 29
-00:00:36,509 --> 00:00:36,988
-a year.
+00:00:41,967 --> 00:00:42,855
+hota hai.
 
 30
-00:00:37,008 --> 00:00:38,871
-Real returns go up and down,
+00:00:42,875 --> 00:00:44,691
+Yeh 12% per year maan kar
 
 31
-00:00:38,891 --> 00:00:40,853
-and nothing is guaranteed.
+00:00:44,711 --> 00:00:44,988
+hai.
 
 32
-00:00:40,873 --> 00:00:42,493
-So don't judge your SIP
+00:00:45,008 --> 00:00:46,706
+Real returns upar neeche
 
 33
-00:00:42,513 --> 00:00:43,371
-by year one.
+00:00:46,726 --> 00:00:47,831
+hote rehte hain,
 
 34
-00:00:43,391 --> 00:00:45,906
-Judge it by year fifteen.
+00:00:47,851 --> 00:00:49,711
+koi guarantee nahi hai.
+
+35
+00:00:49,731 --> 00:00:51,790
+Toh apne SIP ko first year
+
+36
+00:00:51,810 --> 00:00:53,176
+se judge mat karo.
+
+37
+00:00:53,196 --> 00:00:55,793
+15th year se judge karo.
