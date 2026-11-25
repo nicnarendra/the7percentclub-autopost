@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:54:43.996683+00:00",
+ "generated_at": "2026-11-25T10:22:12.344678+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -31,13 +31,28 @@
      "saved": 1,
      "shares": 0
     }
+   },
+   {
+    "dir": "2026-11-25-1545-carousel-sip-feels-slow",
+    "title": "₹5,000 ka monthly SIP = ₹50 lakh? 🤔\nToh phir SIP itna bekaar kyun lagta hai?\n\n5 ",
+    "id": "17959219248337618",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "FEED",
+    "timestamp": "2026-11-25T10:22:05+0000",
+    "insights": {
+     "reach": 0,
+     "views": 0,
+     "saved": 0,
+     "shares": 0
+    }
    }
   ],
   "notes": [],
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 1
+   "media_count": 2
   }
  },
  "queue": [
@@ -52,9 +67,19 @@
    "playlist": "trading-psychology"
   },
   {
+   "dir": "2026-11-25-1545-carousel-sip-feels-slow",
+   "format": "carousel",
+   "title": "₹5,000 ka monthly SIP = ₹50 lakh? 🤔\nToh phir SIP itna bekaar kyun lagta hai?\n\n5 ",
+   "publish_at": "2026-11-25T15:45:00+05:30",
+   "youtube_id": null,
+   "instagram_id": "17959219248337618",
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
    "dir": "2026-11-25-1930-sip-feels-slow",
    "format": "short",
-   "title": "₹5,000 SIP → ₹50 Lakh? Why It Feels Slow #Shorts",
+   "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
    "publish_at": "2026-11-25T19:30:00+05:30",
    "youtube_id": null,
    "instagram_id": null,
@@ -62,14 +87,64 @@
    "playlist": "investing-india"
   },
   {
-   "dir": "2026-11-26-1300-carousel-sip-feels-slow",
+   "dir": "2026-11-26-0830-option-buyers-lose",
+   "format": "short",
+   "title": "Option Khareeda, Market Upar Gaya, Phir Bhi Loss? Theta Samjho #Shorts",
+   "publish_at": "2026-11-26T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "options-basics"
+  },
+  {
+   "dir": "2026-11-26-1300-carousel-sip-500-crorepati",
    "format": "carousel",
-   "title": "₹5,000 a month can become ₹50 lakh. So why does your SIP feel useless? 📉📈\n\nYear ",
+   "title": "₹500 SIP se crorepati? 🤔\n\nHaan, par slow:\n10 saal → ~₹1.16L\n30 saal → ~₹17.6L\n₹1",
    "publish_at": "2026-11-26T13:00:00+05:30",
    "youtube_id": null,
    "instagram_id": null,
    "facebook_id": null,
    "playlist": null
+  },
+  {
+   "dir": "2026-11-26-1930-sip-500-crorepati",
+   "format": "short",
+   "title": "₹500 SIP se Crorepati? Sach Jaano (Step-up Trick) #Shorts",
+   "publish_at": "2026-11-26T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "investing-india"
+  },
+  {
+   "dir": "2026-11-27-0830-revenge-trading",
+   "format": "short",
+   "title": "Loss Ke Baad Bada Trade? Revenge Trading Account Kha Jaata Hai #Shorts",
+   "publish_at": "2026-11-27T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "trading-psychology"
+  },
+  {
+   "dir": "2026-11-27-1300-carousel-credit-card-minimum-due",
+   "format": "carousel",
+   "title": "Minimum due = sabse mehenga button 💳\n\n3.75% mahina = ~45% saal!\n₹1 lakh bill, si",
+   "publish_at": "2026-11-27T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
+   "dir": "2026-11-27-1930-credit-card-minimum-due",
+   "format": "short",
+   "title": "Credit Card Ka 'Minimum Due': Sabse Mehenga Button #Shorts",
+   "publish_at": "2026-11-27T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "money-traps"
   }
  ]
 }

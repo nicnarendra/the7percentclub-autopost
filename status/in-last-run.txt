@@ -1,5 +1,6 @@
-mode=post channel=in at 2026-11-25T06:54:41Z
+mode=post channel=in at 2026-11-25T10:21:38Z
 Channel: The 7% Club (in)
-2026-11-25-0830-traders-lose-money: link comment posted (pin it in Studio for best results)
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 0
+== 2026-11-25-1545-carousel-sip-feels-slow: due 2026-11-25T15:45:00+05:30, posting to instagram_carousel
+   instagram_carousel: OK https://www.instagram.com/p/DgKTe1MF3UV/
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 3
 Analytics saved to status/analytics-in.json: 0 videos with data
