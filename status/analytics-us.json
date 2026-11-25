@@ -1,0 +1,61 @@
+{
+ "generated_at": "2026-11-25T04:50:32.141633Z",
+ "channel": "The Boring Rich Club",
+ "youtube": {
+  "window": [
+   "2026-10-28",
+   "2026-11-25"
+  ],
+  "channel": {
+   "viewCount": "0",
+   "subscriberCount": "0",
+   "hiddenSubscriberCount": false,
+   "videoCount": "0"
+  },
+  "videos": [],
+  "traffic_sources": []
+ },
+ "meta": null,
+ "queue": [
+  {
+   "dir": "2026-11-27-1500-start-investing-from-zero",
+   "format": "long",
+   "title": "If I Had to Start Investing From $0 in 2026, I'd Do This",
+   "publish_at": "2026-11-27T15:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-27-1900-short-7-steps-from-zero",
+   "format": "short",
+   "title": "Starting From $0? Do These 7 Money Steps in This Order #Shorts",
+   "publish_at": "2026-11-27T19:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-28-1500-youre-not-behind",
+   "format": "long",
+   "title": "You're Not Behind: What the Average American Actually Has (2025 Fed Data)",
+   "publish_at": "2026-11-28T15:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-28-1900-short-youre-not-behind",
+   "format": "short",
+   "title": "Are You Actually Behind? What the Typical American Has #Shorts",
+   "publish_at": "2026-11-28T19:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  }
+ ]
+}

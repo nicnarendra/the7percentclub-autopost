@@ -1,0 +1,71 @@
+{
+ "generated_at": "2026-11-25T04:50:29.152400Z",
+ "channel": "The 7% Club",
+ "youtube": {
+  "window": [
+   "2026-10-28",
+   "2026-11-25"
+  ],
+  "channel": {
+   "viewCount": "0",
+   "subscriberCount": "1",
+   "hiddenSubscriberCount": false,
+   "videoCount": "1"
+  },
+  "videos": [],
+  "traffic_sources": []
+ },
+ "meta": {
+  "instagram": [
+   {
+    "dir": "2026-11-25-0830-traders-lose-money",
+    "title": "93% of F&O Traders Lose Money: SEBI Study Explained #Shorts",
+    "id": "17920005615521153",
+    "comments_count": 0,
+    "like_count": 3,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-25T03:30:21+0000"
+   }
+  ],
+  "notes": [
+   "Instagram reach/views/saves need the instagram_manage_insights permission on the Meta key."
+  ],
+  "instagram_account": {
+   "id": "17841424590391387",
+   "followers_count": 0,
+   "media_count": 1
+  }
+ },
+ "queue": [
+  {
+   "dir": "2026-11-25-0830-traders-lose-money",
+   "format": "short",
+   "title": "93% of F&O Traders Lose Money: SEBI Study Explained #Shorts",
+   "publish_at": "2026-11-24T20:55:00+05:30",
+   "youtube_id": "MySh2kVoCZM",
+   "instagram_id": "17920005615521153",
+   "facebook_id": "1161733302902358",
+   "playlist": "trading-psychology"
+  },
+  {
+   "dir": "2026-11-25-1930-sip-feels-slow",
+   "format": "short",
+   "title": "₹5,000 SIP → ₹50 Lakh? Why It Feels Slow #Shorts",
+   "publish_at": "2026-11-25T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "investing-india"
+  },
+  {
+   "dir": "2026-11-26-1300-carousel-sip-feels-slow",
+   "format": "carousel",
+   "title": "₹5,000 a month can become ₹50 lakh. So why does your SIP feel useless? 📉📈\n\nYear ",
+   "publish_at": "2026-11-26T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  }
+ ]
+}

@@ -1,4 +1,4 @@
-mode=post channel=us at 2026-11-25T03:30:28Z
-Channel: The Boring Rich Club (us)
-Profile picture saved to status/us-avatar.jpg; subscribers 0, videos 0, views 0
-Subscribe watermark set (offsetFromStart)
+mode=analytics channel=us at 2026-11-25T04:50:31Z
+/home/runner/work/the7percentclub-autopost/the7percentclub-autopost/scripts/analytics.py:70: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  snap = {"generated_at": dt.datetime.utcnow().isoformat() + "Z", "channel": CH["name"], "youtube": youtube(tok, idx), "meta": meta(idx),
+Analytics saved to status/analytics-us.json: 0 videos with data
