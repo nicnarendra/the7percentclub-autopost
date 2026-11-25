@@ -258,6 +258,9 @@ def main():
         todo = [p for p in item.get("platforms", PLATFORMS) if not results.get(p, {}).get("id")]
         if due > now or not todo:
             continue
+        if item.get("hold"):
+            log(f"== {d.name}: on hold (waiting for approval), skipped")
+            continue
         log(f"== {d.name}: due {due.isoformat()}, posting to {', '.join(todo)}")
         if dry:
             continue
