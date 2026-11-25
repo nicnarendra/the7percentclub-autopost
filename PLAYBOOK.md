@@ -34,16 +34,17 @@ with what is winning and what to avoid. Follow it when you choose hooks, titles,
 
 ## Language
 
-- **The 7% Club (India) is in Hindi (Hinglish) from 28 Nov 2026.**
-  - Scripts are everyday Hindi with English money words (SIP, return, stock, trading, EMI), the way popular Indian finance creators talk.
-  - Write `lines.json` in **Devanagari**. Common English terms can stay in Latin script (SIP, F&O, SEBI, EMI, FD, CIBIL): `studio/tts.py` converts them for the voice.
-  - Write numbers as digits with ₹ (₹5,000) or as Hindi words.
-  - Voice: `python studio/tts.py <dir> --lang hi --speed 1.12 --gap 0.28` (voice hm_omega).
-  - Render with `STUDIO_LANG=hi node scene.mjs ...` and `STUDIO_LANG=hi node studio/carousel.mjs ...`. This switches the hand font to Kalam, which has Devanagari.
-  - On-screen text and captions are in Hindi (Devanagari). In the scene, caption breaks must include `।`. Word cues `at(i, 'word')` must use the Hindi words.
-  - Example: `studio/examples/in-hi-sip/` (scene + lines + Hindi carousel.json).
-  - YouTube title, description and IG/FB caption: **Hinglish in Roman script** (how people search, e.g. "₹500 SIP se Crorepati? Sach jaaniye #Shorts"), plus one Hindi line. Keep the disclaimer: "📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi."
-  - Ending line: "Follow करें The 7% Club".
+- **The 7% Club (India) is in Hinglish from 28 Nov 2026**, the way young Indians actually talk about money.
+  - **Voice (`lines.json`):**
+    - Casual spoken Hinglish, written in Devanagari so the Hindi voice pronounces it right. English words are spelled in Devanagari too: मंथली, इन्वेस्ट, ग्रोथ, लेट, रिटर्न्स, परसेंट, पर ईयर, सेम, जज करो, फ़र्स्ट ईयर. SIP/SEBI/EMI/F&O can stay in Latin.
+    - Prefer the everyday word over formal Hindi: "करीब" not "लगभग", "परसेंट" not "प्रतिशत", "जज करो" not "आँकिए".
+    - Speak numbers as words.
+    - Run `python studio/tts.py <dir> --lang hi --speed 1.12 --gap 0.28` (voice hm_omega).
+  - **Captions (`display.json`):** one entry per line of lines.json, the same sentence in **Roman Hinglish** with digits and ₹ ("₹5,000 ka monthly SIP, ₹50 lakh ban sakta hai."). tts.py takes caption words and timings from it, so `at(i, 'word')` cues use the Roman words.
+  - **On-screen text and carousels:** Roman Hinglish only, **no Devanagari** ("GROWTH LATE DIKHTI HAI", "12% per year maan kar"). Render normally (no STUDIO_LANG), so the Caveat hand font is used.
+  - **Example:** `studio/examples/in-hi-sip/` (lines, display, scene, carousel.json).
+  - **YouTube title, description and IG/FB caption:** Hinglish in Roman script (e.g. "₹500 SIP se Crorepati? Sach jaano #Shorts"). Disclaimer: "📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi."
+  - **Ending line:** "Follow karo The 7% Club".
 - **The Boring Rich Club (US) stays in English** (voice am_michael).
 
 ## Making one video

@@ -17,15 +17,19 @@ SAY = [("401(k)", "four oh one K"), ("Roth IRA", "Roth I.R.A."), ("traditional I
 SAY_HI = [("SIP", "एसआईपी"), ("F&O", "एफ एंड ओ"), ("SEBI", "सेबी"), ("RBI", "आरबीआई"), ("NSE", "एनएसई"), ("EMI", "ईएमआई"),
           ("FD", "एफडी"), ("CIBIL", "सिबिल"), ("GST", "जीएसटी"), ("STT", "एसटीटी"), ("%", " प्रतिशत"), ("₹", "")]
 lines = json.load(open(f"{a.dir}/lines.json"))
+# Optional display.json: what the captions show (e.g. Roman Hinglish) while lines.json is what the voice says (Devanagari).
+import os.path
+display = json.load(open(f"{a.dir}/display.json")) if os.path.exists(f"{a.dir}/display.json") else lines
+assert len(display) == len(lines), "display.json must have one entry per line in lines.json"
 audio, t, words, segs = [], 0.0, [], []
-for ln in lines:
+for ln, shown in zip(lines, display):
     spoken = ln
     for x, y in (SAY_HI if HI else SAY): spoken = spoken.replace(x, y)
     s, sr = k.create(spoken, voice=VOICE, speed=a.speed, lang="hi" if HI else "en-us")
     idx = np.where(np.abs(s) > 0.01)[0]; s = s[max(0, idx[0] - 240): idx[-1] + 480]
     dur = len(s) / sr
-    segs.append({"text": ln, "start": round(t, 3), "end": round(t + dur, 3)})
-    toks = ln.split(); wts = [len(re.sub(r"\W", "", w)) + 2 for w in toks]; tot = sum(wts); c = t
+    segs.append({"text": shown, "start": round(t, 3), "end": round(t + dur, 3)})
+    toks = shown.split(); wts = [len(re.sub(r"\W", "", w)) + 2 for w in toks]; tot = sum(wts); c = t
     for w, wt in zip(toks, wts):
         d = dur * wt / tot; words.append({"text": w, "start": round(c, 3), "end": round(c + d * 0.92, 3)}); c += d
     audio += [s, np.zeros(int(a.gap * sr), dtype=s.dtype)]; t += dur + a.gap

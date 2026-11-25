@@ -18,18 +18,18 @@ const at = (i, w) => { const x = WORDS.find(o => o.start >= SEG[i].start - 0.01 
 
 function hook(ctx, t) { // 0
   const k = pop(t, 0, 0.35);
-  text(ctx, '₹5,000/महीना', 540, 250, { size: 96, c: NAVY, alpha: clamp(k * 2), scale: lerp(0.7, 1, k) });
-  const k2 = pop(t, at(0, 'पचास') - 0.1, 0.35);
-  text(ctx, '= ₹50 लाख?', 540, 390, { size: 130, c: GREEN, alpha: clamp(k2 * 2), scale: lerp(0.6, 1, k2) });
-  const why = at(0, 'तो');
-  writeText(ctx, 'तो फिर ये', 540, 1250, why, t, { size: 84, dur: 0.4 });
-  writeText(ctx, 'बेकार लगता है?', 540, 1350, why + 0.4, t, { size: 96, c: RED, dur: 0.4 });
+  text(ctx, '₹5,000/mahina', 540, 250, { size: 96, c: NAVY, alpha: clamp(k * 2), scale: lerp(0.7, 1, k) });
+  const k2 = pop(t, at(0, '₹50') - 0.1, 0.35);
+  text(ctx, '= ₹50 LAKH?', 540, 390, { size: 130, c: GREEN, alpha: clamp(k2 * 2), scale: lerp(0.6, 1, k2) });
+  const why = at(0, 'toh');
+  writeText(ctx, 'TOH PHIR YEH', 540, 1250, why, t, { size: 84, dur: 0.4 });
+  writeText(ctx, 'BEKAAR LAGTA HAI?', 540, 1350, why + 0.4, t, { size: 96, c: RED, dur: 0.4 });
   const f = fig(ctx, { x: 400, y: 1000, s: 1.3, seed: 11, t, mood: t > why ? 'angry' : 'shock', tilt: t > why ? 10 : -6, look: 1,
     arms: [[-30, -15], [110, 150 + Math.sin(t * 3) * 6]], legs: [[-16, -10], [16, 10]] });
   if (t > why) { const [hx, hy] = f.head; sweat(ctx, hx + 46, hy - 10, 1, t); } else marks(ctx, f.head[0] + 50, f.head[1] - 40, 1, 14);
   const [px, py] = f.hands[1];
   phone(ctx, px + 70, py - 40, 1.15, 12, (x, y) => {
-    text(ctx, 'मेरा SIP', x, y - 62, { size: 30, c: NAVY });
+    text(ctx, 'MERA SIP', x, y - 62, { size: 30, c: NAVY });
     strokePath(ctx, [[x - 44, y + 10], [x - 15, y + 6], [x + 10, y + 12], [x + 44, y + 4]], { w: 5, c: GREY, seed: 13 });
     text(ctx, '+0.8%', x, y + 70, { size: 32, c: GREY });
   });
@@ -38,7 +38,7 @@ function hook(ctx, t) { // 0
 function monthly(ctx, t) { // 1
   const k = pop(t, S(1), 0.4);
   text(ctx, '₹5,000', 540, 470, { size: 190, c: GREEN, alpha: clamp(k * 2), scale: lerp(0.6, 1, k) });
-  writeText(ctx, 'हर महीने', 540, 590, S(1) + 0.5, t, { size: 80, weight: 'normal' });
+  writeText(ctx, 'har mahine', 540, 590, S(1) + 0.5, t, { size: 80, weight: 'normal' });
   // jar
   const jx = 700, jy = 1220;
   strokePath(ctx, [[jx - 110, jy - 240], [jx - 110, jy], [jx + 110, jy], [jx + 110, jy - 240]], { w: 6, seed: 21 });
@@ -52,11 +52,11 @@ function monthly(ctx, t) { // 1
 }
 
 const BARS = [ // [label, invested L, value L, value text, seg]
-  ['5 साल', 3, 4.12, '≈ ₹4.1L', 2],
-  ['10 साल', 6, 11.62, '≈ ₹11.6L', 3],
-  ['20 साल', 12, 49.96, '≈ ₹50L', 4]];
+  ['5 SAAL', 3, 4.12, '≈ ₹4.1L', 2],
+  ['10 SAAL', 6, 11.62, '≈ ₹11.6L', 3],
+  ['20 SAAL', 12, 49.96, '≈ ₹50L', 4]];
 function bars(ctx, t) { // 2-4
-  writeText(ctx, '₹5,000 / महीना SIP', 540, 260, S(2), t, { size: 76, c: NAVY, dur: 0.4 });
+  writeText(ctx, '₹5,000 / mahina SIP', 540, 260, S(2), t, { size: 76, c: NAVY, dur: 0.4 });
   const base = 1180, scale = 15; // px per lakh
   strokePath(ctx, [[100, base], [1000, base]], { w: 5, seed: 31 });
   BARS.forEach(([lab, inv, val, vt, si], i) => {
@@ -67,43 +67,43 @@ function bars(ctx, t) { // 2-4
     box(ctx, x - 90, base - hi, 70, Math.max(hi, 1), { fill: '#d7d9dc', lw: 3.5, seed: 40 + i });
     if (gk > 0) box(ctx, x + 10, base - hv, 80, Math.max(hv, 1), { fill: '#9fd6b2', lw: 3.5, seed: 50 + i });
     text(ctx, lab, x, base + 60, { size: 46 });
-    text(ctx, `₹${inv}L डाले`, x - 55, base - hi - 18, { size: 34, c: '#666' });
+    text(ctx, `₹${inv}L daale`, x - 55, base - hi - 18, { size: 34, c: '#666' });
     if (gk > 0.3) text(ctx, vt, x + 50, base - hv - 22, { size: 46, c: GREEN, alpha: ramp(t, S(si) + 0.8, 0.3) });
   });
-  if (t > at(2, 'स्लो')) writeText(ctx, 'स्लो लगता है...', 260, 980, at(2, 'स्लो'), t, { size: 54, c: GREY, weight: 'normal' });
+  if (t > at(2, 'slow')) writeText(ctx, 'slow lagta hai...', 260, 980, at(2, 'slow'), t, { size: 54, c: GREY, weight: 'normal' });
   const mood = t < S(3) ? 'worried' : t < S(4) ? 'smug' : 'shock';
   const f = fig(ctx, { x: 150, y: 1470, s: 0.7, seed: 60, t, mood, tilt: mood === 'shock' ? -8 : 0,
     arms: mood === 'shock' ? [[-150, -200], [150, 200]] : [[-25, -10], [25, 10]], legs: [[-14, -10], [14, 10]] });
   if (mood === 'shock') marks(ctx, f.head[0] + 40, f.head[1] - 30, 0.8, 61);
-  text(ctx, '12% सालाना मानकर', 760, 1470, { size: 40, c: GREY, weight: 'normal', alpha: ramp(t, S(2) + 0.6) });
+  text(ctx, '12% per year maan kar', 760, 1470, { size: 40, c: GREY, weight: 'normal', alpha: ramp(t, S(2) + 0.6) });
 }
 
 function curvePts(x0, y0, w, h, n = 60) { const p = []; for (let i = 0; i <= n; i++) { const u = i / n; p.push([x0 + u * w, y0 - h * (Math.pow(1.12, u * 20) - 1) / (Math.pow(1.12, 20) - 1)]); } return p; }
 function curve(ctx, t) { // 5-7
   const x0 = 150, y0 = 1180, w = 800, h = 760;
   strokePath(ctx, [[x0, y0 - h - 30], [x0, y0], [x0 + w + 20, y0]], { w: 5, seed: 71 });
-  text(ctx, 'साल', x0 + w - 60, y0 + 100, { size: 40, c: '#666', weight: 'normal' });
+  text(ctx, 'saal', x0 + w - 60, y0 + 100, { size: 40, c: '#666', weight: 'normal' });
   [0, 5, 10, 15, 20].forEach(y => text(ctx, String(y), x0 + y / 20 * w, y0 + 40, { size: 34, c: '#777', weight: 'normal' }));
   const prog = t < S(6) ? ss((t - S(5)) / 3.4) : 1;
   strokePath(ctx, curvePts(x0, y0, w, h), { w: 9, c: GREEN, seed: 72, prog, amp: 0.4 });
-  if (t < S(6)) { writeText(ctx, 'वही SIP.', 540, 260, S(5), t, { size: 96 }); writeText(ctx, 'ग्रोथ देर से दिखती है।', 540, 370, at(5, 'बस'), t, { size: 70, c: GREEN }); }
+  if (t < S(6)) { writeText(ctx, 'SAME SIP.', 540, 260, S(5), t, { size: 96 }); writeText(ctx, 'GROWTH LATE DIKHTI HAI.', 540, 370, at(5, 'bas'), t, { size: 70, c: GREEN }); }
   else if (t < S(7)) {
-    writeText(ctx, 'कंपाउंडिंग', 540, 280, S(6), t, { size: 112, c: GREEN, dur: 0.5 });
-    writeText(ctx, 'रिटर्न्स पर रिटर्न्स', 540, 380, at(6, 'आपके'), t, { size: 66, weight: 'normal' });
-    for (let i = 0; i < 6; i++) { const k = pop(t, at(6, 'आपके') + i * 0.25, 0.3); if (k <= 0) continue;
+    writeText(ctx, 'COMPOUNDING', 540, 280, S(6), t, { size: 112, c: GREEN, dur: 0.5 });
+    writeText(ctx, 'returns pe returns', 540, 380, at(6, 'aapke'), t, { size: 66, weight: 'normal' });
+    for (let i = 0; i < 6; i++) { const k = pop(t, at(6, 'aapke') + i * 0.25, 0.3); if (k <= 0) continue;
       const [px, py] = curvePts(x0, y0, w, h)[30 + i * 6]; ctx.save(); ctx.translate(px - 40, py - 30); ctx.scale(k, k); coinStack(ctx, 0, 0, 1, 0.8, 80 + i); ctx.restore(); }
   } else {
-    writeText(ctx, 'ज़्यादातर लोग यहीं छोड़ते हैं', 540, 300, S(7), t, { size: 76, c: RED });
+    writeText(ctx, 'LOG YAHIN RUK JAATE HAIN', 540, 300, S(7), t, { size: 76, c: RED });
     const qx = x0 + 3 / 20 * w, qy = curvePts(x0, y0, w, h)[9][1];
     strokePath(ctx, [[qx, 360], [qx, qy - 40]], { w: 6, c: RED, seed: 90, prog: ramp(t, S(7) + 0.3, 0.4) });
     if (t > S(7) + 0.7) strokePath(ctx, [[qx - 16, qy - 60], [qx, qy - 40], [qx + 16, qy - 60]], { w: 6, c: RED, seed: 91 });
-    text(ctx, 'साल 3', qx + 70, qy - 70, { size: 44, c: RED, alpha: ramp(t, S(7) + 0.5) });
-    const wk = clamp((t - at(7, 'छोड़')) / 2.5);
+    text(ctx, 'saal 3', qx + 70, qy - 70, { size: 44, c: RED, alpha: ramp(t, S(7) + 0.5) });
+    const wk = clamp((t - at(7, 'band')) / 2.5);
     fig(ctx, { x: lerp(qx, -40, wk), y: y0 - 120, s: 0.6, seed: 92, t, mood: 'sad', lean: -6,
       arms: [[-25, -10], [25, 10]], legs: [[-25 + Math.sin(t * 10) * 18, -10], [25 - Math.sin(t * 10) * 18, 10]] });
-    const bk = ramp(t, at(7, 'कर्व') - 0.1, 0.4);
+    const bk = ramp(t, at(7, 'curve') - 0.1, 0.4);
     if (bk > 0) { const [bx, by] = curvePts(x0, y0, w, h)[44];
-      ctx.save(); ctx.globalAlpha = bk; text(ctx, 'कर्व यहाँ मुड़ता है', bx - 210, by - 80, { size: 50, c: GREEN });
+      ctx.save(); ctx.globalAlpha = bk; text(ctx, 'yahin se curve upar jaata hai', bx - 210, by - 80, { size: 50, c: GREEN });
       strokePath(ctx, [[bx - 90, by - 60], [bx - 20, by - 10]], { w: 6, c: GREEN, seed: 95 }); ctx.restore(); }
   }
 }
@@ -111,31 +111,31 @@ function curve(ctx, t) { // 5-7
 function caveat(ctx, t) { // 8
   const k = pop(t, S(8), 0.4);
   ctx.save(); ctx.translate(540, 420); ctx.scale(k, k);
-  card(ctx, -400, -110, 800, 200, '#fff8de', 101); text(ctx, '12% सालाना मानकर', 0, 25, { size: 76, c: NAVY }); ctx.restore();
+  card(ctx, -400, -110, 800, 200, '#fff8de', 101); text(ctx, '12% per year maan kar', 0, 25, { size: 76, c: NAVY }); ctx.restore();
   // wavy real-world line
   const pts = []; for (let i = 0; i <= 50; i++) { const u = i / 50; pts.push([150 + u * 780, 1050 - u * 330 + Math.sin(u * 19) * 70 * (1 - u * 0.3)]); }
-  strokePath(ctx, pts, { w: 7, c: NAVY, seed: 102, prog: ramp(t, at(8, 'असली'), 1.2), amp: 0.4 });
-  text(ctx, 'असली रिटर्न्स ऊपर-नीचे होते हैं', 540, 1180, { size: 54, weight: 'normal', alpha: ramp(t, at(8, 'असली') + 0.3) });
-  const g = pop(t, at(8, 'कुछ'), 0.35);
+  strokePath(ctx, pts, { w: 7, c: NAVY, seed: 102, prog: ramp(t, at(8, 'real'), 1.2), amp: 0.4 });
+  text(ctx, 'real returns upar-neeche hote hain', 540, 1180, { size: 54, weight: 'normal', alpha: ramp(t, at(8, 'real') + 0.3) });
+  const g = pop(t, at(8, 'koi'), 0.35);
   if (g > 0) { ctx.save(); ctx.translate(540, 1340); ctx.rotate(-0.08); ctx.scale(g, g);
     strokePath(ctx, [[-330, -70], [330, -70], [330, 50], [-330, 50]], { w: 7, c: RED, seed: 103, close: true });
-    text(ctx, 'गारंटी नहीं', 0, 20, { size: 80, c: RED }); ctx.restore(); }
+    text(ctx, 'GUARANTEE NAHI', 0, 20, { size: 80, c: RED }); ctx.restore(); }
 }
 
 function ending(ctx, t) { // 9
-  writeText(ctx, 'SIP को ऐसे आँकिए', 540, 270, S(9), t, { size: 84, dur: 0.5 });
-  const c1 = pop(t, at(9, 'पहले'), 0.35), c15 = pop(t, at(9, 'पंद्रहवें'), 0.35);
+  writeText(ctx, 'SIP KO AISE JUDGE KARO', 540, 270, S(9), t, { size: 84, dur: 0.5 });
+  const c1 = pop(t, at(9, 'first'), 0.35), c15 = pop(t, at(9, '15th'), 0.35);
   const cal = (x, lab, k, good, seed) => { if (k <= 0) return; ctx.save(); ctx.translate(x, 700); ctx.scale(k, k);
     card(ctx, -170, -150, 340, 300, '#fff', seed); box(ctx, -170, -150, 340, 70, { fill: good ? '#d9ecdd' : '#f9d6cf', lw: 4, seed: seed + 1 });
-    text(ctx, 'साल', 0, -100, { size: 44 }); text(ctx, lab, 0, 90, { size: 150, c: good ? GREEN : RED }); ctx.restore(); };
+    text(ctx, 'saal', 0, -100, { size: 44 }); text(ctx, lab, 0, 90, { size: 150, c: good ? GREEN : RED }); ctx.restore(); };
   cal(300, '1', c1, false, 111); cal(780, '15', c15, true, 115);
-  if (c1 > 0.9) crossMark(ctx, 300, 700, ramp(t, at(9, 'पहले') + 0.3, 0.3), 3, 113);
-  if (c15 > 0.9) checkMark(ctx, 870, 820, ramp(t, at(9, 'पंद्रहवें') + 0.3, 0.3), 2, 117);
-  fig(ctx, { x: 540, y: 1180, s: 1.0, seed: 120, t, mood: t > at(9, 'पंद्रहवें') ? 'grin' : 'smug',
-    arms: t > at(9, 'पंद्रहवें') ? [[-150, -175], [40, 20]] : [[-25, -10], [25, 10]], legs: [[-14, -10], [14, 10]] });
+  if (c1 > 0.9) crossMark(ctx, 300, 700, ramp(t, at(9, 'first') + 0.3, 0.3), 3, 113);
+  if (c15 > 0.9) checkMark(ctx, 870, 820, ramp(t, at(9, '15th') + 0.3, 0.3), 2, 117);
+  fig(ctx, { x: 540, y: 1180, s: 1.0, seed: 120, t, mood: t > at(9, '15th') ? 'grin' : 'smug',
+    arms: t > at(9, '15th') ? [[-150, -175], [40, 20]] : [[-25, -10], [25, 10]], legs: [[-14, -10], [14, 10]] });
   if (t > SEG[9].end + 0.2) {
     const k = pop(t, SEG[9].end + 0.2, 0.4);
-    text(ctx, 'Follow करें: The 7% Club', 540, 1420, { size: 70, c: GREEN, alpha: clamp(k * 2), scale: lerp(0.7, 1, k) });
+    text(ctx, 'Follow karein: The 7% Club', 540, 1420, { size: 70, c: GREEN, alpha: clamp(k * 2), scale: lerp(0.7, 1, k) });
   }
 }
 
@@ -154,7 +154,7 @@ function drawFrame(ctx, t) {
   const k = idx ? ss((t - t0) / 0.18) : 1;
   ctx.save(); ctx.globalAlpha = k; ctx.translate(0, (1 - k) * 30); fn(ctx, t); ctx.restore();
   if (k < 1 && idx) { ctx.save(); ctx.globalAlpha = 1 - k; SCENES[idx - 1][1](ctx, t); ctx.restore(); }
-  if (t > SEG[9].end + 0.6) text(ctx, 'सिर्फ़ जानकारी के लिए। निवेश सलाह नहीं।', 540, 1490, { size: 40, c: GREY, weight: 'normal', alpha: ramp(t, SEG[9].end + 0.6, 0.3) });
+  if (t > SEG[9].end + 0.6) text(ctx, 'Sirf jaankari ke liye. Investment advice nahi.', 540, 1490, { size: 40, c: GREY, weight: 'normal', alpha: ramp(t, SEG[9].end + 0.6, 0.3) });
   const c = CUES.find(c => t >= c.start - 0.05 && t <= c.end);
   if (c) text(ctx, c.text, 540, 1565, { size: 76, c: '#2b2b2b', weight: 'bold' });
 }
