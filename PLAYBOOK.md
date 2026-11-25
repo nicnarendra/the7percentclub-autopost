@@ -27,6 +27,11 @@ bash studio/setup.sh          # node canvas, Kokoro TTS (free, open source) + mo
 
 Work in `studio/work/<slug>/`, which is git-ignored.
 
+## What's working
+
+Read `plans/notes.md` before picking work (if it exists). The weekly growth review rewrites it every Monday
+with what is winning and what to avoid. Follow it when you choose hooks, titles, topics and length.
+
 ## Making one video
 
 1. **Research and fact-check first.** Every number on screen must come from a current, official or reputable source,
