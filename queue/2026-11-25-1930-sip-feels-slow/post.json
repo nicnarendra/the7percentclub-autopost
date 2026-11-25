@@ -26,5 +26,27 @@
     "playlist": "investing-india"
   },
   "caption": "₹5,000 ka monthly SIP = ₹50 lakh? 🤔\nToh phir SIP itna bekaar kyun lagta hai?\n\n5 saal: ₹3L daale → ~₹4.1L\n10 saal: ₹6L daale → ~₹11.6L\n20 saal: ₹12L daale → ~₹50L\n\nGrowth late dikhti hai, aur zyaadatar log saal 3 mein hi ruk jaate hain. Save karo is post ko 📌\n\nAapka SIP kitne saal purana hai? 👇\n\n12% per year maan kar, sirf example. Koi guarantee nahi.\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#sip #mutualfunds #compounding #personalfinance #sharemarkethindi #the7percentclub",
-  "language": "hi"
+  "language": "hi",
+  "results": {
+    "youtube": {
+      "id": "jE_brQQ6bo8",
+      "url": "https://youtube.com/shorts/jE_brQQ6bo8",
+      "privacy": "public",
+      "posted_at": "2026-11-25T19:46:56.170691+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "investing-india",
+        "comment": true
+      }
+    },
+    "facebook": {
+      "error": "Facebook start failed: 400 {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"A4E_V78OrgqMKsJC85o4Qa4\"}}",
+      "failed_at": "2026-11-25T19:46:56.296120+05:30"
+    },
+    "instagram": {
+      "error": "Instagram container failed: 400 {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AAocoRCdwdBvs0ibj8WZTUH\"}}",
+      "failed_at": "2026-11-25T19:46:56.427651+05:30"
+    }
+  }
 }

@@ -1,4 +1,12 @@
-mode=post channel=in at 2026-11-25T12:19:39Z
+mode=post channel=in at 2026-11-25T14:16:52Z
 Channel: The 7% Club (in)
+== 2026-11-25-1930-sip-feels-slow: due 2026-11-25T19:30:00+05:30, posting to youtube, facebook, instagram
+   youtube: OK https://youtube.com/shorts/jE_brQQ6bo8
+   facebook: FAILED Facebook start failed: 400 {"error":{"message":"Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page.","type":"OAuthException","code":190,"fbtrace_id":"A4E_V78OrgqMKsJC85o4Qa4"}}
+   instagram: FAILED Instagram container failed: 400 {"error":{"message":"Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page.","type":"OAuthException","code":190,"fbtrace_id":"AAocoRCdwdBvs0ibj8WZTUH"}}
+2026-11-25-1930-sip-feels-slow: title/description/tags updated
+2026-11-25-1930-sip-feels-slow: English captions uploaded
+2026-11-25-1930-sip-feels-slow: added to playlist 'Investing in India: SIP, Mutual Funds & Index Funds'
+2026-11-25-1930-sip-feels-slow: link comment posted (pin it in Studio for best results)
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 3
 Analytics saved to status/analytics-in.json: 0 videos with data
