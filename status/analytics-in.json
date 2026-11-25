@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:52:04.540506+00:00",
+ "generated_at": "2026-11-25T15:01:07.771888+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -46,13 +46,28 @@
      "saved": 0,
      "shares": 0
     }
+   },
+   {
+    "dir": "2026-11-25-1930-sip-feels-slow",
+    "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
+    "id": "18133679351508530",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-25T15:00:58+0000",
+    "insights": {
+     "reach": 0,
+     "views": 0,
+     "saved": 0,
+     "shares": 0
+    }
    }
   ],
   "notes": [],
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 2
+   "media_count": 3
   }
  },
  "queue": [
@@ -82,7 +97,7 @@
    "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
    "publish_at": "2026-11-25T19:30:00+05:30",
    "youtube_id": "jE_brQQ6bo8",
-   "instagram_id": null,
+   "instagram_id": "18133679351508530",
    "facebook_id": "1515445770425467",
    "playlist": "investing-india"
   },
