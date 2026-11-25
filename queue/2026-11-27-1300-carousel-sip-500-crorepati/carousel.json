@@ -1,0 +1,62 @@
+{
+ "handle": "@the7.percentclub",
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "₹500 a month",
+   "accent": "= ₹1 crore?",
+   "sub": "Can a ₹500 SIP make you a crorepati?",
+   "mood": "shock"
+  },
+  {
+   "kind": "stat",
+   "label": "After 10 years",
+   "big": "₹1.16 lakh",
+   "note": "₹60,000 invested · assumes 12% a year, not guaranteed"
+  },
+  {
+   "kind": "stat",
+   "label": "After 30 years",
+   "big": "₹17.6 lakh",
+   "note": "₹1.8 lakh invested · assumes 12% a year, not guaranteed"
+  },
+  {
+   "kind": "stat",
+   "label": "₹1 crore takes",
+   "big": "~44 years",
+   "note": "~70% arrives in the last 10 years · assumes 12%/yr"
+  },
+  {
+   "kind": "compare",
+   "title": "Years to ₹1 crore",
+   "left": [
+    "Flat ₹500",
+    "44 yrs"
+   ],
+   "right": [
+    "+10%/yr",
+    "36 yrs"
+   ],
+   "note": "raise it 10% each year · assumes 12%/yr, not guaranteed"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "title": [
+    "Start small.",
+    "Don't stay small."
+   ],
+   "body": [
+    "₹500 is a great start.",
+    "Raise it every year",
+    "as your income grows."
+   ],
+   "mood": "happy"
+  },
+  {
+   "kind": "end",
+   "title": "Save this",
+   "sub": "and step up your SIP this year"
+  }
+ ]
+}

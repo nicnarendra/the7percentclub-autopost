@@ -1,0 +1,32 @@
+{
+  "day": 2,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-26T08:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Why Most Option Buyers Lose Money (SEBI FY26 Data) #Shorts",
+    "description": "Why do most option buyers lose money even when the market moves their way? SEBI's FY26 study found about 87.7% of individual F&O traders lost money, and options made up about 92% of those losses. One big reason: time decay (theta) melts your option premium every day.\n\nNumbers in this video:\n• 87.7% of individual equity F&O traders made net losses in FY 2025-26; aggregate net loss about ₹91,685 crore (SEBI study, Aug 2026)\n• Options accounted for about 92% of individual traders' aggregate losses (same SEBI study)\n\nHave you ever been right on direction and still lost on an option? Tell us below.\n📌 Educational content only. Not SEBI-registered. Not investment advice.\n\n#optiontrading #theta #sebi",
+    "tags": [
+      "option trading",
+      "option buying",
+      "theta",
+      "time decay",
+      "SEBI study",
+      "F&O trading",
+      "F&O losses",
+      "options for beginners",
+      "nifty options",
+      "trading psychology",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "options-basics"
+  },
+  "caption": "You bought the option. The market moved your way. You still lost money? 🍦\n\nSEBI's FY26 study: 87.7% of individual F&O traders lost money, and ~92% of those losses came from options.\nAn option is like an ice cream: the premium melts every day (theta).\nThe market has to move enough, and fast enough.\n\nEver been right on direction and still lost? 👇\n📌 Educational content only. Not SEBI-registered. Not investment advice.\n\n#optiontrading #optionsbuying #theta #sebi #nifty #trading #the7percentclub"
+}

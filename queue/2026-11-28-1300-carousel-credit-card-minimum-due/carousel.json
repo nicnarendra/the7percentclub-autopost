@@ -1,0 +1,73 @@
+{
+ "handle": "@the7.percentclub",
+ "slides": [
+  {
+   "kind": "hook",
+   "title": "\"Minimum due\"",
+   "accent": "costliest button",
+   "sub": "on your credit card",
+   "mood": "shock"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "title": [
+    "Up to 3.75%",
+    "a month"
+   ],
+   "body": [
+    "That's about 45% a year.",
+    "Common top rate on cards",
+    "from SBI Card, HDFC, ICICI, Axis."
+   ],
+   "mood": "shock"
+  },
+  {
+   "kind": "compare",
+   "title": "₹1 lakh, 12 months later",
+   "left": [
+    "Still owe",
+    "₹86,000"
+   ],
+   "right": [
+    "You paid",
+    "₹56,000"
+   ],
+   "note": "paying only a 5% minimum at 3.75%/month · illustrative"
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "title": [
+    "New buys lose",
+    "interest-free days"
+   ],
+   "body": [
+    "Carry a balance and new",
+    "purchases usually start",
+    "charging interest at once."
+   ],
+   "mood": "worried"
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "title": [
+    "Pay the",
+    "total due"
+   ],
+   "body": [
+    "Minimum due only stops",
+    "late fees. Can't pay in full?",
+    "Pay as much as you can,",
+    "and stop swiping."
+   ],
+   "mood": "happy"
+  },
+  {
+   "kind": "end",
+   "title": "Save this",
+   "sub": "before your next card bill"
+  }
+ ]
+}

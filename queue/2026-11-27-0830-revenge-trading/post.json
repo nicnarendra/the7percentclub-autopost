@@ -1,0 +1,30 @@
+{
+  "day": 3,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-27T08:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Revenge Trading: The Trap That Eats Accounts #Shorts",
+    "description": "Revenge trading is the trap that eats trading accounts: after a loss you trade bigger, faster and without a plan. The recovery maths is brutal: lose 10% and you need about 11% to get back; lose 50% and you need 100%. One fix: a maximum daily loss, decided before the market opens.\n\nNumbers in this video:\n• Recovery maths: gain needed = loss ÷ (1 − loss). 10% loss needs 11.1%; 50% loss needs 100%\n\nHave you ever tried to win back a loss the same day? What happened? Comment below.\n📌 Educational content only. Not SEBI-registered. Not investment advice.\n\n#trading #tradingpsychology #revengetrading",
+    "tags": [
+      "revenge trading",
+      "trading psychology",
+      "risk management",
+      "daily loss limit",
+      "trading for beginners",
+      "stock market india",
+      "intraday trading",
+      "F&O trading",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "trading-psychology"
+  },
+  "caption": "You lost ₹5,000. So you trade ₹20,000 to win it back. Stop. 🛑\n\nLose 10% and you need 11% just to get back.\nLose 50% and you need 100%.\nBigger trades after a loss dig the hole deeper.\nSet a max loss for the day. Hit it, close the app, walk away.\n\nEver tried to win back a loss the same day? 👇\n📌 Educational content only. Not SEBI-registered. Not investment advice.\n\n#revengetrading #tradingpsychology #trading #stockmarketindia #riskmanagement #the7percentclub"
+}
