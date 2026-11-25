@@ -1,4 +1,6 @@
-mode=check channel=in at 2026-11-24T21:20:55Z
-YouTube: key works, uploads to 'The 7% Club' (@the.7percentclub)
-Facebook Page: key works (The 7% Club)
-Instagram: key works (the7.percentclub)
+mode=post channel=in at 2026-11-25T03:29:45Z
+Channel: The 7% Club (in)
+== 2026-11-25-0830-traders-lose-money: due 2026-11-24T20:55:00+05:30, posting to facebook, instagram
+   facebook: OK https://www.facebook.com/reel/1161733302902358
+   instagram: OK https://www.instagram.com/reel/DgJkVHbo4xu/
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 0

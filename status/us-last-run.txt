@@ -1,17 +1,4 @@
-mode=seo channel=us at 2026-11-24T19:34:09Z
-Channel description, keywords, country and language updated
+mode=post channel=us at 2026-11-25T03:30:28Z
+Channel: The Boring Rich Club (us)
 Profile picture saved to status/us-avatar.jpg; subscribers 0, videos 0, views 0
-Watermark FAILED: 400 {
-  "error": {
-    "code": 400,
-    "message": "Invalid Value",
-    "errors": [
-      {
-        "message": "Invalid Value",
-        "domain": "global",
-        "reason": "invalid"
-      }
-    ]
-  }
-}
-
+Subscribe watermark set (offsetFromStart)
