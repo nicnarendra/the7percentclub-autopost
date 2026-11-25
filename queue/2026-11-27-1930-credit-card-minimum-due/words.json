@@ -1,632 +1,642 @@
 [
 {
-"text": "Paying",
+"text": "Minimum",
 "start": 0.0,
-"end": 0.384
-},
-{
-"text": "the",
-"start": 0.417,
-"end": 0.657
-},
-{
-"text": "minimum",
-"start": 0.678,
-"end": 1.109
+"end": 0.46
 },
 {
 "text": "due",
-"start": 1.147,
-"end": 1.387
+"start": 0.5,
+"end": 0.756
 },
 {
-"text": "feels",
-"start": 1.407,
-"end": 1.743
+"text": "bharna",
+"start": 0.778,
+"end": 1.188
 },
 {
-"text": "smart.",
-"start": 1.772,
-"end": 2.108
+"text": "smart",
+"start": 1.223,
+"end": 1.581
 },
 {
-"text": "It's",
-"start": 2.137,
-"end": 2.377
+"text": "lagta",
+"start": 1.613,
+"end": 1.971
 },
 {
-"text": "the",
-"start": 2.398,
-"end": 2.638
+"text": "hai.",
+"start": 2.002,
+"end": 2.258
 },
 {
-"text": "most",
-"start": 2.659,
-"end": 2.946
+"text": "Par",
+"start": 2.28,
+"end": 2.536
 },
 {
-"text": "expensive",
-"start": 2.971,
-"end": 3.499
+"text": "yeh",
+"start": 2.558,
+"end": 2.814
+},
+{
+"text": "aapke",
+"start": 2.836,
+"end": 3.194
+},
+{
+"text": "card",
+"start": 3.225,
+"end": 3.532
+},
+{
+"text": "ka",
+"start": 3.559,
+"end": 3.763
+},
+{
+"text": "sabse",
+"start": 3.781,
+"end": 4.139
+},
+{
+"text": "mehenga",
+"start": 4.17,
+"end": 4.631
 },
 {
 "text": "button",
-"start": 3.545,
-"end": 3.928
+"start": 4.671,
+"end": 5.08
 },
 {
-"text": "on",
-"start": 3.962,
-"end": 4.154
+"text": "hai.",
+"start": 5.116,
+"end": 5.371
 },
 {
-"text": "your",
-"start": 4.17,
-"end": 4.458
-},
-{
-"text": "card.",
-"start": 4.483,
-"end": 4.771
-},
-{
-"text": "Most",
-"start": 5.096,
-"end": 5.394
+"text": "Zyaadatar",
+"start": 5.674,
+"end": 6.503
 },
 {
 "text": "Indian",
-"start": 5.42,
-"end": 5.817
+"start": 6.575,
+"end": 7.177
 },
 {
 "text": "credit",
-"start": 5.852,
-"end": 6.249
+"start": 7.23,
+"end": 7.833
 },
 {
 "text": "cards",
-"start": 6.284,
-"end": 6.631
+"start": 7.885,
+"end": 8.413
 },
 {
-"text": "charge",
-"start": 6.661,
-"end": 7.059
+"text": "mahine",
+"start": 8.459,
+"end": 9.062
 },
 {
-"text": "up",
-"start": 7.093,
-"end": 7.292
+"text": "ka",
+"start": 9.114,
+"end": 9.415
 },
 {
-"text": "to",
-"start": 7.309,
-"end": 7.508
+"text": "3.75%",
+"start": 9.442,
+"end": 9.818
 },
 {
-"text": "three",
-"start": 7.525,
-"end": 7.873
+"text": "tak",
+"start": 9.851,
+"end": 10.228
 },
 {
-"text": "point",
-"start": 7.903,
-"end": 8.251
+"text": "interest",
+"start": 10.261,
+"end": 11.014
 },
 {
-"text": "seven",
-"start": 8.281,
-"end": 8.629
+"text": "lete",
+"start": 11.08,
+"end": 11.532
 },
 {
-"text": "five",
-"start": 8.659,
-"end": 8.957
+"text": "hain.",
+"start": 11.571,
+"end": 12.024
 },
 {
-"text": "percent",
-"start": 8.983,
-"end": 9.43
+"text": "Yaani",
+"start": 12.343,
+"end": 12.941
 },
 {
-"text": "a",
-"start": 9.469,
-"end": 9.618
+"text": "saal",
+"start": 12.993,
+"end": 13.505
 },
 {
-"text": "month.",
-"start": 9.631,
-"end": 9.978
+"text": "ka",
+"start": 13.55,
+"end": 13.892
 },
 {
-"text": "That's",
-"start": 10.309,
-"end": 10.604
+"text": "kareeb",
+"start": 13.921,
+"end": 14.605
 },
 {
-"text": "about",
-"start": 10.63,
-"end": 10.925
+"text": "45%.",
+"start": 14.664,
+"end": 15.006
 },
 {
-"text": "forty-five",
-"start": 10.951,
-"end": 11.415
+"text": "Maan",
+"start": 15.316,
+"end": 15.659
 },
 {
-"text": "percent",
-"start": 11.456,
-"end": 11.835
+"text": "lo",
+"start": 15.689,
+"end": 15.917
 },
 {
-"text": "a",
-"start": 11.868,
-"end": 11.995
+"text": "aap",
+"start": 15.937,
+"end": 16.223
 },
 {
-"text": "year.",
-"start": 12.006,
-"end": 12.259
+"text": "par",
+"start": 16.248,
+"end": 16.534
 },
 {
-"text": "Say",
-"start": 12.581,
-"end": 12.821
-},
-{
-"text": "you",
-"start": 12.841,
-"end": 13.081
-},
-{
-"text": "owe",
-"start": 13.101,
-"end": 13.341
-},
-{
-"text": "one",
-"start": 13.361,
-"end": 13.601
+"text": "\u20b91",
+"start": 16.559,
+"end": 16.73
 },
 {
 "text": "lakh",
-"start": 13.621,
-"end": 13.908
+"start": 16.745,
+"end": 17.088
 },
 {
-"text": "rupees,",
-"start": 13.933,
-"end": 14.316
+"text": "ka",
+"start": 17.118,
+"end": 17.347
 },
 {
-"text": "and",
-"start": 14.349,
-"end": 14.589
+"text": "bill",
+"start": 17.367,
+"end": 17.71
 },
 {
-"text": "you",
-"start": 14.609,
-"end": 14.849
+"text": "hai,",
+"start": 17.74,
+"end": 18.026
 },
 {
-"text": "only",
-"start": 14.869,
-"end": 15.157
+"text": "aur",
+"start": 18.051,
+"end": 18.337
 },
 {
-"text": "pay",
-"start": 15.182,
-"end": 15.421
+"text": "aap",
+"start": 18.361,
+"end": 18.647
 },
 {
-"text": "the",
-"start": 15.442,
-"end": 15.681
+"text": "har",
+"start": 18.672,
+"end": 18.958
 },
 {
-"text": "minimum,",
-"start": 15.702,
-"end": 16.132
+"text": "mahine",
+"start": 18.983,
+"end": 19.441
 },
 {
-"text": "about",
-"start": 16.17,
-"end": 16.504
+"text": "sirf",
+"start": 19.48,
+"end": 19.823
 },
 {
-"text": "five",
-"start": 16.534,
-"end": 16.821
-},
-{
-"text": "percent.",
-"start": 16.846,
-"end": 17.276
-},
-{
-"text": "After",
-"start": 17.614,
-"end": 17.934
-},
-{
-"text": "twelve",
-"start": 17.962,
-"end": 18.327
-},
-{
-"text": "months,",
-"start": 18.359,
-"end": 18.725
-},
-{
-"text": "you've",
-"start": 18.757,
-"end": 19.077
-},
-{
-"text": "paid",
-"start": 19.105,
-"end": 19.379
-},
-{
-"text": "around",
-"start": 19.403,
-"end": 19.769
-},
-{
-"text": "fifty-six",
-"start": 19.801,
-"end": 20.258
-},
-{
-"text": "thousand.",
-"start": 20.298,
-"end": 20.755
-},
-{
-"text": "And",
-"start": 21.095,
-"end": 21.305
-},
-{
-"text": "you",
-"start": 21.323,
-"end": 21.533
-},
-{
-"text": "still",
-"start": 21.551,
-"end": 21.845
-},
-{
-"text": "owe",
-"start": 21.87,
-"end": 22.08
-},
-{
-"text": "about",
-"start": 22.099,
-"end": 22.392
-},
-{
-"text": "eighty-six",
-"start": 22.418,
-"end": 22.88
-},
-{
-"text": "thousand.",
-"start": 22.92,
-"end": 23.34
-},
-{
-"text": "Worse,",
-"start": 23.676,
-"end": 24.055
-},
-{
-"text": "new",
-"start": 24.087,
-"end": 24.358
-},
-{
-"text": "purchases",
-"start": 24.381,
-"end": 24.976
-},
-{
-"text": "usually",
-"start": 25.028,
-"end": 25.515
-},
-{
-"text": "lose",
-"start": 25.557,
-"end": 25.881
-},
-{
-"text": "their",
-"start": 25.91,
-"end": 26.288
-},
-{
-"text": "interest-free",
-"start": 26.321,
-"end": 27.078
-},
-{
-"text": "period.",
-"start": 27.144,
-"end": 27.577
-},
-{
-"text": "The",
-"start": 27.914,
-"end": 28.133
+"text": "5%",
+"start": 19.853,
+"end": 20.025
 },
 {
 "text": "minimum",
-"start": 28.152,
-"end": 28.544
+"start": 20.04,
+"end": 20.554
+},
+{
+"text": "bharte",
+"start": 20.599,
+"end": 21.057
+},
+{
+"text": "ho.",
+"start": 21.096,
+"end": 21.325
+},
+{
+"text": "12",
+"start": 21.625,
+"end": 21.885
+},
+{
+"text": "mahine",
+"start": 21.908,
+"end": 22.429
+},
+{
+"text": "baad,",
+"start": 22.474,
+"end": 22.864
+},
+{
+"text": "aapne",
+"start": 22.898,
+"end": 23.354
+},
+{
+"text": "kareeb",
+"start": 23.393,
+"end": 23.914
+},
+{
+"text": "\u20b957,000",
+"start": 23.959,
+"end": 24.415
+},
+{
+"text": "bhar",
+"start": 24.454,
+"end": 24.845
+},
+{
+"text": "diye.",
+"start": 24.879,
+"end": 25.269
+},
+{
+"text": "Aur",
+"start": 25.583,
+"end": 25.877
+},
+{
+"text": "phir",
+"start": 25.903,
+"end": 26.257
+},
+{
+"text": "bhi",
+"start": 26.287,
+"end": 26.582
+},
+{
+"text": "kareeb",
+"start": 26.607,
+"end": 27.079
+},
+{
+"text": "\u20b984,000",
+"start": 27.12,
+"end": 27.532
+},
+{
+"text": "baaki",
+"start": 27.568,
+"end": 27.98
+},
+{
+"text": "hai.",
+"start": 28.016,
+"end": 28.311
+},
+{
+"text": "Upar",
+"start": 28.617,
+"end": 28.928
+},
+{
+"text": "se,",
+"start": 28.955,
+"end": 29.162
+},
+{
+"text": "nayi",
+"start": 29.18,
+"end": 29.491
+},
+{
+"text": "khareedari",
+"start": 29.518,
+"end": 30.14
+},
+{
+"text": "par",
+"start": 30.194,
+"end": 30.453
+},
+{
+"text": "aam",
+"start": 30.476,
+"end": 30.735
+},
+{
+"text": "taur",
+"start": 30.757,
+"end": 31.068
+},
+{
+"text": "pe",
+"start": 31.095,
+"end": 31.303
+},
+{
+"text": "interest",
+"start": 31.321,
+"end": 31.839
+},
+{
+"text": "free",
+"start": 31.884,
+"end": 32.195
+},
+{
+"text": "period",
+"start": 32.222,
+"end": 32.637
+},
+{
+"text": "bhi",
+"start": 32.673,
+"end": 32.932
+},
+{
+"text": "nahi",
+"start": 32.955,
+"end": 33.266
+},
+{
+"text": "milta.",
+"start": 33.293,
+"end": 33.655
+},
+{
+"text": "Minimum",
+"start": 33.967,
+"end": 34.408
 },
 {
 "text": "due",
-"start": 28.578,
-"end": 28.797
+"start": 34.446,
+"end": 34.691
 },
 {
-"text": "only",
-"start": 28.816,
-"end": 29.077
-},
-{
-"text": "saves",
-"start": 29.1,
-"end": 29.406
-},
-{
-"text": "you",
-"start": 29.432,
-"end": 29.65
-},
-{
-"text": "from",
-"start": 29.669,
-"end": 29.931
+"text": "bas",
+"start": 34.712,
+"end": 34.957
 },
 {
 "text": "late",
-"start": 29.954,
-"end": 30.216
+"start": 34.978,
+"end": 35.272
 },
 {
-"text": "fees.",
-"start": 30.239,
-"end": 30.5
+"text": "fees",
+"start": 35.297,
+"end": 35.591
 },
 {
-"text": "It",
-"start": 30.523,
-"end": 30.698
+"text": "se",
+"start": 35.616,
+"end": 35.812
 },
 {
-"text": "doesn't",
-"start": 30.713,
-"end": 31.062
+"text": "bachaata",
+"start": 35.829,
+"end": 36.319
 },
 {
-"text": "clear",
-"start": 31.092,
-"end": 31.398
+"text": "hai.",
+"start": 36.361,
+"end": 36.606
 },
 {
-"text": "the",
-"start": 31.425,
-"end": 31.643
+"text": "Karz",
+"start": 36.627,
+"end": 36.921
 },
 {
-"text": "debt.",
-"start": 31.662,
-"end": 31.924
+"text": "khatam",
+"start": 36.947,
+"end": 37.338
 },
 {
-"text": "This",
-"start": 32.246,
-"end": 32.554
+"text": "nahi",
+"start": 37.372,
+"end": 37.666
 },
 {
-"text": "assumes",
-"start": 32.58,
-"end": 33.041
+"text": "karta.",
+"start": 37.692,
+"end": 38.034
 },
 {
-"text": "three",
-"start": 33.081,
-"end": 33.44
+"text": "Yeh",
+"start": 38.344,
+"end": 38.718
 },
 {
-"text": "point",
-"start": 33.471,
-"end": 33.829
+"text": "3.75%",
+"start": 38.751,
+"end": 39.125
 },
 {
-"text": "seven",
-"start": 33.86,
-"end": 34.219
+"text": "mahina",
+"start": 39.157,
+"end": 39.756
 },
 {
-"text": "five",
-"start": 34.25,
-"end": 34.557
+"text": "aur",
+"start": 39.808,
+"end": 40.182
 },
 {
-"text": "percent",
-"start": 34.584,
-"end": 35.045
+"text": "5%",
+"start": 40.215,
+"end": 40.439
 },
 {
-"text": "a",
-"start": 35.085,
-"end": 35.238
+"text": "minimum",
+"start": 40.459,
+"end": 41.132
 },
 {
-"text": "month",
-"start": 35.252,
-"end": 35.61
+"text": "maan",
+"start": 41.191,
+"end": 41.64
 },
 {
-"text": "and",
-"start": 35.641,
-"end": 35.897
+"text": "kar",
+"start": 41.679,
+"end": 42.053
 },
 {
-"text": "a",
-"start": 35.919,
-"end": 36.073
+"text": "hai.",
+"start": 42.086,
+"end": 42.46
 },
 {
-"text": "five",
-"start": 36.086,
-"end": 36.394
+"text": "Har",
+"start": 42.492,
+"end": 42.866
 },
 {
-"text": "percent",
-"start": 36.42,
-"end": 36.881
+"text": "bank",
+"start": 42.899,
+"end": 43.348
 },
 {
-"text": "minimum.",
-"start": 36.921,
-"end": 37.382
-},
-{
-"text": "Real",
-"start": 37.422,
-"end": 37.729
+"text": "ki",
+"start": 43.387,
+"end": 43.686
 },
 {
 "text": "terms",
-"start": 37.756,
-"end": 38.114
+"start": 43.712,
+"end": 44.236
 },
 {
-"text": "vary",
-"start": 38.146,
-"end": 38.453
+"text": "alag",
+"start": 44.282,
+"end": 44.731
 },
 {
-"text": "by",
-"start": 38.48,
-"end": 38.684
+"text": "hoti",
+"start": 44.77,
+"end": 45.219
 },
 {
-"text": "bank.",
-"start": 38.702,
-"end": 39.009
+"text": "hain.",
+"start": 45.258,
+"end": 45.707
 },
 {
-"text": "So",
-"start": 39.336,
-"end": 39.533
-},
-{
-"text": "pay",
-"start": 39.55,
-"end": 39.796
-},
-{
-"text": "the",
-"start": 39.817,
-"end": 40.063
+"text": "Toh",
+"start": 46.026,
+"end": 46.273
 },
 {
 "text": "total",
-"start": 40.084,
-"end": 40.428
+"start": 46.294,
+"end": 46.64
 },
 {
-"text": "due.",
-"start": 40.458,
-"end": 40.704
+"text": "due",
+"start": 46.67,
+"end": 46.916
 },
 {
-"text": "If",
-"start": 40.726,
-"end": 40.922
+"text": "bharo.",
+"start": 46.938,
+"end": 47.283
 },
 {
-"text": "you",
-"start": 40.939,
-"end": 41.185
+"text": "Nahi",
+"start": 47.313,
+"end": 47.609
 },
 {
-"text": "can't,",
-"start": 41.207,
-"end": 41.502
+"text": "ho",
+"start": 47.635,
+"end": 47.833
 },
 {
-"text": "pay",
-"start": 41.527,
-"end": 41.773
+"text": "pa",
+"start": 47.85,
+"end": 48.047
 },
 {
-"text": "as",
-"start": 41.794,
-"end": 41.991
+"text": "raha,",
+"start": 48.064,
+"end": 48.36
 },
 {
-"text": "much",
-"start": 42.008,
-"end": 42.303
+"text": "toh",
+"start": 48.386,
+"end": 48.633
 },
 {
-"text": "as",
-"start": 42.329,
-"end": 42.525
+"text": "jitna",
+"start": 48.654,
+"end": 49.0
 },
 {
-"text": "you",
-"start": 42.543,
-"end": 42.788
+"text": "ho",
+"start": 49.03,
+"end": 49.227
 },
 {
-"text": "can,",
-"start": 42.81,
-"end": 43.056
+"text": "sake",
+"start": 49.244,
+"end": 49.541
 },
 {
-"text": "and",
-"start": 43.077,
-"end": 43.323
+"text": "bharo,",
+"start": 49.566,
+"end": 49.912
 },
 {
-"text": "stop",
-"start": 43.344,
-"end": 43.639
+"text": "aur",
+"start": 49.942,
+"end": 50.189
 },
 {
-"text": "swiping.",
-"start": 43.665,
-"end": 44.107
+"text": "swipe",
+"start": 50.21,
+"end": 50.556
+},
+{
+"text": "karna",
+"start": 50.586,
+"end": 50.931
+},
+{
+"text": "roko.",
+"start": 50.961,
+"end": 51.257
 },
 {
 "text": "Follow",
-"start": 44.446,
-"end": 45.013
+"start": 51.563,
+"end": 52.116
+},
+{
+"text": "karo",
+"start": 52.164,
+"end": 52.578
 },
 {
 "text": "The",
-"start": 45.063,
-"end": 45.418
+"start": 52.614,
+"end": 52.96
 },
 {
 "text": "7%",
-"start": 45.448,
-"end": 45.661
+"start": 52.99,
+"end": 53.197
 },
 {
 "text": "Club.",
-"start": 45.68,
-"end": 46.106
+"start": 53.215,
+"end": 53.63
 }
 ]

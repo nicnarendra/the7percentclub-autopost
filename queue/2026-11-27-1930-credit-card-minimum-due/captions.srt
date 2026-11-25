@@ -1,127 +1,131 @@
 1
-00:00:00,300 --> 00:00:02,052
-Paying the minimum due feels
+00:00:00,300 --> 00:00:01,893
+Minimum due bharna smart
 
 2
-00:00:02,072 --> 00:00:02,417
-smart.
+00:00:01,913 --> 00:00:02,560
+lagta hai.
 
 3
-00:00:02,437 --> 00:00:03,825
-It's the most expensive
+00:00:02,580 --> 00:00:04,450
+Par yeh aapke card ka sabse
 
 4
-00:00:03,845 --> 00:00:05,376
-button on your card.
+00:00:04,470 --> 00:00:05,954
+mehenga button hai.
 
 5
-00:00:05,396 --> 00:00:06,941
-Most Indian credit cards
+00:00:05,974 --> 00:00:08,165
+Zyaadatar Indian credit
 
 6
-00:00:06,961 --> 00:00:08,561
-charge up to three point
+00:00:08,185 --> 00:00:10,541
+cards mahine ka 3.75% tak
 
 7
-00:00:08,581 --> 00:00:10,589
-seven five percent a month.
+00:00:10,561 --> 00:00:12,623
+interest lete hain.
 
 8
-00:00:10,609 --> 00:00:11,736
-That's about forty-five
+00:00:12,643 --> 00:00:15,596
+Yaani saal ka kareeb 45%.
 
 9
-00:00:11,756 --> 00:00:12,861
-percent a year.
+00:00:15,616 --> 00:00:17,398
+Maan lo aap par ₹1 lakh
 
 10
-00:00:12,881 --> 00:00:14,629
-Say you owe one lakh rupees,
+00:00:17,418 --> 00:00:18,331
+ka bill hai,
 
 11
-00:00:14,649 --> 00:00:16,450
-and you only pay the minimum,
+00:00:18,351 --> 00:00:20,133
+aur aap har mahine sirf
 
 12
-00:00:16,470 --> 00:00:17,894
-about five percent.
+00:00:20,153 --> 00:00:21,905
+5% minimum bharte ho.
 
 13
-00:00:17,914 --> 00:00:19,037
-After twelve months,
+00:00:21,925 --> 00:00:23,178
+12 mahine baad,
 
 14
-00:00:19,057 --> 00:00:20,578
-you've paid around fifty-six
+00:00:23,198 --> 00:00:25,159
+aapne kareeb ₹57,000 bhar
 
 15
-00:00:20,598 --> 00:00:21,375
-thousand.
+00:00:25,179 --> 00:00:25,863
+diye.
 
 16
-00:00:21,395 --> 00:00:22,698
-And you still owe about
+00:00:25,883 --> 00:00:27,848
+Aur phir bhi kareeb ₹84,000
 
 17
-00:00:22,718 --> 00:00:23,956
-eighty-six thousand.
+00:00:27,868 --> 00:00:28,897
+baaki hai.
 
 18
-00:00:23,976 --> 00:00:24,367
-Worse,
+00:00:28,917 --> 00:00:29,460
+Upar se,
 
 19
-00:00:24,387 --> 00:00:26,190
-new purchases usually lose
+00:00:29,480 --> 00:00:31,037
+nayi khareedari par aam
 
 20
-00:00:26,210 --> 00:00:28,194
-their interest-free period.
+00:00:31,057 --> 00:00:32,953
+taur pe interest free period
 
 21
-00:00:28,214 --> 00:00:29,712
-The minimum due only saves
+00:00:32,973 --> 00:00:34,247
+bhi nahi milta.
 
 22
-00:00:29,732 --> 00:00:30,803
-you from late fees.
+00:00:34,267 --> 00:00:35,896
+Minimum due bas late fees
 
 23
-00:00:30,823 --> 00:00:32,526
-It doesn't clear the debt.
+00:00:35,916 --> 00:00:36,907
+se bachaata hai.
 
 24
-00:00:32,546 --> 00:00:34,140
-This assumes three point
+00:00:36,927 --> 00:00:38,624
+Karz khatam nahi karta.
 
 25
-00:00:34,160 --> 00:00:35,921
-seven five percent a month
+00:00:38,644 --> 00:00:40,739
+Yeh 3.75% mahina aur 5%
 
 26
-00:00:35,941 --> 00:00:37,702
-and a five percent minimum.
+00:00:40,759 --> 00:00:42,772
+minimum maan kar hai.
 
 27
-00:00:37,722 --> 00:00:39,616
-Real terms vary by bank.
+00:00:42,792 --> 00:00:45,538
+Har bank ki terms alag hoti
 
 28
-00:00:39,636 --> 00:00:41,006
-So pay the total due.
+00:00:45,558 --> 00:00:46,306
+hain.
 
 29
-00:00:41,026 --> 00:00:41,807
-If you can't,
+00:00:46,326 --> 00:00:47,593
+Toh total due bharo.
 
 30
-00:00:41,827 --> 00:00:43,357
-pay as much as you can,
+00:00:47,613 --> 00:00:48,666
+Nahi ho pa raha,
 
 31
-00:00:43,377 --> 00:00:44,726
-and stop swiping.
+00:00:48,686 --> 00:00:50,222
+toh jitna ho sake bharo,
 
 32
-00:00:44,746 --> 00:00:47,206
-Follow The 7% Club.
+00:00:50,242 --> 00:00:51,843
+aur swipe karna roko.
+
+33
+00:00:51,863 --> 00:00:54,730
+Follow karo The 7% Club.

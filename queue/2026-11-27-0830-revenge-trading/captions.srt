@@ -1,135 +1,139 @@
 1
-00:00:00,300 --> 00:00:02,150
-You lost five thousand rupees.
+00:00:00,300 --> 00:00:01,667
+₹5,000 ka loss hua.
 
 2
-00:00:02,170 --> 00:00:03,967
-So you trade twenty thousand
+00:00:01,687 --> 00:00:03,649
+Toh aapne ₹20,000 ka trade
 
 3
-00:00:03,987 --> 00:00:04,982
-to win it back.
+00:00:03,669 --> 00:00:04,310
+le liya,
 
 4
-00:00:05,002 --> 00:00:05,602
-Stop.
+00:00:04,330 --> 00:00:05,961
+wapas jeetne ke liye.
 
 5
-00:00:05,622 --> 00:00:06,899
-That's revenge trading,
+00:00:05,981 --> 00:00:06,638
+Ruko!
 
 6
-00:00:06,919 --> 00:00:08,496
-and it eats accounts.
+00:00:06,658 --> 00:00:08,535
+Ise kehte hain revenge trading,
 
 7
-00:00:08,516 --> 00:00:09,284
-After a loss,
+00:00:08,555 --> 00:00:10,221
+aur yeh accounts kha jaata
 
 8
-00:00:09,304 --> 00:00:10,810
-your brain wants the pain
+00:00:10,241 --> 00:00:10,765
+hai.
 
 9
-00:00:10,830 --> 00:00:11,105
-gone,
+00:00:10,785 --> 00:00:11,656
+Loss ke baad,
 
 10
-00:00:11,125 --> 00:00:11,996
-right now.
+00:00:11,676 --> 00:00:13,382
+dimaag chahta hai ki dard
 
 11
-00:00:12,016 --> 00:00:13,135
-So you trade bigger,
+00:00:13,402 --> 00:00:15,222
+abhi ke abhi khatam ho.
 
 12
-00:00:13,155 --> 00:00:13,515
-faster,
+00:00:15,242 --> 00:00:16,853
+Toh aap bada trade lete
 
 13
-00:00:13,535 --> 00:00:14,906
-and without a plan.
+00:00:16,873 --> 00:00:17,078
+ho,
 
 14
-00:00:14,926 --> 00:00:16,358
-Lose ten percent of your
+00:00:17,098 --> 00:00:17,809
+jaldi mein,
 
 15
-00:00:16,378 --> 00:00:16,793
-account,
+00:00:17,829 --> 00:00:19,269
+aur bina plan ke.
 
 16
-00:00:16,813 --> 00:00:18,390
-and you need eleven percent
+00:00:19,289 --> 00:00:21,029
+Account ka 10% gaya,
 
 17
-00:00:18,410 --> 00:00:19,706
-just to get back.
+00:00:21,049 --> 00:00:23,478
+toh wapas aane ke liye 11%
 
 18
-00:00:19,726 --> 00:00:20,266
-Lose half,
+00:00:23,498 --> 00:00:24,446
+chahiye.
 
 19
-00:00:20,286 --> 00:00:21,993
-and you need a hundred percent
+00:00:24,466 --> 00:00:25,290
+Aadha gaya,
 
 20
-00:00:22,013 --> 00:00:23,086
-to break even.
+00:00:25,310 --> 00:00:27,432
+toh break even ke liye 100%
 
 21
-00:00:23,106 --> 00:00:24,643
-Bigger trades after a loss
+00:00:27,452 --> 00:00:28,296
+chahiye.
 
 22
-00:00:24,663 --> 00:00:25,859
-dig that hole deeper,
+00:00:28,316 --> 00:00:29,814
+Loss ke baad bade trade,
 
 23
-00:00:25,879 --> 00:00:26,548
-faster.
+00:00:29,834 --> 00:00:31,488
+yeh gaddha aur gehra karte
 
 24
-00:00:26,568 --> 00:00:28,345
-So set one rule before the
+00:00:31,508 --> 00:00:31,802
+hain,
 
 25
-00:00:28,365 --> 00:00:29,162
-market opens:
+00:00:31,822 --> 00:00:32,710
+aur jaldi.
 
 26
-00:00:29,182 --> 00:00:31,259
-a maximum loss for the day.
+00:00:32,730 --> 00:00:34,582
+Toh market khulne se pehle
 
 27
-00:00:31,279 --> 00:00:31,646
-Hit it,
+00:00:34,602 --> 00:00:35,811
+ek rule set karo:
 
 28
-00:00:31,666 --> 00:00:32,379
-close the app,
+00:00:35,831 --> 00:00:37,496
+din ka maximum loss.
 
 29
-00:00:32,399 --> 00:00:33,412
-and walk away.
+00:00:37,516 --> 00:00:38,231
+Woh hit hua,
 
 30
-00:00:33,432 --> 00:00:34,689
-The market will be there
+00:00:38,251 --> 00:00:39,308
+toh app band karo,
 
 31
-00:00:34,709 --> 00:00:35,115
-tomorrow.
+00:00:39,328 --> 00:00:40,372
+aur uth jaao.
 
 32
-00:00:35,135 --> 00:00:36,350
-Make sure your money is
+00:00:40,392 --> 00:00:41,882
+Market kal bhi rahega.
 
 33
-00:00:36,370 --> 00:00:36,863
-too.
+00:00:41,902 --> 00:00:43,044
+Bas dhyaan rakho,
 
 34
-00:00:36,883 --> 00:00:39,343
-Follow The 7% Club.
+00:00:43,064 --> 00:00:44,777
+aapka paisa bhi rahe.
+
+35
+00:00:44,797 --> 00:00:47,663
+Follow karo The 7% Club.

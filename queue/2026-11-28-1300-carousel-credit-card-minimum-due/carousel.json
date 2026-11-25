@@ -1,73 +1,54 @@
 {
  "handle": "@the7.percentclub",
+ "follow": "Roz ke money lessons ke liye follow karo @the7.percentclub",
+ "disclaimer": "Sirf educational. Financial advice nahi.",
+ "swipe": "aage dekho",
  "slides": [
   {
    "kind": "hook",
-   "title": "\"Minimum due\"",
-   "accent": "costliest button",
-   "sub": "on your credit card",
+   "title": "Minimum due",
+   "accent": "= sabse mehenga button",
+   "sub": "Credit card ka sach",
    "mood": "shock"
+  },
+  {
+   "kind": "stat",
+   "label": "Interest",
+   "big": "3.75% / mahina",
+   "note": "= kareeb 45% saal · zyaadatar Indian cards"
+  },
+  {
+   "kind": "compare",
+   "title": "₹1 lakh bill, 12 mahine",
+   "left": [
+    "Baaki",
+    "~₹84K"
+   ],
+   "right": [
+    "Bhar diye",
+    "~₹57.6K"
+   ],
+   "note": "sirf 5% minimum har mahine · sirf example"
   },
   {
    "kind": "point",
    "n": 1,
    "title": [
-    "Up to 3.75%",
-    "a month"
+    "Minimum due",
+    "sirf late fee"
    ],
    "body": [
-    "That's about 45% a year.",
-    "Common top rate on cards",
-    "from SBI Card, HDFC, ICICI, Axis."
-   ],
-   "mood": "shock"
-  },
-  {
-   "kind": "compare",
-   "title": "₹1 lakh, 12 months later",
-   "left": [
-    "Still owe",
-    "₹86,000"
-   ],
-   "right": [
-    "You paid",
-    "₹56,000"
-   ],
-   "note": "paying only a 5% minimum at 3.75%/month · illustrative"
-  },
-  {
-   "kind": "point",
-   "n": 2,
-   "title": [
-    "New buys lose",
-    "interest-free days"
-   ],
-   "body": [
-    "Carry a balance and new",
-    "purchases usually start",
-    "charging interest at once."
+    "se bachaata hai.",
+    "Karz khatam nahi karta.",
+    "Nayi khareedari ka",
+    "interest-free period bhi gaya."
    ],
    "mood": "worried"
   },
   {
-   "kind": "point",
-   "n": 3,
-   "title": [
-    "Pay the",
-    "total due"
-   ],
-   "body": [
-    "Minimum due only stops",
-    "late fees. Can't pay in full?",
-    "Pay as much as you can,",
-    "and stop swiping."
-   ],
-   "mood": "happy"
-  },
-  {
    "kind": "end",
-   "title": "Save this",
-   "sub": "before your next card bill"
+   "title": "Total due bharo",
+   "sub": "nahi ho pa raha? jitna ho sake bharo, swipe roko"
   }
  ]
 }

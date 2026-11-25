@@ -1,582 +1,622 @@
 [
 {
-"text": "You",
+"text": "\u20b95,000",
 "start": 0.0,
-"end": 0.246
+"end": 0.365
 },
 {
-"text": "lost",
-"start": 0.267,
-"end": 0.562
+"text": "ka",
+"start": 0.396,
+"end": 0.639
 },
 {
-"text": "five",
-"start": 0.588,
-"end": 0.883
+"text": "loss",
+"start": 0.661,
+"end": 1.025
 },
 {
-"text": "thousand",
-"start": 0.908,
-"end": 1.4
+"text": "hua.",
+"start": 1.057,
+"end": 1.361
 },
 {
-"text": "rupees.",
-"start": 1.443,
-"end": 1.836
+"text": "Toh",
+"start": 1.387,
+"end": 1.691
 },
 {
-"text": "So",
-"start": 1.87,
-"end": 2.067
+"text": "aapne",
+"start": 1.718,
+"end": 2.143
 },
 {
-"text": "you",
-"start": 2.084,
-"end": 2.329
+"text": "\u20b920,000",
+"start": 2.18,
+"end": 2.605
+},
+{
+"text": "ka",
+"start": 2.642,
+"end": 2.886
 },
 {
 "text": "trade",
-"start": 2.351,
-"end": 2.695
+"start": 2.907,
+"end": 3.332
 },
 {
-"text": "twenty",
-"start": 2.725,
-"end": 3.118
+"text": "le",
+"start": 3.369,
+"end": 3.612
 },
 {
-"text": "thousand",
-"start": 3.152,
-"end": 3.644
+"text": "liya,",
+"start": 3.633,
+"end": 3.998
 },
 {
-"text": "to",
-"start": 3.687,
-"end": 3.883
+"text": "wapas",
+"start": 4.03,
+"end": 4.455
 },
 {
-"text": "win",
-"start": 3.9,
-"end": 4.146
+"text": "jeetne",
+"start": 4.492,
+"end": 4.978
 },
 {
-"text": "it",
-"start": 4.167,
-"end": 4.364
+"text": "ke",
+"start": 5.021,
+"end": 5.264
 },
 {
-"text": "back.",
-"start": 4.381,
-"end": 4.676
+"text": "liye.",
+"start": 5.285,
+"end": 5.65
 },
 {
-"text": "Stop.",
-"start": 4.702,
-"end": 4.997
+"text": "Ruko!",
+"start": 5.681,
+"end": 6.046
 },
 {
-"text": "That's",
-"start": 5.322,
-"end": 5.656
+"text": "Ise",
+"start": 6.358,
+"end": 6.6
+},
+{
+"text": "kehte",
+"start": 6.621,
+"end": 6.961
+},
+{
+"text": "hain",
+"start": 6.99,
+"end": 7.281
 },
 {
 "text": "revenge",
-"start": 5.685,
-"end": 6.115
+"start": 7.306,
+"end": 7.743
 },
 {
 "text": "trading,",
-"start": 6.152,
-"end": 6.582
+"start": 7.781,
+"end": 8.217
 },
 {
-"text": "and",
-"start": 6.619,
-"end": 6.858
+"text": "aur",
+"start": 8.255,
+"end": 8.497
 },
 {
-"text": "it",
-"start": 6.878,
-"end": 7.069
+"text": "yeh",
+"start": 8.518,
+"end": 8.761
 },
 {
-"text": "eats",
-"start": 7.086,
-"end": 7.372
+"text": "accounts",
+"start": 8.782,
+"end": 9.267
 },
 {
-"text": "accounts.",
-"start": 7.397,
-"end": 7.874
+"text": "kha",
+"start": 9.309,
+"end": 9.551
 },
 {
-"text": "After",
-"start": 8.216,
-"end": 8.533
+"text": "jaata",
+"start": 9.572,
+"end": 9.912
 },
 {
-"text": "a",
-"start": 8.56,
-"end": 8.696
+"text": "hai.",
+"start": 9.941,
+"end": 10.184
 },
 {
-"text": "loss,",
-"start": 8.708,
-"end": 8.98
+"text": "Loss",
+"start": 10.485,
+"end": 10.792
 },
 {
-"text": "your",
-"start": 9.004,
-"end": 9.275
+"text": "ke",
+"start": 10.819,
+"end": 11.024
 },
 {
-"text": "brain",
-"start": 9.299,
-"end": 9.616
+"text": "baad,",
+"start": 11.042,
+"end": 11.349
 },
 {
-"text": "wants",
-"start": 9.644,
-"end": 9.961
+"text": "dimaag",
+"start": 11.376,
+"end": 11.786
 },
 {
-"text": "the",
-"start": 9.988,
-"end": 10.215
+"text": "chahta",
+"start": 11.821,
+"end": 12.231
 },
 {
-"text": "pain",
-"start": 10.235,
-"end": 10.506
+"text": "hai",
+"start": 12.267,
+"end": 12.523
 },
 {
-"text": "gone,",
-"start": 10.53,
-"end": 10.802
+"text": "ki",
+"start": 12.545,
+"end": 12.75
 },
 {
-"text": "right",
-"start": 10.825,
-"end": 11.143
+"text": "dard",
+"start": 12.768,
+"end": 13.076
 },
 {
-"text": "now.",
-"start": 11.17,
-"end": 11.397
+"text": "abhi",
+"start": 13.102,
+"end": 13.41
 },
 {
-"text": "So",
-"start": 11.716,
-"end": 11.891
+"text": "ke",
+"start": 13.437,
+"end": 13.642
 },
 {
-"text": "you",
-"start": 11.906,
-"end": 12.124
+"text": "abhi",
+"start": 13.659,
+"end": 13.967
+},
+{
+"text": "khatam",
+"start": 13.994,
+"end": 14.404
+},
+{
+"text": "ho.",
+"start": 14.439,
+"end": 14.644
+},
+{
+"text": "Toh",
+"start": 14.942,
+"end": 15.201
+},
+{
+"text": "aap",
+"start": 15.223,
+"end": 15.482
+},
+{
+"text": "bada",
+"start": 15.504,
+"end": 15.815
 },
 {
 "text": "trade",
-"start": 12.143,
-"end": 12.449
+"start": 15.842,
+"end": 16.204
 },
 {
-"text": "bigger,",
-"start": 12.476,
-"end": 12.825
+"text": "lete",
+"start": 16.235,
+"end": 16.546
 },
 {
-"text": "faster,",
-"start": 12.855,
-"end": 13.205
+"text": "ho,",
+"start": 16.573,
+"end": 16.78
 },
 {
-"text": "and",
-"start": 13.235,
-"end": 13.453
+"text": "jaldi",
+"start": 16.798,
+"end": 17.16
 },
 {
-"text": "without",
-"start": 13.472,
-"end": 13.865
+"text": "mein,",
+"start": 17.191,
+"end": 17.502
 },
 {
-"text": "a",
-"start": 13.899,
-"end": 14.03
+"text": "aur",
+"start": 17.529,
+"end": 17.787
 },
 {
-"text": "plan.",
-"start": 14.042,
-"end": 14.304
+"text": "bina",
+"start": 17.81,
+"end": 18.12
 },
 {
-"text": "Lose",
-"start": 14.626,
-"end": 14.893
+"text": "plan",
+"start": 18.147,
+"end": 18.458
 },
 {
-"text": "ten",
-"start": 14.917,
-"end": 15.139
+"text": "ke.",
+"start": 18.484,
+"end": 18.691
 },
 {
-"text": "percent",
-"start": 15.159,
-"end": 15.559
+"text": "Account",
+"start": 18.989,
+"end": 19.623
 },
 {
-"text": "of",
-"start": 15.594,
-"end": 15.772
+"text": "ka",
+"start": 19.678,
+"end": 19.96
 },
 {
-"text": "your",
-"start": 15.788,
-"end": 16.055
+"text": "10%",
+"start": 19.984,
+"end": 20.266
 },
 {
-"text": "account,",
-"start": 16.078,
-"end": 16.478
+"text": "gaya,",
+"start": 20.29,
+"end": 20.713
 },
 {
-"text": "and",
-"start": 16.513,
-"end": 16.736
+"text": "toh",
+"start": 20.749,
+"end": 21.101
 },
 {
-"text": "you",
-"start": 16.755,
-"end": 16.978
+"text": "wapas",
+"start": 21.132,
+"end": 21.625
 },
 {
-"text": "need",
-"start": 16.997,
-"end": 17.264
+"text": "aane",
+"start": 21.667,
+"end": 22.09
 },
 {
-"text": "eleven",
-"start": 17.287,
-"end": 17.643
+"text": "ke",
+"start": 22.127,
+"end": 22.408
 },
 {
-"text": "percent",
-"start": 17.674,
-"end": 18.075
+"text": "liye",
+"start": 22.433,
+"end": 22.855
 },
 {
-"text": "just",
-"start": 18.11,
-"end": 18.377
+"text": "11%",
+"start": 22.892,
+"end": 23.173
 },
 {
-"text": "to",
-"start": 18.4,
-"end": 18.578
+"text": "chahiye.",
+"start": 23.198,
+"end": 23.831
 },
 {
-"text": "get",
-"start": 18.594,
-"end": 18.816
+"text": "Aadha",
+"start": 24.166,
+"end": 24.584
 },
 {
-"text": "back.",
-"start": 18.836,
-"end": 19.103
+"text": "gaya,",
+"start": 24.621,
+"end": 24.979
 },
 {
-"text": "Lose",
-"start": 19.426,
-"end": 19.683
-},
-{
-"text": "half,",
-"start": 19.706,
-"end": 19.964
-},
-{
-"text": "and",
-"start": 19.986,
-"end": 20.201
-},
-{
-"text": "you",
-"start": 20.219,
-"end": 20.434
-},
-{
-"text": "need",
-"start": 20.453,
-"end": 20.71
-},
-{
-"text": "a",
-"start": 20.733,
-"end": 20.862
-},
-{
-"text": "hundred",
-"start": 20.873,
-"end": 21.259
-},
-{
-"text": "percent",
-"start": 21.293,
-"end": 21.679
-},
-{
-"text": "to",
-"start": 21.713,
-"end": 21.885
+"text": "toh",
+"start": 25.01,
+"end": 25.309
 },
 {
 "text": "break",
-"start": 21.9,
-"end": 22.2
+"start": 25.335,
+"end": 25.753
 },
 {
-"text": "even.",
-"start": 22.226,
-"end": 22.484
+"text": "even",
+"start": 25.789,
+"end": 26.147
 },
 {
-"text": "Bigger",
-"start": 22.806,
-"end": 23.164
+"text": "ke",
+"start": 26.178,
+"end": 26.417
 },
 {
-"text": "trades",
-"start": 23.195,
-"end": 23.553
+"text": "liye",
+"start": 26.438,
+"end": 26.796
 },
 {
-"text": "after",
-"start": 23.585,
-"end": 23.898
+"text": "100%",
+"start": 26.827,
+"end": 27.126
 },
 {
-"text": "a",
-"start": 23.925,
-"end": 24.059
+"text": "chahiye.",
+"start": 27.152,
+"end": 27.689
 },
 {
-"text": "loss",
-"start": 24.071,
-"end": 24.339
+"text": "Loss",
+"start": 28.016,
+"end": 28.305
 },
 {
-"text": "dig",
-"start": 24.363,
-"end": 24.586
+"text": "ke",
+"start": 28.33,
+"end": 28.523
 },
 {
-"text": "that",
-"start": 24.606,
-"end": 24.874
+"text": "baad",
+"start": 28.539,
+"end": 28.828
 },
 {
-"text": "hole",
-"start": 24.898,
-"end": 25.166
+"text": "bade",
+"start": 28.853,
+"end": 29.142
 },
 {
-"text": "deeper,",
-"start": 25.189,
-"end": 25.547
+"text": "trade,",
+"start": 29.167,
+"end": 29.504
 },
 {
-"text": "faster.",
-"start": 25.579,
-"end": 25.936
+"text": "yeh",
+"start": 29.534,
+"end": 29.774
 },
 {
-"text": "So",
-"start": 26.268,
-"end": 26.468
+"text": "gaddha",
+"start": 29.795,
+"end": 30.18
 },
 {
-"text": "set",
-"start": 26.485,
-"end": 26.736
+"text": "aur",
+"start": 30.214,
+"end": 30.454
 },
 {
-"text": "one",
-"start": 26.758,
-"end": 27.008
+"text": "gehra",
+"start": 30.475,
+"end": 30.812
+},
+{
+"text": "karte",
+"start": 30.842,
+"end": 31.179
+},
+{
+"text": "hain,",
+"start": 31.208,
+"end": 31.497
+},
+{
+"text": "aur",
+"start": 31.522,
+"end": 31.763
+},
+{
+"text": "jaldi.",
+"start": 31.783,
+"end": 32.12
+},
+{
+"text": "Toh",
+"start": 32.43,
+"end": 32.699
+},
+{
+"text": "market",
+"start": 32.722,
+"end": 33.153
+},
+{
+"text": "khulne",
+"start": 33.191,
+"end": 33.621
+},
+{
+"text": "se",
+"start": 33.659,
+"end": 33.874
+},
+{
+"text": "pehle",
+"start": 33.893,
+"end": 34.27
+},
+{
+"text": "ek",
+"start": 34.302,
+"end": 34.518
 },
 {
 "text": "rule",
-"start": 27.03,
-"end": 27.331
+"start": 34.537,
+"end": 34.86
 },
 {
-"text": "before",
-"start": 27.357,
-"end": 27.758
+"text": "set",
+"start": 34.888,
+"end": 35.157
 },
 {
-"text": "the",
-"start": 27.792,
-"end": 28.043
+"text": "karo:",
+"start": 35.18,
+"end": 35.503
 },
 {
-"text": "market",
-"start": 28.065,
-"end": 28.465
+"text": "din",
+"start": 35.531,
+"end": 35.801
 },
 {
-"text": "opens:",
-"start": 28.5,
-"end": 28.851
-},
-{
-"text": "a",
-"start": 28.882,
-"end": 29.032
+"text": "ka",
+"start": 35.824,
+"end": 36.039
 },
 {
 "text": "maximum",
-"start": 29.045,
-"end": 29.496
+"start": 36.058,
+"end": 36.543
 },
 {
-"text": "loss",
-"start": 29.535,
-"end": 29.836
+"text": "loss.",
+"start": 36.585,
+"end": 36.908
 },
 {
-"text": "for",
-"start": 29.862,
-"end": 30.112
+"text": "Woh",
+"start": 37.216,
+"end": 37.441
 },
 {
-"text": "the",
-"start": 30.134,
-"end": 30.384
+"text": "hit",
+"start": 37.461,
+"end": 37.686
 },
 {
-"text": "day.",
-"start": 30.406,
-"end": 30.657
+"text": "hua,",
+"start": 37.706,
+"end": 37.931
 },
 {
-"text": "Hit",
-"start": 30.979,
-"end": 31.177
+"text": "toh",
+"start": 37.951,
+"end": 38.176
 },
 {
-"text": "it,",
-"start": 31.194,
-"end": 31.353
+"text": "app",
+"start": 38.196,
+"end": 38.421
 },
 {
-"text": "close",
-"start": 31.366,
-"end": 31.644
+"text": "band",
+"start": 38.44,
+"end": 38.711
 },
 {
-"text": "the",
-"start": 31.668,
-"end": 31.866
+"text": "karo,",
+"start": 38.734,
+"end": 39.005
 },
 {
-"text": "app,",
-"start": 31.884,
-"end": 32.082
+"text": "aur",
+"start": 39.028,
+"end": 39.254
 },
 {
-"text": "and",
-"start": 32.099,
-"end": 32.297
+"text": "uth",
+"start": 39.273,
+"end": 39.498
 },
 {
-"text": "walk",
-"start": 32.315,
-"end": 32.552
+"text": "jaao.",
+"start": 39.518,
+"end": 39.788
 },
 {
-"text": "away.",
-"start": 32.573,
-"end": 32.811
+"text": "Market",
+"start": 40.092,
+"end": 40.519
 },
 {
-"text": "The",
-"start": 33.132,
-"end": 33.328
+"text": "kal",
+"start": 40.557,
+"end": 40.824
 },
 {
-"text": "market",
-"start": 33.345,
-"end": 33.658
+"text": "bhi",
+"start": 40.847,
+"end": 41.114
 },
 {
-"text": "will",
-"start": 33.685,
-"end": 33.92
+"text": "rahega.",
+"start": 41.138,
+"end": 41.565
 },
 {
-"text": "be",
-"start": 33.941,
-"end": 34.098
+"text": "Bas",
+"start": 41.602,
+"end": 41.87
 },
 {
-"text": "there",
-"start": 34.111,
-"end": 34.386
+"text": "dhyaan",
+"start": 41.893,
+"end": 42.32
 },
 {
-"text": "tomorrow.",
-"start": 34.409,
-"end": 34.801
+"text": "rakho,",
+"start": 42.358,
+"end": 42.732
 },
 {
-"text": "Make",
-"start": 34.835,
-"end": 35.07
+"text": "aapka",
+"start": 42.764,
+"end": 43.138
 },
 {
-"text": "sure",
-"start": 35.091,
-"end": 35.326
+"text": "paisa",
+"start": 43.171,
+"end": 43.545
 },
 {
-"text": "your",
-"start": 35.346,
-"end": 35.581
+"text": "bhi",
+"start": 43.578,
+"end": 43.845
 },
 {
-"text": "money",
-"start": 35.602,
-"end": 35.876
-},
-{
-"text": "is",
-"start": 35.9,
-"end": 36.057
-},
-{
-"text": "too.",
-"start": 36.07,
-"end": 36.266
+"text": "rahe.",
+"start": 43.868,
+"end": 44.189
 },
 {
 "text": "Follow",
-"start": 36.583,
-"end": 37.151
+"start": 44.497,
+"end": 45.049
+},
+{
+"text": "karo",
+"start": 45.097,
+"end": 45.512
 },
 {
 "text": "The",
-"start": 37.2,
-"end": 37.555
+"start": 45.548,
+"end": 45.893
 },
 {
 "text": "7%",
-"start": 37.586,
-"end": 37.799
+"start": 45.923,
+"end": 46.131
 },
 {
 "text": "Club.",
-"start": 37.817,
-"end": 38.243
+"start": 46.149,
+"end": 46.563
 }
 ]

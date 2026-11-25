@@ -42,7 +42,8 @@ with what is winning and what to avoid. Follow it when you choose hooks, titles,
     - Run `python studio/tts.py <dir> --lang hi --speed 1.12 --gap 0.28` (voice hm_omega).
   - **Captions (`display.json`):** one entry per line of lines.json, the same sentence in **Roman Hinglish** with digits and ₹ ("₹5,000 ka monthly SIP, ₹50 lakh ban sakta hai."). tts.py takes caption words and timings from it, so `at(i, 'word')` cues use the Roman words.
   - **On-screen text and carousels:** Roman Hinglish only, **no Devanagari** ("GROWTH LATE DIKHTI HAI", "12% per year maan kar"). Render normally (no STUDIO_LANG), so the Caveat hand font is used.
-  - **Example:** `studio/examples/in-hi-sip/` (lines, display, scene, carousel.json).
+  - **Examples:** `studio/examples/in-hi-sip/` (lines, display, scene, carousel.json) and `studio/examples/in-hi-revenge/`.
+    The second one uses `studio/lib/kit.mjs`, which handles timing, captions, transitions and rendering, so a new Short only needs its scene functions. Prefer it.
   - **YouTube title, description and IG/FB caption:** Hinglish in Roman script (e.g. "₹500 SIP se Crorepati? Sach jaano #Shorts"). Disclaimer: "📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi."
   - **Ending line:** "Follow karo The 7% Club".
 - **The Boring Rich Club (US) stays in English** (voice am_michael).
