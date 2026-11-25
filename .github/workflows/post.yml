@@ -5,6 +5,15 @@ on:
     # 08:30 IST and 19:30 IST (GitHub cron is in UTC and can start a few minutes late)
     - cron: "0 3 * * *"
     - cron: "0 14 * * *"
+    # Backup runs: GitHub often starts scheduled runs late or skips them under load.
+    # A backup run posts only what is due and not yet posted, so nothing doubles.
+    - cron: "12 3 * * *"
+    - cron: "27 3 * * *"
+    - cron: "12 14 * * *"
+    - cron: "27 14 * * *"
+    - cron: "42 7 * * *"
+    - cron: "12 20 * * *"
+    - cron: "12 0 * * *"
     # 13:00 IST: Instagram carousels
     - cron: "30 7 * * *"
     # US channel: 3 PM ET long-form (20:00 UTC) and 7 PM ET Short (00:00 UTC)
