@@ -39,7 +39,7 @@ with what is winning and what to avoid. Follow it when you choose hooks, titles,
     - Casual spoken Hinglish, written in Devanagari so the Hindi voice pronounces it right. English words are spelled in Devanagari too: मंथली, इन्वेस्ट, ग्रोथ, लेट, रिटर्न्स, परसेंट, पर ईयर, सेम, जज करो, फ़र्स्ट ईयर. SIP/SEBI/EMI/F&O can stay in Latin.
     - Prefer the everyday word over formal Hindi: "करीब" not "लगभग", "परसेंट" not "प्रतिशत", "जज करो" not "आँकिए".
     - Speak numbers as words.
-    - Run `python studio/tts.py <dir> --lang hi` (voice hm_omega, speed 1.0).
+    - Run `python studio/tts.py <dir> --lang hi --speed 1.12 --gap 0.28` (voice hm_omega).
   - **Captions (`display.json`):** one entry per line of lines.json, the same sentence in **Roman Hinglish** with digits and ₹ ("₹5,000 ka monthly SIP, ₹50 lakh ban sakta hai."). tts.py takes caption words and timings from it, so `at(i, 'word')` cues use the Roman words.
   - **On-screen text and carousels:** Roman Hinglish only, **no Devanagari** ("GROWTH LATE DIKHTI HAI", "12% per year maan kar"). Render normally (no STUDIO_LANG), so the Caveat hand font is used.
   - **Examples:** `studio/examples/in-hi-sip/` (lines, display, scene, carousel.json) and `studio/examples/in-hi-revenge/`.
@@ -64,11 +64,8 @@ with what is winning and what to avoid. Follow it when you choose hooks, titles,
      - India: ends with following The 7% Club.
    - **Never:** stock tips, "guaranteed returns", fake urgency, or copying another creator's script.
 3. **Voice:**
-   - Shorts: `python studio/tts.py studio/work/<slug>` (speed 1.0)
-   - Long-form: `python studio/tts.py studio/work/<slug> --speed 0.97 --gap-line 0.65`
-   - **Rhythm rules:** tts.py speaks each sentence separately, with a short breath between sentences and a longer pause at line ends and after questions, like a human narrator. Don't speed voices above 1.05.
-     - Write short sentences with real punctuation: full stops and question marks create the pauses.
-     - Mix with `--chapters` at scene changes only. There's no swish or pop on every line, because it fights the voice.
+   - Shorts: `python studio/tts.py studio/work/<slug> --speed 1.05 --gap 0.3`
+   - Long-form: `python studio/tts.py studio/work/<slug> --speed 0.95 --gap 0.4`
 4. **Scenes** → copy the closest example into your work folder as `scene.mjs` and rewrite the scene functions:
    - **Style per channel:** The 7% Club (India) uses **B1 Minimal Line Art**. The Boring Rich Club (US) uses
      **B2 Colorful Hand-Drawn**: warm paper `#F3EFE6`, fine ink `#3a3a37`, muted flat props (terracotta `#b86f52`, sage `#9fb39a`,
