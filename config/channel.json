@@ -1,27 +1,26 @@
 {
-  "description": "Learn the stock market, F&O trading and personal finance in 45-second animated Shorts. SEBI found 93% of F&O traders lost money in 3 years. The 7% Club explains why, and what the 7% do differently.\n\nWhat you'll learn:\n• Trading psychology: revenge trading, FOMO, stop-loss mistakes\n• Option trading basics: time decay, leverage, expiry-day risk\n• Investing in India: SIP, mutual funds, index funds, compounding\n• Money traps: credit cards, EMIs, BNPL, lifestyle inflation\n• Scam red flags: Telegram tips, fake profit screenshots, \"guaranteed returns\"\n• Tax basics: new tax regime, STCG vs LTCG\n\nNew Shorts daily at 8:30 AM and 7:30 PM IST.\n📌 Educational content only. Not SEBI-registered. Not investment advice.",
+  "description": "Share market, trading aur personal finance, 45 second ke animated Shorts mein, Hindi mein. SEBI ki study ke hisaab se 93% F&O traders ne 3 saal mein paisa gawaya. The 7% Club batata hai kyun, aur baaki 7% kya alag karte hain.\nशेयर बाज़ार, ट्रेडिंग और पैसों की समझ, आसान हिंदी में।\n\nAap kya seekhenge:\n• Trading psychology: revenge trading, FOMO, stop-loss ki galtiyan\n• Option trading basics: time decay, leverage, expiry day ka risk\n• India mein investing: SIP, mutual funds, index funds, compounding\n• Money traps: credit card, EMI, BNPL, lifestyle inflation\n• Scam red flags: Telegram tips, fake profit screenshots, \"guaranteed returns\"\n• Tax basics: new tax regime, STCG vs LTCG\n\nRoz naye Shorts: subah 8:30 aur shaam 7:30 baje (IST).\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.",
   "keywords": [
-    "stock market india",
-    "share market",
-    "trading for beginners",
-    "option trading",
+    "share market hindi",
+    "stock market for beginners in hindi",
+    "sip kya hai",
+    "option trading hindi",
     "F&O trading",
     "SEBI",
-    "personal finance india",
-    "investing for beginners",
-    "mutual funds",
-    "SIP",
-    "index funds",
-    "trading psychology",
-    "money tips",
-    "financial literacy",
+    "trading psychology hindi",
+    "mutual fund hindi",
+    "personal finance hindi",
+    "paise kaise bachaye",
+    "intraday trading hindi",
     "nifty",
-    "intraday trading",
-    "finance shorts",
+    "index funds",
+    "money tips hindi",
+    "financial literacy",
+    "finance shorts hindi",
     "the 7% club"
   ],
   "country": "IN",
-  "defaultLanguage": "en",
+  "defaultLanguage": "hi",
   "playlists": {
     "trading-psychology": {
       "title": "Trading Psychology: Why 93% Lose",
@@ -47,5 +46,6 @@
       "title": "Tax Basics for Indian Investors",
       "description": "New vs old tax regime and STCG vs LTCG on stocks explained in 45-second Shorts. Educational only, not tax advice."
     }
-  }
+  },
+  "videoLanguage": "hi"
 }

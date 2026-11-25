@@ -74,7 +74,7 @@ def ensure_playlists(tok):
         if p["title"] in existing:
             ids[key] = existing[p["title"]]; continue
         res = call("POST", "playlists", tok, params={"part": "snippet,status"}, json={
-            "snippet": {"title": p["title"], "description": p["description"], "defaultLanguage": "en"},
+            "snippet": {"title": p["title"], "description": p["description"], "defaultLanguage": CFG.get("videoLanguage", "en")},
             "status": {"privacyStatus": "public"}})
         ids[key] = res["id"]; log(f"Playlist created: {p['title']}")
     PL_FILE.write_text(json.dumps(ids, indent=2) + "\n")
@@ -88,17 +88,18 @@ def fix_videos(tok, playlists):
         item = json.loads(pj.read_text())
         yt = item.get("results", {}).get("youtube", {})
         vid = yt.get("id")
+        lang = item.get("language") or CFG.get("videoLanguage", "en")
         if not vid: continue
         meta = item["youtube"]; done = yt.setdefault("seo", {})
         try:
             if not done.get("metadata"):
                 call("PUT", "videos", tok, params={"part": "snippet"}, json={"id": vid, "snippet": {
                     "title": meta["title"][:100], "description": meta["description"], "tags": meta.get("tags", []),
-                    "categoryId": meta.get("categoryId", "27"), "defaultLanguage": "en", "defaultAudioLanguage": "en"}})
+                    "categoryId": meta.get("categoryId", "27"), "defaultLanguage": lang, "defaultAudioLanguage": lang}})
                 done["metadata"] = True; log(f"{d.name}: title/description/tags updated")
             srt = d / "captions.srt"
             if srt.exists() and not done.get("captions"):
-                body = json.dumps({"snippet": {"videoId": vid, "language": "en", "name": "English", "isDraft": False}})
+                body = json.dumps({"snippet": {"videoId": vid, "language": lang, "name": "हिन्दी" if lang == "hi" else "English", "isDraft": False}})
                 r = requests.post(f"https://www.googleapis.com/upload/youtube/v3/captions?part=snippet&uploadType=multipart",
                                   headers={"Authorization": f"Bearer {tok}"}, timeout=120,
                                   files={"metadata": (None, body, "application/json; charset=UTF-8"),

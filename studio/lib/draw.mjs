@@ -6,7 +6,13 @@ import fs from 'fs';
 const require = createRequire(import.meta.url);
 const { createCanvas, GlobalFonts } = require('@napi-rs/canvas');
 const FONTS = new URL('../assets/fonts/', import.meta.url).pathname;
-GlobalFonts.registerFromPath(FONTS + 'Caveat.ttf', 'Hand');
+// Hindi videos (STUDIO_LANG=hi) use Kalam, a handwritten font with Devanagari + Latin, under the same 'Hand' name.
+if ((process.env.STUDIO_LANG || '').toLowerCase() === 'hi') {
+  GlobalFonts.registerFromPath(FONTS + 'Kalam-Regular.ttf', 'Hand');
+  GlobalFonts.registerFromPath(FONTS + 'Kalam-Bold.ttf', 'Hand');
+} else {
+  GlobalFonts.registerFromPath(FONTS + 'Caveat.ttf', 'Hand');
+}
 
 const W = 1080, H = 1920, FPS = 30, LEAD = 0.3;
 // Shared drawing library for The 7% Club / The Boring Rich Club videos (B1 minimal line art).

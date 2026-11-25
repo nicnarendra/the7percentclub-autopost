@@ -32,6 +32,20 @@ Work in `studio/work/<slug>/`, which is git-ignored.
 Read `plans/notes.md` before picking work (if it exists). The weekly growth review rewrites it every Monday
 with what is winning and what to avoid. Follow it when you choose hooks, titles, topics and length.
 
+## Language
+
+- **The 7% Club (India) is in Hindi (Hinglish) from 28 Nov 2026.**
+  - Scripts are everyday Hindi with English money words (SIP, return, stock, trading, EMI), the way popular Indian finance creators talk.
+  - Write `lines.json` in **Devanagari**. Common English terms can stay in Latin script (SIP, F&O, SEBI, EMI, FD, CIBIL): `studio/tts.py` converts them for the voice.
+  - Write numbers as digits with ₹ (₹5,000) or as Hindi words.
+  - Voice: `python studio/tts.py <dir> --lang hi --speed 1.12 --gap 0.28` (voice hm_omega).
+  - Render with `STUDIO_LANG=hi node scene.mjs ...` and `STUDIO_LANG=hi node studio/carousel.mjs ...`. This switches the hand font to Kalam, which has Devanagari.
+  - On-screen text and captions are in Hindi (Devanagari). In the scene, caption breaks must include `।`. Word cues `at(i, 'word')` must use the Hindi words.
+  - Example: `studio/examples/in-hi-sip/` (scene + lines + Hindi carousel.json).
+  - YouTube title, description and IG/FB caption: **Hinglish in Roman script** (how people search, e.g. "₹500 SIP se Crorepati? Sach jaaniye #Shorts"), plus one Hindi line. Keep the disclaimer: "📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi."
+  - Ending line: "Follow करें The 7% Club".
+- **The Boring Rich Club (US) stays in English** (voice am_michael).
+
 ## Making one video
 
 1. **Research and fact-check first.** Every number on screen must come from a current, official or reputable source,
