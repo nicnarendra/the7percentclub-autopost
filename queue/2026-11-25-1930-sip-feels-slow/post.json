@@ -41,12 +41,13 @@
       }
     },
     "facebook": {
-      "error": "Facebook start failed: 400 {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"A4E_V78OrgqMKsJC85o4Qa4\"}}",
-      "failed_at": "2026-11-25T19:46:56.296120+05:30"
+      "id": "1515445770425467",
+      "url": "https://www.facebook.com/reel/1515445770425467",
+      "posted_at": "2026-11-25T20:15:02.217474+05:30"
     },
     "instagram": {
-      "error": "Instagram container failed: 400 {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AAocoRCdwdBvs0ibj8WZTUH\"}}",
-      "failed_at": "2026-11-25T19:46:56.427651+05:30"
+      "error": "Instagram upload failed: 400 {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+      "failed_at": "2026-11-25T20:15:34.609114+05:30"
     }
   }
 }
