@@ -48,7 +48,8 @@
       "seo": {
         "metadata": true,
         "captions": true,
-        "playlist": "trading-psychology"
+        "playlist": "trading-psychology",
+        "comment": true
       }
     },
     "facebook": {

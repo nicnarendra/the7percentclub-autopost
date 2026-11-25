@@ -1,4 +1,5 @@
-mode=analytics channel=in at 2026-11-25T04:50:28Z
-/home/runner/work/the7percentclub-autopost/the7percentclub-autopost/scripts/analytics.py:70: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
-  snap = {"generated_at": dt.datetime.utcnow().isoformat() + "Z", "channel": CH["name"], "youtube": youtube(tok, idx), "meta": meta(idx),
+mode=post channel=in at 2026-11-25T06:54:41Z
+Channel: The 7% Club (in)
+2026-11-25-0830-traders-lose-money: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 1, views 0
 Analytics saved to status/analytics-in.json: 0 videos with data

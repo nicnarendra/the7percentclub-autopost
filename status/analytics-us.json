@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:50:32.141633Z",
+ "generated_at": "2026-11-25T06:54:48.001869+00:00",
  "channel": "The Boring Rich Club",
  "youtube": {
   "window": [
@@ -18,44 +18,64 @@
  "meta": null,
  "queue": [
   {
-   "dir": "2026-11-27-1500-start-investing-from-zero",
+   "dir": "2026-11-25-1500-start-investing-from-zero",
    "format": "long",
    "title": "If I Had to Start Investing From $0 in 2026, I'd Do This",
+   "publish_at": "2026-11-25T15:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-25-1900-short-7-steps-from-zero",
+   "format": "short",
+   "title": "Starting From $0? Do These 7 Money Steps in This Order #Shorts",
+   "publish_at": "2026-11-25T19:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-26-1500-youre-not-behind",
+   "format": "long",
+   "title": "You're Not Behind: What the Average American Actually Has (2025 Fed Data)",
+   "publish_at": "2026-11-26T15:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-26-1900-short-youre-not-behind",
+   "format": "short",
+   "title": "Are You Actually Behind? What the Typical American Has #Shorts",
+   "publish_at": "2026-11-26T19:00:00-05:00",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "start-here"
+  },
+  {
+   "dir": "2026-11-27-1500-house-afford",
+   "format": "long",
+   "title": "How Much House Can You Really Afford? ($60K, $100K, $150K)",
    "publish_at": "2026-11-27T15:00:00-05:00",
    "youtube_id": null,
    "instagram_id": null,
    "facebook_id": null,
-   "playlist": "start-here"
+   "playlist": "money-mistakes"
   },
   {
-   "dir": "2026-11-27-1900-short-7-steps-from-zero",
+   "dir": "2026-11-27-1900-short-house-afford",
    "format": "short",
-   "title": "Starting From $0? Do These 7 Money Steps in This Order #Shorts",
+   "title": "How Much House Can You Really Afford? #Shorts",
    "publish_at": "2026-11-27T19:00:00-05:00",
    "youtube_id": null,
    "instagram_id": null,
    "facebook_id": null,
-   "playlist": "start-here"
-  },
-  {
-   "dir": "2026-11-28-1500-youre-not-behind",
-   "format": "long",
-   "title": "You're Not Behind: What the Average American Actually Has (2025 Fed Data)",
-   "publish_at": "2026-11-28T15:00:00-05:00",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
-   "playlist": "start-here"
-  },
-  {
-   "dir": "2026-11-28-1900-short-youre-not-behind",
-   "format": "short",
-   "title": "Are You Actually Behind? What the Typical American Has #Shorts",
-   "publish_at": "2026-11-28T19:00:00-05:00",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
-   "playlist": "start-here"
+   "playlist": "money-mistakes"
   }
  ]
 }
