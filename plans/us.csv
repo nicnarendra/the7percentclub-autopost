@@ -1,61 +1,61 @@
 Day,Date (US),Format,Publish at (ET),Title,Hook,Hook formula,Facts to verify,Status
-1,2026-11-27,long,2026-11-27T15:00:00-05:00,If I Had to Start Investing From $0 in 2026,"If I lost everything tomorrow and had to start from zero, here's exactly what I'd do.",G1,IRS 2026 limits; Fed G.19 card APR – done (pilot made),Queued
-1,2026-11-27,short,2026-11-27T19:00:00-05:00,Short: If I Had to Start Investing From $0 in 2026,Starting from $0? These 7 steps only work in this order.,Teaser → links the long video,Same as long-form,Queued
-2,2026-11-28,long,2026-11-28T15:00:00-05:00,You're Not Behind: What the Average American Actually Has Saved,Everyone online seems rich. Here's what the average American actually has.,G2,Fed Survey of Consumer Finances (median savings by age),Queued
-2,2026-11-28,short,2026-11-28T19:00:00-05:00,Short: You're Not Behind,The median American's savings might surprise you. You're probably not behind.,Teaser → links the long video,Same as long-form,Queued
-3,2026-11-29,long,2026-11-29T15:00:00-05:00,"How Much House Can You Really Afford? ($60K, $100K, $150K)",Your bank will approve you for way more house than you can afford.,G3,"Mortgage rate (Freddie Mac PMMS), 28/36 rule",Queued
-3,2026-11-29,short,2026-11-29T19:00:00-05:00,Short: How Much House Can You Really Afford?,Your bank's approval number is not your budget. Here's the real one.,Teaser → links the long video,Same as long-form,Queued
-4,2026-11-30,long,2026-11-30T15:00:00-05:00,The #1 Wealth Killer No One Talks About: Lifestyle Creep,The thing keeping you broke isn't your salary.,G7,—,Planned
-4,2026-11-30,short,2026-11-30T19:00:00-05:00,Short: The #1 Wealth Killer No One Talks About,Got a raise? Watch where it goes in 6 months.,Teaser → links the long video,Same as long-form,Planned
-5,2026-12-01,long,2026-12-01T15:00:00-05:00,Roth IRA vs 401(k): Which Should You Fund First?,"Put your first $1,000 in the wrong account and it can cost you thousands.",G1,"IRS limits, Roth income limits 2026",Planned
-5,2026-12-01,short,2026-12-01T19:00:00-05:00,Short: Roth IRA vs 401,"$1,000 to invest: Roth IRA or 401(k)? One question decides it.",Teaser → links the long video,Same as long-form,Planned
-6,2026-12-02,long,2026-12-02T15:00:00-05:00,Why 97% of Day Traders Lose Money (The Data),97% of people who day traded for 300 days lost money.,Shock stat,Chague et al.; FINRA/SEC notes,Planned
-6,2026-12-02,short,2026-12-02T19:00:00-05:00,Short: Why 97% of Day Traders Lose Money,97% of day traders who kept going for 300 days lost money.,Teaser → links the long video,Same as long-form,Planned
-7,2026-12-03,long,2026-12-03T15:00:00-05:00,How Credit Card Companies Make Money Off You,Your credit card company loves it when you pay the minimum.,G5,Fed G.19; CFPB credit card report,Planned
-7,2026-12-03,short,2026-12-03T19:00:00-05:00,Short: How Credit Card Companies Make Money Off You,"Paying the minimum on a $5,000 card can take years. Here's why.",Teaser → links the long video,Same as long-form,Planned
-8,2026-12-04,long,2026-12-04T15:00:00-05:00,Fix Your Finances in 90 Days: A Step-by-Step Plan,Give me 90 days and your money will look completely different.,G8,—,Planned
-8,2026-12-04,short,2026-12-04T19:00:00-05:00,Short: Fix Your Finances in 90 Days,3 moves this week that fix most money problems.,Teaser → links the long video,Same as long-form,Planned
-9,2026-12-05,long,2026-12-05T15:00:00-05:00,How Much Car Can You Really Afford? (By Salary),That car payment is quietly wrecking your future.,G3,"Average new car price & loan rate (Fed G.19, KBB)",Planned
-9,2026-12-05,short,2026-12-05T19:00:00-05:00,Short: How Much Car Can You Really Afford?,The 20/4/10 car rule in 45 seconds.,Teaser → links the long video,Same as long-form,Planned
-10,2026-12-06,long,2026-12-06T15:00:00-05:00,Index Funds Explained: Why Boring Beats Brilliant,Most professional fund managers lose to a fund that does nothing.,G10,SPIVA US scorecard,Planned
-10,2026-12-06,short,2026-12-06T19:00:00-05:00,Short: Index Funds Explained,A fund that does nothing beats most experts. Here's why.,Teaser → links the long video,Same as long-form,Planned
-11,2026-12-07,long,2026-12-07T15:00:00-05:00,"Warren Buffett's Rules for Your First $100,000",Warren Buffett's advice for regular people fits in one sentence.,G10,Buffett 2013 letter (index fund instruction),Planned
-11,2026-12-07,short,2026-12-07T19:00:00-05:00,"Short: Warren Buffett's Rules for Your First $100,000",Buffett told his own family to buy an index fund.,Teaser → links the long video,Same as long-form,Planned
-12,2026-12-08,long,2026-12-08T15:00:00-05:00,Why Gen Z Earns More but Feels Poorer,Gen Z makes more than their parents did at 25. So why does it feel worse?,G6,"BLS wages, housing cost data",Planned
-12,2026-12-08,short,2026-12-08T19:00:00-05:00,Short: Why Gen Z Earns More but Feels Poorer,Gen Z earns more and owns less. Here's the gap.,Teaser → links the long video,Same as long-form,Planned
-13,2026-12-09,long,2026-12-09T15:00:00-05:00,How Pump-and-Dump Scams Actually Work,Someone made millions off that stock you bought. Here's how.,G5,SEC enforcement examples,Planned
-13,2026-12-09,short,2026-12-09T19:00:00-05:00,Short: How Pump-and-Dump Scams Actually Work,That hot stock tip? You might be the exit.,Teaser → links the long video,Same as long-form,Planned
-14,2026-12-10,long,2026-12-10T15:00:00-05:00,The 50/30/20 Budget: Does It Still Work in 2026?,The most popular budget rule might not work anymore.,G3,BLS consumer expenditure,Planned
-14,2026-12-10,short,2026-12-10T19:00:00-05:00,Short: The 50/30/20 Budget,Does 50/30/20 work on $50K? Let's check.,Teaser → links the long video,Same as long-form,Planned
-15,2026-12-11,long,2026-12-11T15:00:00-05:00,What Happens If the Stock Market Crashes Tomorrow?,The market will crash again. Here's what actually happens to your money.,G4,Historical S&P 500 drawdowns & recoveries,Planned
-15,2026-12-11,short,2026-12-11T19:00:00-05:00,Short: What Happens If the Stock Market Crashes Tomorrow?,Market down 30%? Here's what happened every time before.,Teaser → links the long video,Same as long-form,Planned
-16,2026-12-12,long,2026-12-12T15:00:00-05:00,Rent vs Buy in 2026: The Math Nobody Shows You,Renting isn't throwing money away. Sometimes buying is.,G3,Rent & mortgage data,Planned
-16,2026-12-12,short,2026-12-12T19:00:00-05:00,Short: Rent vs Buy in 2026,Renting isn't throwing money away. Here's the math.,Teaser → links the long video,Same as long-form,Planned
-17,2026-12-13,long,2026-12-13T15:00:00-05:00,How the Rich Use Debt (and Why You Shouldn't Copy Them),The rich borrow to get richer. Try it and you could go broke.,G4,—,Planned
-17,2026-12-13,short,2026-12-13T19:00:00-05:00,Short: How the Rich Use Debt,"Buy, borrow, die: the billionaire tax trick in 45 seconds.",Teaser → links the long video,Same as long-form,Planned
-18,2026-12-14,long,2026-12-14T15:00:00-05:00,Credit Score Explained: From 550 to 750,"Your credit score could cost you $100,000 over your life.",G8,FICO factor weights; rate gaps by score,Planned
-18,2026-12-14,short,2026-12-14T19:00:00-05:00,Short: Credit Score Explained,5 things that make your credit score. One matters most.,Teaser → links the long video,Same as long-form,Planned
-19,2026-12-15,long,2026-12-15T15:00:00-05:00,$5 a Day for 30 Years: What It Really Becomes,$5 a day. One coffee. Here's what it becomes in 30 years.,G9,Compounding maths (state assumption),Planned
-19,2026-12-15,short,2026-12-15T19:00:00-05:00,Short: $5 a Day for 30 Years,$5 a day for 30 years. Watch the number.,Teaser → links the long video,Same as long-form,Planned
-20,2026-12-16,long,2026-12-16T15:00:00-05:00,HYSA vs CDs vs T-Bills: Where to Park Cash in 2026,Your bank is probably paying you almost nothing. Here's where cash earns more.,G3,Current rates – verify on the day,Planned
-20,2026-12-16,short,2026-12-16T19:00:00-05:00,Short: HYSA vs CDs vs T-Bills,Is your cash earning anything? Check this.,Teaser → links the long video,Same as long-form,Planned
-21,2026-12-17,long,2026-12-17T15:00:00-05:00,"Why Your Paycheck Disappears: Taxes, Fees and Leaks","You earned $5,000. So why did only $3,600 hit your account?",G7,"2026 tax brackets, FICA",Planned
-21,2026-12-17,short,2026-12-17T19:00:00-05:00,Short: Why Your Paycheck Disappears,"$5,000 earned, $3,600 received. Where did it go?",Teaser → links the long video,Same as long-form,Planned
-22,2026-12-18,long,2026-12-18T15:00:00-05:00,7 Psychology Traps That Keep You Broke,Your brain is wired to make you poor. Here's how.,G7,Behavioral finance studies,Planned
-22,2026-12-18,short,2026-12-18T19:00:00-05:00,Short: 7 Psychology Traps That Keep You Broke,Loss aversion: why losing $100 hurts more than winning $100 feels good.,Teaser → links the long video,Same as long-form,Planned
-23,2026-12-19,long,2026-12-19T15:00:00-05:00,Compound Interest Explained With Stick Figures,"Einstein probably never said it, but compound interest really is that powerful.",G10,Quote attribution note,Planned
-23,2026-12-19,short,2026-12-19T19:00:00-05:00,Short: Compound Interest Explained With Stick Figures,Compound interest: the snowball you can't see for 10 years.,Teaser → links the long video,Same as long-form,Planned
-24,2026-12-20,long,2026-12-20T15:00:00-05:00,Options Trading Explained: Why Most Buyers Lose,You were right about the stock and still lost money on the option.,Shock stat,Options basics; studies on retail options losses,Planned
-24,2026-12-20,short,2026-12-20T19:00:00-05:00,Short: Options Trading Explained,Your option expired worthless even though you were right.,Teaser → links the long video,Same as long-form,Planned
-25,2026-12-21,long,2026-12-21T15:00:00-05:00,How Much Do You Need to Retire? The 4% Rule,The number you need to retire is probably not $1 million.,G3,Trinity study / 4% rule,Planned
-25,2026-12-21,short,2026-12-21T19:00:00-05:00,Short: How Much Do You Need to Retire? The 4% Rule,The 4% rule in 45 seconds.,Teaser → links the long video,Same as long-form,Planned
-26,2026-12-22,long,2026-12-22T15:00:00-05:00,"Buy Now, Pay Later: The Debt Trap Explained",Four easy payments. One big problem.,G5,CFPB BNPL report,Planned
-26,2026-12-22,short,2026-12-22T19:00:00-05:00,"Short: Buy Now, Pay Later",4 easy payments can turn into 4 debts.,Teaser → links the long video,Same as long-form,Planned
-27,2026-12-23,long,2026-12-23T15:00:00-05:00,How Inflation Quietly Steals Your Savings,Your savings account is losing money right now.,G4,CPI (BLS) vs savings rates,Planned
-27,2026-12-23,short,2026-12-23T19:00:00-05:00,Short: How Inflation Quietly Steals Your Savings,$100 today buys less than $100 did 5 years ago.,Teaser → links the long video,Same as long-form,Planned
-28,2026-12-24,long,2026-12-24T15:00:00-05:00,Side Hustle vs Investing: Which Makes You Richer?,A side hustle beats investing for most people under 30. Here's the math.,G8,Illustrative maths,Planned
-28,2026-12-24,short,2026-12-24T19:00:00-05:00,Short: Side Hustle vs Investing,$500/month side hustle vs $500/month invested: who wins?,Teaser → links the long video,Same as long-form,Planned
-29,2026-12-25,long,2026-12-25T15:00:00-05:00,"Your 2027 Money Plan: 12 Months, 12 Moves",Do one thing a month and next December you'll be a different person.,G1,—,Planned
-29,2026-12-25,short,2026-12-25T19:00:00-05:00,Short: Your 2027 Money Plan,"12 months, 12 moves: here's January.",Teaser → links the long video,Same as long-form,Planned
-30,2026-12-26,long,2026-12-26T15:00:00-05:00,30 Money Lessons in 10 Minutes,30 days. 30 lessons. Here's everything in 10 minutes.,G2,Series recap,Planned
-30,2026-12-26,short,2026-12-26T19:00:00-05:00,Short: 30 Money Lessons in 10 Minutes,The one lesson from 30 days I'd tattoo on my arm.,Teaser → links the long video,Same as long-form,Planned
+1,2026-11-25,long,2026-11-25T15:00:00-05:00,If I Had to Start Investing From $0 in 2026,"If I lost everything tomorrow and had to start from zero, here's exactly what I'd do.",G1,IRS 2026 limits; Fed G.19 card APR – done (pilot made),Queued
+1,2026-11-25,short,2026-11-25T19:00:00-05:00,Short: If I Had to Start Investing From $0 in 2026,Starting from $0? These 7 steps only work in this order.,Teaser → links the long video,Same as long-form,Queued
+2,2026-11-26,long,2026-11-26T15:00:00-05:00,You're Not Behind: What the Average American Actually Has Saved,Everyone online seems rich. Here's what the average American actually has.,G2,Fed Survey of Consumer Finances (median savings by age),Queued
+2,2026-11-26,short,2026-11-26T19:00:00-05:00,Short: You're Not Behind,The median American's savings might surprise you. You're probably not behind.,Teaser → links the long video,Same as long-form,Queued
+3,2026-11-27,long,2026-11-27T15:00:00-05:00,"How Much House Can You Really Afford? ($60K, $100K, $150K)",Your bank will approve you for way more house than you can afford.,G3,"Mortgage rate (Freddie Mac PMMS), 28/36 rule",Queued
+3,2026-11-27,short,2026-11-27T19:00:00-05:00,Short: How Much House Can You Really Afford?,Your bank's approval number is not your budget. Here's the real one.,Teaser → links the long video,Same as long-form,Queued
+4,2026-11-28,long,2026-11-28T15:00:00-05:00,The #1 Wealth Killer No One Talks About: Lifestyle Creep,The thing keeping you broke isn't your salary.,G7,—,Planned
+4,2026-11-28,short,2026-11-28T19:00:00-05:00,Short: The #1 Wealth Killer No One Talks About,Got a raise? Watch where it goes in 6 months.,Teaser → links the long video,Same as long-form,Planned
+5,2026-11-29,long,2026-11-29T15:00:00-05:00,Roth IRA vs 401(k): Which Should You Fund First?,"Put your first $1,000 in the wrong account and it can cost you thousands.",G1,"IRS limits, Roth income limits 2026",Planned
+5,2026-11-29,short,2026-11-29T19:00:00-05:00,Short: Roth IRA vs 401,"$1,000 to invest: Roth IRA or 401(k)? One question decides it.",Teaser → links the long video,Same as long-form,Planned
+6,2026-11-30,long,2026-11-30T15:00:00-05:00,Why 97% of Day Traders Lose Money (The Data),97% of people who day traded for 300 days lost money.,Shock stat,Chague et al.; FINRA/SEC notes,Planned
+6,2026-11-30,short,2026-11-30T19:00:00-05:00,Short: Why 97% of Day Traders Lose Money,97% of day traders who kept going for 300 days lost money.,Teaser → links the long video,Same as long-form,Planned
+7,2026-12-01,long,2026-12-01T15:00:00-05:00,How Credit Card Companies Make Money Off You,Your credit card company loves it when you pay the minimum.,G5,Fed G.19; CFPB credit card report,Planned
+7,2026-12-01,short,2026-12-01T19:00:00-05:00,Short: How Credit Card Companies Make Money Off You,"Paying the minimum on a $5,000 card can take years. Here's why.",Teaser → links the long video,Same as long-form,Planned
+8,2026-12-02,long,2026-12-02T15:00:00-05:00,Fix Your Finances in 90 Days: A Step-by-Step Plan,Give me 90 days and your money will look completely different.,G8,—,Planned
+8,2026-12-02,short,2026-12-02T19:00:00-05:00,Short: Fix Your Finances in 90 Days,3 moves this week that fix most money problems.,Teaser → links the long video,Same as long-form,Planned
+9,2026-12-03,long,2026-12-03T15:00:00-05:00,How Much Car Can You Really Afford? (By Salary),That car payment is quietly wrecking your future.,G3,"Average new car price & loan rate (Fed G.19, KBB)",Planned
+9,2026-12-03,short,2026-12-03T19:00:00-05:00,Short: How Much Car Can You Really Afford?,The 20/4/10 car rule in 45 seconds.,Teaser → links the long video,Same as long-form,Planned
+10,2026-12-04,long,2026-12-04T15:00:00-05:00,Index Funds Explained: Why Boring Beats Brilliant,Most professional fund managers lose to a fund that does nothing.,G10,SPIVA US scorecard,Planned
+10,2026-12-04,short,2026-12-04T19:00:00-05:00,Short: Index Funds Explained,A fund that does nothing beats most experts. Here's why.,Teaser → links the long video,Same as long-form,Planned
+11,2026-12-05,long,2026-12-05T15:00:00-05:00,"Warren Buffett's Rules for Your First $100,000",Warren Buffett's advice for regular people fits in one sentence.,G10,Buffett 2013 letter (index fund instruction),Planned
+11,2026-12-05,short,2026-12-05T19:00:00-05:00,"Short: Warren Buffett's Rules for Your First $100,000",Buffett told his own family to buy an index fund.,Teaser → links the long video,Same as long-form,Planned
+12,2026-12-06,long,2026-12-06T15:00:00-05:00,Why Gen Z Earns More but Feels Poorer,Gen Z makes more than their parents did at 25. So why does it feel worse?,G6,"BLS wages, housing cost data",Planned
+12,2026-12-06,short,2026-12-06T19:00:00-05:00,Short: Why Gen Z Earns More but Feels Poorer,Gen Z earns more and owns less. Here's the gap.,Teaser → links the long video,Same as long-form,Planned
+13,2026-12-07,long,2026-12-07T15:00:00-05:00,How Pump-and-Dump Scams Actually Work,Someone made millions off that stock you bought. Here's how.,G5,SEC enforcement examples,Planned
+13,2026-12-07,short,2026-12-07T19:00:00-05:00,Short: How Pump-and-Dump Scams Actually Work,That hot stock tip? You might be the exit.,Teaser → links the long video,Same as long-form,Planned
+14,2026-12-08,long,2026-12-08T15:00:00-05:00,The 50/30/20 Budget: Does It Still Work in 2026?,The most popular budget rule might not work anymore.,G3,BLS consumer expenditure,Planned
+14,2026-12-08,short,2026-12-08T19:00:00-05:00,Short: The 50/30/20 Budget,Does 50/30/20 work on $50K? Let's check.,Teaser → links the long video,Same as long-form,Planned
+15,2026-12-09,long,2026-12-09T15:00:00-05:00,What Happens If the Stock Market Crashes Tomorrow?,The market will crash again. Here's what actually happens to your money.,G4,Historical S&P 500 drawdowns & recoveries,Planned
+15,2026-12-09,short,2026-12-09T19:00:00-05:00,Short: What Happens If the Stock Market Crashes Tomorrow?,Market down 30%? Here's what happened every time before.,Teaser → links the long video,Same as long-form,Planned
+16,2026-12-10,long,2026-12-10T15:00:00-05:00,Rent vs Buy in 2026: The Math Nobody Shows You,Renting isn't throwing money away. Sometimes buying is.,G3,Rent & mortgage data,Planned
+16,2026-12-10,short,2026-12-10T19:00:00-05:00,Short: Rent vs Buy in 2026,Renting isn't throwing money away. Here's the math.,Teaser → links the long video,Same as long-form,Planned
+17,2026-12-11,long,2026-12-11T15:00:00-05:00,How the Rich Use Debt (and Why You Shouldn't Copy Them),The rich borrow to get richer. Try it and you could go broke.,G4,—,Planned
+17,2026-12-11,short,2026-12-11T19:00:00-05:00,Short: How the Rich Use Debt,"Buy, borrow, die: the billionaire tax trick in 45 seconds.",Teaser → links the long video,Same as long-form,Planned
+18,2026-12-12,long,2026-12-12T15:00:00-05:00,Credit Score Explained: From 550 to 750,"Your credit score could cost you $100,000 over your life.",G8,FICO factor weights; rate gaps by score,Planned
+18,2026-12-12,short,2026-12-12T19:00:00-05:00,Short: Credit Score Explained,5 things that make your credit score. One matters most.,Teaser → links the long video,Same as long-form,Planned
+19,2026-12-13,long,2026-12-13T15:00:00-05:00,$5 a Day for 30 Years: What It Really Becomes,$5 a day. One coffee. Here's what it becomes in 30 years.,G9,Compounding maths (state assumption),Planned
+19,2026-12-13,short,2026-12-13T19:00:00-05:00,Short: $5 a Day for 30 Years,$5 a day for 30 years. Watch the number.,Teaser → links the long video,Same as long-form,Planned
+20,2026-12-14,long,2026-12-14T15:00:00-05:00,HYSA vs CDs vs T-Bills: Where to Park Cash in 2026,Your bank is probably paying you almost nothing. Here's where cash earns more.,G3,Current rates – verify on the day,Planned
+20,2026-12-14,short,2026-12-14T19:00:00-05:00,Short: HYSA vs CDs vs T-Bills,Is your cash earning anything? Check this.,Teaser → links the long video,Same as long-form,Planned
+21,2026-12-15,long,2026-12-15T15:00:00-05:00,"Why Your Paycheck Disappears: Taxes, Fees and Leaks","You earned $5,000. So why did only $3,600 hit your account?",G7,"2026 tax brackets, FICA",Planned
+21,2026-12-15,short,2026-12-15T19:00:00-05:00,Short: Why Your Paycheck Disappears,"$5,000 earned, $3,600 received. Where did it go?",Teaser → links the long video,Same as long-form,Planned
+22,2026-12-16,long,2026-12-16T15:00:00-05:00,7 Psychology Traps That Keep You Broke,Your brain is wired to make you poor. Here's how.,G7,Behavioral finance studies,Planned
+22,2026-12-16,short,2026-12-16T19:00:00-05:00,Short: 7 Psychology Traps That Keep You Broke,Loss aversion: why losing $100 hurts more than winning $100 feels good.,Teaser → links the long video,Same as long-form,Planned
+23,2026-12-17,long,2026-12-17T15:00:00-05:00,Compound Interest Explained With Stick Figures,"Einstein probably never said it, but compound interest really is that powerful.",G10,Quote attribution note,Planned
+23,2026-12-17,short,2026-12-17T19:00:00-05:00,Short: Compound Interest Explained With Stick Figures,Compound interest: the snowball you can't see for 10 years.,Teaser → links the long video,Same as long-form,Planned
+24,2026-12-18,long,2026-12-18T15:00:00-05:00,Options Trading Explained: Why Most Buyers Lose,You were right about the stock and still lost money on the option.,Shock stat,Options basics; studies on retail options losses,Planned
+24,2026-12-18,short,2026-12-18T19:00:00-05:00,Short: Options Trading Explained,Your option expired worthless even though you were right.,Teaser → links the long video,Same as long-form,Planned
+25,2026-12-19,long,2026-12-19T15:00:00-05:00,How Much Do You Need to Retire? The 4% Rule,The number you need to retire is probably not $1 million.,G3,Trinity study / 4% rule,Planned
+25,2026-12-19,short,2026-12-19T19:00:00-05:00,Short: How Much Do You Need to Retire? The 4% Rule,The 4% rule in 45 seconds.,Teaser → links the long video,Same as long-form,Planned
+26,2026-12-20,long,2026-12-20T15:00:00-05:00,"Buy Now, Pay Later: The Debt Trap Explained",Four easy payments. One big problem.,G5,CFPB BNPL report,Planned
+26,2026-12-20,short,2026-12-20T19:00:00-05:00,"Short: Buy Now, Pay Later",4 easy payments can turn into 4 debts.,Teaser → links the long video,Same as long-form,Planned
+27,2026-12-21,long,2026-12-21T15:00:00-05:00,How Inflation Quietly Steals Your Savings,Your savings account is losing money right now.,G4,CPI (BLS) vs savings rates,Planned
+27,2026-12-21,short,2026-12-21T19:00:00-05:00,Short: How Inflation Quietly Steals Your Savings,$100 today buys less than $100 did 5 years ago.,Teaser → links the long video,Same as long-form,Planned
+28,2026-12-22,long,2026-12-22T15:00:00-05:00,Side Hustle vs Investing: Which Makes You Richer?,A side hustle beats investing for most people under 30. Here's the math.,G8,Illustrative maths,Planned
+28,2026-12-22,short,2026-12-22T19:00:00-05:00,Short: Side Hustle vs Investing,$500/month side hustle vs $500/month invested: who wins?,Teaser → links the long video,Same as long-form,Planned
+29,2026-12-23,long,2026-12-23T15:00:00-05:00,"Your 2027 Money Plan: 12 Months, 12 Moves",Do one thing a month and next December you'll be a different person.,G1,—,Planned
+29,2026-12-23,short,2026-12-23T19:00:00-05:00,Short: Your 2027 Money Plan,"12 months, 12 moves: here's January.",Teaser → links the long video,Same as long-form,Planned
+30,2026-12-24,long,2026-12-24T15:00:00-05:00,30 Money Lessons in 10 Minutes,30 days. 30 lessons. Here's everything in 10 minutes.,G2,Series recap,Planned
+30,2026-12-24,short,2026-12-24T19:00:00-05:00,Short: 30 Money Lessons in 10 Minutes,The one lesson from 30 days I'd tattoo on my arm.,Teaser → links the long video,Same as long-form,Planned
