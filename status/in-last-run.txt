@@ -1,4 +1,12 @@
-mode=post channel=in at 2026-11-26T12:56:42Z
+mode=post channel=in at 2026-11-26T16:39:54Z
 Channel: The 7% Club (in)
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 3, views 5
+== 2026-11-26-1930-sip-500-crorepati: due 2026-11-26T19:30:00+05:30, posting to youtube, facebook, instagram
+   youtube: OK https://youtube.com/shorts/pTaT5miPq5k
+   facebook: OK https://www.facebook.com/reel/29283029514695337
+   instagram: OK https://www.instagram.com/reel/DgNjjlrBc2H/
+2026-11-26-1930-sip-500-crorepati: title/description/tags updated
+2026-11-26-1930-sip-500-crorepati: English captions uploaded
+2026-11-26-1930-sip-500-crorepati: added to playlist 'Investing in India: SIP, Mutual Funds & Index Funds'
+2026-11-26-1930-sip-500-crorepati: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 4, views 83
 Analytics saved to status/analytics-in.json: 0 videos with data
