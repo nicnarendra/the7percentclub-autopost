@@ -23,5 +23,19 @@
     "categoryId": "27",
     "privacy": "public",
     "playlist": "start-here"
+  },
+  "results": {
+    "youtube": {
+      "id": "YH2SlorNmJY",
+      "url": "https://youtube.com/shorts/YH2SlorNmJY",
+      "privacy": "public",
+      "posted_at": "2026-11-26T08:14:31.596036+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "start-here",
+        "comment": true
+      }
+    }
   }
 }

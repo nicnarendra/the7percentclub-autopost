@@ -1,4 +1,10 @@
-mode=post channel=us at 2026-11-25T23:12:44Z
+mode=post channel=us at 2026-11-26T02:44:29Z
 Channel: The Boring Rich Club (us)
+== 2026-11-25-1900-short-7-steps-from-zero: due 2026-11-25T19:00:00-05:00, posting to youtube
+   youtube: OK https://youtube.com/shorts/YH2SlorNmJY
+2026-11-25-1900-short-7-steps-from-zero: title/description/tags updated
+2026-11-25-1900-short-7-steps-from-zero: English captions uploaded
+2026-11-25-1900-short-7-steps-from-zero: added to playlist 'Start Here: Investing From $0'
+2026-11-25-1900-short-7-steps-from-zero: link comment posted (pin it in Studio for best results)
 Profile picture saved to status/us-avatar.jpg; subscribers 0, videos 1, views 0
 Analytics saved to status/analytics-us.json: 0 videos with data
