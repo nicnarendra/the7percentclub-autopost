@@ -1,6 +1,4 @@
-mode=post channel=in at 2026-11-26T08:05:50Z
+mode=post channel=in at 2026-11-26T12:02:45Z
 Channel: The 7% Club (in)
-== 2026-11-26-1300-carousel-sip-500-crorepati: due 2026-11-26T13:00:00+05:30, posting to instagram_carousel
-   instagram_carousel: OK https://www.instagram.com/p/DgMou__l3Yl/
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 3, views 5
 Analytics saved to status/analytics-in.json: 0 videos with data

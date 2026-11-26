@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:06:16.712430+00:00",
+ "generated_at": "2026-11-26T12:02:46.817636+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -52,14 +52,14 @@
     "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
     "id": "18133679351508530",
     "comments_count": 0,
-    "like_count": 6,
+    "like_count": 10,
     "media_product_type": "REELS",
     "timestamp": "2026-11-25T15:00:58+0000",
     "insights": {
-     "reach": 497,
-     "views": 628,
+     "reach": 726,
+     "views": 871,
      "saved": 2,
-     "shares": 2
+     "shares": 3
     }
    },
    {
@@ -71,8 +71,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T06:46:51+0000",
     "insights": {
-     "reach": 98,
-     "views": 116,
+     "reach": 104,
+     "views": 119,
      "saved": 0,
      "shares": 0
     }
@@ -186,6 +186,66 @@
    "format": "short",
    "title": "Credit Card Ka 'Minimum Due': Sabse Mehenga Button #Shorts",
    "publish_at": "2026-11-27T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "money-traps"
+  },
+  {
+   "dir": "2026-11-28-0830-telegram-tips",
+   "format": "short",
+   "title": "Free Telegram Tip? Exit Aap Ho: Pump and Dump ka Khel #Shorts",
+   "publish_at": "2026-11-28T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "scams"
+  },
+  {
+   "dir": "2026-11-28-1300-carousel-revenge-trading",
+   "format": "carousel",
+   "title": "₹5,000 ka loss → ₹20,000 ka trade? 🛑 RUKO!\n\nRevenge trading ka maths:\n−10% gaya ",
+   "publish_at": "2026-11-28T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
+   "dir": "2026-11-28-1930-rich-vs-poor-1-lakh",
+   "format": "short",
+   "title": "₹1 Lakh, 2 Log: Ek Ne Udaaya, Ek Ne Badhaaya #Shorts",
+   "publish_at": "2026-11-28T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "investing-india"
+  },
+  {
+   "dir": "2026-11-29-0830-candlesticks",
+   "format": "short",
+   "title": "Candlestick Chart Kaise Padhein? 45 Second Mein Seekho #Shorts",
+   "publish_at": "2026-11-29T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "trading-psychology"
+  },
+  {
+   "dir": "2026-11-29-1300-carousel-telegram-tips",
+   "format": "carousel",
+   "title": "Free Telegram tip? Exit AAP ho 🚩\n\nPump and dump, 4 steps:\n1. Operator pehle se s",
+   "publish_at": "2026-11-29T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
+   "dir": "2026-11-29-1930-two-loans",
+   "format": "short",
+   "title": "2 Loan, ₹1 Lakh Extra: Pehle Kaun Sa Chukayein? #Shorts",
+   "publish_at": "2026-11-29T19:30:00+05:30",
    "youtube_id": null,
    "instagram_id": null,
    "facebook_id": null,
