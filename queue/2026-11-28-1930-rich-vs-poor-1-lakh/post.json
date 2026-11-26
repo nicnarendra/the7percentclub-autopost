@@ -1,0 +1,29 @@
+{
+  "day": 4,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-28T19:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "₹1 Lakh, 2 Log: Ek Ne Udaaya, Ek Ne Badhaaya #Shorts",
+    "description": "Same ₹1 lakh, do alag faisle: ek ne kharch kiya, doosre ne pehle emergency fund banaya aur baaki lambe time ke liye invest kiya. Compounding ka simple example, Hinglish mein.\n\nIs video ke numbers (illustration, guarantee nahi):\n• 12% per year maan kar: ₹1 lakh x 1.12^10 ≈ ₹3.1 lakh (10 saal), x 1.12^20 ≈ ₹9.6 lakh (20 saal)\n• Returns market ke hisaab se upar-neeche hote hain; 12% sirf example hai\n\nAapko ₹1 lakh mile toh pehla kaam kya karoge? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#moneymindset #compounding #investing #personalfinancehindi #paisa",
+    "tags": [
+      "rich vs poor mindset hindi",
+      "1 lakh kaise invest kare",
+      "compounding hindi",
+      "money mindset",
+      "personal finance hindi",
+      "emergency fund",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "investing-india"
+  },
+  "caption": "₹1 lakh. 2 log. 2 alag future 💸\n\nPerson A: naya phone, ghadi, party. 1 hafte mein khatam.\nPerson B: pehle emergency fund, phir baaki long term invest.\n\n12% per year maan kar (guarantee nahi):\n10 saal: ~₹3.1 lakh\n20 saal: ~₹9.6 lakh\n\nFarak sirf ek sawaal ka: \"Isse kya khareedun?\" vs \"Yeh paisa kya kamayega?\"\n\nAap A ho ya B? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#moneymindset #compounding #investing #personalfinance #savings #paisa #the7percentclub",
+  "language": "hi"
+}

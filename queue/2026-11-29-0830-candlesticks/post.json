@@ -1,0 +1,29 @@
+{
+  "day": 5,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-29T08:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Candlestick Chart Kaise Padhein? 45 Second Mein Seekho #Shorts",
+    "description": "Candlestick chart padhna seekho 45 second mein: open, high, low, close, body aur wick ka matlab, green aur red candle kab banti hai, aur lambi wick kya batati hai.\n\nIs video ke numbers:\n• Example candle (sirf samjhane ke liye): open ₹100, high ₹107, low ₹95, close ₹105 = green candle, upar chhoti wick, neeche lambi wick\n• OHLC basics: body = open se close; wick = din ka high aur low\n\nAapko chart pe sabse confusing kya lagta hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#candlestick #technicalanalysis #stockmarketbasics #sharemarkethindi #trading",
+    "tags": [
+      "candlestick chart hindi",
+      "candlestick kaise padhe",
+      "ohlc",
+      "technical analysis hindi",
+      "stock market basics hindi",
+      "share market hindi",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "trading-psychology"
+  },
+  "caption": "Har candle ek kahani hai 🕯️\n\nEk candle = 4 cheezein: Open, High, Low, Close\n• Body = open se close\n• Wick = din ka high aur low\n• Close > Open = GREEN (buyers jeete)\n• Close < Open = RED (sellers jeete)\n\nExample: ₹100 open, ₹107 high, ₹95 low, ₹105 close = green candle, neeche lambi wick (price gaya, par tik nahi paaya).\n\nYaad rakho: candle future nahi batati, bas batati hai kya hua.\n\nSave karo, chart kholte waqt kaam aayega. Sabse confusing kya lagta hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#candlestick #technicalanalysis #stockmarket #trading #sharemarkethindi #the7percentclub",
+  "language": "hi"
+}
