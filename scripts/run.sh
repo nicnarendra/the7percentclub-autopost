@@ -10,7 +10,13 @@ LOG="status/${CHANNEL}-last-run.txt"
     scopes) python scripts/seo.py --scopes ;;
     seo) python scripts/seo.py ;;
     analytics) python scripts/analytics.py ;;
-    *) python scripts/post.py; S=$?; python scripts/seo.py --videos || true; python scripts/analytics.py || true; exit $S ;;
+    *) python scripts/post.py; S=$?
+       # Nothing was due: skip SEO/analytics so frequent retry runs stay quiet
+       if [ "$S" = "3" ]; then exit 3; fi
+       python scripts/seo.py --videos || true; python scripts/analytics.py || true; exit $S ;;
   esac
-} 2>&1 | tee "$LOG"
-exit ${PIPESTATUS[0]}
+} 2>&1 | tee "$LOG.tmp"
+S=${PIPESTATUS[0]}
+if [ "$S" = "3" ]; then rm -f "$LOG.tmp"; echo "Nothing due"; exit 0; fi
+mv "$LOG.tmp" "$LOG"
+exit $S

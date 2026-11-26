@@ -260,6 +260,7 @@ def main():
     dry = "--dry-run" in sys.argv
     now = dt.datetime.now(IST)
     failures = 0
+    attempted = 0
     log(f"Channel: {CH['name']} ({CH_KEY})")
     if not QUEUE.exists():
         log("Queue folder empty"); return
@@ -276,7 +277,9 @@ def main():
         if item.get("hold"):
             log(f"== {d.name}: on hold (waiting for approval), skipped")
             continue
-        log(f"== {d.name}: due {due.isoformat()}, posting to {', '.join(todo)}")
+        attempted += 1
+        late = (now - due).total_seconds() / 60
+        log(f"== {d.name}: due {due.isoformat()}, posting to {', '.join(todo)}" + (f" (LATE by {late:.0f} min)" if late > 20 else ""))
         if dry:
             continue
         for p in todo:
@@ -288,6 +291,8 @@ def main():
                 results[p] = {"error": str(e)[:500], "failed_at": dt.datetime.now(IST).isoformat()}
                 log(f"   {p}: FAILED {e}")
             pj.write_text(json.dumps(item, indent=2, ensure_ascii=False) + "\n")
+    if not attempted and not dry:
+        sys.exit(3)  # nothing due (run.sh treats this as a quiet success)
     sys.exit(1 if failures else 0)
 
 
