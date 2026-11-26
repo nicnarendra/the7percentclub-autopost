@@ -1,0 +1,23 @@
+{
+  "day": 4,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-28T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "Got a Raise? Watch Where It Goes in 6 Months #Shorts",
+    "description": "Got a raise? Lifestyle creep can swallow it in six months: a better phone plan, more streaming, a nicer car payment, and your savings don't move. The fix: split every raise 50/50 and automate the saving half.\n\n• 1 in 4 adults with family income of $100K+ don't have 3 months of expenses set aside (75% do) — Federal Reserve, Economic Well-Being of U.S. Households in 2025\n• Sam is an illustration: a $5,000 raise is roughly $300 a month after tax, depending on your taxes.\n\nFull breakdown on the channel: \"The #1 Wealth Killer No One Talks About: Lifestyle Creep\".\n\n📌 Educational content only, not financial advice.\n\n#lifestylecreep #personalfinance #money",
+    "tags": [
+      "lifestyle creep",
+      "raise",
+      "saving money",
+      "personal finance",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "money-mistakes"
+  }
+}

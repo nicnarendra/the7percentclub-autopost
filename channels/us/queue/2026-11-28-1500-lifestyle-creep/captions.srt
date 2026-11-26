@@ -1,0 +1,879 @@
+1
+00:00:00,400 --> 00:00:02,111
+The thing keeping you broke
+
+2
+00:00:02,131 --> 00:00:04,085
+probably isn't your salary.
+
+3
+00:00:04,105 --> 00:00:05,488
+It's what happens to every
+
+4
+00:00:05,508 --> 00:00:06,658
+raise you get.
+
+5
+00:00:06,678 --> 00:00:07,509
+You earn more,
+
+6
+00:00:07,529 --> 00:00:08,409
+you spend more,
+
+7
+00:00:08,429 --> 00:00:10,011
+and somehow you never feel
+
+8
+00:00:10,031 --> 00:00:10,811
+richer.
+
+9
+00:00:10,831 --> 00:00:11,805
+It has a name:
+
+10
+00:00:11,825 --> 00:00:12,798
+lifestyle creep.
+
+11
+00:00:12,818 --> 00:00:14,344
+And today I'll show you
+
+12
+00:00:14,364 --> 00:00:15,393
+how to beat it,
+
+13
+00:00:15,413 --> 00:00:17,559
+without living like a monk.
+
+14
+00:00:17,579 --> 00:00:19,286
+Lifestyle creep is when
+
+15
+00:00:19,306 --> 00:00:21,259
+your spending quietly rises
+
+16
+00:00:21,279 --> 00:00:23,695
+every time your income does.
+
+17
+00:00:23,715 --> 00:00:25,392
+Nobody decides to do it.
+
+18
+00:00:25,412 --> 00:00:27,382
+It happens one small upgrade
+
+19
+00:00:27,402 --> 00:00:28,543
+at a time.
+
+20
+00:00:28,563 --> 00:00:29,794
+A nicer apartment.
+
+21
+00:00:29,814 --> 00:00:30,687
+A newer car.
+
+22
+00:00:30,707 --> 00:00:32,653
+Takeout three nights a week
+
+23
+00:00:32,673 --> 00:00:34,125
+instead of one.
+
+24
+00:00:34,145 --> 00:00:35,731
+Each one feels reasonable
+
+25
+00:00:35,751 --> 00:00:36,881
+on its own.
+
+26
+00:00:36,901 --> 00:00:38,001
+But stack them up,
+
+27
+00:00:38,021 --> 00:00:39,478
+and your whole raise is
+
+28
+00:00:39,498 --> 00:00:41,158
+gone before it ever reaches
+
+29
+00:00:41,178 --> 00:00:42,322
+your savings.
+
+30
+00:00:42,342 --> 00:00:43,572
+The scary part is,
+
+31
+00:00:43,592 --> 00:00:44,651
+you don't notice.
+
+32
+00:00:44,671 --> 00:00:46,469
+Your life just slowly gets
+
+33
+00:00:46,489 --> 00:00:47,835
+more expensive.
+
+34
+00:00:47,855 --> 00:00:49,847
+Let's watch it happen.
+
+35
+00:00:49,867 --> 00:00:50,733
+Meet Sam.
+
+36
+00:00:50,753 --> 00:00:53,387
+Sam earns $60,000 a year.
+
+37
+00:00:53,407 --> 00:00:55,989
+Sam gets a $5,000 raise.
+
+38
+00:00:56,009 --> 00:00:56,967
+Nice.
+
+39
+00:00:56,987 --> 00:00:57,967
+After taxes,
+
+40
+00:00:57,987 --> 00:00:59,896
+that's roughly $300 more
+
+41
+00:00:59,916 --> 00:01:00,611
+a month,
+
+42
+00:01:00,631 --> 00:01:03,440
+depending on where Sam lives.
+
+43
+00:01:03,460 --> 00:01:04,332
+Month one,
+
+44
+00:01:04,352 --> 00:01:06,787
+Sam upgrades the phone plan.
+
+45
+00:01:06,807 --> 00:01:07,484
+$40.
+
+46
+00:01:07,504 --> 00:01:08,282
+Month two,
+
+47
+00:01:08,302 --> 00:01:10,344
+a couple of new streaming
+
+48
+00:01:10,364 --> 00:01:12,473
+services and a fancier gym.
+
+49
+00:01:12,493 --> 00:01:13,139
+$70.
+
+50
+00:01:13,159 --> 00:01:14,384
+Month four,
+
+51
+00:01:14,404 --> 00:01:16,683
+a nicer car payment.
+
+52
+00:01:16,703 --> 00:01:17,562
+$150.
+
+53
+00:01:17,582 --> 00:01:18,568
+By month six,
+
+54
+00:01:18,588 --> 00:01:20,455
+the rest goes to takeout.
+
+55
+00:01:20,475 --> 00:01:22,279
+The whole $300 is spoken
+
+56
+00:01:22,299 --> 00:01:22,593
+for,
+
+57
+00:01:22,613 --> 00:01:24,291
+and Sam's savings didn't
+
+58
+00:01:24,311 --> 00:01:25,634
+move at all.
+
+59
+00:01:25,654 --> 00:01:27,354
+You might think this only
+
+60
+00:01:27,374 --> 00:01:29,130
+happens to people on tight
+
+61
+00:01:29,150 --> 00:01:29,629
+budgets.
+
+62
+00:01:29,649 --> 00:01:31,583
+The data says otherwise.
+
+63
+00:01:31,603 --> 00:01:32,319
+Every year,
+
+64
+00:01:32,339 --> 00:01:33,961
+the Federal Reserve asks
+
+65
+00:01:33,981 --> 00:01:35,774
+Americans whether they have
+
+66
+00:01:35,794 --> 00:01:37,416
+three months of expenses
+
+67
+00:01:37,436 --> 00:01:39,232
+saved for emergencies.
+
+68
+00:01:39,252 --> 00:01:41,333
+In its latest survey,
+
+69
+00:01:41,353 --> 00:01:43,939
+only 21% of adults earning
+
+70
+00:01:43,959 --> 00:01:46,440
+under $25,000 said yes.
+
+71
+00:01:46,460 --> 00:01:48,923
+At $100,000 or more,
+
+72
+00:01:48,943 --> 00:01:51,468
+it jumps to 75%.
+
+73
+00:01:51,488 --> 00:01:52,759
+That's a lot better.
+
+74
+00:01:52,779 --> 00:01:54,051
+But flip it around:
+
+75
+00:01:54,071 --> 00:01:55,849
+one in four people earning
+
+76
+00:01:55,869 --> 00:01:57,478
+six figures still doesn't
+
+77
+00:01:57,498 --> 00:01:59,451
+have three months saved.
+
+78
+00:01:59,471 --> 00:02:00,655
+More income helps.
+
+79
+00:02:00,675 --> 00:02:02,317
+It just doesn't guarantee
+
+80
+00:02:02,337 --> 00:02:02,890
+anything,
+
+81
+00:02:02,910 --> 00:02:04,495
+if spending rises right
+
+82
+00:02:04,515 --> 00:02:05,870
+along with it.
+
+83
+00:02:05,890 --> 00:02:07,373
+Now zoom out to the whole
+
+84
+00:02:07,393 --> 00:02:08,196
+country.
+
+85
+00:02:08,216 --> 00:02:09,833
+In October 2026,
+
+86
+00:02:09,853 --> 00:02:12,245
+Americans saved just 4.1%
+
+87
+00:02:12,265 --> 00:02:15,144
+of their after-tax income.
+
+88
+00:02:15,164 --> 00:02:17,489
+That means out of every
+
+89
+00:02:17,509 --> 00:02:17,894
+$100,
+
+90
+00:02:17,914 --> 00:02:20,072
+about $4 got saved.
+
+91
+00:02:20,092 --> 00:02:21,528
+The other ninety-six got
+
+92
+00:02:21,548 --> 00:02:22,291
+spent.
+
+93
+00:02:22,311 --> 00:02:23,653
+So why does this happen
+
+94
+00:02:23,673 --> 00:02:24,945
+to smart people?
+
+95
+00:02:24,965 --> 00:02:25,783
+Reason one:
+
+96
+00:02:25,803 --> 00:02:27,974
+you get used to things fast.
+
+97
+00:02:27,994 --> 00:02:30,164
+Psychologists call it hedonic
+
+98
+00:02:30,184 --> 00:02:30,938
+adaptation.
+
+99
+00:02:30,958 --> 00:02:32,935
+The new car feels amazing
+
+100
+00:02:32,955 --> 00:02:33,902
+for a month,
+
+101
+00:02:33,922 --> 00:02:36,106
+then it's just your car.
+
+102
+00:02:36,126 --> 00:02:36,915
+Reason two:
+
+103
+00:02:36,935 --> 00:02:38,905
+your comparison group moves.
+
+104
+00:02:38,925 --> 00:02:40,212
+Get a better job,
+
+105
+00:02:40,232 --> 00:02:42,203
+and suddenly your coworkers
+
+106
+00:02:42,223 --> 00:02:44,131
+drive nicer cars and take
+
+107
+00:02:44,151 --> 00:02:45,464
+bigger trips.
+
+108
+00:02:45,484 --> 00:02:46,585
+Reason three:
+
+109
+00:02:46,605 --> 00:02:49,275
+upgrades come in small monthly
+
+110
+00:02:49,295 --> 00:02:49,798
+bites.
+
+111
+00:02:49,818 --> 00:02:50,546
+$15 here,
+
+112
+00:02:50,566 --> 00:02:51,368
+$40 there.
+
+113
+00:02:51,388 --> 00:02:53,535
+None of them feels like
+
+114
+00:02:53,555 --> 00:02:54,906
+a decision.
+
+115
+00:02:54,926 --> 00:02:56,006
+And reason four:
+
+116
+00:02:56,026 --> 00:02:56,990
+you earned it.
+
+117
+00:02:57,010 --> 00:02:57,858
+And you did!
+
+118
+00:02:57,878 --> 00:02:59,710
+But treating yourself every
+
+119
+00:02:59,730 --> 00:03:01,330
+single month turns into
+
+120
+00:03:01,350 --> 00:03:02,888
+a permanent bill.
+
+121
+00:03:02,908 --> 00:03:04,443
+Here's what lifestyle creep
+
+122
+00:03:04,463 --> 00:03:05,596
+really costs.
+
+123
+00:03:05,616 --> 00:03:07,746
+Say Sam had invested that
+
+124
+00:03:07,766 --> 00:03:09,810
+$300 a month instead.
+
+125
+00:03:09,830 --> 00:03:12,091
+At a 7% yearly return,
+
+126
+00:03:12,111 --> 00:03:14,460
+which is an assumption,
+
+127
+00:03:14,480 --> 00:03:16,127
+not a guarantee,
+
+128
+00:03:16,147 --> 00:03:18,935
+that grows to about $366,000
+
+129
+00:03:18,955 --> 00:03:20,651
+in 30 years.
+
+130
+00:03:20,671 --> 00:03:23,026
+Sam only put in $108,000.
+
+131
+00:03:23,046 --> 00:03:25,378
+The rest is growth.
+
+132
+00:03:25,398 --> 00:03:27,011
+And that's from one raise.
+
+133
+00:03:27,031 --> 00:03:28,807
+Most people get many raises
+
+134
+00:03:28,827 --> 00:03:30,133
+over a career.
+
+135
+00:03:30,153 --> 00:03:32,245
+Every raise you spend completely
+
+136
+00:03:32,265 --> 00:03:34,024
+is a piece of your future
+
+137
+00:03:34,044 --> 00:03:36,092
+you're quietly giving away.
+
+138
+00:03:36,112 --> 00:03:37,645
+Here are three warning signs
+
+139
+00:03:37,665 --> 00:03:39,188
+it's happening to you.
+
+140
+00:03:39,208 --> 00:03:39,439
+One:
+
+141
+00:03:39,459 --> 00:03:41,096
+you earn more than you did
+
+142
+00:03:41,116 --> 00:03:42,050
+three years ago,
+
+143
+00:03:42,070 --> 00:03:43,507
+but your savings balance
+
+144
+00:03:43,527 --> 00:03:45,162
+looks about the same.
+
+145
+00:03:45,182 --> 00:03:45,413
+Two:
+
+146
+00:03:45,433 --> 00:03:46,868
+you can't say where last
+
+147
+00:03:46,888 --> 00:03:48,373
+month's money went without
+
+148
+00:03:48,393 --> 00:03:50,228
+opening your banking app.
+
+149
+00:03:50,248 --> 00:03:50,634
+Three:
+
+150
+00:03:50,654 --> 00:03:51,792
+your fixed bills,
+
+151
+00:03:51,812 --> 00:03:52,487
+like rent,
+
+152
+00:03:52,507 --> 00:03:54,283
+your car and subscriptions,
+
+153
+00:03:54,303 --> 00:03:55,963
+went up every time your
+
+154
+00:03:55,983 --> 00:03:56,942
+pay did.
+
+155
+00:03:56,962 --> 00:03:58,899
+If any of those sound familiar,
+
+156
+00:03:58,919 --> 00:03:59,693
+you're normal.
+
+157
+00:03:59,713 --> 00:04:01,098
+And it's fixable.
+
+158
+00:04:01,118 --> 00:04:02,660
+So how do you beat it?
+
+159
+00:04:02,680 --> 00:04:04,111
+Not by never spending.
+
+160
+00:04:04,131 --> 00:04:05,961
+Here's a simple system.
+
+161
+00:04:05,981 --> 00:04:06,600
+Step one:
+
+162
+00:04:06,620 --> 00:04:08,343
+the fifty-fifty raise rule.
+
+163
+00:04:08,363 --> 00:04:10,260
+Every time you get a raise,
+
+164
+00:04:10,280 --> 00:04:12,002
+half goes to your future,
+
+165
+00:04:12,022 --> 00:04:14,319
+and half goes to your life.
+
+166
+00:04:14,339 --> 00:04:16,759
+Sam would still get $150
+
+167
+00:04:16,779 --> 00:04:19,031
+a month more to enjoy,
+
+168
+00:04:19,051 --> 00:04:21,535
+and still invest $150.
+
+169
+00:04:21,555 --> 00:04:23,371
+Even that half,
+
+170
+00:04:23,391 --> 00:04:25,717
+at 7% for 30 years,
+
+171
+00:04:25,737 --> 00:04:29,382
+could grow to about $183,000.
+
+172
+00:04:29,402 --> 00:04:30,129
+Step two:
+
+173
+00:04:30,149 --> 00:04:32,303
+automate it before you see
+
+174
+00:04:32,323 --> 00:04:32,575
+it.
+
+175
+00:04:32,595 --> 00:04:34,682
+Raise your 401(k) percentage,
+
+176
+00:04:34,702 --> 00:04:37,264
+or set up an automatic transfer,
+
+177
+00:04:37,284 --> 00:04:39,234
+the same week the raise
+
+178
+00:04:39,254 --> 00:04:40,178
+starts.
+
+179
+00:04:40,198 --> 00:04:42,113
+Money you never see in checking
+
+180
+00:04:42,133 --> 00:04:43,939
+is money you won't miss.
+
+181
+00:04:43,959 --> 00:04:45,790
+This works because you never
+
+182
+00:04:45,810 --> 00:04:46,824
+feel a pay cut.
+
+183
+00:04:46,844 --> 00:04:48,620
+Your life still gets better,
+
+184
+00:04:48,640 --> 00:04:50,436
+just not all at once.
+
+185
+00:04:50,456 --> 00:04:51,160
+Step three:
+
+186
+00:04:51,180 --> 00:04:52,386
+upgrade on purpose.
+
+187
+00:04:52,406 --> 00:04:54,225
+Pick the one or two things
+
+188
+00:04:54,245 --> 00:04:56,064
+that truly make you happier,
+
+189
+00:04:56,084 --> 00:04:57,847
+and spend on those without
+
+190
+00:04:57,867 --> 00:04:58,637
+guilt.
+
+191
+00:04:58,657 --> 00:05:00,179
+Cut the upgrades that just
+
+192
+00:05:00,199 --> 00:05:01,109
+crept in.
+
+193
+00:05:01,129 --> 00:05:01,790
+Step four:
+
+194
+00:05:01,810 --> 00:05:02,925
+a yearly check-up.
+
+195
+00:05:02,945 --> 00:05:03,776
+Once a year,
+
+196
+00:05:03,796 --> 00:05:05,534
+look at your subscriptions
+
+197
+00:05:05,554 --> 00:05:06,612
+and fixed bills,
+
+198
+00:05:06,632 --> 00:05:07,180
+and ask:
+
+199
+00:05:07,200 --> 00:05:08,938
+would I sign up for this
+
+200
+00:05:08,958 --> 00:05:10,133
+again today?
+
+201
+00:05:10,153 --> 00:05:11,408
+If the answer is no,
+
+202
+00:05:11,428 --> 00:05:12,420
+cancel it.
+
+203
+00:05:12,440 --> 00:05:13,803
+Let's recap.
+
+204
+00:05:13,823 --> 00:05:15,633
+Lifestyle creep is spending
+
+205
+00:05:15,653 --> 00:05:17,921
+that rises with every raise.
+
+206
+00:05:17,941 --> 00:05:19,788
+Even one in four six-figure
+
+207
+00:05:19,808 --> 00:05:21,538
+earners doesn't have three
+
+208
+00:05:21,558 --> 00:05:22,814
+months saved.
+
+209
+00:05:22,834 --> 00:05:23,544
+One raise,
+
+210
+00:05:23,564 --> 00:05:24,153
+invested,
+
+211
+00:05:24,173 --> 00:05:26,039
+could grow to hundreds of
+
+212
+00:05:26,059 --> 00:05:27,109
+thousands.
+
+213
+00:05:27,129 --> 00:05:29,088
+Split every raise fifty-fifty,
+
+214
+00:05:29,108 --> 00:05:29,928
+automate it,
+
+215
+00:05:29,948 --> 00:05:31,948
+and upgrade on purpose.
+
+216
+00:05:31,968 --> 00:05:32,739
+Next up:
+
+217
+00:05:32,759 --> 00:05:34,402
+Roth IRA vs 401(k),
+
+218
+00:05:34,422 --> 00:05:36,856
+and where your first $1,000
+
+219
+00:05:36,876 --> 00:05:37,805
+should go.
+
+220
+00:05:37,825 --> 00:05:39,927
+See you there.

@@ -1,0 +1,432 @@
+[
+{
+"text": "$1,000",
+"start": 0.0,
+"end": 0.521
+},
+{
+"text": "to",
+"start": 0.566,
+"end": 0.913
+},
+{
+"text": "invest:",
+"start": 0.943,
+"end": 1.637
+},
+{
+"text": "Roth",
+"start": 1.698,
+"end": 2.218
+},
+{
+"text": "IRA",
+"start": 2.263,
+"end": 2.697
+},
+{
+"text": "or",
+"start": 2.735,
+"end": 3.082
+},
+{
+"text": "401(k)?",
+"start": 3.112,
+"end": 3.633
+},
+{
+"text": "One",
+"start": 3.678,
+"end": 4.112
+},
+{
+"text": "question",
+"start": 4.15,
+"end": 5.017
+},
+{
+"text": "decides",
+"start": 5.093,
+"end": 5.874
+},
+{
+"text": "it.",
+"start": 5.942,
+"end": 6.289
+},
+{
+"text": "Does",
+"start": 6.619,
+"end": 6.977
+},
+{
+"text": "your",
+"start": 7.008,
+"end": 7.367
+},
+{
+"text": "job",
+"start": 7.398,
+"end": 7.696
+},
+{
+"text": "match",
+"start": 7.722,
+"end": 8.14
+},
+{
+"text": "your",
+"start": 8.177,
+"end": 8.535
+},
+{
+"text": "401(k)?",
+"start": 8.566,
+"end": 8.924
+},
+{
+"text": "If",
+"start": 9.256,
+"end": 9.466
+},
+{
+"text": "yes,",
+"start": 9.485,
+"end": 9.748
+},
+{
+"text": "put",
+"start": 9.771,
+"end": 10.035
+},
+{
+"text": "money",
+"start": 10.057,
+"end": 10.426
+},
+{
+"text": "there",
+"start": 10.458,
+"end": 10.827
+},
+{
+"text": "first,",
+"start": 10.859,
+"end": 11.228
+},
+{
+"text": "until",
+"start": 11.26,
+"end": 11.629
+},
+{
+"text": "you",
+"start": 11.661,
+"end": 11.925
+},
+{
+"text": "get",
+"start": 11.948,
+"end": 12.211
+},
+{
+"text": "the",
+"start": 12.234,
+"end": 12.497
+},
+{
+"text": "full",
+"start": 12.52,
+"end": 12.836
+},
+{
+"text": "match.",
+"start": 12.864,
+"end": 13.233
+},
+{
+"text": "A",
+"start": 13.265,
+"end": 13.423
+},
+{
+"text": "100%",
+"start": 13.437,
+"end": 13.7
+},
+{
+"text": "match",
+"start": 13.723,
+"end": 14.092
+},
+{
+"text": "doubles",
+"start": 14.124,
+"end": 14.598
+},
+{
+"text": "your",
+"start": 14.639,
+"end": 14.956
+},
+{
+"text": "money",
+"start": 14.983,
+"end": 15.352
+},
+{
+"text": "instantly.",
+"start": 15.384,
+"end": 15.964
+},
+{
+"text": "Then",
+"start": 16.314,
+"end": 16.857
+},
+{
+"text": "open",
+"start": 16.904,
+"end": 17.447
+},
+{
+"text": "a",
+"start": 17.494,
+"end": 17.765
+},
+{
+"text": "Roth",
+"start": 17.789,
+"end": 18.332
+},
+{
+"text": "IRA.",
+"start": 18.379,
+"end": 18.831
+},
+{
+"text": "In",
+"start": 18.87,
+"end": 19.232
+},
+{
+"text": "2026,",
+"start": 19.264,
+"end": 19.806
+},
+{
+"text": "you",
+"start": 19.853,
+"end": 20.306
+},
+{
+"text": "can",
+"start": 20.345,
+"end": 20.797
+},
+{
+"text": "put",
+"start": 20.837,
+"end": 21.289
+},
+{
+"text": "in",
+"start": 21.328,
+"end": 21.69
+},
+{
+"text": "up",
+"start": 21.721,
+"end": 22.083
+},
+{
+"text": "to",
+"start": 22.115,
+"end": 22.477
+},
+{
+"text": "$7,500.",
+"start": 22.508,
+"end": 23.051
+},
+{
+"text": "You",
+"start": 23.398,
+"end": 23.657
+},
+{
+"text": "pay",
+"start": 23.679,
+"end": 23.938
+},
+{
+"text": "tax",
+"start": 23.961,
+"end": 24.22
+},
+{
+"text": "now,",
+"start": 24.242,
+"end": 24.501
+},
+{
+"text": "and",
+"start": 24.524,
+"end": 24.783
+},
+{
+"text": "qualified",
+"start": 24.805,
+"end": 25.375
+},
+{
+"text": "withdrawals",
+"start": 25.424,
+"end": 26.097
+},
+{
+"text": "later",
+"start": 26.156,
+"end": 26.518
+},
+{
+"text": "are",
+"start": 26.55,
+"end": 26.809
+},
+{
+"text": "tax-free.",
+"start": 26.831,
+"end": 27.297
+},
+{
+"text": "No",
+"start": 27.638,
+"end": 27.86
+},
+{
+"text": "match?",
+"start": 27.879,
+"end": 28.268
+},
+{
+"text": "Start",
+"start": 28.302,
+"end": 28.691
+},
+{
+"text": "with",
+"start": 28.725,
+"end": 29.058
+},
+{
+"text": "the",
+"start": 29.087,
+"end": 29.365
+},
+{
+"text": "Roth",
+"start": 29.389,
+"end": 29.722
+},
+{
+"text": "IRA.",
+"start": 29.751,
+"end": 30.029
+},
+{
+"text": "Then",
+"start": 30.353,
+"end": 30.83
+},
+{
+"text": "go",
+"start": 30.872,
+"end": 31.19
+},
+{
+"text": "back",
+"start": 31.218,
+"end": 31.696
+},
+{
+"text": "and",
+"start": 31.737,
+"end": 32.135
+},
+{
+"text": "add",
+"start": 32.17,
+"end": 32.568
+},
+{
+"text": "more",
+"start": 32.602,
+"end": 33.08
+},
+{
+"text": "to",
+"start": 33.121,
+"end": 33.44
+},
+{
+"text": "your",
+"start": 33.467,
+"end": 33.945
+},
+{
+"text": "401(k),",
+"start": 33.986,
+"end": 34.464
+},
+{
+"text": "up",
+"start": 34.505,
+"end": 34.824
+},
+{
+"text": "to",
+"start": 34.851,
+"end": 35.17
+},
+{
+"text": "$24,500.",
+"start": 35.197,
+"end": 35.755
+},
+{
+"text": "The",
+"start": 36.103,
+"end": 36.301
+},
+{
+"text": "full",
+"start": 36.318,
+"end": 36.555
+},
+{
+"text": "guide",
+"start": 36.576,
+"end": 36.853
+},
+{
+"text": "is",
+"start": 36.877,
+"end": 37.035
+},
+{
+"text": "on",
+"start": 37.049,
+"end": 37.207
+},
+{
+"text": "our",
+"start": 37.221,
+"end": 37.418
+},
+{
+"text": "channel.",
+"start": 37.436,
+"end": 37.791
+}
+]

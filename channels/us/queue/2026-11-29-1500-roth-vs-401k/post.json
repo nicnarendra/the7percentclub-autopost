@@ -1,0 +1,29 @@
+{
+  "day": 5,
+  "slot": "long",
+  "format": "long",
+  "publish_at": "2026-11-29T15:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "Roth IRA vs 401(k): Which Should You Fund First?",
+    "description": "Roth IRA vs 401(k): which should you fund first? For most people the answer comes down to one question: does your employer match your 401(k)? Here are the 2026 contribution limits, how the employer match works, traditional vs Roth taxes, Roth IRA income limits, and the simple order to invest your first $1,000.\n\nChapters\n0:00 Intro\n0:19 Two accounts\n0:46 2026 limits\n1:13 The match\n2:09 Tax now or later\n3:06 Why the Roth IRA\n3:47 The order\n4:24 Your first $1,000\n4:41 3 mistakes\n5:18 Recap\n\nNumbers in this video\n• 2026 limits: 401(k) employee deferrals $24,500; catch-up at 50+ $8,000 (ages 60–63: $11,250); IRA $7,500; IRA catch-up at 50+ $1,100 (IRS, IR-2025-111)\n• 2026 Roth IRA income phase-out (modified AGI): $153,000–$168,000 single/head of household; $242,000–$252,000 married filing jointly (IRS, IR-2025-111)\n• Average promised employer match: a record 4.7% of pay in 2025 (median 4.0%); 98% of Vanguard plans offered a Roth option at year-end 2025 (Vanguard, How America Saves 2026)\n• Match example: 100% match on the first 4% of a $60,000 salary = you $2,400 + employer $2,400. Match formulas and vesting vary by plan.\n• $1,000 at a 7% yearly return for 30 years ≈ $7,600. $1,000 in the 22% federal bracket saves about $220 in federal tax with a traditional contribution. Illustrations only, not guaranteed; state taxes and your situation will differ.\n• Roth IRA contributions (not earnings) can generally be withdrawn at any time without tax or penalty; earnings withdrawals may be taxed and penalized if not qualified (IRS Publication 590-B).\n\nWatch next: Why 97% of Day Traders Lose Money (The Data).\n\nDoes your job offer a 401(k) match, and are you getting all of it? Tell me in the comments.\n\n📌 Educational content only, not financial advice.\n\n#rothira #401k #retirement",
+    "tags": [
+      "roth ira vs 401k",
+      "roth ira",
+      "401k",
+      "employer match",
+      "2026 contribution limits",
+      "roth ira income limits 2026",
+      "traditional vs roth",
+      "retirement accounts",
+      "investing for beginners",
+      "personal finance",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "retirement"
+  }
+}

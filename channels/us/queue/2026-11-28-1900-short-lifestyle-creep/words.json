@@ -1,0 +1,492 @@
+[
+{
+"text": "Got",
+"start": 0.0,
+"end": 0.231
+},
+{
+"text": "a",
+"start": 0.251,
+"end": 0.39
+},
+{
+"text": "raise?",
+"start": 0.402,
+"end": 0.725
+},
+{
+"text": "Watch",
+"start": 0.753,
+"end": 1.076
+},
+{
+"text": "where",
+"start": 1.104,
+"end": 1.428
+},
+{
+"text": "it",
+"start": 1.456,
+"end": 1.64
+},
+{
+"text": "goes",
+"start": 1.657,
+"end": 1.934
+},
+{
+"text": "in",
+"start": 1.958,
+"end": 2.142
+},
+{
+"text": "six",
+"start": 2.158,
+"end": 2.389
+},
+{
+"text": "months.",
+"start": 2.409,
+"end": 2.779
+},
+{
+"text": "Sam",
+"start": 3.111,
+"end": 3.472
+},
+{
+"text": "gets",
+"start": 3.503,
+"end": 3.936
+},
+{
+"text": "a",
+"start": 3.973,
+"end": 4.19
+},
+{
+"text": "$5,000",
+"start": 4.208,
+"end": 4.641
+},
+{
+"text": "raise.",
+"start": 4.679,
+"end": 5.184
+},
+{
+"text": "About",
+"start": 5.228,
+"end": 5.732
+},
+{
+"text": "$300",
+"start": 5.776,
+"end": 6.137
+},
+{
+"text": "more",
+"start": 6.168,
+"end": 6.601
+},
+{
+"text": "a",
+"start": 6.638,
+"end": 6.855
+},
+{
+"text": "month,",
+"start": 6.874,
+"end": 7.378
+},
+{
+"text": "after",
+"start": 7.422,
+"end": 7.927
+},
+{
+"text": "tax.",
+"start": 7.971,
+"end": 8.332
+},
+{
+"text": "Month",
+"start": 8.663,
+"end": 9.036
+},
+{
+"text": "one:",
+"start": 9.069,
+"end": 9.336
+},
+{
+"text": "a",
+"start": 9.359,
+"end": 9.519
+},
+{
+"text": "better",
+"start": 9.533,
+"end": 9.96
+},
+{
+"text": "phone",
+"start": 9.997,
+"end": 10.37
+},
+{
+"text": "plan.",
+"start": 10.403,
+"end": 10.723
+},
+{
+"text": "Month",
+"start": 10.75,
+"end": 11.124
+},
+{
+"text": "two:",
+"start": 11.156,
+"end": 11.423
+},
+{
+"text": "more",
+"start": 11.446,
+"end": 11.766
+},
+{
+"text": "streaming.",
+"start": 11.794,
+"end": 12.381
+},
+{
+"text": "Month",
+"start": 12.432,
+"end": 12.806
+},
+{
+"text": "four:",
+"start": 12.838,
+"end": 13.158
+},
+{
+"text": "a",
+"start": 13.186,
+"end": 13.346
+},
+{
+"text": "nicer",
+"start": 13.36,
+"end": 13.733
+},
+{
+"text": "car",
+"start": 13.766,
+"end": 14.033
+},
+{
+"text": "payment.",
+"start": 14.056,
+"end": 14.536
+},
+{
+"text": "By",
+"start": 14.878,
+"end": 15.05
+},
+{
+"text": "month",
+"start": 15.066,
+"end": 15.368
+},
+{
+"text": "six,",
+"start": 15.394,
+"end": 15.611
+},
+{
+"text": "the",
+"start": 15.629,
+"end": 15.845
+},
+{
+"text": "raise",
+"start": 15.864,
+"end": 16.167
+},
+{
+"text": "is",
+"start": 16.193,
+"end": 16.366
+},
+{
+"text": "gone,",
+"start": 16.381,
+"end": 16.64
+},
+{
+"text": "and",
+"start": 16.663,
+"end": 16.879
+},
+{
+"text": "savings",
+"start": 16.898,
+"end": 17.287
+},
+{
+"text": "didn't",
+"start": 17.321,
+"end": 17.623
+},
+{
+"text": "move.",
+"start": 17.65,
+"end": 17.909
+},
+{
+"text": "It's",
+"start": 18.232,
+"end": 18.458
+},
+{
+"text": "called",
+"start": 18.478,
+"end": 18.841
+},
+{
+"text": "lifestyle",
+"start": 18.872,
+"end": 19.371
+},
+{
+"text": "creep,",
+"start": 19.414,
+"end": 19.732
+},
+{
+"text": "and",
+"start": 19.76,
+"end": 19.986
+},
+{
+"text": "it",
+"start": 20.006,
+"end": 20.187
+},
+{
+"text": "hits",
+"start": 20.203,
+"end": 20.475
+},
+{
+"text": "high",
+"start": 20.499,
+"end": 20.771
+},
+{
+"text": "earners",
+"start": 20.795,
+"end": 21.203
+},
+{
+"text": "too.",
+"start": 21.238,
+"end": 21.465
+},
+{
+"text": "1",
+"start": 21.785,
+"end": 21.998
+},
+{
+"text": "in",
+"start": 22.016,
+"end": 22.3
+},
+{
+"text": "4",
+"start": 22.325,
+"end": 22.538
+},
+{
+"text": "Americans",
+"start": 22.557,
+"end": 23.338
+},
+{
+"text": "earning",
+"start": 23.406,
+"end": 24.045
+},
+{
+"text": "$100K+",
+"start": 24.101,
+"end": 24.527
+},
+{
+"text": "doesn't",
+"start": 24.564,
+"end": 25.133
+},
+{
+"text": "have",
+"start": 25.182,
+"end": 25.608
+},
+{
+"text": "3",
+"start": 25.645,
+"end": 25.858
+},
+{
+"text": "months",
+"start": 25.877,
+"end": 26.445
+},
+{
+"text": "of",
+"start": 26.495,
+"end": 26.779
+},
+{
+"text": "expenses",
+"start": 26.803,
+"end": 27.514
+},
+{
+"text": "saved.",
+"start": 27.575,
+"end": 28.073
+},
+{
+"text": "The",
+"start": 28.416,
+"end": 28.659
+},
+{
+"text": "fix:",
+"start": 28.68,
+"end": 28.923
+},
+{
+"text": "split",
+"start": 28.944,
+"end": 29.284
+},
+{
+"text": "every",
+"start": 29.314,
+"end": 29.654
+},
+{
+"text": "raise",
+"start": 29.683,
+"end": 30.023
+},
+{
+"text": "fifty-fifty.",
+"start": 30.053,
+"end": 30.636
+},
+{
+"text": "Half",
+"start": 30.687,
+"end": 30.978
+},
+{
+"text": "to",
+"start": 31.003,
+"end": 31.198
+},
+{
+"text": "your",
+"start": 31.215,
+"end": 31.506
+},
+{
+"text": "life,",
+"start": 31.531,
+"end": 31.823
+},
+{
+"text": "half",
+"start": 31.848,
+"end": 32.14
+},
+{
+"text": "to",
+"start": 32.165,
+"end": 32.359
+},
+{
+"text": "your",
+"start": 32.376,
+"end": 32.668
+},
+{
+"text": "future,",
+"start": 32.693,
+"end": 33.082
+},
+{
+"text": "automated",
+"start": 33.116,
+"end": 33.65
+},
+{
+"text": "before",
+"start": 33.697,
+"end": 34.085
+},
+{
+"text": "you",
+"start": 34.119,
+"end": 34.362
+},
+{
+"text": "see",
+"start": 34.383,
+"end": 34.626
+},
+{
+"text": "it.",
+"start": 34.647,
+"end": 34.841
+},
+{
+"text": "The",
+"start": 35.158,
+"end": 35.357
+},
+{
+"text": "full",
+"start": 35.374,
+"end": 35.612
+},
+{
+"text": "breakdown",
+"start": 35.633,
+"end": 36.07
+},
+{
+"text": "is",
+"start": 36.108,
+"end": 36.266
+},
+{
+"text": "on",
+"start": 36.28,
+"end": 36.439
+},
+{
+"text": "our",
+"start": 36.453,
+"end": 36.651
+},
+{
+"text": "channel.",
+"start": 36.668,
+"end": 37.026
+}
+]
