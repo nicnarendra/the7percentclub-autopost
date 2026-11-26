@@ -1,12 +1,6 @@
-mode=post channel=in at 2026-11-26T06:45:56Z
+mode=post channel=in at 2026-11-26T08:05:50Z
 Channel: The 7% Club (in)
-== 2026-11-26-0830-option-buyers-lose: due 2026-11-26T08:30:00+05:30, posting to youtube, facebook, instagram
-   youtube: OK https://youtube.com/shorts/O_-YWOlgSxU
-   facebook: OK https://www.facebook.com/reel/1149104674176973
-   instagram: OK https://www.instagram.com/reel/DgMflKIR8Nq/
-2026-11-26-0830-option-buyers-lose: title/description/tags updated
-2026-11-26-0830-option-buyers-lose: English captions uploaded
-2026-11-26-0830-option-buyers-lose: added to playlist 'Option Trading Basics for Beginners'
-2026-11-26-0830-option-buyers-lose: link comment posted (pin it in Studio for best results)
+== 2026-11-26-1300-carousel-sip-500-crorepati: due 2026-11-26T13:00:00+05:30, posting to instagram_carousel
+   instagram_carousel: OK https://www.instagram.com/p/DgMou__l3Yl/
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 3, views 5
 Analytics saved to status/analytics-in.json: 0 videos with data
