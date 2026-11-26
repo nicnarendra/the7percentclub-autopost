@@ -25,5 +25,6 @@
     "playlist": "trading-psychology"
   },
   "caption": "Har candle ek kahani hai 🕯️\n\nEk candle = 4 cheezein: Open, High, Low, Close\n• Body = open se close\n• Wick = din ka high aur low\n• Close > Open = GREEN (buyers jeete)\n• Close < Open = RED (sellers jeete)\n\nExample: ₹100 open, ₹107 high, ₹95 low, ₹105 close = green candle, neeche lambi wick (price gaya, par tik nahi paaya).\n\nYaad rakho: candle future nahi batati, bas batati hai kya hua.\n\nSave karo, chart kholte waqt kaam aayega. Sabse confusing kya lagta hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#candlestick #technicalanalysis #stockmarket #trading #sharemarkethindi #the7percentclub",
-  "language": "hi"
+  "language": "hi",
+  "hold": true
 }

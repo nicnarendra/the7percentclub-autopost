@@ -24,5 +24,6 @@
     "categoryId": "27",
     "privacy": "public",
     "playlist": "money-mistakes"
-  }
+  },
+  "hold": true
 }

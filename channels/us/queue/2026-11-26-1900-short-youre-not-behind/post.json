@@ -21,5 +21,6 @@
     "categoryId": "27",
     "privacy": "public",
     "playlist": "start-here"
-  }
+  },
+  "hold": true
 }
