@@ -29,6 +29,7 @@ CHANNELS = {
 CH_KEY = os.environ.get("CHANNEL", "in").strip().lower() or "in"
 CH = CHANNELS[CH_KEY]
 QUEUE = ROOT / CH["queue"]
+CFG_APPROVAL = json.loads((ROOT / CH["config"]).read_text()).get("require_approval", False)
 GRAPH = "https://graph.facebook.com/" + os.environ.get("META_API_VERSION", "v22.0")
 RUPLOAD = "https://rupload.facebook.com"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
@@ -274,8 +275,8 @@ def main():
         todo = [p for p in item.get("platforms", PLATFORMS) if not results.get(p, {}).get("id")]
         if due > now or not todo:
             continue
-        if item.get("hold"):
-            log(f"== {d.name}: on hold (waiting for approval), skipped")
+        if item.get("hold") or (CFG_APPROVAL and not item.get("approved")):
+            log(f"== {d.name}: waiting for owner approval, skipped")
             continue
         attempted += 1
         late = (now - due).total_seconds() / 60

@@ -51,5 +51,6 @@
   },
   "watermark": "channels/us/watermark.png",
   "trailer_item": "2026-11-27-1500-start-investing-from-zero",
-  "home_shelf": "start-here"
+  "home_shelf": "start-here",
+  "require_approval": true
 }

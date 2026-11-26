@@ -47,5 +47,6 @@
       "description": "New vs old tax regime and STCG vs LTCG on stocks explained in 45-second Shorts. Educational only, not tax advice."
     }
   },
-  "videoLanguage": "hi"
+  "videoLanguage": "hi",
+  "require_approval": true
 }
