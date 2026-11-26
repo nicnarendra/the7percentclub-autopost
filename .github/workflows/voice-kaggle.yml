@@ -17,6 +17,7 @@ jobs:
     env:
       KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
       KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,7 +25,7 @@ jobs:
           python-version: "3.12"
       - name: Install tools
         run: |
-          pip install -q kaggle
+          pip install -q kaggle six requests soundfile numpy
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Push the job to Kaggle (private, GPU, internet)
         run: |
@@ -37,6 +38,8 @@ jobs:
           JSON
           kaggle kernels push -p voice-kaggle/kernel
           echo "KID=$U/seven-club-voice-test" >> $GITHUB_ENV
+      - name: Sarvam voices (while Kaggle runs)
+        run: python voice-kaggle/sarvam.py voice-kaggle/out
       - name: Wait for Kaggle to finish
         run: |
           for i in $(seq 1 100); do
