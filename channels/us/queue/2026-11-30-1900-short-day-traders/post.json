@@ -1,0 +1,23 @@
+{
+  "day": 6,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-30T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "97% of Day Traders Lose Money. Here's the Proof #Shorts",
+    "description": "97% of day traders who kept going for 300 days lost money. Here's the data behind that number, and why the 2026 change to the $25,000 day trading rule doesn't change the math.\n\n• Brazil, people who started day trading futures in 2013–2015 and persisted 300+ days: 97% lost money; only 0.4% earned more than a bank teller (Chague, De-Losso & Giovannetti, FGV)\n• Taiwan, 1992–2006: less than 1% of day traders were predictably profitable after fees (Barber, Lee, Liu & Odean, 2014)\n• 2026: the SEC approved FINRA rule changes that remove the $25,000 pattern day trader minimum\n\nFull guide on the channel: \"Why 97% of Day Traders Lose Money (The Data)\".\n\n📌 Educational content only, not financial advice.\n\n#daytrading #investing #stockmarket",
+    "tags": [
+      "day trading",
+      "day trading statistics",
+      "PDT rule",
+      "investing",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "money-mistakes"
+  }
+}

@@ -1,0 +1,4557 @@
+[
+{
+"text": "Ninety-seven",
+"start": 0.0,
+"end": 0.638
+},
+{
+"text": "percent",
+"start": 0.693,
+"end": 1.135
+},
+{
+"text": "of",
+"start": 1.173,
+"end": 1.369
+},
+{
+"text": "people",
+"start": 1.386,
+"end": 1.779
+},
+{
+"text": "who",
+"start": 1.813,
+"end": 2.058
+},
+{
+"text": "day",
+"start": 2.079,
+"end": 2.325
+},
+{
+"text": "traded",
+"start": 2.346,
+"end": 2.739
+},
+{
+"text": "for",
+"start": 2.773,
+"end": 3.018
+},
+{
+"text": "three",
+"start": 3.039,
+"end": 3.383
+},
+{
+"text": "hundred",
+"start": 3.412,
+"end": 3.854
+},
+{
+"text": "days",
+"start": 3.892,
+"end": 4.187
+},
+{
+"text": "lost",
+"start": 4.212,
+"end": 4.507
+},
+{
+"text": "money.",
+"start": 4.532,
+"end": 4.876
+},
+{
+"text": "Not",
+"start": 5.305,
+"end": 5.566
+},
+{
+"text": "a",
+"start": 5.589,
+"end": 5.745
+},
+{
+"text": "guess.",
+"start": 5.759,
+"end": 6.124
+},
+{
+"text": "Not",
+"start": 6.156,
+"end": 6.416
+},
+{
+"text": "a",
+"start": 6.439,
+"end": 6.596
+},
+{
+"text": "guru's",
+"start": 6.609,
+"end": 6.974
+},
+{
+"text": "opinion.",
+"start": 7.006,
+"end": 7.475
+},
+{
+"text": "That's",
+"start": 7.516,
+"end": 7.881
+},
+{
+"text": "from",
+"start": 7.913,
+"end": 8.226
+},
+{
+"text": "a",
+"start": 8.253,
+"end": 8.41
+},
+{
+"text": "study",
+"start": 8.423,
+"end": 8.788
+},
+{
+"text": "that",
+"start": 8.82,
+"end": 9.133
+},
+{
+"text": "tracked",
+"start": 9.16,
+"end": 9.63
+},
+{
+"text": "every",
+"start": 9.67,
+"end": 10.035
+},
+{
+"text": "single",
+"start": 10.067,
+"end": 10.484
+},
+{
+"text": "one",
+"start": 10.521,
+"end": 10.781
+},
+{
+"text": "of",
+"start": 10.804,
+"end": 11.013
+},
+{
+"text": "them.",
+"start": 11.031,
+"end": 11.344
+},
+{
+"text": "And",
+"start": 11.771,
+"end": 12.016
+},
+{
+"text": "this",
+"start": 12.037,
+"end": 12.331
+},
+{
+"text": "year,",
+"start": 12.357,
+"end": 12.651
+},
+{
+"text": "the",
+"start": 12.677,
+"end": 12.922
+},
+{
+"text": "rules",
+"start": 12.943,
+"end": 13.286
+},
+{
+"text": "changed",
+"start": 13.316,
+"end": 13.757
+},
+{
+"text": "to",
+"start": 13.795,
+"end": 13.991
+},
+{
+"text": "make",
+"start": 14.008,
+"end": 14.302
+},
+{
+"text": "day",
+"start": 14.328,
+"end": 14.573
+},
+{
+"text": "trading",
+"start": 14.594,
+"end": 15.035
+},
+{
+"text": "easier",
+"start": 15.073,
+"end": 15.466
+},
+{
+"text": "to",
+"start": 15.5,
+"end": 15.696
+},
+{
+"text": "start",
+"start": 15.713,
+"end": 16.056
+},
+{
+"text": "than",
+"start": 16.086,
+"end": 16.38
+},
+{
+"text": "it",
+"start": 16.405,
+"end": 16.601
+},
+{
+"text": "has",
+"start": 16.618,
+"end": 16.863
+},
+{
+"text": "been",
+"start": 16.884,
+"end": 17.179
+},
+{
+"text": "in",
+"start": 17.204,
+"end": 17.4
+},
+{
+"text": "decades.",
+"start": 17.417,
+"end": 17.858
+},
+{
+"text": "So",
+"start": 18.297,
+"end": 18.499
+},
+{
+"text": "let's",
+"start": 18.517,
+"end": 18.821
+},
+{
+"text": "look",
+"start": 18.848,
+"end": 19.152
+},
+{
+"text": "at",
+"start": 19.179,
+"end": 19.382
+},
+{
+"text": "the",
+"start": 19.399,
+"end": 19.653
+},
+{
+"text": "data,",
+"start": 19.675,
+"end": 19.979
+},
+{
+"text": "why",
+"start": 20.006,
+"end": 20.259
+},
+{
+"text": "the",
+"start": 20.281,
+"end": 20.535
+},
+{
+"text": "math",
+"start": 20.557,
+"end": 20.861
+},
+{
+"text": "is",
+"start": 20.888,
+"end": 21.091
+},
+{
+"text": "so",
+"start": 21.108,
+"end": 21.311
+},
+{
+"text": "brutal,",
+"start": 21.329,
+"end": 21.735
+},
+{
+"text": "and",
+"start": 21.77,
+"end": 22.024
+},
+{
+"text": "what",
+"start": 22.046,
+"end": 22.35
+},
+{
+"text": "actually",
+"start": 22.377,
+"end": 22.884
+},
+{
+"text": "works",
+"start": 22.928,
+"end": 23.283
+},
+{
+"text": "instead.",
+"start": 23.314,
+"end": 23.77
+},
+{
+"text": "Chapter",
+"start": 24.21,
+"end": 24.656
+},
+{
+"text": "one.",
+"start": 24.694,
+"end": 24.942
+},
+{
+"text": "The",
+"start": 24.963,
+"end": 25.211
+},
+{
+"text": "three",
+"start": 25.232,
+"end": 25.579
+},
+{
+"text": "hundred",
+"start": 25.609,
+"end": 26.055
+},
+{
+"text": "day",
+"start": 26.093,
+"end": 26.341
+},
+{
+"text": "study.",
+"start": 26.362,
+"end": 26.709
+},
+{
+"text": "Researchers",
+"start": 27.139,
+"end": 27.801
+},
+{
+"text": "in",
+"start": 27.859,
+"end": 28.062
+},
+{
+"text": "Brazil",
+"start": 28.08,
+"end": 28.487
+},
+{
+"text": "looked",
+"start": 28.523,
+"end": 28.93
+},
+{
+"text": "at",
+"start": 28.965,
+"end": 29.169
+},
+{
+"text": "everyone",
+"start": 29.187,
+"end": 29.696
+},
+{
+"text": "who",
+"start": 29.74,
+"end": 29.995
+},
+{
+"text": "started",
+"start": 30.017,
+"end": 30.475
+},
+{
+"text": "day",
+"start": 30.515,
+"end": 30.77
+},
+{
+"text": "trading",
+"start": 30.792,
+"end": 31.25
+},
+{
+"text": "futures",
+"start": 31.29,
+"end": 31.748
+},
+{
+"text": "there",
+"start": 31.788,
+"end": 32.144
+},
+{
+"text": "between",
+"start": 32.175,
+"end": 32.633
+},
+{
+"text": "twenty",
+"start": 32.673,
+"end": 33.081
+},
+{
+"text": "thirteen",
+"start": 33.116,
+"end": 33.625
+},
+{
+"text": "and",
+"start": 33.669,
+"end": 33.924
+},
+{
+"text": "twenty",
+"start": 33.946,
+"end": 34.353
+},
+{
+"text": "fifteen.",
+"start": 34.389,
+"end": 34.847
+},
+{
+"text": "Most",
+"start": 35.287,
+"end": 35.589
+},
+{
+"text": "people",
+"start": 35.615,
+"end": 36.017
+},
+{
+"text": "quit",
+"start": 36.052,
+"end": 36.353
+},
+{
+"text": "fast.",
+"start": 36.38,
+"end": 36.681
+},
+{
+"text": "So",
+"start": 36.708,
+"end": 36.909
+},
+{
+"text": "the",
+"start": 36.926,
+"end": 37.177
+},
+{
+"text": "researchers",
+"start": 37.199,
+"end": 37.853
+},
+{
+"text": "focused",
+"start": 37.91,
+"end": 38.362
+},
+{
+"text": "on",
+"start": 38.401,
+"end": 38.602
+},
+{
+"text": "the",
+"start": 38.62,
+"end": 38.871
+},
+{
+"text": "stubborn",
+"start": 38.893,
+"end": 39.396
+},
+{
+"text": "ones,",
+"start": 39.44,
+"end": 39.741
+},
+{
+"text": "people",
+"start": 39.767,
+"end": 40.17
+},
+{
+"text": "who",
+"start": 40.205,
+"end": 40.456
+},
+{
+"text": "kept",
+"start": 40.478,
+"end": 40.779
+},
+{
+"text": "going",
+"start": 40.806,
+"end": 41.157
+},
+{
+"text": "for",
+"start": 41.188,
+"end": 41.439
+},
+{
+"text": "at",
+"start": 41.461,
+"end": 41.662
+},
+{
+"text": "least",
+"start": 41.68,
+"end": 42.032
+},
+{
+"text": "three",
+"start": 42.062,
+"end": 42.414
+},
+{
+"text": "hundred",
+"start": 42.445,
+"end": 42.897
+},
+{
+"text": "days.",
+"start": 42.936,
+"end": 43.238
+},
+{
+"text": "These",
+"start": 43.664,
+"end": 44.009
+},
+{
+"text": "weren't",
+"start": 44.039,
+"end": 44.433
+},
+{
+"text": "tourists.",
+"start": 44.467,
+"end": 44.96
+},
+{
+"text": "They",
+"start": 45.002,
+"end": 45.298
+},
+{
+"text": "treated",
+"start": 45.324,
+"end": 45.767
+},
+{
+"text": "it",
+"start": 45.805,
+"end": 46.002
+},
+{
+"text": "like",
+"start": 46.019,
+"end": 46.315
+},
+{
+"text": "a",
+"start": 46.341,
+"end": 46.488
+},
+{
+"text": "job.",
+"start": 46.501,
+"end": 46.747
+},
+{
+"text": "Ninety-seven",
+"start": 47.169,
+"end": 47.768
+},
+{
+"text": "percent",
+"start": 47.821,
+"end": 48.236
+},
+{
+"text": "of",
+"start": 48.272,
+"end": 48.456
+},
+{
+"text": "them",
+"start": 48.472,
+"end": 48.749
+},
+{
+"text": "lost",
+"start": 48.773,
+"end": 49.05
+},
+{
+"text": "money.",
+"start": 49.074,
+"end": 49.397
+},
+{
+"text": "And",
+"start": 49.825,
+"end": 50.08
+},
+{
+"text": "only",
+"start": 50.102,
+"end": 50.407
+},
+{
+"text": "zero",
+"start": 50.434,
+"end": 50.739
+},
+{
+"text": "point",
+"start": 50.766,
+"end": 51.123
+},
+{
+"text": "four",
+"start": 51.154,
+"end": 51.459
+},
+{
+"text": "percent",
+"start": 51.486,
+"end": 51.944
+},
+{
+"text": "earned",
+"start": 51.984,
+"end": 52.391
+},
+{
+"text": "more",
+"start": 52.427,
+"end": 52.732
+},
+{
+"text": "than",
+"start": 52.759,
+"end": 53.065
+},
+{
+"text": "a",
+"start": 53.091,
+"end": 53.244
+},
+{
+"text": "bank",
+"start": 53.257,
+"end": 53.563
+},
+{
+"text": "teller's",
+"start": 53.589,
+"end": 54.048
+},
+{
+"text": "starting",
+"start": 54.088,
+"end": 54.597
+},
+{
+"text": "pay,",
+"start": 54.641,
+"end": 54.896
+},
+{
+"text": "about",
+"start": 54.918,
+"end": 55.275
+},
+{
+"text": "fifty-four",
+"start": 55.306,
+"end": 55.866
+},
+{
+"text": "dollars",
+"start": 55.915,
+"end": 56.373
+},
+{
+"text": "a",
+"start": 56.413,
+"end": 56.566
+},
+{
+"text": "day.",
+"start": 56.579,
+"end": 56.833
+},
+{
+"text": "The",
+"start": 57.256,
+"end": 57.492
+},
+{
+"text": "very",
+"start": 57.512,
+"end": 57.795
+},
+{
+"text": "best",
+"start": 57.82,
+"end": 58.103
+},
+{
+"text": "trader",
+"start": 58.128,
+"end": 58.505
+},
+{
+"text": "in",
+"start": 58.538,
+"end": 58.727
+},
+{
+"text": "the",
+"start": 58.743,
+"end": 58.979
+},
+{
+"text": "group",
+"start": 59.0,
+"end": 59.33
+},
+{
+"text": "made",
+"start": 59.359,
+"end": 59.642
+},
+{
+"text": "about",
+"start": 59.666,
+"end": 59.997
+},
+{
+"text": "three",
+"start": 60.025,
+"end": 60.356
+},
+{
+"text": "hundred",
+"start": 60.385,
+"end": 60.809
+},
+{
+"text": "ten",
+"start": 60.846,
+"end": 61.082
+},
+{
+"text": "dollars",
+"start": 61.103,
+"end": 61.527
+},
+{
+"text": "a",
+"start": 61.564,
+"end": 61.706
+},
+{
+"text": "day,",
+"start": 61.718,
+"end": 61.954
+},
+{
+"text": "while",
+"start": 61.975,
+"end": 62.305
+},
+{
+"text": "taking",
+"start": 62.334,
+"end": 62.711
+},
+{
+"text": "huge",
+"start": 62.744,
+"end": 63.027
+},
+{
+"text": "risks",
+"start": 63.052,
+"end": 63.382
+},
+{
+"text": "to",
+"start": 63.411,
+"end": 63.6
+},
+{
+"text": "get",
+"start": 63.616,
+"end": 63.852
+},
+{
+"text": "there.",
+"start": 63.872,
+"end": 64.203
+},
+{
+"text": "And",
+"start": 64.632,
+"end": 64.841
+},
+{
+"text": "here's",
+"start": 64.859,
+"end": 65.152
+},
+{
+"text": "the",
+"start": 65.177,
+"end": 65.387
+},
+{
+"text": "part",
+"start": 65.405,
+"end": 65.656
+},
+{
+"text": "that",
+"start": 65.678,
+"end": 65.929
+},
+{
+"text": "should",
+"start": 65.95,
+"end": 66.285
+},
+{
+"text": "worry",
+"start": 66.314,
+"end": 66.607
+},
+{
+"text": "anyone",
+"start": 66.633,
+"end": 66.967
+},
+{
+"text": "who",
+"start": 66.996,
+"end": 67.206
+},
+{
+"text": "says",
+"start": 67.224,
+"end": 67.475
+},
+{
+"text": "they'll",
+"start": 67.497,
+"end": 67.831
+},
+{
+"text": "get",
+"start": 67.861,
+"end": 68.07
+},
+{
+"text": "better",
+"start": 68.088,
+"end": 68.423
+},
+{
+"text": "with",
+"start": 68.452,
+"end": 68.703
+},
+{
+"text": "practice.",
+"start": 68.725,
+"end": 69.143
+},
+{
+"text": "The",
+"start": 69.58,
+"end": 69.836
+},
+{
+"text": "researchers",
+"start": 69.858,
+"end": 70.526
+},
+{
+"text": "found",
+"start": 70.584,
+"end": 70.943
+},
+{
+"text": "no",
+"start": 70.974,
+"end": 71.179
+},
+{
+"text": "evidence",
+"start": 71.197,
+"end": 71.71
+},
+{
+"text": "that",
+"start": 71.755,
+"end": 72.063
+},
+{
+"text": "people",
+"start": 72.09,
+"end": 72.5
+},
+{
+"text": "learned.",
+"start": 72.536,
+"end": 72.998
+},
+{
+"text": "More",
+"start": 73.038,
+"end": 73.346
+},
+{
+"text": "days",
+"start": 73.373,
+"end": 73.68
+},
+{
+"text": "did",
+"start": 73.707,
+"end": 73.964
+},
+{
+"text": "not",
+"start": 73.986,
+"end": 74.243
+},
+{
+"text": "mean",
+"start": 74.265,
+"end": 74.573
+},
+{
+"text": "better",
+"start": 74.6,
+"end": 75.01
+},
+{
+"text": "results.",
+"start": 75.046,
+"end": 75.508
+},
+{
+"text": "Chapter",
+"start": 75.948,
+"end": 76.453
+},
+{
+"text": "two.",
+"start": 76.497,
+"end": 76.777
+},
+{
+"text": "It's",
+"start": 76.802,
+"end": 77.082
+},
+{
+"text": "not",
+"start": 77.107,
+"end": 77.387
+},
+{
+"text": "just",
+"start": 77.412,
+"end": 77.748
+},
+{
+"text": "Brazil.",
+"start": 77.778,
+"end": 78.227
+},
+{
+"text": "A",
+"start": 78.666,
+"end": 78.829
+},
+{
+"text": "team",
+"start": 78.844,
+"end": 79.171
+},
+{
+"text": "of",
+"start": 79.2,
+"end": 79.418
+},
+{
+"text": "finance",
+"start": 79.437,
+"end": 79.928
+},
+{
+"text": "professors",
+"start": 79.971,
+"end": 80.626
+},
+{
+"text": "studied",
+"start": 80.683,
+"end": 81.174
+},
+{
+"text": "day",
+"start": 81.217,
+"end": 81.49
+},
+{
+"text": "traders",
+"start": 81.513,
+"end": 82.005
+},
+{
+"text": "in",
+"start": 82.047,
+"end": 82.266
+},
+{
+"text": "Taiwan",
+"start": 82.285,
+"end": 82.721
+},
+{
+"text": "for",
+"start": 82.759,
+"end": 83.032
+},
+{
+"text": "fifteen",
+"start": 83.056,
+"end": 83.547
+},
+{
+"text": "years,",
+"start": 83.59,
+"end": 83.972
+},
+{
+"text": "from",
+"start": 84.005,
+"end": 84.333
+},
+{
+"text": "nineteen",
+"start": 84.361,
+"end": 84.907
+},
+{
+"text": "ninety-two",
+"start": 84.954,
+"end": 85.555
+},
+{
+"text": "to",
+"start": 85.607,
+"end": 85.825
+},
+{
+"text": "two",
+"start": 85.844,
+"end": 86.117
+},
+{
+"text": "thousand",
+"start": 86.141,
+"end": 86.687
+},
+{
+"text": "six.",
+"start": 86.734,
+"end": 87.007
+},
+{
+"text": "In",
+"start": 87.431,
+"end": 87.627
+},
+{
+"text": "an",
+"start": 87.644,
+"end": 87.84
+},
+{
+"text": "average",
+"start": 87.857,
+"end": 88.297
+},
+{
+"text": "year,",
+"start": 88.335,
+"end": 88.629
+},
+{
+"text": "about",
+"start": 88.655,
+"end": 88.997
+},
+{
+"text": "four",
+"start": 89.027,
+"end": 89.321
+},
+{
+"text": "hundred",
+"start": 89.346,
+"end": 89.787
+},
+{
+"text": "fifty",
+"start": 89.825,
+"end": 90.168
+},
+{
+"text": "thousand",
+"start": 90.197,
+"end": 90.687
+},
+{
+"text": "people",
+"start": 90.729,
+"end": 91.121
+},
+{
+"text": "were",
+"start": 91.155,
+"end": 91.449
+},
+{
+"text": "day",
+"start": 91.474,
+"end": 91.719
+},
+{
+"text": "trading",
+"start": 91.74,
+"end": 92.181
+},
+{
+"text": "there.",
+"start": 92.219,
+"end": 92.562
+},
+{
+"text": "In",
+"start": 92.991,
+"end": 93.188
+},
+{
+"text": "any",
+"start": 93.205,
+"end": 93.451
+},
+{
+"text": "single",
+"start": 93.472,
+"end": 93.866
+},
+{
+"text": "year,",
+"start": 93.9,
+"end": 94.195
+},
+{
+"text": "only",
+"start": 94.22,
+"end": 94.515
+},
+{
+"text": "about",
+"start": 94.541,
+"end": 94.885
+},
+{
+"text": "five",
+"start": 94.915,
+"end": 95.21
+},
+{
+"text": "percent",
+"start": 95.236,
+"end": 95.678
+},
+{
+"text": "of",
+"start": 95.716,
+"end": 95.913
+},
+{
+"text": "them",
+"start": 95.93,
+"end": 96.225
+},
+{
+"text": "made",
+"start": 96.251,
+"end": 96.546
+},
+{
+"text": "a",
+"start": 96.571,
+"end": 96.719
+},
+{
+"text": "profit.",
+"start": 96.732,
+"end": 97.125
+},
+{
+"text": "But",
+"start": 97.559,
+"end": 97.815
+},
+{
+"text": "a",
+"start": 97.837,
+"end": 97.99
+},
+{
+"text": "lucky",
+"start": 98.004,
+"end": 98.362
+},
+{
+"text": "year",
+"start": 98.393,
+"end": 98.7
+},
+{
+"text": "is",
+"start": 98.726,
+"end": 98.931
+},
+{
+"text": "not",
+"start": 98.949,
+"end": 99.204
+},
+{
+"text": "skill.",
+"start": 99.226,
+"end": 99.584
+},
+{
+"text": "When",
+"start": 99.616,
+"end": 99.922
+},
+{
+"text": "the",
+"start": 99.949,
+"end": 100.205
+},
+{
+"text": "researchers",
+"start": 100.227,
+"end": 100.892
+},
+{
+"text": "looked",
+"start": 100.949,
+"end": 101.359
+},
+{
+"text": "for",
+"start": 101.394,
+"end": 101.65
+},
+{
+"text": "traders",
+"start": 101.672,
+"end": 102.132
+},
+{
+"text": "who",
+"start": 102.172,
+"end": 102.428
+},
+{
+"text": "won",
+"start": 102.45,
+"end": 102.706
+},
+{
+"text": "again",
+"start": 102.728,
+"end": 103.086
+},
+{
+"text": "and",
+"start": 103.117,
+"end": 103.373
+},
+{
+"text": "again,",
+"start": 103.395,
+"end": 103.753
+},
+{
+"text": "after",
+"start": 103.784,
+"end": 104.142
+},
+{
+"text": "fees,",
+"start": 104.173,
+"end": 104.48
+},
+{
+"text": "they",
+"start": 104.507,
+"end": 104.813
+},
+{
+"text": "found",
+"start": 104.84,
+"end": 105.198
+},
+{
+"text": "fewer",
+"start": 105.229,
+"end": 105.587
+},
+{
+"text": "than",
+"start": 105.618,
+"end": 105.925
+},
+{
+"text": "one",
+"start": 105.952,
+"end": 106.207
+},
+{
+"text": "percent.",
+"start": 106.229,
+"end": 106.69
+},
+{
+"text": "About",
+"start": 107.13,
+"end": 107.461
+},
+{
+"text": "three",
+"start": 107.49,
+"end": 107.822
+},
+{
+"text": "out",
+"start": 107.85,
+"end": 108.087
+},
+{
+"text": "of",
+"start": 108.108,
+"end": 108.297
+},
+{
+"text": "four",
+"start": 108.314,
+"end": 108.598
+},
+{
+"text": "day",
+"start": 108.623,
+"end": 108.859
+},
+{
+"text": "traders",
+"start": 108.88,
+"end": 109.306
+},
+{
+"text": "quit",
+"start": 109.343,
+"end": 109.627
+},
+{
+"text": "within",
+"start": 109.652,
+"end": 110.031
+},
+{
+"text": "two",
+"start": 110.064,
+"end": 110.301
+},
+{
+"text": "years.",
+"start": 110.321,
+"end": 110.653
+},
+{
+"text": "And",
+"start": 111.082,
+"end": 111.334
+},
+{
+"text": "as",
+"start": 111.356,
+"end": 111.558
+},
+{
+"text": "a",
+"start": 111.576,
+"end": 111.727
+},
+{
+"text": "group,",
+"start": 111.741,
+"end": 112.094
+},
+{
+"text": "day",
+"start": 112.125,
+"end": 112.378
+},
+{
+"text": "traders",
+"start": 112.4,
+"end": 112.854
+},
+{
+"text": "lost",
+"start": 112.894,
+"end": 113.197
+},
+{
+"text": "money",
+"start": 113.223,
+"end": 113.577
+},
+{
+"text": "after",
+"start": 113.608,
+"end": 113.962
+},
+{
+"text": "fees",
+"start": 113.992,
+"end": 114.295
+},
+{
+"text": "in",
+"start": 114.322,
+"end": 114.524
+},
+{
+"text": "every",
+"start": 114.542,
+"end": 114.895
+},
+{
+"text": "one",
+"start": 114.926,
+"end": 115.179
+},
+{
+"text": "of",
+"start": 115.201,
+"end": 115.403
+},
+{
+"text": "those",
+"start": 115.42,
+"end": 115.774
+},
+{
+"text": "fifteen",
+"start": 115.805,
+"end": 116.259
+},
+{
+"text": "years.",
+"start": 116.299,
+"end": 116.653
+},
+{
+"text": "Chapter",
+"start": 117.083,
+"end": 117.526
+},
+{
+"text": "three.",
+"start": 117.565,
+"end": 117.909
+},
+{
+"text": "Trading",
+"start": 117.939,
+"end": 118.382
+},
+{
+"text": "more,",
+"start": 118.421,
+"end": 118.716
+},
+{
+"text": "earning",
+"start": 118.742,
+"end": 119.185
+},
+{
+"text": "less.",
+"start": 119.223,
+"end": 119.518
+},
+{
+"text": "Two",
+"start": 119.944,
+"end": 120.221
+},
+{
+"text": "of",
+"start": 120.245,
+"end": 120.467
+},
+{
+"text": "the",
+"start": 120.486,
+"end": 120.763
+},
+{
+"text": "same",
+"start": 120.787,
+"end": 121.12
+},
+{
+"text": "professors,",
+"start": 121.149,
+"end": 121.814
+},
+{
+"text": "Brad",
+"start": 121.872,
+"end": 122.204
+},
+{
+"text": "Barber",
+"start": 122.233,
+"end": 122.676
+},
+{
+"text": "and",
+"start": 122.715,
+"end": 122.992
+},
+{
+"text": "Terrance",
+"start": 123.016,
+"end": 123.57
+},
+{
+"text": "Odean,",
+"start": 123.618,
+"end": 124.006
+},
+{
+"text": "studied",
+"start": 124.04,
+"end": 124.539
+},
+{
+"text": "over",
+"start": 124.582,
+"end": 124.915
+},
+{
+"text": "sixty",
+"start": 124.944,
+"end": 125.331
+},
+{
+"text": "thousand",
+"start": 125.365,
+"end": 125.919
+},
+{
+"text": "American",
+"start": 125.968,
+"end": 126.522
+},
+{
+"text": "households",
+"start": 126.57,
+"end": 127.235
+},
+{
+"text": "at",
+"start": 127.293,
+"end": 127.514
+},
+{
+"text": "a",
+"start": 127.534,
+"end": 127.7
+},
+{
+"text": "discount",
+"start": 127.714,
+"end": 128.268
+},
+{
+"text": "broker",
+"start": 128.317,
+"end": 128.76
+},
+{
+"text": "from",
+"start": 128.799,
+"end": 129.131
+},
+{
+"text": "nineteen",
+"start": 129.16,
+"end": 129.714
+},
+{
+"text": "ninety-one",
+"start": 129.762,
+"end": 130.372
+},
+{
+"text": "to",
+"start": 130.425,
+"end": 130.647
+},
+{
+"text": "ninety-six.",
+"start": 130.666,
+"end": 131.275
+},
+{
+"text": "The",
+"start": 131.728,
+"end": 131.946
+},
+{
+"text": "market",
+"start": 131.965,
+"end": 132.314
+},
+{
+"text": "returned",
+"start": 132.344,
+"end": 132.779
+},
+{
+"text": "about",
+"start": 132.817,
+"end": 133.122
+},
+{
+"text": "seventeen",
+"start": 133.149,
+"end": 133.628
+},
+{
+"text": "percent",
+"start": 133.669,
+"end": 134.061
+},
+{
+"text": "a",
+"start": 134.095,
+"end": 134.226
+},
+{
+"text": "year",
+"start": 134.237,
+"end": 134.499
+},
+{
+"text": "in",
+"start": 134.521,
+"end": 134.696
+},
+{
+"text": "that",
+"start": 134.711,
+"end": 134.972
+},
+{
+"text": "stretch.",
+"start": 134.995,
+"end": 135.387
+},
+{
+"text": "The",
+"start": 135.821,
+"end": 136.067
+},
+{
+"text": "average",
+"start": 136.088,
+"end": 136.53
+},
+{
+"text": "household",
+"start": 136.569,
+"end": 137.11
+},
+{
+"text": "earned",
+"start": 137.157,
+"end": 137.55
+},
+{
+"text": "about",
+"start": 137.584,
+"end": 137.928
+},
+{
+"text": "fifteen",
+"start": 137.958,
+"end": 138.4
+},
+{
+"text": "percent",
+"start": 138.439,
+"end": 138.881
+},
+{
+"text": "after",
+"start": 138.92,
+"end": 139.264
+},
+{
+"text": "costs.",
+"start": 139.294,
+"end": 139.638
+},
+{
+"text": "But",
+"start": 140.068,
+"end": 140.291
+},
+{
+"text": "the",
+"start": 140.311,
+"end": 140.535
+},
+{
+"text": "twenty",
+"start": 140.554,
+"end": 140.912
+},
+{
+"text": "percent",
+"start": 140.943,
+"end": 141.346
+},
+{
+"text": "who",
+"start": 141.381,
+"end": 141.605
+},
+{
+"text": "traded",
+"start": 141.625,
+"end": 141.983
+},
+{
+"text": "the",
+"start": 142.014,
+"end": 142.238
+},
+{
+"text": "most",
+"start": 142.257,
+"end": 142.526
+},
+{
+"text": "earned",
+"start": 142.549,
+"end": 142.907
+},
+{
+"text": "only",
+"start": 142.939,
+"end": 143.207
+},
+{
+"text": "about",
+"start": 143.231,
+"end": 143.544
+},
+{
+"text": "ten",
+"start": 143.571,
+"end": 143.795
+},
+{
+"text": "percent",
+"start": 143.814,
+"end": 144.217
+},
+{
+"text": "a",
+"start": 144.252,
+"end": 144.387
+},
+{
+"text": "year.",
+"start": 144.398,
+"end": 144.667
+},
+{
+"text": "Same",
+"start": 145.09,
+"end": 145.4
+},
+{
+"text": "market.",
+"start": 145.427,
+"end": 145.84
+},
+{
+"text": "Same",
+"start": 145.876,
+"end": 146.186
+},
+{
+"text": "years.",
+"start": 146.213,
+"end": 146.574
+},
+{
+"text": "The",
+"start": 146.605,
+"end": 146.863
+},
+{
+"text": "more",
+"start": 146.886,
+"end": 147.196
+},
+{
+"text": "they",
+"start": 147.223,
+"end": 147.532
+},
+{
+"text": "traded,",
+"start": 147.559,
+"end": 147.972
+},
+{
+"text": "the",
+"start": 148.008,
+"end": 148.266
+},
+{
+"text": "less",
+"start": 148.289,
+"end": 148.598
+},
+{
+"text": "they",
+"start": 148.625,
+"end": 148.935
+},
+{
+"text": "kept.",
+"start": 148.962,
+"end": 149.272
+},
+{
+"text": "The",
+"start": 149.699,
+"end": 149.93
+},
+{
+"text": "title",
+"start": 149.95,
+"end": 150.274
+},
+{
+"text": "of",
+"start": 150.303,
+"end": 150.488
+},
+{
+"text": "their",
+"start": 150.504,
+"end": 150.828
+},
+{
+"text": "paper",
+"start": 150.856,
+"end": 151.18
+},
+{
+"text": "says",
+"start": 151.208,
+"end": 151.486
+},
+{
+"text": "it",
+"start": 151.51,
+"end": 151.695
+},
+{
+"text": "all.",
+"start": 151.711,
+"end": 151.943
+},
+{
+"text": "Trading",
+"start": 151.963,
+"end": 152.379
+},
+{
+"text": "is",
+"start": 152.416,
+"end": 152.601
+},
+{
+"text": "hazardous",
+"start": 152.617,
+"end": 153.126
+},
+{
+"text": "to",
+"start": 153.17,
+"end": 153.356
+},
+{
+"text": "your",
+"start": 153.372,
+"end": 153.649
+},
+{
+"text": "wealth.",
+"start": 153.674,
+"end": 154.044
+},
+{
+"text": "Chapter",
+"start": 154.476,
+"end": 154.947
+},
+{
+"text": "four.",
+"start": 154.988,
+"end": 155.302
+},
+{
+"text": "Why",
+"start": 155.329,
+"end": 155.59
+},
+{
+"text": "the",
+"start": 155.613,
+"end": 155.875
+},
+{
+"text": "math",
+"start": 155.897,
+"end": 156.211
+},
+{
+"text": "is",
+"start": 156.238,
+"end": 156.448
+},
+{
+"text": "so",
+"start": 156.466,
+"end": 156.675
+},
+{
+"text": "brutal.",
+"start": 156.693,
+"end": 157.112
+},
+{
+"text": "Reason",
+"start": 157.548,
+"end": 158.052
+},
+{
+"text": "one.",
+"start": 158.096,
+"end": 158.41
+},
+{
+"text": "Day",
+"start": 158.438,
+"end": 158.752
+},
+{
+"text": "trading",
+"start": 158.78,
+"end": 159.346
+},
+{
+"text": "is",
+"start": 159.396,
+"end": 159.648
+},
+{
+"text": "a",
+"start": 159.669,
+"end": 159.858
+},
+{
+"text": "zero-sum",
+"start": 159.875,
+"end": 160.441
+},
+{
+"text": "game",
+"start": 160.491,
+"end": 160.868
+},
+{
+"text": "before",
+"start": 160.901,
+"end": 161.405
+},
+{
+"text": "costs.",
+"start": 161.449,
+"end": 161.889
+},
+{
+"text": "Over",
+"start": 162.328,
+"end": 162.633
+},
+{
+"text": "a",
+"start": 162.659,
+"end": 162.812
+},
+{
+"text": "few",
+"start": 162.825,
+"end": 163.079
+},
+{
+"text": "minutes,",
+"start": 163.101,
+"end": 163.559
+},
+{
+"text": "a",
+"start": 163.598,
+"end": 163.751
+},
+{
+"text": "stock",
+"start": 163.764,
+"end": 164.12
+},
+{
+"text": "doesn't",
+"start": 164.151,
+"end": 164.558
+},
+{
+"text": "grow",
+"start": 164.593,
+"end": 164.898
+},
+{
+"text": "like",
+"start": 164.924,
+"end": 165.229
+},
+{
+"text": "a",
+"start": 165.256,
+"end": 165.408
+},
+{
+"text": "business.",
+"start": 165.422,
+"end": 165.93
+},
+{
+"text": "For",
+"start": 165.974,
+"end": 166.228
+},
+{
+"text": "every",
+"start": 166.25,
+"end": 166.606
+},
+{
+"text": "dollar",
+"start": 166.637,
+"end": 167.044
+},
+{
+"text": "you",
+"start": 167.079,
+"end": 167.333
+},
+{
+"text": "win,",
+"start": 167.355,
+"end": 167.61
+},
+{
+"text": "someone",
+"start": 167.632,
+"end": 168.089
+},
+{
+"text": "on",
+"start": 168.129,
+"end": 168.332
+},
+{
+"text": "the",
+"start": 168.35,
+"end": 168.604
+},
+{
+"text": "other",
+"start": 168.626,
+"end": 168.982
+},
+{
+"text": "side",
+"start": 169.013,
+"end": 169.318
+},
+{
+"text": "loses",
+"start": 169.344,
+"end": 169.7
+},
+{
+"text": "it.",
+"start": 169.731,
+"end": 169.934
+},
+{
+"text": "Reason",
+"start": 170.352,
+"end": 170.865
+},
+{
+"text": "two.",
+"start": 170.909,
+"end": 171.23
+},
+{
+"text": "Costs",
+"start": 171.258,
+"end": 171.706
+},
+{
+"text": "turn",
+"start": 171.745,
+"end": 172.13
+},
+{
+"text": "zero-sum",
+"start": 172.163,
+"end": 172.74
+},
+{
+"text": "into",
+"start": 172.79,
+"end": 173.175
+},
+{
+"text": "negative-sum.",
+"start": 173.208,
+"end": 174.041
+},
+{
+"text": "Even",
+"start": 174.514,
+"end": 174.828
+},
+{
+"text": "with",
+"start": 174.855,
+"end": 175.169
+},
+{
+"text": "zero",
+"start": 175.196,
+"end": 175.51
+},
+{
+"text": "commission,",
+"start": 175.537,
+"end": 176.164
+},
+{
+"text": "you",
+"start": 176.219,
+"end": 176.48
+},
+{
+"text": "pay",
+"start": 176.503,
+"end": 176.765
+},
+{
+"text": "the",
+"start": 176.787,
+"end": 177.049
+},
+{
+"text": "spread,",
+"start": 177.071,
+"end": 177.49
+},
+{
+"text": "the",
+"start": 177.526,
+"end": 177.788
+},
+{
+"text": "small",
+"start": 177.81,
+"end": 178.176
+},
+{
+"text": "gap",
+"start": 178.208,
+"end": 178.47
+},
+{
+"text": "between",
+"start": 178.492,
+"end": 178.963
+},
+{
+"text": "the",
+"start": 179.004,
+"end": 179.265
+},
+{
+"text": "buy",
+"start": 179.288,
+"end": 179.549
+},
+{
+"text": "price",
+"start": 179.572,
+"end": 179.938
+},
+{
+"text": "and",
+"start": 179.97,
+"end": 180.232
+},
+{
+"text": "the",
+"start": 180.254,
+"end": 180.516
+},
+{
+"text": "sell",
+"start": 180.538,
+"end": 180.852
+},
+{
+"text": "price,",
+"start": 180.879,
+"end": 181.245
+},
+{
+"text": "on",
+"start": 181.277,
+"end": 181.486
+},
+{
+"text": "every",
+"start": 181.505,
+"end": 181.871
+},
+{
+"text": "single",
+"start": 181.902,
+"end": 182.321
+},
+{
+"text": "trade.",
+"start": 182.357,
+"end": 182.723
+},
+{
+"text": "Make",
+"start": 183.155,
+"end": 183.446
+},
+{
+"text": "twenty",
+"start": 183.471,
+"end": 183.859
+},
+{
+"text": "trades",
+"start": 183.892,
+"end": 184.28
+},
+{
+"text": "a",
+"start": 184.314,
+"end": 184.459
+},
+{
+"text": "day,",
+"start": 184.472,
+"end": 184.714
+},
+{
+"text": "and",
+"start": 184.735,
+"end": 184.978
+},
+{
+"text": "those",
+"start": 184.999,
+"end": 185.338
+},
+{
+"text": "tiny",
+"start": 185.367,
+"end": 185.658
+},
+{
+"text": "costs",
+"start": 185.684,
+"end": 186.023
+},
+{
+"text": "stack",
+"start": 186.052,
+"end": 186.392
+},
+{
+"text": "up",
+"start": 186.421,
+"end": 186.615
+},
+{
+"text": "into",
+"start": 186.632,
+"end": 186.923
+},
+{
+"text": "a",
+"start": 186.948,
+"end": 187.093
+},
+{
+"text": "mountain.",
+"start": 187.106,
+"end": 187.591
+},
+{
+"text": "Reason",
+"start": 188.033,
+"end": 188.437
+},
+{
+"text": "three.",
+"start": 188.472,
+"end": 188.825
+},
+{
+"text": "You're",
+"start": 188.856,
+"end": 189.21
+},
+{
+"text": "playing",
+"start": 189.24,
+"end": 189.695
+},
+{
+"text": "against",
+"start": 189.734,
+"end": 190.189
+},
+{
+"text": "professionals.",
+"start": 190.229,
+"end": 190.986
+},
+{
+"text": "The",
+"start": 191.452,
+"end": 191.704
+},
+{
+"text": "other",
+"start": 191.726,
+"end": 192.078
+},
+{
+"text": "side",
+"start": 192.109,
+"end": 192.411
+},
+{
+"text": "of",
+"start": 192.437,
+"end": 192.638
+},
+{
+"text": "your",
+"start": 192.656,
+"end": 192.958
+},
+{
+"text": "trade",
+"start": 192.984,
+"end": 193.336
+},
+{
+"text": "is",
+"start": 193.367,
+"end": 193.568
+},
+{
+"text": "often",
+"start": 193.586,
+"end": 193.938
+},
+{
+"text": "a",
+"start": 193.969,
+"end": 194.12
+},
+{
+"text": "firm",
+"start": 194.133,
+"end": 194.435
+},
+{
+"text": "with",
+"start": 194.461,
+"end": 194.763
+},
+{
+"text": "faster",
+"start": 194.789,
+"end": 195.192
+},
+{
+"text": "computers,",
+"start": 195.227,
+"end": 195.781
+},
+{
+"text": "better",
+"start": 195.829,
+"end": 196.231
+},
+{
+"text": "data,",
+"start": 196.266,
+"end": 196.568
+},
+{
+"text": "and",
+"start": 196.595,
+"end": 196.846
+},
+{
+"text": "a",
+"start": 196.868,
+"end": 197.019
+},
+{
+"text": "team",
+"start": 197.032,
+"end": 197.334
+},
+{
+"text": "of",
+"start": 197.361,
+"end": 197.562
+},
+{
+"text": "people",
+"start": 197.579,
+"end": 197.982
+},
+{
+"text": "who",
+"start": 198.017,
+"end": 198.269
+},
+{
+"text": "do",
+"start": 198.291,
+"end": 198.492
+},
+{
+"text": "nothing",
+"start": 198.509,
+"end": 198.962
+},
+{
+"text": "else.",
+"start": 199.002,
+"end": 199.304
+},
+{
+"text": "Reason",
+"start": 199.73,
+"end": 200.293
+},
+{
+"text": "four.",
+"start": 200.342,
+"end": 200.764
+},
+{
+"text": "Taxes.",
+"start": 200.801,
+"end": 201.293
+},
+{
+"text": "In",
+"start": 201.736,
+"end": 201.969
+},
+{
+"text": "the",
+"start": 201.989,
+"end": 202.28
+},
+{
+"text": "U.S.,",
+"start": 202.305,
+"end": 202.538
+},
+{
+"text": "gains",
+"start": 202.558,
+"end": 202.965
+},
+{
+"text": "on",
+"start": 203.001,
+"end": 203.233
+},
+{
+"text": "things",
+"start": 203.253,
+"end": 203.719
+},
+{
+"text": "you",
+"start": 203.759,
+"end": 204.05
+},
+{
+"text": "hold",
+"start": 204.075,
+"end": 204.424
+},
+{
+"text": "for",
+"start": 204.455,
+"end": 204.746
+},
+{
+"text": "a",
+"start": 204.771,
+"end": 204.945
+},
+{
+"text": "year",
+"start": 204.961,
+"end": 205.31
+},
+{
+"text": "or",
+"start": 205.34,
+"end": 205.573
+},
+{
+"text": "less",
+"start": 205.593,
+"end": 205.942
+},
+{
+"text": "are",
+"start": 205.972,
+"end": 206.263
+},
+{
+"text": "taxed",
+"start": 206.288,
+"end": 206.696
+},
+{
+"text": "as",
+"start": 206.731,
+"end": 206.964
+},
+{
+"text": "ordinary",
+"start": 206.984,
+"end": 207.566
+},
+{
+"text": "income,",
+"start": 207.616,
+"end": 208.082
+},
+{
+"text": "often",
+"start": 208.122,
+"end": 208.529
+},
+{
+"text": "at",
+"start": 208.565,
+"end": 208.797
+},
+{
+"text": "a",
+"start": 208.818,
+"end": 208.992
+},
+{
+"text": "higher",
+"start": 209.007,
+"end": 209.473
+},
+{
+"text": "rate",
+"start": 209.513,
+"end": 209.862
+},
+{
+"text": "than",
+"start": 209.893,
+"end": 210.242
+},
+{
+"text": "long-term",
+"start": 210.272,
+"end": 210.854
+},
+{
+"text": "gains.",
+"start": 210.904,
+"end": 211.311
+},
+{
+"text": "And",
+"start": 211.747,
+"end": 212.049
+},
+{
+"text": "reason",
+"start": 212.075,
+"end": 212.557
+},
+{
+"text": "five",
+"start": 212.599,
+"end": 212.962
+},
+{
+"text": "is",
+"start": 212.993,
+"end": 213.234
+},
+{
+"text": "you.",
+"start": 213.255,
+"end": 213.557
+},
+{
+"text": "Fear,",
+"start": 213.583,
+"end": 213.945
+},
+{
+"text": "greed,",
+"start": 213.977,
+"end": 214.399
+},
+{
+"text": "and",
+"start": 214.436,
+"end": 214.738
+},
+{
+"text": "revenge",
+"start": 214.764,
+"end": 215.307
+},
+{
+"text": "trading",
+"start": 215.354,
+"end": 215.897
+},
+{
+"text": "after",
+"start": 215.944,
+"end": 216.367
+},
+{
+"text": "a",
+"start": 216.404,
+"end": 216.585
+},
+{
+"text": "loss.",
+"start": 216.6,
+"end": 216.962
+},
+{
+"text": "Leverage",
+"start": 216.994,
+"end": 217.597
+},
+{
+"text": "turns",
+"start": 217.65,
+"end": 218.072
+},
+{
+"text": "one",
+"start": 218.109,
+"end": 218.41
+},
+{
+"text": "bad",
+"start": 218.437,
+"end": 218.738
+},
+{
+"text": "day",
+"start": 218.765,
+"end": 219.066
+},
+{
+"text": "into",
+"start": 219.093,
+"end": 219.455
+},
+{
+"text": "a",
+"start": 219.486,
+"end": 219.667
+},
+{
+"text": "wiped-out",
+"start": 219.683,
+"end": 220.286
+},
+{
+"text": "account.",
+"start": 220.339,
+"end": 220.882
+},
+{
+"text": "Chapter",
+"start": 221.329,
+"end": 221.792
+},
+{
+"text": "five.",
+"start": 221.833,
+"end": 222.141
+},
+{
+"text": "The",
+"start": 222.168,
+"end": 222.426
+},
+{
+"text": "rule",
+"start": 222.448,
+"end": 222.757
+},
+{
+"text": "that",
+"start": 222.784,
+"end": 223.093
+},
+{
+"text": "just",
+"start": 223.119,
+"end": 223.428
+},
+{
+"text": "changed.",
+"start": 223.455,
+"end": 223.918
+},
+{
+"text": "For",
+"start": 224.359,
+"end": 224.613
+},
+{
+"text": "years,",
+"start": 224.635,
+"end": 224.991
+},
+{
+"text": "if",
+"start": 225.022,
+"end": 225.225
+},
+{
+"text": "you",
+"start": 225.243,
+"end": 225.497
+},
+{
+"text": "made",
+"start": 225.519,
+"end": 225.824
+},
+{
+"text": "four",
+"start": 225.85,
+"end": 226.155
+},
+{
+"text": "or",
+"start": 226.182,
+"end": 226.385
+},
+{
+"text": "more",
+"start": 226.403,
+"end": 226.708
+},
+{
+"text": "day",
+"start": 226.734,
+"end": 226.989
+},
+{
+"text": "trades",
+"start": 227.011,
+"end": 227.417
+},
+{
+"text": "in",
+"start": 227.453,
+"end": 227.656
+},
+{
+"text": "five",
+"start": 227.674,
+"end": 227.979
+},
+{
+"text": "business",
+"start": 228.005,
+"end": 228.513
+},
+{
+"text": "days",
+"start": 228.558,
+"end": 228.863
+},
+{
+"text": "in",
+"start": 228.889,
+"end": 229.092
+},
+{
+"text": "a",
+"start": 229.11,
+"end": 229.263
+},
+{
+"text": "margin",
+"start": 229.276,
+"end": 229.683
+},
+{
+"text": "account,",
+"start": 229.718,
+"end": 230.175
+},
+{
+"text": "you",
+"start": 230.215,
+"end": 230.469
+},
+{
+"text": "were",
+"start": 230.491,
+"end": 230.796
+},
+{
+"text": "a",
+"start": 230.823,
+"end": 230.975
+},
+{
+"text": "pattern",
+"start": 230.989,
+"end": 231.446
+},
+{
+"text": "day",
+"start": 231.486,
+"end": 231.74
+},
+{
+"text": "trader,",
+"start": 231.762,
+"end": 232.169
+},
+{
+"text": "and",
+"start": 232.204,
+"end": 232.458
+},
+{
+"text": "you",
+"start": 232.48,
+"end": 232.734
+},
+{
+"text": "needed",
+"start": 232.757,
+"end": 233.163
+},
+{
+"text": "twenty-five",
+"start": 233.199,
+"end": 233.808
+},
+{
+"text": "thousand",
+"start": 233.862,
+"end": 234.37
+},
+{
+"text": "dollars",
+"start": 234.414,
+"end": 234.871
+},
+{
+"text": "in",
+"start": 234.911,
+"end": 235.115
+},
+{
+"text": "your",
+"start": 235.132,
+"end": 235.437
+},
+{
+"text": "account.",
+"start": 235.464,
+"end": 235.921
+},
+{
+"text": "In",
+"start": 236.361,
+"end": 236.594
+},
+{
+"text": "twenty",
+"start": 236.614,
+"end": 237.079
+},
+{
+"text": "twenty-six,",
+"start": 237.119,
+"end": 237.759
+},
+{
+"text": "that",
+"start": 237.814,
+"end": 238.163
+},
+{
+"text": "changed.",
+"start": 238.194,
+"end": 238.717
+},
+{
+"text": "The",
+"start": 238.762,
+"end": 239.053
+},
+{
+"text": "S.E.C.",
+"start": 239.078,
+"end": 239.369
+},
+{
+"text": "approved",
+"start": 239.394,
+"end": 239.976
+},
+{
+"text": "FINRA's",
+"start": 240.026,
+"end": 240.491
+},
+{
+"text": "new",
+"start": 240.532,
+"end": 240.822
+},
+{
+"text": "rules,",
+"start": 240.848,
+"end": 241.255
+},
+{
+"text": "and",
+"start": 241.29,
+"end": 241.581
+},
+{
+"text": "in",
+"start": 241.606,
+"end": 241.839
+},
+{
+"text": "June",
+"start": 241.859,
+"end": 242.208
+},
+{
+"text": "brokers",
+"start": 242.238,
+"end": 242.761
+},
+{
+"text": "started",
+"start": 242.807,
+"end": 243.33
+},
+{
+"text": "dropping",
+"start": 243.376,
+"end": 243.957
+},
+{
+"text": "the",
+"start": 244.007,
+"end": 244.298
+},
+{
+"text": "twenty-five",
+"start": 244.323,
+"end": 245.021
+},
+{
+"text": "thousand",
+"start": 245.082,
+"end": 245.663
+},
+{
+"text": "dollar",
+"start": 245.714,
+"end": 246.179
+},
+{
+"text": "minimum.",
+"start": 246.219,
+"end": 246.743
+},
+{
+"text": "Now",
+"start": 247.188,
+"end": 247.47
+},
+{
+"text": "the",
+"start": 247.495,
+"end": 247.777
+},
+{
+"text": "standard",
+"start": 247.801,
+"end": 248.365
+},
+{
+"text": "margin",
+"start": 248.414,
+"end": 248.865
+},
+{
+"text": "minimum",
+"start": 248.905,
+"end": 249.412
+},
+{
+"text": "of",
+"start": 249.456,
+"end": 249.682
+},
+{
+"text": "two",
+"start": 249.701,
+"end": 249.983
+},
+{
+"text": "thousand",
+"start": 250.008,
+"end": 250.572
+},
+{
+"text": "dollars",
+"start": 250.621,
+"end": 251.129
+},
+{
+"text": "applies,",
+"start": 251.173,
+"end": 251.68
+},
+{
+"text": "with",
+"start": 251.725,
+"end": 252.063
+},
+{
+"text": "limits",
+"start": 252.092,
+"end": 252.544
+},
+{
+"text": "based",
+"start": 252.583,
+"end": 252.978
+},
+{
+"text": "on",
+"start": 253.012,
+"end": 253.238
+},
+{
+"text": "your",
+"start": 253.257,
+"end": 253.596
+},
+{
+"text": "real-time",
+"start": 253.625,
+"end": 254.189
+},
+{
+"text": "margin.",
+"start": 254.238,
+"end": 254.689
+},
+{
+"text": "So",
+"start": 255.128,
+"end": 255.344
+},
+{
+"text": "the",
+"start": 255.363,
+"end": 255.632
+},
+{
+"text": "door",
+"start": 255.656,
+"end": 255.979
+},
+{
+"text": "is",
+"start": 256.007,
+"end": 256.223
+},
+{
+"text": "wider",
+"start": 256.242,
+"end": 256.619
+},
+{
+"text": "than",
+"start": 256.652,
+"end": 256.975
+},
+{
+"text": "ever.",
+"start": 257.003,
+"end": 257.327
+},
+{
+"text": "But",
+"start": 257.355,
+"end": 257.625
+},
+{
+"text": "the",
+"start": 257.648,
+"end": 257.918
+},
+{
+"text": "rule",
+"start": 257.941,
+"end": 258.264
+},
+{
+"text": "change",
+"start": 258.293,
+"end": 258.724
+},
+{
+"text": "didn't",
+"start": 258.761,
+"end": 259.139
+},
+{
+"text": "change",
+"start": 259.172,
+"end": 259.603
+},
+{
+"text": "the",
+"start": 259.64,
+"end": 259.91
+},
+{
+"text": "math.",
+"start": 259.933,
+"end": 260.257
+},
+{
+"text": "Not",
+"start": 260.285,
+"end": 260.554
+},
+{
+"text": "one",
+"start": 260.578,
+"end": 260.847
+},
+{
+"text": "bit.",
+"start": 260.871,
+"end": 261.14
+},
+{
+"text": "And",
+"start": 261.564,
+"end": 261.84
+},
+{
+"text": "it's",
+"start": 261.864,
+"end": 262.141
+},
+{
+"text": "not",
+"start": 262.165,
+"end": 262.441
+},
+{
+"text": "just",
+"start": 262.465,
+"end": 262.797
+},
+{
+"text": "America.",
+"start": 262.826,
+"end": 263.324
+},
+{
+"text": "In",
+"start": 263.367,
+"end": 263.588
+},
+{
+"text": "India,",
+"start": 263.608,
+"end": 263.995
+},
+{
+"text": "the",
+"start": 264.028,
+"end": 264.305
+},
+{
+"text": "market",
+"start": 264.329,
+"end": 264.771
+},
+{
+"text": "regulator",
+"start": 264.81,
+"end": 265.418
+},
+{
+"text": "found",
+"start": 265.471,
+"end": 265.858
+},
+{
+"text": "that",
+"start": 265.892,
+"end": 266.224
+},
+{
+"text": "about",
+"start": 266.252,
+"end": 266.64
+},
+{
+"text": "eighty-eight",
+"start": 266.673,
+"end": 267.392
+},
+{
+"text": "percent",
+"start": 267.455,
+"end": 267.952
+},
+{
+"text": "of",
+"start": 267.996,
+"end": 268.217
+},
+{
+"text": "individual",
+"start": 268.236,
+"end": 268.9
+},
+{
+"text": "traders",
+"start": 268.957,
+"end": 269.455
+},
+{
+"text": "in",
+"start": 269.498,
+"end": 269.72
+},
+{
+"text": "stock",
+"start": 269.739,
+"end": 270.126
+},
+{
+"text": "options",
+"start": 270.16,
+"end": 270.657
+},
+{
+"text": "and",
+"start": 270.701,
+"end": 270.977
+},
+{
+"text": "futures",
+"start": 271.001,
+"end": 271.499
+},
+{
+"text": "lost",
+"start": 271.542,
+"end": 271.874
+},
+{
+"text": "money",
+"start": 271.903,
+"end": 272.29
+},
+{
+"text": "in",
+"start": 272.324,
+"end": 272.545
+},
+{
+"text": "the",
+"start": 272.564,
+"end": 272.841
+},
+{
+"text": "year",
+"start": 272.865,
+"end": 273.196
+},
+{
+"text": "to",
+"start": 273.225,
+"end": 273.447
+},
+{
+"text": "March",
+"start": 273.466,
+"end": 273.853
+},
+{
+"text": "twenty",
+"start": 273.887,
+"end": 274.329
+},
+{
+"text": "twenty-six.",
+"start": 274.367,
+"end": 274.976
+},
+{
+"text": "Easier",
+"start": 275.429,
+"end": 275.834
+},
+{
+"text": "access",
+"start": 275.87,
+"end": 276.275
+},
+{
+"text": "just",
+"start": 276.31,
+"end": 276.615
+},
+{
+"text": "means",
+"start": 276.641,
+"end": 276.996
+},
+{
+"text": "more",
+"start": 277.027,
+"end": 277.331
+},
+{
+"text": "people",
+"start": 277.358,
+"end": 277.763
+},
+{
+"text": "walk",
+"start": 277.798,
+"end": 278.103
+},
+{
+"text": "through",
+"start": 278.129,
+"end": 278.585
+},
+{
+"text": "the",
+"start": 278.625,
+"end": 278.879
+},
+{
+"text": "same",
+"start": 278.901,
+"end": 279.205
+},
+{
+"text": "door.",
+"start": 279.231,
+"end": 279.536
+},
+{
+"text": "Chapter",
+"start": 279.962,
+"end": 280.489
+},
+{
+"text": "six.",
+"start": 280.535,
+"end": 280.828
+},
+{
+"text": "What",
+"start": 280.853,
+"end": 281.205
+},
+{
+"text": "wins",
+"start": 281.235,
+"end": 281.587
+},
+{
+"text": "instead.",
+"start": 281.617,
+"end": 282.144
+},
+{
+"text": "The",
+"start": 282.59,
+"end": 282.844
+},
+{
+"text": "winning",
+"start": 282.866,
+"end": 283.322
+},
+{
+"text": "move",
+"start": 283.362,
+"end": 283.666
+},
+{
+"text": "for",
+"start": 283.692,
+"end": 283.946
+},
+{
+"text": "most",
+"start": 283.968,
+"end": 284.272
+},
+{
+"text": "people",
+"start": 284.298,
+"end": 284.704
+},
+{
+"text": "is",
+"start": 284.739,
+"end": 284.942
+},
+{
+"text": "almost",
+"start": 284.959,
+"end": 285.365
+},
+{
+"text": "embarrassingly",
+"start": 285.4,
+"end": 286.211
+},
+{
+"text": "boring.",
+"start": 286.281,
+"end": 286.687
+},
+{
+"text": "Buy",
+"start": 287.122,
+"end": 287.405
+},
+{
+"text": "a",
+"start": 287.43,
+"end": 287.599
+},
+{
+"text": "low-cost",
+"start": 287.614,
+"end": 288.123
+},
+{
+"text": "index",
+"start": 288.168,
+"end": 288.564
+},
+{
+"text": "fund",
+"start": 288.598,
+"end": 288.937
+},
+{
+"text": "that",
+"start": 288.967,
+"end": 289.306
+},
+{
+"text": "owns",
+"start": 289.336,
+"end": 289.675
+},
+{
+"text": "the",
+"start": 289.705,
+"end": 289.988
+},
+{
+"text": "whole",
+"start": 290.012,
+"end": 290.408
+},
+{
+"text": "market.",
+"start": 290.443,
+"end": 290.896
+},
+{
+"text": "Add",
+"start": 290.935,
+"end": 291.218
+},
+{
+"text": "money",
+"start": 291.242,
+"end": 291.638
+},
+{
+"text": "every",
+"start": 291.673,
+"end": 292.069
+},
+{
+"text": "month.",
+"start": 292.103,
+"end": 292.499
+},
+{
+"text": "And",
+"start": 292.534,
+"end": 292.817
+},
+{
+"text": "then,",
+"start": 292.841,
+"end": 293.181
+},
+{
+"text": "mostly,",
+"start": 293.21,
+"end": 293.663
+},
+{
+"text": "do",
+"start": 293.702,
+"end": 293.929
+},
+{
+"text": "nothing.",
+"start": 293.948,
+"end": 294.458
+},
+{
+"text": "No",
+"start": 294.902,
+"end": 295.12
+},
+{
+"text": "screens.",
+"start": 295.139,
+"end": 295.631
+},
+{
+"text": "No",
+"start": 295.674,
+"end": 295.892
+},
+{
+"text": "charts",
+"start": 295.911,
+"end": 296.348
+},
+{
+"text": "at",
+"start": 296.386,
+"end": 296.605
+},
+{
+"text": "midnight.",
+"start": 296.624,
+"end": 297.17
+},
+{
+"text": "No",
+"start": 297.217,
+"end": 297.436
+},
+{
+"text": "guessing",
+"start": 297.455,
+"end": 298.001
+},
+{
+"text": "what",
+"start": 298.048,
+"end": 298.376
+},
+{
+"text": "happens",
+"start": 298.405,
+"end": 298.896
+},
+{
+"text": "in",
+"start": 298.939,
+"end": 299.158
+},
+{
+"text": "the",
+"start": 299.177,
+"end": 299.45
+},
+{
+"text": "next",
+"start": 299.473,
+"end": 299.801
+},
+{
+"text": "five",
+"start": 299.83,
+"end": 300.157
+},
+{
+"text": "minutes.",
+"start": 300.186,
+"end": 300.677
+},
+{
+"text": "When",
+"start": 301.12,
+"end": 301.415
+},
+{
+"text": "you",
+"start": 301.441,
+"end": 301.687
+},
+{
+"text": "own",
+"start": 301.708,
+"end": 301.954
+},
+{
+"text": "the",
+"start": 301.975,
+"end": 302.221
+},
+{
+"text": "whole",
+"start": 302.243,
+"end": 302.587
+},
+{
+"text": "market,",
+"start": 302.617,
+"end": 303.01
+},
+{
+"text": "you're",
+"start": 303.044,
+"end": 303.389
+},
+{
+"text": "not",
+"start": 303.419,
+"end": 303.665
+},
+{
+"text": "betting",
+"start": 303.686,
+"end": 304.129
+},
+{
+"text": "against",
+"start": 304.167,
+"end": 304.61
+},
+{
+"text": "the",
+"start": 304.648,
+"end": 304.894
+},
+{
+"text": "person",
+"start": 304.915,
+"end": 305.309
+},
+{
+"text": "on",
+"start": 305.343,
+"end": 305.54
+},
+{
+"text": "the",
+"start": 305.557,
+"end": 305.803
+},
+{
+"text": "other",
+"start": 305.824,
+"end": 306.168
+},
+{
+"text": "side.",
+"start": 306.198,
+"end": 306.493
+},
+{
+"text": "You",
+"start": 306.519,
+"end": 306.765
+},
+{
+"text": "own",
+"start": 306.786,
+"end": 307.032
+},
+{
+"text": "a",
+"start": 307.053,
+"end": 307.201
+},
+{
+"text": "slice",
+"start": 307.214,
+"end": 307.558
+},
+{
+"text": "of",
+"start": 307.588,
+"end": 307.785
+},
+{
+"text": "thousands",
+"start": 307.802,
+"end": 308.343
+},
+{
+"text": "of",
+"start": 308.39,
+"end": 308.587
+},
+{
+"text": "businesses",
+"start": 308.604,
+"end": 309.194
+},
+{
+"text": "that",
+"start": 309.245,
+"end": 309.54
+},
+{
+"text": "grow",
+"start": 309.566,
+"end": 309.861
+},
+{
+"text": "over",
+"start": 309.886,
+"end": 310.182
+},
+{
+"text": "years.",
+"start": 310.207,
+"end": 310.551
+},
+{
+"text": "If",
+"start": 310.981,
+"end": 311.183
+},
+{
+"text": "you",
+"start": 311.201,
+"end": 311.453
+},
+{
+"text": "still",
+"start": 311.474,
+"end": 311.827
+},
+{
+"text": "want",
+"start": 311.858,
+"end": 312.16
+},
+{
+"text": "to",
+"start": 312.187,
+"end": 312.388
+},
+{
+"text": "trade",
+"start": 312.406,
+"end": 312.759
+},
+{
+"text": "for",
+"start": 312.789,
+"end": 313.041
+},
+{
+"text": "fun,",
+"start": 313.063,
+"end": 313.315
+},
+{
+"text": "treat",
+"start": 313.337,
+"end": 313.69
+},
+{
+"text": "it",
+"start": 313.721,
+"end": 313.922
+},
+{
+"text": "like",
+"start": 313.94,
+"end": 314.242
+},
+{
+"text": "a",
+"start": 314.268,
+"end": 314.42
+},
+{
+"text": "hobby",
+"start": 314.433,
+"end": 314.786
+},
+{
+"text": "budget.",
+"start": 314.816,
+"end": 315.22
+},
+{
+"text": "A",
+"start": 315.255,
+"end": 315.406
+},
+{
+"text": "small",
+"start": 315.419,
+"end": 315.772
+},
+{
+"text": "amount",
+"start": 315.802,
+"end": 316.206
+},
+{
+"text": "you",
+"start": 316.241,
+"end": 316.493
+},
+{
+"text": "can",
+"start": 316.515,
+"end": 316.767
+},
+{
+"text": "afford",
+"start": 316.789,
+"end": 317.192
+},
+{
+"text": "to",
+"start": 317.227,
+"end": 317.428
+},
+{
+"text": "lose,",
+"start": 317.446,
+"end": 317.748
+},
+{
+"text": "kept",
+"start": 317.775,
+"end": 318.077
+},
+{
+"text": "separate",
+"start": 318.103,
+"end": 318.607
+},
+{
+"text": "from",
+"start": 318.651,
+"end": 318.954
+},
+{
+"text": "your",
+"start": 318.98,
+"end": 319.282
+},
+{
+"text": "real",
+"start": 319.309,
+"end": 319.611
+},
+{
+"text": "money.",
+"start": 319.637,
+"end": 319.99
+},
+{
+"text": "And",
+"start": 320.421,
+"end": 320.69
+},
+{
+"text": "never",
+"start": 320.714,
+"end": 321.091
+},
+{
+"text": "with",
+"start": 321.124,
+"end": 321.447
+},
+{
+"text": "money",
+"start": 321.475,
+"end": 321.852
+},
+{
+"text": "you",
+"start": 321.885,
+"end": 322.154
+},
+{
+"text": "need",
+"start": 322.178,
+"end": 322.501
+},
+{
+"text": "for",
+"start": 322.529,
+"end": 322.799
+},
+{
+"text": "rent,",
+"start": 322.822,
+"end": 323.145
+},
+{
+"text": "your",
+"start": 323.174,
+"end": 323.497
+},
+{
+"text": "emergency",
+"start": 323.525,
+"end": 324.118
+},
+{
+"text": "fund,",
+"start": 324.169,
+"end": 324.493
+},
+{
+"text": "or",
+"start": 324.521,
+"end": 324.736
+},
+{
+"text": "your",
+"start": 324.755,
+"end": 325.078
+},
+{
+"text": "retirement.",
+"start": 325.106,
+"end": 325.753
+},
+{
+"text": "Chapter",
+"start": 326.209,
+"end": 326.759
+},
+{
+"text": "seven.",
+"start": 326.807,
+"end": 327.235
+},
+{
+"text": "Recap.",
+"start": 327.272,
+"end": 327.699
+},
+{
+"text": "Ninety-seven",
+"start": 328.137,
+"end": 328.802
+},
+{
+"text": "percent",
+"start": 328.86,
+"end": 329.321
+},
+{
+"text": "of",
+"start": 329.361,
+"end": 329.565
+},
+{
+"text": "day",
+"start": 329.583,
+"end": 329.839
+},
+{
+"text": "traders",
+"start": 329.861,
+"end": 330.322
+},
+{
+"text": "who",
+"start": 330.362,
+"end": 330.618
+},
+{
+"text": "kept",
+"start": 330.64,
+"end": 330.947
+},
+{
+"text": "going",
+"start": 330.974,
+"end": 331.332
+},
+{
+"text": "for",
+"start": 331.363,
+"end": 331.619
+},
+{
+"text": "three",
+"start": 331.642,
+"end": 332.0
+},
+{
+"text": "hundred",
+"start": 332.031,
+"end": 332.492
+},
+{
+"text": "days",
+"start": 332.532,
+"end": 332.839
+},
+{
+"text": "lost",
+"start": 332.866,
+"end": 333.173
+},
+{
+"text": "money.",
+"start": 333.199,
+"end": 333.558
+},
+{
+"text": "Fewer",
+"start": 333.989,
+"end": 334.401
+},
+{
+"text": "than",
+"start": 334.437,
+"end": 334.79
+},
+{
+"text": "one",
+"start": 334.821,
+"end": 335.116
+},
+{
+"text": "percent",
+"start": 335.141,
+"end": 335.671
+},
+{
+"text": "of",
+"start": 335.717,
+"end": 335.953
+},
+{
+"text": "day",
+"start": 335.974,
+"end": 336.268
+},
+{
+"text": "traders",
+"start": 336.294,
+"end": 336.824
+},
+{
+"text": "in",
+"start": 336.87,
+"end": 337.106
+},
+{
+"text": "Taiwan",
+"start": 337.126,
+"end": 337.597
+},
+{
+"text": "won",
+"start": 337.638,
+"end": 337.933
+},
+{
+"text": "reliably",
+"start": 337.958,
+"end": 338.547
+},
+{
+"text": "after",
+"start": 338.599,
+"end": 339.011
+},
+{
+"text": "fees.",
+"start": 339.047,
+"end": 339.4
+},
+{
+"text": "The",
+"start": 339.831,
+"end": 340.044
+},
+{
+"text": "households",
+"start": 340.062,
+"end": 340.573
+},
+{
+"text": "that",
+"start": 340.617,
+"end": 340.872
+},
+{
+"text": "traded",
+"start": 340.894,
+"end": 341.235
+},
+{
+"text": "the",
+"start": 341.264,
+"end": 341.477
+},
+{
+"text": "most",
+"start": 341.496,
+"end": 341.751
+},
+{
+"text": "earned",
+"start": 341.773,
+"end": 342.113
+},
+{
+"text": "the",
+"start": 342.143,
+"end": 342.356
+},
+{
+"text": "least.",
+"start": 342.374,
+"end": 342.672
+},
+{
+"text": "The",
+"start": 343.098,
+"end": 343.354
+},
+{
+"text": "twenty-five",
+"start": 343.376,
+"end": 343.989
+},
+{
+"text": "thousand",
+"start": 344.043,
+"end": 344.554
+},
+{
+"text": "dollar",
+"start": 344.598,
+"end": 345.007
+},
+{
+"text": "rule",
+"start": 345.043,
+"end": 345.349
+},
+{
+"text": "is",
+"start": 345.376,
+"end": 345.581
+},
+{
+"text": "gone,",
+"start": 345.598,
+"end": 345.905
+},
+{
+"text": "but",
+"start": 345.932,
+"end": 346.187
+},
+{
+"text": "the",
+"start": 346.21,
+"end": 346.465
+},
+{
+"text": "math",
+"start": 346.487,
+"end": 346.794
+},
+{
+"text": "is",
+"start": 346.821,
+"end": 347.025
+},
+{
+"text": "the",
+"start": 347.043,
+"end": 347.299
+},
+{
+"text": "same.",
+"start": 347.321,
+"end": 347.627
+},
+{
+"text": "Next,",
+"start": 348.054,
+"end": 348.342
+},
+{
+"text": "we'll",
+"start": 348.367,
+"end": 348.654
+},
+{
+"text": "look",
+"start": 348.679,
+"end": 348.967
+},
+{
+"text": "at",
+"start": 348.992,
+"end": 349.183
+},
+{
+"text": "how",
+"start": 349.2,
+"end": 349.439
+},
+{
+"text": "credit",
+"start": 349.46,
+"end": 349.843
+},
+{
+"text": "card",
+"start": 349.877,
+"end": 350.164
+},
+{
+"text": "companies",
+"start": 350.189,
+"end": 350.716
+},
+{
+"text": "make",
+"start": 350.762,
+"end": 351.05
+},
+{
+"text": "money",
+"start": 351.075,
+"end": 351.41
+},
+{
+"text": "off",
+"start": 351.439,
+"end": 351.679
+},
+{
+"text": "you,",
+"start": 351.699,
+"end": 351.939
+},
+{
+"text": "and",
+"start": 351.96,
+"end": 352.199
+},
+{
+"text": "how",
+"start": 352.22,
+"end": 352.46
+},
+{
+"text": "to",
+"start": 352.481,
+"end": 352.672
+},
+{
+"text": "stop",
+"start": 352.689,
+"end": 352.976
+},
+{
+"text": "paying",
+"start": 353.001,
+"end": 353.385
+},
+{
+"text": "them.",
+"start": 353.418,
+"end": 353.705
+},
+{
+"text": "Subscribe",
+"start": 354.13,
+"end": 354.725
+},
+{
+"text": "so",
+"start": 354.777,
+"end": 354.993
+},
+{
+"text": "you",
+"start": 355.012,
+"end": 355.283
+},
+{
+"text": "don't",
+"start": 355.306,
+"end": 355.631
+},
+{
+"text": "miss",
+"start": 355.659,
+"end": 355.983
+},
+{
+"text": "it.",
+"start": 356.012,
+"end": 356.228
+},
+{
+"text": "This",
+"start": 356.247,
+"end": 356.571
+},
+{
+"text": "is",
+"start": 356.6,
+"end": 356.816
+},
+{
+"text": "The",
+"start": 356.835,
+"end": 357.105
+},
+{
+"text": "Boring",
+"start": 357.129,
+"end": 357.561
+},
+{
+"text": "Rich",
+"start": 357.599,
+"end": 357.924
+},
+{
+"text": "Club.",
+"start": 357.952,
+"end": 358.276
+},
+{
+"text": "Get",
+"start": 358.304,
+"end": 358.575
+},
+{
+"text": "rich",
+"start": 358.598,
+"end": 358.923
+},
+{
+"text": "slowly,",
+"start": 358.951,
+"end": 359.384
+},
+{
+"text": "on",
+"start": 359.421,
+"end": 359.638
+},
+{
+"text": "purpose.",
+"start": 359.657,
+"end": 360.143
+}
+]
