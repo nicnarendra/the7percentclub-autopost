@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:49:30.515072+00:00",
+ "generated_at": "2026-11-27T11:56:43.294283+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -89,8 +89,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-25T15:00:58+0000",
     "insights": {
-     "reach": 863,
-     "views": 1041,
+     "reach": 864,
+     "views": 1042,
      "saved": 2,
      "shares": 3
     }
@@ -104,8 +104,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T06:46:51+0000",
     "insights": {
-     "reach": 104,
-     "views": 119,
+     "reach": 105,
+     "views": 120,
      "saved": 0,
      "shares": 0
     }
@@ -134,8 +134,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T16:40:40+0000",
     "insights": {
-     "reach": 134,
-     "views": 150,
+     "reach": 136,
+     "views": 153,
      "saved": 0,
      "shares": 1
     }
@@ -145,9 +145,24 @@
     "title": "Loss Ke Baad Bada Trade? Revenge Trading Account Kha Jaata Hai #Shorts",
     "id": "18138218449674041",
     "comments_count": 0,
-    "like_count": 0,
+    "like_count": 3,
     "media_product_type": "REELS",
     "timestamp": "2026-11-27T03:49:22+0000",
+    "insights": {
+     "reach": 125,
+     "views": 139,
+     "saved": 0,
+     "shares": 0
+    }
+   },
+   {
+    "dir": "2026-11-27-1300-carousel-credit-card-minimum-due",
+    "title": "Minimum due = sabse mehenga button 💳\n\n3.75% mahina = ~45% saal!\n₹1 lakh bill, si",
+    "id": "17911464117332477",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "FEED",
+    "timestamp": "2026-11-27T11:56:37+0000",
     "insights": {
      "reach": 0,
      "views": 0,
@@ -160,7 +175,7 @@
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 7
+   "media_count": 8
   }
  },
  "queue": [
@@ -240,7 +255,7 @@
    "title": "Minimum due = sabse mehenga button 💳\n\n3.75% mahina = ~45% saal!\n₹1 lakh bill, si",
    "publish_at": "2026-11-27T13:00:00+05:30",
    "youtube_id": null,
-   "instagram_id": null,
+   "instagram_id": "17911464117332477",
    "facebook_id": null,
    "playlist": null
   },
@@ -313,6 +328,36 @@
    "instagram_id": null,
    "facebook_id": null,
    "playlist": "money-traps"
+  },
+  {
+   "dir": "2026-11-30-0830-intraday-sebi",
+   "format": "short",
+   "title": "Intraday Trading: SEBI Ne Kya Paaya? 10 Mein Se 7 Loss Mein #Shorts",
+   "publish_at": "2026-11-30T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "trading-psychology"
+  },
+  {
+   "dir": "2026-11-30-1300-carousel-two-loans",
+   "format": "carousel",
+   "title": "2 loan. ₹1 lakh extra. Pehle kaun sa chukayein? 🤔\n\nCredit card: kai issuers ~3.7",
+   "publish_at": "2026-11-30T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
+   "dir": "2026-11-30-1930-sip-for-child",
+   "format": "short",
+   "title": "Bacche Ke Liye ₹10,000 SIP: 18 Saal Baad Kitna Milega? #Shorts",
+   "publish_at": "2026-11-30T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "investing-india"
   }
  ]
 }

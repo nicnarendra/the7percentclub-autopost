@@ -1,12 +1,6 @@
-mode=post channel=in at 2026-11-27T03:48:39Z
+mode=post channel=in at 2026-11-27T11:56:08Z
 Channel: The 7% Club (in)
-== 2026-11-27-0830-revenge-trading: due 2026-11-27T09:14:18+05:30, posting to youtube, facebook, instagram
-   youtube: OK https://youtube.com/shorts/o_2GKI1PA9k
-   facebook: OK https://www.facebook.com/reel/1515149403821185
-   instagram: OK https://www.instagram.com/reel/DgOwFhVM7Po/
-2026-11-27-0830-revenge-trading: title/description/tags updated
-2026-11-27-0830-revenge-trading: English captions uploaded
-2026-11-27-0830-revenge-trading: added to playlist 'Trading Psychology: Why 93% Lose'
-2026-11-27-0830-revenge-trading: link comment posted (pin it in Studio for best results)
+== 2026-11-27-1300-carousel-credit-card-minimum-due: due 2026-11-27T13:00:00+05:30, posting to instagram_carousel (LATE by 266 min)
+   instagram_carousel: OK https://www.instagram.com/p/DgPn4yGDQ3B/
 Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 5, views 182
 Analytics saved to status/analytics-in.json: 1 videos with data
