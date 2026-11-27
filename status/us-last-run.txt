@@ -1,16 +1,10 @@
-mode=post channel=us at 2026-11-27T01:55:35Z
+mode=post channel=us at 2026-11-27T20:26:12Z
 Channel: The Boring Rich Club (us)
-== 2026-11-26-1500-youre-not-behind: due 2026-11-26T15:00:00-05:00, posting to youtube (LATE by 356 min)
-   youtube: OK https://youtube.com/watch?v=JVgEUH2Jd70
-== 2026-11-26-1900-short-youre-not-behind: due 2026-11-26T19:00:00-05:00, posting to youtube (LATE by 116 min)
-   youtube: OK https://youtube.com/shorts/Z7XTPkqhdO8
-2026-11-26-1500-youre-not-behind: title/description/tags updated
-2026-11-26-1500-youre-not-behind: English captions uploaded
-2026-11-26-1500-youre-not-behind: added to playlist 'Start Here: Investing From $0'
-2026-11-26-1500-youre-not-behind: link comment posted (pin it in Studio for best results)
-2026-11-26-1900-short-youre-not-behind: title/description/tags updated
-2026-11-26-1900-short-youre-not-behind: English captions uploaded
-2026-11-26-1900-short-youre-not-behind: added to playlist 'Start Here: Investing From $0'
-2026-11-26-1900-short-youre-not-behind: link comment posted (pin it in Studio for best results)
-Profile picture saved to status/us-avatar.jpg; subscribers 0, videos 2, views 244
-Analytics saved to status/analytics-us.json: 0 videos with data
+== 2026-11-27-1500-house-afford: due 2026-11-27T15:00:00-05:00, posting to youtube (LATE by 26 min)
+   youtube: OK https://youtube.com/watch?v=Q5nNQ5tdafo
+2026-11-27-1500-house-afford: title/description/tags updated
+2026-11-27-1500-house-afford: English captions uploaded
+2026-11-27-1500-house-afford: added to playlist 'Money Mistakes That Keep You Broke'
+2026-11-27-1500-house-afford: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/us-avatar.jpg; subscribers 1, videos 3, views 580
+Analytics saved to status/analytics-us.json: 2 videos with data
