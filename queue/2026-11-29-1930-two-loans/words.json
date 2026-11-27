@@ -2,606 +2,606 @@
 {
 "text": "Do",
 "start": 0.0,
-"end": 0.237
+"end": 0.265
 },
 {
 "text": "loan.",
-"start": 0.258,
-"end": 0.613
+"start": 0.288,
+"end": 0.687
 },
 {
-"text": "\u20b91",
-"start": 0.644,
-"end": 0.822
+"text": "₹1",
+"start": 0.721,
+"end": 0.92
 },
 {
 "text": "lakh",
-"start": 0.837,
-"end": 1.193
+"start": 0.937,
+"end": 1.336
 },
 {
 "text": "extra.",
-"start": 1.224,
-"end": 1.639
+"start": 1.37,
+"end": 1.835
 },
 {
 "text": "Pehle",
-"start": 1.675,
-"end": 2.09
+"start": 1.875,
+"end": 2.339
 },
 {
 "text": "kaun",
-"start": 2.126,
-"end": 2.481
+"start": 2.38,
+"end": 2.778
 },
 {
 "text": "sa",
-"start": 2.512,
-"end": 2.749
+"start": 2.812,
+"end": 3.078
 },
 {
 "text": "chukaoge?",
-"start": 2.77,
-"end": 3.363
+"start": 3.101,
+"end": 3.764
 },
 {
 "text": "Loan",
-"start": 3.694,
-"end": 3.992
+"start": 4.042,
+"end": 4.405
 },
 {
 "text": "A:",
-"start": 4.018,
-"end": 4.166
+"start": 4.436,
+"end": 4.617
 },
 {
 "text": "credit",
-"start": 4.179,
-"end": 4.576
+"start": 4.633,
+"end": 5.117
 },
 {
 "text": "card",
-"start": 4.611,
-"end": 4.908
+"start": 5.159,
+"end": 5.521
 },
 {
 "text": "ka",
-"start": 4.934,
-"end": 5.132
+"start": 5.553,
+"end": 5.795
 },
 {
 "text": "bakaaya.",
-"start": 5.15,
-"end": 5.596
+"start": 5.816,
+"end": 6.359
 },
 {
 "text": "Loan",
-"start": 5.635,
-"end": 5.932
+"start": 6.407,
+"end": 6.769
 },
 {
 "text": "B:",
-"start": 5.958,
-"end": 6.107
+"start": 6.801,
+"end": 6.982
 },
 {
 "text": "personal",
-"start": 6.12,
-"end": 6.616
+"start": 6.998,
+"end": 7.602
 },
 {
 "text": "loan.",
-"start": 6.659,
-"end": 6.956
+"start": 7.655,
+"end": 8.017
 },
 {
 "text": "Zyaadatar",
-"start": 7.262,
-"end": 7.833
+"start": 8.269,
+"end": 8.81
 },
 {
 "text": "log",
-"start": 7.882,
-"end": 8.142
+"start": 8.857,
+"end": 9.103
 },
 {
 "text": "woh",
-"start": 8.164,
-"end": 8.423
+"start": 9.124,
+"end": 9.37
 },
 {
 "text": "chukaate",
-"start": 8.446,
-"end": 8.964
+"start": 9.391,
+"end": 9.883
 },
 {
 "text": "hain,",
-"start": 9.01,
-"end": 9.321
+"start": 9.925,
+"end": 10.22
 },
 {
 "text": "jo",
-"start": 9.348,
-"end": 9.555
+"start": 10.246,
+"end": 10.443
 },
 {
 "text": "chhota",
-"start": 9.573,
-"end": 9.988
+"start": 10.46,
+"end": 10.853
 },
 {
 "text": "dikhta",
-"start": 10.024,
-"end": 10.439
+"start": 10.887,
+"end": 11.281
 },
 {
 "text": "hai,",
-"start": 10.475,
-"end": 10.734
+"start": 11.315,
+"end": 11.561
 },
 {
 "text": "ya",
-"start": 10.757,
-"end": 10.964
+"start": 11.582,
+"end": 11.779
 },
 {
 "text": "jiski",
-"start": 10.982,
-"end": 11.345
+"start": 11.796,
+"end": 12.14
 },
 {
 "text": "EMI",
-"start": 11.377,
-"end": 11.636
+"start": 12.17,
+"end": 12.416
 },
 {
 "text": "chubhti",
-"start": 11.659,
-"end": 12.126
+"start": 12.437,
+"end": 12.879
 },
 {
 "text": "hai.",
-"start": 12.166,
-"end": 12.425
+"start": 12.918,
+"end": 13.164
 },
 {
 "text": "Par",
-"start": 12.728,
-"end": 12.983
+"start": 13.405,
+"end": 13.704
 },
 {
 "text": "asli",
-"start": 13.006,
-"end": 13.312
+"start": 13.73,
+"end": 14.089
 },
 {
 "text": "sawaal",
-"start": 13.339,
-"end": 13.747
+"start": 14.12,
+"end": 14.599
 },
 {
 "text": "hai:",
-"start": 13.783,
-"end": 14.038
+"start": 14.64,
+"end": 14.94
 },
 {
 "text": "kaun",
-"start": 14.061,
-"end": 14.367
+"start": 14.966,
+"end": 15.325
 },
 {
 "text": "sa",
-"start": 14.394,
-"end": 14.598
+"start": 15.356,
+"end": 15.595
 },
 {
 "text": "loan,",
-"start": 14.616,
-"end": 14.922
+"start": 15.616,
+"end": 15.975
 },
 {
 "text": "sabse",
-"start": 14.949,
-"end": 15.307
+"start": 16.006,
+"end": 16.425
 },
 {
 "text": "tez",
-"start": 15.338,
-"end": 15.593
+"start": 16.461,
+"end": 16.76
 },
 {
 "text": "interest",
-"start": 15.615,
-"end": 16.126
+"start": 16.786,
+"end": 17.385
 },
 {
 "text": "kha",
-"start": 16.171,
-"end": 16.426
+"start": 17.437,
+"end": 17.736
 },
 {
 "text": "raha",
-"start": 16.448,
-"end": 16.755
+"start": 17.762,
+"end": 18.121
 },
 {
 "text": "hai?",
-"start": 16.782,
-"end": 17.037
+"start": 18.152,
+"end": 18.451
 },
 {
 "text": "Kai",
-"start": 17.339,
-"end": 17.737
+"start": 18.697,
+"end": 19.037
 },
 {
 "text": "credit",
-"start": 17.772,
-"end": 18.409
+"start": 19.067,
+"end": 19.611
 },
 {
 "text": "cards",
-"start": 18.464,
-"end": 19.021
+"start": 19.659,
+"end": 20.135
 },
 {
 "text": "kareeb",
-"start": 19.069,
-"end": 19.706
+"start": 20.177,
+"end": 20.721
 },
 {
 "text": "3.75%",
-"start": 19.762,
-"end": 20.16
+"start": 20.768,
+"end": 21.109
 },
 {
 "text": "monthly",
-"start": 20.194,
-"end": 20.911
+"start": 21.138,
+"end": 21.751
 },
 {
 "text": "lete",
-"start": 20.973,
-"end": 21.45
+"start": 21.804,
+"end": 22.212
 },
 {
 "text": "hain.",
-"start": 21.492,
-"end": 21.969
+"start": 22.248,
+"end": 22.656
 },
 {
 "text": "Matlab",
-"start": 22.011,
-"end": 22.648
+"start": 22.692,
+"end": 23.236
 },
 {
 "text": "kareeb",
-"start": 22.703,
-"end": 23.34
+"start": 23.284,
+"end": 23.828
 },
 {
 "text": "45%",
-"start": 23.395,
-"end": 23.714
+"start": 23.875,
+"end": 24.148
 },
 {
 "text": "saal",
-"start": 23.741,
-"end": 24.219
+"start": 24.171,
+"end": 24.58
 },
 {
 "text": "ka.",
-"start": 24.26,
-"end": 24.579
+"start": 24.615,
+"end": 24.887
 },
 {
 "text": "Personal",
-"start": 24.886,
-"end": 25.55
+"start": 25.131,
+"end": 25.696
 },
 {
 "text": "loan,",
-"start": 25.608,
-"end": 26.006
+"start": 25.745,
+"end": 26.084
 },
 {
 "text": "example",
-"start": 26.041,
-"end": 26.638
+"start": 26.114,
+"end": 26.622
 },
 {
 "text": "ke",
-"start": 26.69,
-"end": 26.956
+"start": 26.667,
+"end": 26.893
 },
 {
 "text": "liye,",
-"start": 26.979,
-"end": 27.377
+"start": 26.912,
+"end": 27.251
 },
 {
 "text": "12%",
-"start": 27.412,
-"end": 27.677
+"start": 27.281,
+"end": 27.507
 },
 {
 "text": "saal",
-"start": 27.7,
-"end": 28.099
+"start": 27.527,
+"end": 27.866
 },
 {
 "text": "ka",
-"start": 28.133,
-"end": 28.399
+"start": 27.895,
+"end": 28.121
 },
 {
 "text": "maan",
-"start": 28.422,
-"end": 28.82
+"start": 28.141,
+"end": 28.48
 },
 {
 "text": "lo.",
-"start": 28.855,
-"end": 29.12
+"start": 28.509,
+"end": 28.735
 },
 {
-"text": "\u20b91",
-"start": 29.423,
-"end": 29.6
+"text": "₹1",
+"start": 28.975,
+"end": 29.148
 },
 {
 "text": "lakh",
-"start": 29.616,
-"end": 29.97
+"start": 29.163,
+"end": 29.509
 },
 {
 "text": "card",
-"start": 30.001,
-"end": 30.355
+"start": 29.54,
+"end": 29.886
 },
 {
 "text": "pe",
-"start": 30.386,
-"end": 30.622
+"start": 29.916,
+"end": 30.147
 },
 {
 "text": "lagaya,",
-"start": 30.642,
-"end": 31.114
+"start": 30.167,
+"end": 30.628
 },
 {
 "text": "toh",
-"start": 31.155,
-"end": 31.45
+"start": 30.669,
+"end": 30.957
 },
 {
 "text": "ek",
-"start": 31.476,
-"end": 31.712
+"start": 30.982,
+"end": 31.213
 },
 {
 "text": "saal",
-"start": 31.733,
-"end": 32.087
+"start": 31.233,
+"end": 31.579
 },
 {
 "text": "mein",
-"start": 32.118,
-"end": 32.472
+"start": 31.61,
+"end": 31.956
 },
 {
 "text": "kareeb",
-"start": 32.502,
-"end": 32.974
+"start": 31.986,
+"end": 32.448
 },
 {
-"text": "\u20b945,000",
-"start": 33.016,
-"end": 33.429
+"text": "₹45,000",
+"start": 32.488,
+"end": 32.892
 },
 {
 "text": "ka",
-"start": 33.465,
-"end": 33.701
+"start": 32.927,
+"end": 33.158
 },
 {
 "text": "interest",
-"start": 33.721,
-"end": 34.311
+"start": 33.178,
+"end": 33.755
 },
 {
 "text": "bacha.",
-"start": 34.363,
-"end": 34.776
+"start": 33.805,
+"end": 34.209
 },
 {
 "text": "Personal",
-"start": 35.092,
-"end": 35.639
+"start": 34.464,
+"end": 35.046
 },
 {
 "text": "loan",
-"start": 35.686,
-"end": 36.014
+"start": 35.096,
+"end": 35.445
 },
 {
 "text": "pe",
-"start": 36.043,
-"end": 36.262
+"start": 35.476,
+"end": 35.709
 },
 {
 "text": "lagaya,",
-"start": 36.281,
-"end": 36.718
+"start": 35.729,
+"end": 36.194
 },
 {
 "text": "toh",
-"start": 36.756,
-"end": 37.03
+"start": 36.235,
+"end": 36.526
 },
 {
 "text": "sirf",
-"start": 37.054,
-"end": 37.382
+"start": 36.551,
+"end": 36.9
 },
 {
 "text": "kareeb",
-"start": 37.41,
-"end": 37.848
+"start": 36.93,
+"end": 37.396
 },
 {
-"text": "\u20b912,000.",
-"start": 37.886,
-"end": 38.269
+"text": "₹12,000.",
+"start": 37.436,
+"end": 37.844
 },
 {
 "text": "Farak:",
-"start": 38.582,
-"end": 39.029
+"start": 38.099,
+"end": 38.681
 },
 {
 "text": "kareeb",
-"start": 39.068,
-"end": 39.579
+"start": 38.732,
+"end": 39.397
 },
 {
-"text": "\u20b933,000,",
-"start": 39.624,
-"end": 40.071
+"text": "₹33,000,",
+"start": 39.455,
+"end": 40.037
 },
 {
 "text": "har",
-"start": 40.11,
-"end": 40.429
+"start": 40.088,
+"end": 40.503
 },
 {
 "text": "saal.",
-"start": 40.457,
-"end": 40.84
+"start": 40.54,
+"end": 41.039
 },
 {
 "text": "Ise",
-"start": 41.154,
-"end": 41.406
+"start": 41.302,
+"end": 41.567
 },
 {
 "text": "kehte",
-"start": 41.428,
-"end": 41.782
+"start": 41.59,
+"end": 41.961
 },
 {
 "text": "hain",
-"start": 41.813,
-"end": 42.116
+"start": 41.994,
+"end": 42.312
 },
 {
 "text": "avalanche",
-"start": 42.142,
-"end": 42.698
+"start": 42.34,
+"end": 42.923
 },
 {
 "text": "method:",
-"start": 42.746,
-"end": 43.15
+"start": 42.974,
+"end": 43.398
 },
 {
 "text": "sabse",
-"start": 43.186,
-"end": 43.539
+"start": 43.435,
+"end": 43.806
 },
 {
 "text": "mehenga",
-"start": 43.57,
-"end": 44.025
+"start": 43.838,
+"end": 44.316
 },
 {
 "text": "loan",
-"start": 44.064,
-"end": 44.367
+"start": 44.357,
+"end": 44.675
 },
 {
 "text": "pehle",
-"start": 44.394,
-"end": 44.748
+"start": 44.703,
+"end": 45.074
 },
 {
 "text": "maaro.",
-"start": 44.778,
-"end": 45.132
+"start": 45.106,
+"end": 45.478
 },
 {
 "text": "Baaki",
-"start": 45.443,
-"end": 45.843
+"start": 45.73,
+"end": 46.049
 },
 {
 "text": "sab",
-"start": 45.878,
-"end": 46.164
+"start": 46.077,
+"end": 46.305
 },
 {
 "text": "loans",
-"start": 46.189,
-"end": 46.59
+"start": 46.325,
+"end": 46.644
 },
 {
 "text": "ki",
-"start": 46.624,
-"end": 46.853
+"start": 46.672,
+"end": 46.854
 },
 {
 "text": "minimum",
-"start": 46.873,
-"end": 47.388
+"start": 46.87,
+"end": 47.28
 },
 {
 "text": "EMI",
-"start": 47.433,
-"end": 47.719
+"start": 47.316,
+"end": 47.544
 },
 {
 "text": "time",
-"start": 47.744,
-"end": 48.087
+"start": 47.564,
+"end": 47.837
 },
 {
 "text": "pe",
-"start": 48.117,
-"end": 48.346
+"start": 47.861,
+"end": 48.043
 },
 {
 "text": "bharte",
-"start": 48.366,
-"end": 48.824
+"start": 48.059,
+"end": 48.424
 },
 {
 "text": "raho.",
-"start": 48.863,
-"end": 49.207
+"start": 48.456,
+"end": 48.729
 },
 {
 "text": "Follow",
-"start": 49.517,
-"end": 50.069
+"start": 48.973,
+"end": 49.701
 },
 {
 "text": "karo",
-"start": 50.117,
-"end": 50.532
+"start": 49.764,
+"end": 50.31
 },
 {
 "text": "The",
-"start": 50.568,
-"end": 50.913
+"start": 50.358,
+"end": 50.812
 },
 {
 "text": "7%",
-"start": 50.944,
-"end": 51.151
+"start": 50.852,
+"end": 51.125
 },
 {
 "text": "Club.",
-"start": 51.169,
-"end": 51.583
+"start": 51.149,
+"end": 51.695
 }
 ]
