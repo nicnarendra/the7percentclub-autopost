@@ -1,19 +1,52 @@
 {
- "generated_at": "2026-11-26T16:40:50.167259+00:00",
+ "generated_at": "2026-11-27T03:49:30.515072+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
-   "2026-10-29",
-   "2026-11-26"
+   "2026-10-30",
+   "2026-11-27"
   ],
   "channel": {
-   "viewCount": "83",
+   "viewCount": "182",
    "subscriberCount": "1",
    "hiddenSubscriberCount": false,
-   "videoCount": "4"
+   "videoCount": "5"
   },
-  "videos": [],
-  "traffic_sources": []
+  "videos": [
+   {
+    "video": "MySh2kVoCZM",
+    "views": 4,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 36,
+    "averageViewPercentage": 80.57,
+    "subscribersGained": 1,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "title": "93% of F&O Traders Lose Money: SEBI Study Explained #Shorts",
+    "format": "short",
+    "playlist": "trading-psychology",
+    "publish_at": "2026-11-24T20:55:00+05:30"
+   }
+  ],
+  "traffic_sources": [
+   [
+    "YT_CHANNEL",
+    2
+   ],
+   [
+    "PLAYLIST",
+    1
+   ],
+   [
+    "SHORTS",
+    1
+   ],
+   [
+    "NO_LINK_OTHER",
+    0
+   ]
+  ]
  },
  "meta": {
   "instagram": [
@@ -52,12 +85,12 @@
     "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
     "id": "18133679351508530",
     "comments_count": 0,
-    "like_count": 12,
+    "like_count": 13,
     "media_product_type": "REELS",
     "timestamp": "2026-11-25T15:00:58+0000",
     "insights": {
-     "reach": 858,
-     "views": 1036,
+     "reach": 863,
+     "views": 1041,
      "saved": 2,
      "shares": 3
     }
@@ -101,6 +134,21 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T16:40:40+0000",
     "insights": {
+     "reach": 134,
+     "views": 150,
+     "saved": 0,
+     "shares": 1
+    }
+   },
+   {
+    "dir": "2026-11-27-0830-revenge-trading",
+    "title": "Loss Ke Baad Bada Trade? Revenge Trading Account Kha Jaata Hai #Shorts",
+    "id": "18138218449674041",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-27T03:49:22+0000",
+    "insights": {
      "reach": 0,
      "views": 0,
      "saved": 0,
@@ -112,7 +160,7 @@
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 6
+   "media_count": 7
   }
  },
  "queue": [
@@ -180,10 +228,10 @@
    "dir": "2026-11-27-0830-revenge-trading",
    "format": "short",
    "title": "Loss Ke Baad Bada Trade? Revenge Trading Account Kha Jaata Hai #Shorts",
-   "publish_at": "2026-11-27T08:30:00+05:30",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
+   "publish_at": "2026-11-27T09:14:18+05:30",
+   "youtube_id": "o_2GKI1PA9k",
+   "instagram_id": "18138218449674041",
+   "facebook_id": "1515149403821185",
    "playlist": "trading-psychology"
   },
   {

@@ -1,12 +1,12 @@
-mode=post channel=in at 2026-11-26T16:39:54Z
+mode=post channel=in at 2026-11-27T03:48:39Z
 Channel: The 7% Club (in)
-== 2026-11-26-1930-sip-500-crorepati: due 2026-11-26T19:30:00+05:30, posting to youtube, facebook, instagram
-   youtube: OK https://youtube.com/shorts/pTaT5miPq5k
-   facebook: OK https://www.facebook.com/reel/29283029514695337
-   instagram: OK https://www.instagram.com/reel/DgNjjlrBc2H/
-2026-11-26-1930-sip-500-crorepati: title/description/tags updated
-2026-11-26-1930-sip-500-crorepati: English captions uploaded
-2026-11-26-1930-sip-500-crorepati: added to playlist 'Investing in India: SIP, Mutual Funds & Index Funds'
-2026-11-26-1930-sip-500-crorepati: link comment posted (pin it in Studio for best results)
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 4, views 83
-Analytics saved to status/analytics-in.json: 0 videos with data
+== 2026-11-27-0830-revenge-trading: due 2026-11-27T09:14:18+05:30, posting to youtube, facebook, instagram
+   youtube: OK https://youtube.com/shorts/o_2GKI1PA9k
+   facebook: OK https://www.facebook.com/reel/1515149403821185
+   instagram: OK https://www.instagram.com/reel/DgOwFhVM7Po/
+2026-11-27-0830-revenge-trading: title/description/tags updated
+2026-11-27-0830-revenge-trading: English captions uploaded
+2026-11-27-0830-revenge-trading: added to playlist 'Trading Psychology: Why 93% Lose'
+2026-11-27-0830-revenge-trading: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 5, views 182
+Analytics saved to status/analytics-in.json: 1 videos with data
