@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:56:43.294283+00:00",
+ "generated_at": "2026-11-27T14:34:13.932200+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -10,7 +10,7 @@
    "viewCount": "182",
    "subscriberCount": "1",
    "hiddenSubscriberCount": false,
-   "videoCount": "5"
+   "videoCount": "6"
   },
   "videos": [
    {
@@ -89,7 +89,7 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-25T15:00:58+0000",
     "insights": {
-     "reach": 864,
+     "reach": 866,
      "views": 1042,
      "saved": 2,
      "shares": 3
@@ -134,7 +134,7 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T16:40:40+0000",
     "insights": {
-     "reach": 136,
+     "reach": 137,
      "views": 153,
      "saved": 0,
      "shares": 1
@@ -169,13 +169,28 @@
      "saved": 0,
      "shares": 0
     }
+   },
+   {
+    "dir": "2026-11-27-1930-credit-card-minimum-due",
+    "title": "Credit Card Ka 'Minimum Due': Sabse Mehenga Button #Shorts",
+    "id": "18103969271535954",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-27T14:34:05+0000",
+    "insights": {
+     "reach": 0,
+     "views": 0,
+     "saved": 0,
+     "shares": 0
+    }
    }
   ],
   "notes": [],
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 8
+   "media_count": 9
   }
  },
  "queue": [
@@ -264,9 +279,9 @@
    "format": "short",
    "title": "Credit Card Ka 'Minimum Due': Sabse Mehenga Button #Shorts",
    "publish_at": "2026-11-27T19:30:00+05:30",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
+   "youtube_id": "nKWz_rqt6Pw",
+   "instagram_id": "18103969271535954",
+   "facebook_id": "4131720897137741",
    "playlist": "money-traps"
   },
   {
