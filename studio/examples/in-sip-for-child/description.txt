@@ -1,0 +1,15 @@
+Bacche ke janam se ₹10,000 monthly SIP, 18 saal baad kitna banega? 12% saal ka return maan ke (guaranteed nahi): kareeb ₹76 lakh, jabki aapka paisa sirf ₹21.6 lakh. Aur 5 saal late shuru kiya toh rakam aadhi se bhi kam.
+
+Is video ke numbers (sab 12% saalana return maan ke, monthly compounding; asli returns upar-neeche hote hain, guaranteed nahi):
+• ₹10,000/mahina x 216 mahine = ₹21.6 lakh invest
+• 18 saal baad: ~₹76.5 lakh (growth ~₹55 lakh)
+• Pehle 5 saal: ₹6 lakh daale, value ~₹8.25 lakh
+• Saal 15 se 18: ~₹50.5 lakh se ~₹76.5 lakh, yaani ~₹26 lakh sirf aakhri 3 saal mein
+• Age 5 se shuru (13 saal): ~₹37.6 lakh
+Formula: FV = P × [((1+r)^n − 1)/r] × (1+r), r = 1%/mahina (standard SIP calculator formula)
+
+Aapne bacche ke liye kab se SIP shuru kiya (ya karoge)? 👇
+
+📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.
+
+#sip #childeducation #mutualfunds #compounding #personalfinancehindi

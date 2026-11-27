@@ -49,9 +49,9 @@ slides.forEach((s, k) => {
     if (s.sub) sans(ctx, s.sub, 540, 1150, fit(ctx, s.sub, 900, 54, 'Sans', 600), '#444');
   } else if (s.kind === 'stat') {
     text(ctx, s.label, 540, 330, { size: fit(ctx, s.label, 920, 96) });
-    card(ctx, 140, 420, 800, 300, '#d9ecdd', seed); sans(ctx, s.big, 540, 620, fit(ctx, s.big, 720, 150, 'Sans', 700), GREEN, 700);
+    card(ctx, 140, 410, 800, 270, '#d9ecdd', seed); sans(ctx, s.big, 540, 595, fit(ctx, s.big, 720, 150, 'Sans', 700), GREEN, 700);
     coinStack(ctx, 260, 1080, 6, 1.6, seed + 3); coinStack(ctx, 360, 1080, 10, 1.6, seed + 4); coinStack(ctx, 460, 1080, 15, 1.6, seed + 5);
-    fig(ctx, { x: 780, y: 930, s: 1.1, seed: seed + 6, t: 0, mood: 'grin', look: -1, arms: [[-120, -90], [25, 10]], legs: [[-14, -10], [14, 10]] });
+    fig(ctx, { x: 780, y: 960, s: 1.1, seed: seed + 6, t: 0, mood: 'grin', look: -1, arms: [[-120, -90], [25, 10]], legs: [[-14, -10], [14, 10]] });
     if (s.note) sans(ctx, s.note, 540, 1180, 34, GREY, 500);
   } else if (s.kind === 'point') {
     ctx.save(); ctx.fillStyle = '#d9ecdd'; ctx.beginPath(); ctx.arc(170, 300, 70, 0, 7); ctx.fill(); ctx.restore();

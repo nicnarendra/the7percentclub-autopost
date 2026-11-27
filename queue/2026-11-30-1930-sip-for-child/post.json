@@ -1,0 +1,30 @@
+{
+  "day": 6,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-11-30T19:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Bacche Ke Liye ₹10,000 SIP: 18 Saal Baad Kitna Milega? #Shorts",
+    "description": "Bacche ke janam se ₹10,000 monthly SIP, 18 saal baad kitna banega? 12% saal ka return maan ke (guaranteed nahi): kareeb ₹76 lakh, jabki aapka paisa sirf ₹21.6 lakh. Aur 5 saal late shuru kiya toh rakam aadhi se bhi kam.\n\nIs video ke numbers (sab 12% saalana return maan ke, monthly compounding; asli returns upar-neeche hote hain, guaranteed nahi):\n• ₹10,000/mahina x 216 mahine = ₹21.6 lakh invest\n• 18 saal baad: ~₹76.5 lakh (growth ~₹55 lakh)\n• Pehle 5 saal: ₹6 lakh daale, value ~₹8.25 lakh\n• Saal 15 se 18: ~₹50.5 lakh se ~₹76.5 lakh, yaani ~₹26 lakh sirf aakhri 3 saal mein\n• Age 5 se shuru (13 saal): ~₹37.6 lakh\nFormula: FV = P × [((1+r)^n − 1)/r] × (1+r), r = 1%/mahina (standard SIP calculator formula)\n\nAapne bacche ke liye kab se SIP shuru kiya (ya karoge)? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#sip #childeducation #mutualfunds #compounding #personalfinancehindi",
+    "tags": [
+      "sip for child",
+      "child education planning",
+      "10000 sip 18 years",
+      "sip calculator hindi",
+      "mutual fund hindi",
+      "compounding",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "investing-india"
+  },
+  "caption": "Janam se ₹10,000/mahina SIP. 18 saal baad? 👶➡️🎓\n\nAapka paisa: ₹21.6 lakh\n18th birthday pe: ~₹76 lakh (12%/saal maan ke, guaranteed nahi)\n\nTwist:\n• Pehle 5 saal: ₹6L daale, bane sirf ~₹8.25L\n• Aakhri 3 saal: ~₹26L judte hain\n• 5 saal late (13 saal): ~₹37.5L, aadhi se bhi kam\n\nBacche ke liye sabse bada gift rakam nahi, TIME hai.\n\nUs parent ko bhejo jo \"baad mein shuru karenge\" bolta hai. Aapne kab shuru kiya? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#sip #childeducation #mutualfunds #compounding #personalfinance #moneytips #the7percentclub",
+  "language": "hi",
+  "voice": "sarvam bulbul:v3 kabir"
+}
