@@ -1,0 +1,38 @@
+name: Hinglish voice (Sarvam Kabir)
+
+# Runs when a new voice script is pushed to voice-jobs/<slug>/lines.json (or by hand).
+on:
+  push:
+    paths: ["voice-jobs/**/lines.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voice-sarvam
+  cancel-in-progress: false
+
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests soundfile numpy
+      - name: Voice new scripts
+        env:
+          SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
+        run: python scripts/sarvam_voice.py
+      - name: Save voices
+        if: always()
+        run: |
+          git config user.name "7club-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f voice-jobs/*/voice.wav voice-jobs/*/timing.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Sarvam voices"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

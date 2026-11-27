@@ -1,0 +1,17 @@
+{
+ "speaker": "kabir",
+ "pace": 1.1,
+ "lines": [
+  "Chart की हर candle एक कहानी बताती है। चलो पढ़ना सीखो, forty five second में।",
+  "एक candle में चार चीज़ें होती हैं: open, high, low, और close।",
+  "मोटा हिस्सा body है। ये open से close तक जाता है।",
+  "ऊपर और नीचे की पतली line, wick है। वो दिन का high और low दिखाती है।",
+  "Close, open से ऊपर हुआ, तो candle green। मतलब ख़रीदार जीते।",
+  "Close, open से नीचे हुआ, तो candle red। मतलब बेचने वाले जीते।",
+  "Example: share सौ रुपये पे खुला, एक सौ सात तक गया, पचानवे तक गिरा, और एक सौ पाँच पे बंद हुआ।",
+  "तो green candle, ऊपर छोटी wick, नीचे लंबी wick।",
+  "लंबी wick बोलती है: price वहाँ गया, पर टिक नहीं पाया।",
+  "पर याद रखो, एक candle future नहीं बताती। ये बस बताती है कि क्या हुआ।",
+  "Follow करो The Seven Percent Club!"
+ ]
+}
