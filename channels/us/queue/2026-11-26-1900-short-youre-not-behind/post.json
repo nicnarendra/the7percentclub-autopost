@@ -22,5 +22,19 @@
     "privacy": "public",
     "playlist": "start-here"
   },
-  "approved": true
+  "approved": true,
+  "results": {
+    "youtube": {
+      "id": "Z7XTPkqhdO8",
+      "url": "https://youtube.com/shorts/Z7XTPkqhdO8",
+      "privacy": "public",
+      "posted_at": "2026-11-27T07:25:43.361939+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "start-here",
+        "comment": true
+      }
+    }
+  }
 }

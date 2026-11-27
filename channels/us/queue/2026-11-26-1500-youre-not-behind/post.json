@@ -28,5 +28,20 @@
     "privacy": "public",
     "playlist": "start-here"
   },
-  "approved": true
+  "approved": true,
+  "results": {
+    "youtube": {
+      "id": "JVgEUH2Jd70",
+      "url": "https://youtube.com/watch?v=JVgEUH2Jd70",
+      "privacy": "public",
+      "thumbnail": "set",
+      "posted_at": "2026-11-27T07:25:40.890014+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "start-here",
+        "comment": true
+      }
+    }
+  }
 }
