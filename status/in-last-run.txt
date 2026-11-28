@@ -1,12 +1,6 @@
-mode=post channel=in at 2026-11-28T04:25:54Z
+mode=post channel=in at 2026-11-28T07:55:04Z
 Channel: The 7% Club (in)
-== 2026-11-28-0830-telegram-tips: due 2026-11-28T08:30:00+05:30, posting to youtube, facebook, instagram (LATE by 86 min)
-   youtube: OK https://youtube.com/shorts/dnXtKPymzTw
-   facebook: OK https://www.facebook.com/reel/1126765020345119
-   instagram: OK https://www.instagram.com/reel/DgRZJzLpMtB/
-2026-11-28-0830-telegram-tips: title/description/tags updated
-2026-11-28-0830-telegram-tips: English captions uploaded
-2026-11-28-0830-telegram-tips: added to playlist 'Stock Market Scams & Red Flags'
-2026-11-28-0830-telegram-tips: link comment posted (pin it in Studio for best results)
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 7, views 195
+== 2026-11-28-1300-carousel-revenge-trading: due 2026-11-28T13:00:00+05:30, posting to instagram_carousel (LATE by 25 min)
+   instagram_carousel: OK https://www.instagram.com/p/DgRxGzmlud-/
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 7, views 205
 Analytics saved to status/analytics-in.json: 3 videos with data
