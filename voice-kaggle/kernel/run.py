@@ -94,13 +94,13 @@ tts.close()
 open(f"{W}/veena_job.py", "w").write(VEENA); open(f"{W}/maya_job.py", "w").write(MAYA)
 sh("nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv")
 t = time.time()
-if sh("pip install -q snac soundfile") == 0:
+if os.environ.get("RUN_VEENA") and sh("pip install -q snac soundfile") == 0:
     sh(f"{sys.executable} {W}/veena_job.py")
 log(f"veena section {time.time()-t:.0f}s")
 t = time.time()
-if sh("python -m venv /tmp/maya && /tmp/maya/bin/pip install -q --upgrade pip && "
-      "/tmp/maya/bin/pip install -q soundfile numpy \"maya3 @ git+https://github.com/MayaResearch/maya2-native\" "
-      "--extra-index-url https://download.pytorch.org/whl/cu128") == 0:
+if sh("pip install -q uv && uv venv -q /tmp/maya && "
+      "uv pip install -q --python /tmp/maya/bin/python soundfile numpy \"maya3 @ git+https://github.com/MayaResearch/maya2-native\" "
+      "--extra-index-url https://download.pytorch.org/whl/cu128 --index-strategy unsafe-best-match") == 0:
     sh(f"/tmp/maya/bin/python {W}/maya_job.py")
 log(f"maya section {time.time()-t:.0f}s")
 for f in ["veena_job.py", "maya_job.py", "assemble.py"]:
