@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:55:40.052911+00:00",
+ "generated_at": "2026-11-28T14:26:54.913340+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
@@ -10,7 +10,7 @@
    "viewCount": "205",
    "subscriberCount": "1",
    "hiddenSubscriberCount": false,
-   "videoCount": "7"
+   "videoCount": "8"
   },
   "videos": [
    {
@@ -213,8 +213,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-27T14:34:05+0000",
     "insights": {
-     "reach": 124,
-     "views": 128,
+     "reach": 125,
+     "views": 129,
      "saved": 0,
      "shares": 0
     }
@@ -228,8 +228,8 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-28T04:26:40+0000",
     "insights": {
-     "reach": 113,
-     "views": 124,
+     "reach": 114,
+     "views": 125,
      "saved": 0,
      "shares": 0
     }
@@ -248,13 +248,28 @@
      "saved": 0,
      "shares": 0
     }
+   },
+   {
+    "dir": "2026-11-28-1930-rich-vs-poor-1-lakh",
+    "title": "₹1 Lakh, 2 Log: Ek Ne Udaaya, Ek Ne Badhaaya #Shorts",
+    "id": "17986309863132431",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-28T14:26:45+0000",
+    "insights": {
+     "reach": 0,
+     "views": 0,
+     "saved": 0,
+     "shares": 0
+    }
    }
   ],
   "notes": [],
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 11
+   "media_count": 12
   }
  },
  "queue": [
@@ -373,9 +388,9 @@
    "format": "short",
    "title": "₹1 Lakh, 2 Log: Ek Ne Udaaya, Ek Ne Badhaaya #Shorts",
    "publish_at": "2026-11-28T19:30:00+05:30",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
+   "youtube_id": "BlZJoG1wXTI",
+   "instagram_id": "17986309863132431",
+   "facebook_id": "1540742481258230",
    "playlist": "investing-india"
   },
   {
@@ -437,6 +452,46 @@
    "instagram_id": null,
    "facebook_id": null,
    "playlist": "investing-india"
+  },
+  {
+   "dir": "2026-12-01-0830-stop-loss",
+   "format": "short",
+   "title": "Stop-Loss Baar Baar Khiskate Ho? Yeh Galti Mehengi Hai #Shorts",
+   "publish_at": "2026-12-01T08:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "trading-psychology"
+  },
+  {
+   "dir": "2026-12-01-1300-carousel-sip-for-child",
+   "format": "carousel",
+   "title": "Bacche ke janam se ₹10,000/mahina SIP. 18 saal baad kitna? 👶➡️🎓\n\nAapki jeb se: ₹",
+   "publish_at": "2026-12-01T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
+  },
+  {
+   "dir": "2026-12-01-1930-rule-of-72",
+   "format": "short",
+   "title": "Rule of 72: Aapka Paisa Kitne Saal Mein Double Hoga? #Shorts",
+   "publish_at": "2026-12-01T19:30:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": "investing-india"
+  },
+  {
+   "dir": "2026-12-02-1300-carousel-rule-of-72",
+   "format": "carousel",
+   "title": "Aapka paisa kitne saal mein double hoga? 72 se pata karo. ⏱️\n\nRule of 72: 72 / r",
+   "publish_at": "2026-12-02T13:00:00+05:30",
+   "youtube_id": null,
+   "instagram_id": null,
+   "facebook_id": null,
+   "playlist": null
   }
  ]
 }

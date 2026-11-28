@@ -1,6 +1,12 @@
-mode=post channel=in at 2026-11-28T07:55:04Z
+mode=post channel=in at 2026-11-28T14:25:37Z
 Channel: The 7% Club (in)
-== 2026-11-28-1300-carousel-revenge-trading: due 2026-11-28T13:00:00+05:30, posting to instagram_carousel (LATE by 25 min)
-   instagram_carousel: OK https://www.instagram.com/p/DgRxGzmlud-/
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 7, views 205
+== 2026-11-28-1930-rich-vs-poor-1-lakh: due 2026-11-28T19:30:00+05:30, posting to youtube, facebook, instagram (LATE by 26 min)
+   youtube: OK https://youtube.com/shorts/BlZJoG1wXTI
+   facebook: OK https://www.facebook.com/reel/1540742481258230
+   instagram: OK https://www.instagram.com/reel/DgSdyMOBl7n/
+2026-11-28-1930-rich-vs-poor-1-lakh: title/description/tags updated
+2026-11-28-1930-rich-vs-poor-1-lakh: English captions uploaded
+2026-11-28-1930-rich-vs-poor-1-lakh: added to playlist 'Investing in India: SIP, Mutual Funds & Index Funds'
+2026-11-28-1930-rich-vs-poor-1-lakh: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 8, views 205
 Analytics saved to status/analytics-in.json: 3 videos with data
