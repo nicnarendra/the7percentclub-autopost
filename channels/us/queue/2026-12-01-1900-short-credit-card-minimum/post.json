@@ -1,0 +1,24 @@
+{
+  "day": 7,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-12-01T19:00:00-05:00",
+  "platforms": [
+    "youtube"
+  ],
+  "youtube": {
+    "title": "Paying the Minimum on a $5,000 Card Takes 19 Years #Shorts",
+    "description": "Paying only the minimum on a $5,000 credit card at 22% APR can take about 19 years and cost about $8,240 in interest. Paying $200 a month clears it in under 3 years.\n\n• Average APR on cards charging interest: 22.36%, Q3 2026 (Federal Reserve G.19)\n• Card companies charged about $160 billion in interest in 2024 (CFPB, Dec 2025 report)\n• Illustration: minimum = 1% of balance + interest, $25 floor, no new charges. Your card's formula may differ.\n\nFull guide on the channel: \"How Credit Card Companies Make Money Off You\".\n\n📌 Educational content only, not financial advice.\n\n#creditcards #debtfree #personalfinance",
+    "tags": [
+      "credit card debt",
+      "minimum payment",
+      "credit card interest",
+      "personal finance",
+      "the boring rich club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "debt"
+  },
+  "question": "Do you pay your card in full every month, or are you working on a balance?"
+}

@@ -1,0 +1,939 @@
+1
+00:00:00,400 --> 00:00:01,829
+Your credit card company
+
+2
+00:00:01,849 --> 00:00:03,427
+loves it when you pay the
+
+3
+00:00:03,447 --> 00:00:04,277
+minimum.
+
+4
+00:00:04,297 --> 00:00:05,650
+Because that's the moment
+
+5
+00:00:05,670 --> 00:00:07,118
+you stop being a customer,
+
+6
+00:00:07,138 --> 00:00:09,080
+and start being the product.
+
+7
+00:00:09,100 --> 00:00:09,428
+Today:
+
+8
+00:00:09,448 --> 00:00:11,169
+the three ways card companies
+
+9
+00:00:11,189 --> 00:00:12,313
+make money off you,
+
+10
+00:00:12,333 --> 00:00:13,905
+and how to make them make
+
+11
+00:00:13,925 --> 00:00:14,753
+nothing.
+
+12
+00:00:14,773 --> 00:00:16,402
+Every card makes money in
+
+13
+00:00:16,422 --> 00:00:17,494
+three ways.
+
+14
+00:00:17,514 --> 00:00:17,763
+One.
+
+15
+00:00:17,783 --> 00:00:19,941
+A fee every time you swipe.
+
+16
+00:00:19,961 --> 00:00:20,180
+Two.
+
+17
+00:00:20,200 --> 00:00:21,517
+Interest on the balance
+
+18
+00:00:21,537 --> 00:00:22,490
+you carry.
+
+19
+00:00:22,510 --> 00:00:22,837
+Three.
+
+20
+00:00:22,857 --> 00:00:24,277
+Fees when something goes
+
+21
+00:00:24,297 --> 00:00:25,024
+wrong.
+
+22
+00:00:25,044 --> 00:00:26,475
+Let's take them one at a
+
+23
+00:00:26,495 --> 00:00:26,765
+time,
+
+24
+00:00:26,785 --> 00:00:28,265
+starting with the one you
+
+25
+00:00:28,285 --> 00:00:29,245
+never see.
+
+26
+00:00:29,265 --> 00:00:30,843
+When you tap your card for
+
+27
+00:00:30,863 --> 00:00:32,199
+a hundred dollar dinner,
+
+28
+00:00:32,219 --> 00:00:33,651
+the restaurant doesn't get
+
+29
+00:00:33,671 --> 00:00:35,068
+a hundred dollars.
+
+30
+00:00:35,088 --> 00:00:36,678
+It gets about ninety-seven
+
+31
+00:00:36,698 --> 00:00:37,990
+or ninety-eight.
+
+32
+00:00:38,010 --> 00:00:39,608
+The rest is a swipe fee,
+
+33
+00:00:39,628 --> 00:00:41,118
+split between your bank,
+
+34
+00:00:41,138 --> 00:00:42,737
+the card network and the
+
+35
+00:00:42,757 --> 00:00:44,215
+payment processor.
+
+36
+00:00:44,235 --> 00:00:45,851
+For Visa and Mastercard
+
+37
+00:00:45,871 --> 00:00:46,728
+credit cards,
+
+38
+00:00:46,748 --> 00:00:48,832
+estimates for twenty twenty-five
+
+39
+00:00:48,852 --> 00:00:50,643
+put it at roughly two to
+
+40
+00:00:50,663 --> 00:00:53,205
+three percent of every purchase.
+
+41
+00:00:53,225 --> 00:00:54,431
+Across all cards,
+
+42
+00:00:54,451 --> 00:00:54,676
+U.S.
+
+43
+00:00:54,696 --> 00:00:56,392
+merchants paid somewhere
+
+44
+00:00:56,412 --> 00:00:58,108
+between two hundred and
+
+45
+00:00:58,128 --> 00:00:59,946
+two hundred fifty billion
+
+46
+00:00:59,966 --> 00:01:01,846
+dollars in processing fees
+
+47
+00:01:01,866 --> 00:01:02,982
+last year.
+
+48
+00:01:03,002 --> 00:01:04,353
+And here's the twist.
+
+49
+00:01:04,373 --> 00:01:06,182
+The store builds that cost
+
+50
+00:01:06,202 --> 00:01:07,668
+into its prices.
+
+51
+00:01:07,688 --> 00:01:09,226
+So even people paying cash
+
+52
+00:01:09,246 --> 00:01:10,600
+help pay for it.
+
+53
+00:01:10,620 --> 00:01:12,278
+That swipe fee is what funds
+
+54
+00:01:12,298 --> 00:01:14,164
+your points and cash back.
+
+55
+00:01:14,184 --> 00:01:15,705
+But it's not where the real
+
+56
+00:01:15,725 --> 00:01:16,618
+money is.
+
+57
+00:01:16,638 --> 00:01:18,750
+The real money is interest.
+
+58
+00:01:18,770 --> 00:01:20,210
+In twenty twenty-four,
+
+59
+00:01:20,230 --> 00:01:22,461
+card companies charged Americans
+
+60
+00:01:22,481 --> 00:01:24,164
+about one hundred sixty
+
+61
+00:01:24,184 --> 00:01:26,510
+billion dollars in interest.
+
+62
+00:01:26,530 --> 00:01:28,162
+Two years earlier it was
+
+63
+00:01:28,182 --> 00:01:29,758
+one hundred five billion.
+
+64
+00:01:29,778 --> 00:01:31,520
+That's a jump of more than
+
+65
+00:01:31,540 --> 00:01:32,801
+fifty percent.
+
+66
+00:01:32,821 --> 00:01:33,477
+Right now,
+
+67
+00:01:33,497 --> 00:01:35,110
+the Federal Reserve says
+
+68
+00:01:35,130 --> 00:01:36,856
+the average rate on cards
+
+69
+00:01:36,876 --> 00:01:38,602
+that are charging interest
+
+70
+00:01:38,622 --> 00:01:40,748
+is about twenty-two percent.
+
+71
+00:01:40,768 --> 00:01:41,828
+Twenty-two percent.
+
+72
+00:01:41,848 --> 00:01:42,529
+Every year.
+
+73
+00:01:42,549 --> 00:01:44,203
+On whatever you didn't pay
+
+74
+00:01:44,223 --> 00:01:44,873
+off.
+
+75
+00:01:44,893 --> 00:01:46,605
+Carry a one thousand dollar
+
+76
+00:01:46,625 --> 00:01:47,812
+balance for a year,
+
+77
+00:01:47,832 --> 00:01:49,649
+and that's roughly two hundred
+
+78
+00:01:49,669 --> 00:01:50,856
+twenty dollars gone,
+
+79
+00:01:50,876 --> 00:01:51,991
+for nothing.
+
+80
+00:01:52,011 --> 00:01:53,059
+For comparison,
+
+81
+00:01:53,079 --> 00:01:54,945
+the stock market's long-run
+
+82
+00:01:54,965 --> 00:01:56,705
+average is often quoted
+
+83
+00:01:56,725 --> 00:01:58,339
+at around ten percent,
+
+84
+00:01:58,359 --> 00:02:00,561
+and that's not guaranteed.
+
+85
+00:02:00,581 --> 00:02:02,691
+Twenty-two percent is guaranteed.
+
+86
+00:02:02,711 --> 00:02:04,037
+For the bank.
+
+87
+00:02:04,057 --> 00:02:05,705
+And the gap between card
+
+88
+00:02:05,725 --> 00:02:07,317
+rates and the bank's own
+
+89
+00:02:07,337 --> 00:02:08,930
+prime rate hit a record
+
+90
+00:02:08,950 --> 00:02:10,264
+in twenty twenty-four,
+
+91
+00:02:10,284 --> 00:02:11,998
+about sixteen points.
+
+92
+00:02:12,018 --> 00:02:13,655
+Americans now owe about
+
+93
+00:02:13,675 --> 00:02:15,607
+one point two nine trillion
+
+94
+00:02:15,627 --> 00:02:17,263
+dollars on credit cards,
+
+95
+00:02:17,283 --> 00:02:18,669
+a record high.
+
+96
+00:02:18,689 --> 00:02:20,243
+So who actually pays all
+
+97
+00:02:20,263 --> 00:02:21,082
+that interest?
+
+98
+00:02:21,102 --> 00:02:22,655
+Let's look at the minimum
+
+99
+00:02:22,675 --> 00:02:23,527
+payment.
+
+100
+00:02:23,547 --> 00:02:25,111
+Say you owe five thousand
+
+101
+00:02:25,131 --> 00:02:27,197
+dollars at twenty-two percent.
+
+102
+00:02:27,217 --> 00:02:28,755
+A common minimum payment
+
+103
+00:02:28,775 --> 00:02:30,420
+formula is one percent of
+
+104
+00:02:30,440 --> 00:02:31,172
+the balance,
+
+105
+00:02:31,192 --> 00:02:33,184
+plus that month's interest.
+
+106
+00:02:33,204 --> 00:02:34,797
+So your first bill says:
+
+107
+00:02:34,817 --> 00:02:36,522
+pay one hundred forty-three
+
+108
+00:02:36,542 --> 00:02:37,423
+dollars.
+
+109
+00:02:37,443 --> 00:02:38,559
+Sounds manageable.
+
+110
+00:02:38,579 --> 00:02:40,489
+But about ninety-three dollars
+
+111
+00:02:40,509 --> 00:02:42,591
+of that is just interest.
+
+112
+00:02:42,611 --> 00:02:44,292
+Only fifty dollars actually
+
+113
+00:02:44,312 --> 00:02:45,755
+touches the debt.
+
+114
+00:02:45,775 --> 00:02:47,502
+And as your balance shrinks,
+
+115
+00:02:47,522 --> 00:02:48,984
+the minimum shrinks too.
+
+116
+00:02:49,004 --> 00:02:50,760
+So the debt drags on.
+
+117
+00:02:50,780 --> 00:02:52,139
+Pay only the minimum,
+
+118
+00:02:52,159 --> 00:02:54,014
+and in our example it takes
+
+119
+00:02:54,034 --> 00:02:55,558
+about nineteen years to
+
+120
+00:02:55,578 --> 00:02:56,344
+clear.
+
+121
+00:02:56,364 --> 00:02:58,182
+You'd pay around eight thousand
+
+122
+00:02:58,202 --> 00:03:00,071
+two hundred dollars in interest.
+
+123
+00:03:00,091 --> 00:03:02,156
+More than the original debt.
+
+124
+00:03:02,176 --> 00:03:03,805
+Now pay a flat two hundred
+
+125
+00:03:03,825 --> 00:03:05,603
+dollars a month instead.
+
+126
+00:03:05,623 --> 00:03:07,271
+Done in under three years,
+
+127
+00:03:07,291 --> 00:03:08,992
+with about eighteen hundred
+
+128
+00:03:09,012 --> 00:03:10,629
+dollars in interest.
+
+129
+00:03:10,649 --> 00:03:11,337
+Same debt.
+
+130
+00:03:11,357 --> 00:03:12,044
+Same card.
+
+131
+00:03:12,064 --> 00:03:13,400
+A different payment,
+
+132
+00:03:13,420 --> 00:03:15,109
+and roughly six thousand
+
+133
+00:03:15,129 --> 00:03:17,101
+dollars stays with you.
+
+134
+00:03:17,121 --> 00:03:18,719
+And about fifteen percent
+
+135
+00:03:18,739 --> 00:03:20,606
+of general purpose cardholders
+
+136
+00:03:20,626 --> 00:03:22,440
+were paying only the minimum
+
+137
+00:03:22,460 --> 00:03:24,134
+in twenty twenty-four.
+
+138
+00:03:24,154 --> 00:03:24,424
+Now,
+
+139
+00:03:24,444 --> 00:03:26,049
+the third money machine:
+
+140
+00:03:26,069 --> 00:03:26,797
+fees.
+
+141
+00:03:26,817 --> 00:03:28,268
+In twenty twenty-four,
+
+142
+00:03:28,288 --> 00:03:30,106
+cardholders paid thirty-one
+
+143
+00:03:30,126 --> 00:03:32,221
+billion dollars in fees.
+
+144
+00:03:32,241 --> 00:03:33,505
+The biggest chunk?
+
+145
+00:03:33,525 --> 00:03:34,239
+Late fees.
+
+146
+00:03:34,259 --> 00:03:35,890
+About seventeen billion
+
+147
+00:03:35,910 --> 00:03:36,840
+dollars.
+
+148
+00:03:36,860 --> 00:03:38,023
+Then annual fees,
+
+149
+00:03:38,043 --> 00:03:39,739
+around eight point seven
+
+150
+00:03:39,759 --> 00:03:40,671
+billion.
+
+151
+00:03:40,691 --> 00:03:42,567
+Then balance transfer fees,
+
+152
+00:03:42,587 --> 00:03:43,851
+cash advance fees,
+
+153
+00:03:43,871 --> 00:03:45,502
+and foreign transaction
+
+154
+00:03:45,522 --> 00:03:46,269
+fees.
+
+155
+00:03:46,289 --> 00:03:47,839
+Late fees hit the people
+
+156
+00:03:47,859 --> 00:03:49,462
+who are already struggling
+
+157
+00:03:49,482 --> 00:03:50,037
+the most,
+
+158
+00:03:50,057 --> 00:03:51,432
+again and again.
+
+159
+00:03:51,452 --> 00:03:53,230
+Most of these are avoidable
+
+160
+00:03:53,250 --> 00:03:54,864
+with one setting you can
+
+161
+00:03:54,884 --> 00:03:56,191
+turn on today.
+
+162
+00:03:56,211 --> 00:03:57,959
+So here's the uncomfortable
+
+163
+00:03:57,979 --> 00:03:59,614
+part about rewards.
+
+164
+00:03:59,634 --> 00:04:01,238
+About half of card accounts
+
+165
+00:04:01,258 --> 00:04:02,813
+carry a balance from month
+
+166
+00:04:02,833 --> 00:04:03,754
+to month.
+
+167
+00:04:03,774 --> 00:04:05,570
+The rest mostly pay in full,
+
+168
+00:04:05,590 --> 00:04:07,733
+and pay no interest at all.
+
+169
+00:04:07,753 --> 00:04:09,550
+Those people still get the
+
+170
+00:04:09,570 --> 00:04:11,252
+points and the cash back,
+
+171
+00:04:11,272 --> 00:04:12,842
+funded largely by swipe
+
+172
+00:04:12,862 --> 00:04:13,582
+fees.
+
+173
+00:04:13,602 --> 00:04:14,189
+Meanwhile,
+
+174
+00:04:14,209 --> 00:04:15,734
+the interest that makes
+
+175
+00:04:15,754 --> 00:04:17,389
+cards so profitable comes
+
+176
+00:04:17,409 --> 00:04:19,155
+from the half that carries
+
+177
+00:04:19,175 --> 00:04:20,217
+a balance.
+
+178
+00:04:20,237 --> 00:04:21,429
+Your goal is simple.
+
+179
+00:04:21,449 --> 00:04:22,995
+Be the customer they make
+
+180
+00:04:23,015 --> 00:04:24,658
+the least money from.
+
+181
+00:04:24,678 --> 00:04:26,543
+Here's how to flip the game.
+
+182
+00:04:26,563 --> 00:04:26,964
+First.
+
+183
+00:04:26,984 --> 00:04:28,709
+Turn on autopay for the
+
+184
+00:04:28,729 --> 00:04:30,273
+full statement balance.
+
+185
+00:04:30,293 --> 00:04:31,957
+That kills interest and
+
+186
+00:04:31,977 --> 00:04:33,982
+late fees in one move.
+
+187
+00:04:34,002 --> 00:04:35,551
+If you can't pay in full
+
+188
+00:04:35,571 --> 00:04:35,813
+yet,
+
+189
+00:04:35,833 --> 00:04:37,382
+at least set autopay for
+
+190
+00:04:37,402 --> 00:04:38,114
+the minimum,
+
+191
+00:04:38,134 --> 00:04:39,769
+so you're never late.
+
+192
+00:04:39,789 --> 00:04:40,209
+Second.
+
+193
+00:04:40,229 --> 00:04:41,747
+If you carry a balance,
+
+194
+00:04:41,767 --> 00:04:43,340
+pay a fixed amount well
+
+195
+00:04:43,360 --> 00:04:44,494
+above the minimum,
+
+196
+00:04:44,514 --> 00:04:46,307
+and attack the highest rate
+
+197
+00:04:46,327 --> 00:04:47,091
+first.
+
+198
+00:04:47,111 --> 00:04:47,481
+Third.
+
+199
+00:04:47,501 --> 00:04:49,208
+Call and ask for a lower
+
+200
+00:04:49,228 --> 00:04:49,542
+rate.
+
+201
+00:04:49,562 --> 00:04:50,990
+It's a five-minute call,
+
+202
+00:04:51,010 --> 00:04:52,894
+and sometimes it works.
+
+203
+00:04:52,914 --> 00:04:53,357
+Fourth.
+
+204
+00:04:53,377 --> 00:04:55,324
+Be careful with zero percent
+
+205
+00:04:55,344 --> 00:04:56,480
+balance transfers.
+
+206
+00:04:56,500 --> 00:04:57,464
+Check the fee,
+
+207
+00:04:57,484 --> 00:04:59,373
+and have a plan to pay it
+
+208
+00:04:59,393 --> 00:05:01,566
+off before the promo ends.
+
+209
+00:05:01,586 --> 00:05:02,268
+And fifth.
+
+210
+00:05:02,288 --> 00:05:03,906
+Only chase rewards once
+
+211
+00:05:03,926 --> 00:05:05,778
+you're paying in full every
+
+212
+00:05:05,798 --> 00:05:06,187
+month.
+
+213
+00:05:06,207 --> 00:05:08,410
+Points are never worth twenty-two
+
+214
+00:05:08,430 --> 00:05:09,337
+percent.
+
+215
+00:05:09,357 --> 00:05:10,720
+Let's recap.
+
+216
+00:05:10,740 --> 00:05:12,492
+Card companies earn from
+
+217
+00:05:12,512 --> 00:05:13,287
+swipe fees,
+
+218
+00:05:13,307 --> 00:05:15,521
+interest and penalty fees.
+
+219
+00:05:15,541 --> 00:05:17,270
+Interest is the big one:
+
+220
+00:05:17,290 --> 00:05:18,959
+about one hundred sixty
+
+221
+00:05:18,979 --> 00:05:20,588
+billion dollars a year,
+
+222
+00:05:20,608 --> 00:05:22,918
+at around twenty-two percent.
+
+223
+00:05:22,938 --> 00:05:24,362
+The minimum payment keeps
+
+224
+00:05:24,382 --> 00:05:25,966
+you paying for years.
+
+225
+00:05:25,986 --> 00:05:26,807
+Pay in full,
+
+226
+00:05:26,827 --> 00:05:27,593
+automate it,
+
+227
+00:05:27,613 --> 00:05:29,612
+and the most expensive product
+
+228
+00:05:29,632 --> 00:05:31,863
+in your wallet becomes free.
+
+229
+00:05:31,883 --> 00:05:32,230
+Next,
+
+230
+00:05:32,250 --> 00:05:33,943
+we'll build a step-by-step
+
+231
+00:05:33,963 --> 00:05:35,840
+plan to fix your finances
+
+232
+00:05:35,860 --> 00:05:37,342
+in ninety days.
+
+233
+00:05:37,362 --> 00:05:38,796
+Subscribe to The Boring
+
+234
+00:05:38,816 --> 00:05:39,420
+Rich Club,
+
+235
+00:05:39,440 --> 00:05:41,613
+and I'll see you there.

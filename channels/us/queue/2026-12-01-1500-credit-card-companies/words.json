@@ -1,0 +1,4277 @@
+[
+{
+"text": "Your",
+"start": 0.0,
+"end": 0.276
+},
+{
+"text": "credit",
+"start": 0.3,
+"end": 0.667
+},
+{
+"text": "card",
+"start": 0.699,
+"end": 0.975
+},
+{
+"text": "company",
+"start": 0.999,
+"end": 1.413
+},
+{
+"text": "loves",
+"start": 1.449,
+"end": 1.77
+},
+{
+"text": "it",
+"start": 1.798,
+"end": 1.982
+},
+{
+"text": "when",
+"start": 1.998,
+"end": 2.274
+},
+{
+"text": "you",
+"start": 2.298,
+"end": 2.528
+},
+{
+"text": "pay",
+"start": 2.548,
+"end": 2.777
+},
+{
+"text": "the",
+"start": 2.797,
+"end": 3.027
+},
+{
+"text": "minimum.",
+"start": 3.047,
+"end": 3.461
+},
+{
+"text": "Because",
+"start": 3.897,
+"end": 4.289
+},
+{
+"text": "that's",
+"start": 4.323,
+"end": 4.628
+},
+{
+"text": "the",
+"start": 4.654,
+"end": 4.872
+},
+{
+"text": "moment",
+"start": 4.891,
+"end": 5.24
+},
+{
+"text": "you",
+"start": 5.27,
+"end": 5.488
+},
+{
+"text": "stop",
+"start": 5.507,
+"end": 5.768
+},
+{
+"text": "being",
+"start": 5.791,
+"end": 6.096
+},
+{
+"text": "a",
+"start": 6.122,
+"end": 6.253
+},
+{
+"text": "customer,",
+"start": 6.264,
+"end": 6.7
+},
+{
+"text": "and",
+"start": 6.738,
+"end": 6.956
+},
+{
+"text": "start",
+"start": 6.974,
+"end": 7.279
+},
+{
+"text": "being",
+"start": 7.306,
+"end": 7.611
+},
+{
+"text": "the",
+"start": 7.637,
+"end": 7.855
+},
+{
+"text": "product.",
+"start": 7.874,
+"end": 8.266
+},
+{
+"text": "Today:",
+"start": 8.7,
+"end": 9.021
+},
+{
+"text": "the",
+"start": 9.048,
+"end": 9.277
+},
+{
+"text": "three",
+"start": 9.297,
+"end": 9.617
+},
+{
+"text": "ways",
+"start": 9.645,
+"end": 9.92
+},
+{
+"text": "card",
+"start": 9.944,
+"end": 10.218
+},
+{
+"text": "companies",
+"start": 10.242,
+"end": 10.746
+},
+{
+"text": "make",
+"start": 10.789,
+"end": 11.064
+},
+{
+"text": "money",
+"start": 11.088,
+"end": 11.408
+},
+{
+"text": "off",
+"start": 11.436,
+"end": 11.665
+},
+{
+"text": "you,",
+"start": 11.685,
+"end": 11.914
+},
+{
+"text": "and",
+"start": 11.933,
+"end": 12.162
+},
+{
+"text": "how",
+"start": 12.182,
+"end": 12.411
+},
+{
+"text": "to",
+"start": 12.431,
+"end": 12.614
+},
+{
+"text": "make",
+"start": 12.63,
+"end": 12.904
+},
+{
+"text": "them",
+"start": 12.928,
+"end": 13.203
+},
+{
+"text": "make",
+"start": 13.227,
+"end": 13.501
+},
+{
+"text": "nothing.",
+"start": 13.525,
+"end": 13.937
+},
+{
+"text": "Every",
+"start": 14.373,
+"end": 14.716
+},
+{
+"text": "card",
+"start": 14.745,
+"end": 15.039
+},
+{
+"text": "makes",
+"start": 15.065,
+"end": 15.407
+},
+{
+"text": "money",
+"start": 15.437,
+"end": 15.78
+},
+{
+"text": "in",
+"start": 15.809,
+"end": 16.005
+},
+{
+"text": "three",
+"start": 16.022,
+"end": 16.365
+},
+{
+"text": "ways.",
+"start": 16.395,
+"end": 16.688
+},
+{
+"text": "One.",
+"start": 17.114,
+"end": 17.362
+},
+{
+"text": "A",
+"start": 17.383,
+"end": 17.532
+},
+{
+"text": "fee",
+"start": 17.545,
+"end": 17.793
+},
+{
+"text": "every",
+"start": 17.814,
+"end": 18.161
+},
+{
+"text": "time",
+"start": 18.191,
+"end": 18.489
+},
+{
+"text": "you",
+"start": 18.515,
+"end": 18.762
+},
+{
+"text": "swipe.",
+"start": 18.784,
+"end": 19.131
+},
+{
+"text": "Two.",
+"start": 19.561,
+"end": 19.781
+},
+{
+"text": "Interest",
+"start": 19.8,
+"end": 20.239
+},
+{
+"text": "on",
+"start": 20.277,
+"end": 20.453
+},
+{
+"text": "the",
+"start": 20.468,
+"end": 20.688
+},
+{
+"text": "balance",
+"start": 20.707,
+"end": 21.102
+},
+{
+"text": "you",
+"start": 21.137,
+"end": 21.356
+},
+{
+"text": "carry.",
+"start": 21.376,
+"end": 21.683
+},
+{
+"text": "Three.",
+"start": 22.11,
+"end": 22.429
+},
+{
+"text": "Fees",
+"start": 22.457,
+"end": 22.731
+},
+{
+"text": "when",
+"start": 22.755,
+"end": 23.029
+},
+{
+"text": "something",
+"start": 23.053,
+"end": 23.555
+},
+{
+"text": "goes",
+"start": 23.599,
+"end": 23.873
+},
+{
+"text": "wrong.",
+"start": 23.897,
+"end": 24.216
+},
+{
+"text": "Let's",
+"start": 24.644,
+"end": 24.911
+},
+{
+"text": "take",
+"start": 24.934,
+"end": 25.201
+},
+{
+"text": "them",
+"start": 25.225,
+"end": 25.491
+},
+{
+"text": "one",
+"start": 25.515,
+"end": 25.737
+},
+{
+"text": "at",
+"start": 25.757,
+"end": 25.935
+},
+{
+"text": "a",
+"start": 25.95,
+"end": 26.083
+},
+{
+"text": "time,",
+"start": 26.095,
+"end": 26.362
+},
+{
+"text": "starting",
+"start": 26.385,
+"end": 26.83
+},
+{
+"text": "with",
+"start": 26.869,
+"end": 27.136
+},
+{
+"text": "the",
+"start": 27.159,
+"end": 27.382
+},
+{
+"text": "one",
+"start": 27.401,
+"end": 27.623
+},
+{
+"text": "you",
+"start": 27.643,
+"end": 27.865
+},
+{
+"text": "never",
+"start": 27.885,
+"end": 28.196
+},
+{
+"text": "see.",
+"start": 28.223,
+"end": 28.446
+},
+{
+"text": "When",
+"start": 28.865,
+"end": 29.132
+},
+{
+"text": "you",
+"start": 29.155,
+"end": 29.378
+},
+{
+"text": "tap",
+"start": 29.398,
+"end": 29.62
+},
+{
+"text": "your",
+"start": 29.64,
+"end": 29.907
+},
+{
+"text": "card",
+"start": 29.93,
+"end": 30.198
+},
+{
+"text": "for",
+"start": 30.221,
+"end": 30.444
+},
+{
+"text": "a",
+"start": 30.463,
+"end": 30.597
+},
+{
+"text": "hundred",
+"start": 30.608,
+"end": 31.009
+},
+{
+"text": "dollar",
+"start": 31.044,
+"end": 31.4
+},
+{
+"text": "dinner,",
+"start": 31.431,
+"end": 31.788
+},
+{
+"text": "the",
+"start": 31.819,
+"end": 32.042
+},
+{
+"text": "restaurant",
+"start": 32.061,
+"end": 32.595
+},
+{
+"text": "doesn't",
+"start": 32.642,
+"end": 32.998
+},
+{
+"text": "get",
+"start": 33.029,
+"end": 33.252
+},
+{
+"text": "a",
+"start": 33.271,
+"end": 33.405
+},
+{
+"text": "hundred",
+"start": 33.417,
+"end": 33.818
+},
+{
+"text": "dollars.",
+"start": 33.853,
+"end": 34.254
+},
+{
+"text": "It",
+"start": 34.688,
+"end": 34.886
+},
+{
+"text": "gets",
+"start": 34.903,
+"end": 35.199
+},
+{
+"text": "about",
+"start": 35.225,
+"end": 35.57
+},
+{
+"text": "ninety-seven",
+"start": 35.6,
+"end": 36.242
+},
+{
+"text": "or",
+"start": 36.298,
+"end": 36.495
+},
+{
+"text": "ninety-eight.",
+"start": 36.513,
+"end": 37.154
+},
+{
+"text": "The",
+"start": 37.61,
+"end": 37.858
+},
+{
+"text": "rest",
+"start": 37.88,
+"end": 38.177
+},
+{
+"text": "is",
+"start": 38.203,
+"end": 38.402
+},
+{
+"text": "a",
+"start": 38.419,
+"end": 38.568
+},
+{
+"text": "swipe",
+"start": 38.581,
+"end": 38.928
+},
+{
+"text": "fee,",
+"start": 38.958,
+"end": 39.207
+},
+{
+"text": "split",
+"start": 39.228,
+"end": 39.576
+},
+{
+"text": "between",
+"start": 39.606,
+"end": 40.052
+},
+{
+"text": "your",
+"start": 40.091,
+"end": 40.389
+},
+{
+"text": "bank,",
+"start": 40.415,
+"end": 40.713
+},
+{
+"text": "the",
+"start": 40.738,
+"end": 40.987
+},
+{
+"text": "card",
+"start": 41.008,
+"end": 41.306
+},
+{
+"text": "network",
+"start": 41.332,
+"end": 41.778
+},
+{
+"text": "and",
+"start": 41.817,
+"end": 42.065
+},
+{
+"text": "the",
+"start": 42.087,
+"end": 42.335
+},
+{
+"text": "payment",
+"start": 42.357,
+"end": 42.803
+},
+{
+"text": "processor.",
+"start": 42.842,
+"end": 43.388
+},
+{
+"text": "For",
+"start": 43.835,
+"end": 44.104
+},
+{
+"text": "Visa",
+"start": 44.127,
+"end": 44.45
+},
+{
+"text": "and",
+"start": 44.478,
+"end": 44.747
+},
+{
+"text": "Mastercard",
+"start": 44.77,
+"end": 45.415
+},
+{
+"text": "credit",
+"start": 45.471,
+"end": 45.902
+},
+{
+"text": "cards,",
+"start": 45.939,
+"end": 46.315
+},
+{
+"text": "estimates",
+"start": 46.348,
+"end": 46.939
+},
+{
+"text": "for",
+"start": 46.991,
+"end": 47.26
+},
+{
+"text": "twenty",
+"start": 47.283,
+"end": 47.713
+},
+{
+"text": "twenty-five",
+"start": 47.75,
+"end": 48.396
+},
+{
+"text": "put",
+"start": 48.452,
+"end": 48.72
+},
+{
+"text": "it",
+"start": 48.744,
+"end": 48.959
+},
+{
+"text": "at",
+"start": 48.978,
+"end": 49.193
+},
+{
+"text": "roughly",
+"start": 49.211,
+"end": 49.695
+},
+{
+"text": "two",
+"start": 49.737,
+"end": 50.006
+},
+{
+"text": "to",
+"start": 50.029,
+"end": 50.244
+},
+{
+"text": "three",
+"start": 50.263,
+"end": 50.639
+},
+{
+"text": "percent",
+"start": 50.672,
+"end": 51.156
+},
+{
+"text": "of",
+"start": 51.198,
+"end": 51.413
+},
+{
+"text": "every",
+"start": 51.432,
+"end": 51.808
+},
+{
+"text": "purchase.",
+"start": 51.841,
+"end": 52.378
+},
+{
+"text": "Across",
+"start": 52.825,
+"end": 53.276
+},
+{
+"text": "all",
+"start": 53.315,
+"end": 53.597
+},
+{
+"text": "cards,",
+"start": 53.622,
+"end": 54.017
+},
+{
+"text": "U.S.",
+"start": 54.051,
+"end": 54.276
+},
+{
+"text": "merchants",
+"start": 54.296,
+"end": 54.916
+},
+{
+"text": "paid",
+"start": 54.97,
+"end": 55.308
+},
+{
+"text": "somewhere",
+"start": 55.338,
+"end": 55.958
+},
+{
+"text": "between",
+"start": 56.012,
+"end": 56.519
+},
+{
+"text": "two",
+"start": 56.564,
+"end": 56.845
+},
+{
+"text": "hundred",
+"start": 56.87,
+"end": 57.377
+},
+{
+"text": "and",
+"start": 57.421,
+"end": 57.703
+},
+{
+"text": "two",
+"start": 57.728,
+"end": 58.01
+},
+{
+"text": "hundred",
+"start": 58.034,
+"end": 58.542
+},
+{
+"text": "fifty",
+"start": 58.586,
+"end": 58.981
+},
+{
+"text": "billion",
+"start": 59.015,
+"end": 59.522
+},
+{
+"text": "dollars",
+"start": 59.566,
+"end": 60.074
+},
+{
+"text": "in",
+"start": 60.118,
+"end": 60.343
+},
+{
+"text": "processing",
+"start": 60.363,
+"end": 61.04
+},
+{
+"text": "fees",
+"start": 61.098,
+"end": 61.437
+},
+{
+"text": "last",
+"start": 61.466,
+"end": 61.804
+},
+{
+"text": "year.",
+"start": 61.834,
+"end": 62.172
+},
+{
+"text": "And",
+"start": 62.602,
+"end": 62.864
+},
+{
+"text": "here's",
+"start": 62.887,
+"end": 63.255
+},
+{
+"text": "the",
+"start": 63.287,
+"end": 63.55
+},
+{
+"text": "twist.",
+"start": 63.573,
+"end": 63.941
+},
+{
+"text": "The",
+"start": 63.973,
+"end": 64.236
+},
+{
+"text": "store",
+"start": 64.259,
+"end": 64.627
+},
+{
+"text": "builds",
+"start": 64.659,
+"end": 65.08
+},
+{
+"text": "that",
+"start": 65.116,
+"end": 65.432
+},
+{
+"text": "cost",
+"start": 65.459,
+"end": 65.775
+},
+{
+"text": "into",
+"start": 65.802,
+"end": 66.118
+},
+{
+"text": "its",
+"start": 66.145,
+"end": 66.408
+},
+{
+"text": "prices.",
+"start": 66.431,
+"end": 66.851
+},
+{
+"text": "So",
+"start": 67.288,
+"end": 67.467
+},
+{
+"text": "even",
+"start": 67.483,
+"end": 67.751
+},
+{
+"text": "people",
+"start": 67.775,
+"end": 68.133
+},
+{
+"text": "paying",
+"start": 68.164,
+"end": 68.523
+},
+{
+"text": "cash",
+"start": 68.554,
+"end": 68.823
+},
+{
+"text": "help",
+"start": 68.846,
+"end": 69.115
+},
+{
+"text": "pay",
+"start": 69.138,
+"end": 69.362
+},
+{
+"text": "for",
+"start": 69.382,
+"end": 69.605
+},
+{
+"text": "it.",
+"start": 69.625,
+"end": 69.804
+},
+{
+"text": "That",
+"start": 70.22,
+"end": 70.484
+},
+{
+"text": "swipe",
+"start": 70.507,
+"end": 70.816
+},
+{
+"text": "fee",
+"start": 70.843,
+"end": 71.064
+},
+{
+"text": "is",
+"start": 71.083,
+"end": 71.259
+},
+{
+"text": "what",
+"start": 71.275,
+"end": 71.539
+},
+{
+"text": "funds",
+"start": 71.562,
+"end": 71.871
+},
+{
+"text": "your",
+"start": 71.898,
+"end": 72.162
+},
+{
+"text": "points",
+"start": 72.185,
+"end": 72.538
+},
+{
+"text": "and",
+"start": 72.569,
+"end": 72.79
+},
+{
+"text": "cash",
+"start": 72.809,
+"end": 73.073
+},
+{
+"text": "back.",
+"start": 73.096,
+"end": 73.361
+},
+{
+"text": "But",
+"start": 73.784,
+"end": 73.999
+},
+{
+"text": "it's",
+"start": 74.018,
+"end": 74.232
+},
+{
+"text": "not",
+"start": 74.251,
+"end": 74.466
+},
+{
+"text": "where",
+"start": 74.484,
+"end": 74.785
+},
+{
+"text": "the",
+"start": 74.811,
+"end": 75.026
+},
+{
+"text": "real",
+"start": 75.045,
+"end": 75.302
+},
+{
+"text": "money",
+"start": 75.325,
+"end": 75.625
+},
+{
+"text": "is.",
+"start": 75.652,
+"end": 75.823
+},
+{
+"text": "The",
+"start": 76.238,
+"end": 76.487
+},
+{
+"text": "real",
+"start": 76.509,
+"end": 76.808
+},
+{
+"text": "money",
+"start": 76.834,
+"end": 77.182
+},
+{
+"text": "is",
+"start": 77.213,
+"end": 77.412
+},
+{
+"text": "interest.",
+"start": 77.429,
+"end": 77.927
+},
+{
+"text": "In",
+"start": 78.37,
+"end": 78.594
+},
+{
+"text": "twenty",
+"start": 78.614,
+"end": 79.061
+},
+{
+"text": "twenty-four,",
+"start": 79.1,
+"end": 79.772
+},
+{
+"text": "card",
+"start": 79.83,
+"end": 80.166
+},
+{
+"text": "companies",
+"start": 80.195,
+"end": 80.811
+},
+{
+"text": "charged",
+"start": 80.864,
+"end": 81.368
+},
+{
+"text": "Americans",
+"start": 81.411,
+"end": 82.027
+},
+{
+"text": "about",
+"start": 82.081,
+"end": 82.472
+},
+{
+"text": "one",
+"start": 82.506,
+"end": 82.786
+},
+{
+"text": "hundred",
+"start": 82.81,
+"end": 83.314
+},
+{
+"text": "sixty",
+"start": 83.358,
+"end": 83.75
+},
+{
+"text": "billion",
+"start": 83.784,
+"end": 84.287
+},
+{
+"text": "dollars",
+"start": 84.331,
+"end": 84.835
+},
+{
+"text": "in",
+"start": 84.878,
+"end": 85.102
+},
+{
+"text": "interest.",
+"start": 85.122,
+"end": 85.681
+},
+{
+"text": "Two",
+"start": 86.13,
+"end": 86.383
+},
+{
+"text": "years",
+"start": 86.405,
+"end": 86.76
+},
+{
+"text": "earlier",
+"start": 86.791,
+"end": 87.247
+},
+{
+"text": "it",
+"start": 87.286,
+"end": 87.489
+},
+{
+"text": "was",
+"start": 87.506,
+"end": 87.76
+},
+{
+"text": "one",
+"start": 87.782,
+"end": 88.035
+},
+{
+"text": "hundred",
+"start": 88.057,
+"end": 88.513
+},
+{
+"text": "five",
+"start": 88.553,
+"end": 88.856
+},
+{
+"text": "billion.",
+"start": 88.883,
+"end": 89.339
+},
+{
+"text": "That's",
+"start": 89.378,
+"end": 89.733
+},
+{
+"text": "a",
+"start": 89.764,
+"end": 89.916
+},
+{
+"text": "jump",
+"start": 89.929,
+"end": 90.233
+},
+{
+"text": "of",
+"start": 90.259,
+"end": 90.462
+},
+{
+"text": "more",
+"start": 90.48,
+"end": 90.784
+},
+{
+"text": "than",
+"start": 90.81,
+"end": 91.114
+},
+{
+"text": "fifty",
+"start": 91.14,
+"end": 91.495
+},
+{
+"text": "percent.",
+"start": 91.526,
+"end": 91.982
+},
+{
+"text": "Right",
+"start": 92.421,
+"end": 92.784
+},
+{
+"text": "now,",
+"start": 92.816,
+"end": 93.075
+},
+{
+"text": "the",
+"start": 93.097,
+"end": 93.356
+},
+{
+"text": "Federal",
+"start": 93.379,
+"end": 93.845
+},
+{
+"text": "Reserve",
+"start": 93.886,
+"end": 94.352
+},
+{
+"text": "says",
+"start": 94.392,
+"end": 94.703
+},
+{
+"text": "the",
+"start": 94.73,
+"end": 94.989
+},
+{
+"text": "average",
+"start": 95.012,
+"end": 95.478
+},
+{
+"text": "rate",
+"start": 95.519,
+"end": 95.83
+},
+{
+"text": "on",
+"start": 95.857,
+"end": 96.064
+},
+{
+"text": "cards",
+"start": 96.082,
+"end": 96.445
+},
+{
+"text": "that",
+"start": 96.476,
+"end": 96.787
+},
+{
+"text": "are",
+"start": 96.814,
+"end": 97.073
+},
+{
+"text": "charging",
+"start": 97.096,
+"end": 97.614
+},
+{
+"text": "interest",
+"start": 97.659,
+"end": 98.177
+},
+{
+"text": "is",
+"start": 98.222,
+"end": 98.429
+},
+{
+"text": "about",
+"start": 98.447,
+"end": 98.81
+},
+{
+"text": "twenty-two",
+"start": 98.842,
+"end": 99.411
+},
+{
+"text": "percent.",
+"start": 99.461,
+"end": 99.927
+},
+{
+"text": "Twenty-two",
+"start": 100.368,
+"end": 100.914
+},
+{
+"text": "percent.",
+"start": 100.962,
+"end": 101.409
+},
+{
+"text": "Every",
+"start": 101.448,
+"end": 101.795
+},
+{
+"text": "year.",
+"start": 101.825,
+"end": 102.123
+},
+{
+"text": "On",
+"start": 102.149,
+"end": 102.348
+},
+{
+"text": "whatever",
+"start": 102.365,
+"end": 102.862
+},
+{
+"text": "you",
+"start": 102.905,
+"end": 103.153
+},
+{
+"text": "didn't",
+"start": 103.175,
+"end": 103.522
+},
+{
+"text": "pay",
+"start": 103.553,
+"end": 103.801
+},
+{
+"text": "off.",
+"start": 103.823,
+"end": 104.071
+},
+{
+"text": "Carry",
+"start": 104.493,
+"end": 104.831
+},
+{
+"text": "a",
+"start": 104.86,
+"end": 105.005
+},
+{
+"text": "one",
+"start": 105.017,
+"end": 105.259
+},
+{
+"text": "thousand",
+"start": 105.28,
+"end": 105.763
+},
+{
+"text": "dollar",
+"start": 105.805,
+"end": 106.191
+},
+{
+"text": "balance",
+"start": 106.225,
+"end": 106.659
+},
+{
+"text": "for",
+"start": 106.697,
+"end": 106.938
+},
+{
+"text": "a",
+"start": 106.959,
+"end": 107.104
+},
+{
+"text": "year,",
+"start": 107.117,
+"end": 107.407
+},
+{
+"text": "and",
+"start": 107.432,
+"end": 107.673
+},
+{
+"text": "that's",
+"start": 107.694,
+"end": 108.032
+},
+{
+"text": "roughly",
+"start": 108.062,
+"end": 108.496
+},
+{
+"text": "two",
+"start": 108.534,
+"end": 108.775
+},
+{
+"text": "hundred",
+"start": 108.796,
+"end": 109.231
+},
+{
+"text": "twenty",
+"start": 109.269,
+"end": 109.655
+},
+{
+"text": "dollars",
+"start": 109.689,
+"end": 110.123
+},
+{
+"text": "gone,",
+"start": 110.161,
+"end": 110.451
+},
+{
+"text": "for",
+"start": 110.476,
+"end": 110.718
+},
+{
+"text": "nothing.",
+"start": 110.739,
+"end": 111.173
+},
+{
+"text": "For",
+"start": 111.611,
+"end": 111.9
+},
+{
+"text": "comparison,",
+"start": 111.925,
+"end": 112.619
+},
+{
+"text": "the",
+"start": 112.679,
+"end": 112.968
+},
+{
+"text": "stock",
+"start": 112.994,
+"end": 113.398
+},
+{
+"text": "market's",
+"start": 113.434,
+"end": 113.954
+},
+{
+"text": "long-run",
+"start": 113.999,
+"end": 114.52
+},
+{
+"text": "average",
+"start": 114.565,
+"end": 115.085
+},
+{
+"text": "is",
+"start": 115.13,
+"end": 115.362
+},
+{
+"text": "often",
+"start": 115.382,
+"end": 115.787
+},
+{
+"text": "quoted",
+"start": 115.822,
+"end": 116.284
+},
+{
+"text": "at",
+"start": 116.325,
+"end": 116.556
+},
+{
+"text": "around",
+"start": 116.576,
+"end": 117.039
+},
+{
+"text": "ten",
+"start": 117.079,
+"end": 117.368
+},
+{
+"text": "percent,",
+"start": 117.393,
+"end": 117.913
+},
+{
+"text": "and",
+"start": 117.959,
+"end": 118.248
+},
+{
+"text": "that's",
+"start": 118.273,
+"end": 118.678
+},
+{
+"text": "not",
+"start": 118.713,
+"end": 119.002
+},
+{
+"text": "guaranteed.",
+"start": 119.027,
+"end": 119.721
+},
+{
+"text": "Twenty-two",
+"start": 120.181,
+"end": 120.78
+},
+{
+"text": "percent",
+"start": 120.832,
+"end": 121.322
+},
+{
+"text": "is",
+"start": 121.364,
+"end": 121.582
+},
+{
+"text": "guaranteed.",
+"start": 121.601,
+"end": 122.254
+},
+{
+"text": "For",
+"start": 122.311,
+"end": 122.583
+},
+{
+"text": "the",
+"start": 122.606,
+"end": 122.879
+},
+{
+"text": "bank.",
+"start": 122.902,
+"end": 123.229
+},
+{
+"text": "And",
+"start": 123.657,
+"end": 123.913
+},
+{
+"text": "the",
+"start": 123.935,
+"end": 124.191
+},
+{
+"text": "gap",
+"start": 124.213,
+"end": 124.469
+},
+{
+"text": "between",
+"start": 124.491,
+"end": 124.951
+},
+{
+"text": "card",
+"start": 124.991,
+"end": 125.298
+},
+{
+"text": "rates",
+"start": 125.325,
+"end": 125.683
+},
+{
+"text": "and",
+"start": 125.714,
+"end": 125.97
+},
+{
+"text": "the",
+"start": 125.992,
+"end": 126.248
+},
+{
+"text": "bank's",
+"start": 126.27,
+"end": 126.628
+},
+{
+"text": "own",
+"start": 126.659,
+"end": 126.915
+},
+{
+"text": "prime",
+"start": 126.937,
+"end": 127.295
+},
+{
+"text": "rate",
+"start": 127.326,
+"end": 127.633
+},
+{
+"text": "hit",
+"start": 127.66,
+"end": 127.916
+},
+{
+"text": "a",
+"start": 127.938,
+"end": 128.092
+},
+{
+"text": "record",
+"start": 128.105,
+"end": 128.514
+},
+{
+"text": "in",
+"start": 128.55,
+"end": 128.754
+},
+{
+"text": "twenty",
+"start": 128.772,
+"end": 129.181
+},
+{
+"text": "twenty-four,",
+"start": 129.217,
+"end": 129.831
+},
+{
+"text": "about",
+"start": 129.884,
+"end": 130.242
+},
+{
+"text": "sixteen",
+"start": 130.273,
+"end": 130.733
+},
+{
+"text": "points.",
+"start": 130.774,
+"end": 131.183
+},
+{
+"text": "Americans",
+"start": 131.618,
+"end": 132.217
+},
+{
+"text": "now",
+"start": 132.269,
+"end": 132.541
+},
+{
+"text": "owe",
+"start": 132.565,
+"end": 132.837
+},
+{
+"text": "about",
+"start": 132.861,
+"end": 133.242
+},
+{
+"text": "one",
+"start": 133.275,
+"end": 133.547
+},
+{
+"text": "point",
+"start": 133.571,
+"end": 133.951
+},
+{
+"text": "two",
+"start": 133.985,
+"end": 134.257
+},
+{
+"text": "nine",
+"start": 134.28,
+"end": 134.607
+},
+{
+"text": "trillion",
+"start": 134.635,
+"end": 135.18
+},
+{
+"text": "dollars",
+"start": 135.227,
+"end": 135.717
+},
+{
+"text": "on",
+"start": 135.759,
+"end": 135.977
+},
+{
+"text": "credit",
+"start": 135.996,
+"end": 136.431
+},
+{
+"text": "cards,",
+"start": 136.469,
+"end": 136.85
+},
+{
+"text": "a",
+"start": 136.883,
+"end": 137.047
+},
+{
+"text": "record",
+"start": 137.061,
+"end": 137.496
+},
+{
+"text": "high.",
+"start": 137.534,
+"end": 137.861
+},
+{
+"text": "So",
+"start": 138.289,
+"end": 138.482
+},
+{
+"text": "who",
+"start": 138.499,
+"end": 138.74
+},
+{
+"text": "actually",
+"start": 138.761,
+"end": 139.244
+},
+{
+"text": "pays",
+"start": 139.286,
+"end": 139.575
+},
+{
+"text": "all",
+"start": 139.6,
+"end": 139.842
+},
+{
+"text": "that",
+"start": 139.863,
+"end": 140.152
+},
+{
+"text": "interest?",
+"start": 140.177,
+"end": 140.66
+},
+{
+"text": "Let's",
+"start": 140.702,
+"end": 140.991
+},
+{
+"text": "look",
+"start": 141.017,
+"end": 141.306
+},
+{
+"text": "at",
+"start": 141.331,
+"end": 141.524
+},
+{
+"text": "the",
+"start": 141.541,
+"end": 141.782
+},
+{
+"text": "minimum",
+"start": 141.803,
+"end": 142.238
+},
+{
+"text": "payment.",
+"start": 142.275,
+"end": 142.71
+},
+{
+"text": "Say",
+"start": 143.147,
+"end": 143.382
+},
+{
+"text": "you",
+"start": 143.403,
+"end": 143.638
+},
+{
+"text": "owe",
+"start": 143.658,
+"end": 143.893
+},
+{
+"text": "five",
+"start": 143.914,
+"end": 144.196
+},
+{
+"text": "thousand",
+"start": 144.22,
+"end": 144.69
+},
+{
+"text": "dollars",
+"start": 144.731,
+"end": 145.154
+},
+{
+"text": "at",
+"start": 145.191,
+"end": 145.379
+},
+{
+"text": "twenty-two",
+"start": 145.395,
+"end": 145.913
+},
+{
+"text": "percent.",
+"start": 145.957,
+"end": 146.381
+},
+{
+"text": "A",
+"start": 146.817,
+"end": 146.966
+},
+{
+"text": "common",
+"start": 146.978,
+"end": 147.374
+},
+{
+"text": "minimum",
+"start": 147.408,
+"end": 147.853
+},
+{
+"text": "payment",
+"start": 147.892,
+"end": 148.336
+},
+{
+"text": "formula",
+"start": 148.375,
+"end": 148.82
+},
+{
+"text": "is",
+"start": 148.858,
+"end": 149.056
+},
+{
+"text": "one",
+"start": 149.073,
+"end": 149.32
+},
+{
+"text": "percent",
+"start": 149.342,
+"end": 149.787
+},
+{
+"text": "of",
+"start": 149.825,
+"end": 150.023
+},
+{
+"text": "the",
+"start": 150.04,
+"end": 150.287
+},
+{
+"text": "balance,",
+"start": 150.309,
+"end": 150.753
+},
+{
+"text": "plus",
+"start": 150.792,
+"end": 151.089
+},
+{
+"text": "that",
+"start": 151.114,
+"end": 151.411
+},
+{
+"text": "month's",
+"start": 151.437,
+"end": 151.832
+},
+{
+"text": "interest.",
+"start": 151.866,
+"end": 152.361
+},
+{
+"text": "So",
+"start": 152.804,
+"end": 153.008
+},
+{
+"text": "your",
+"start": 153.026,
+"end": 153.333
+},
+{
+"text": "first",
+"start": 153.36,
+"end": 153.718
+},
+{
+"text": "bill",
+"start": 153.75,
+"end": 154.057
+},
+{
+"text": "says:",
+"start": 154.083,
+"end": 154.391
+},
+{
+"text": "pay",
+"start": 154.417,
+"end": 154.673
+},
+{
+"text": "one",
+"start": 154.696,
+"end": 154.952
+},
+{
+"text": "hundred",
+"start": 154.974,
+"end": 155.435
+},
+{
+"text": "forty-three",
+"start": 155.475,
+"end": 156.089
+},
+{
+"text": "dollars.",
+"start": 156.142,
+"end": 156.603
+},
+{
+"text": "Sounds",
+"start": 157.043,
+"end": 157.461
+},
+{
+"text": "manageable.",
+"start": 157.497,
+"end": 158.124
+},
+{
+"text": "But",
+"start": 158.179,
+"end": 158.44
+},
+{
+"text": "about",
+"start": 158.462,
+"end": 158.828
+},
+{
+"text": "ninety-three",
+"start": 158.86,
+"end": 159.539
+},
+{
+"text": "dollars",
+"start": 159.598,
+"end": 160.068
+},
+{
+"text": "of",
+"start": 160.109,
+"end": 160.317
+},
+{
+"text": "that",
+"start": 160.336,
+"end": 160.649
+},
+{
+"text": "is",
+"start": 160.676,
+"end": 160.885
+},
+{
+"text": "just",
+"start": 160.903,
+"end": 161.217
+},
+{
+"text": "interest.",
+"start": 161.244,
+"end": 161.766
+},
+{
+"text": "Only",
+"start": 162.211,
+"end": 162.505
+},
+{
+"text": "fifty",
+"start": 162.53,
+"end": 162.873
+},
+{
+"text": "dollars",
+"start": 162.902,
+"end": 163.342
+},
+{
+"text": "actually",
+"start": 163.381,
+"end": 163.869
+},
+{
+"text": "touches",
+"start": 163.912,
+"end": 164.352
+},
+{
+"text": "the",
+"start": 164.39,
+"end": 164.635
+},
+{
+"text": "debt.",
+"start": 164.656,
+"end": 164.949
+},
+{
+"text": "And",
+"start": 165.375,
+"end": 165.618
+},
+{
+"text": "as",
+"start": 165.639,
+"end": 165.834
+},
+{
+"text": "your",
+"start": 165.851,
+"end": 166.143
+},
+{
+"text": "balance",
+"start": 166.169,
+"end": 166.607
+},
+{
+"text": "shrinks,",
+"start": 166.645,
+"end": 167.083
+},
+{
+"text": "the",
+"start": 167.122,
+"end": 167.365
+},
+{
+"text": "minimum",
+"start": 167.386,
+"end": 167.824
+},
+{
+"text": "shrinks",
+"start": 167.863,
+"end": 168.301
+},
+{
+"text": "too.",
+"start": 168.339,
+"end": 168.583
+},
+{
+"text": "So",
+"start": 168.604,
+"end": 168.798
+},
+{
+"text": "the",
+"start": 168.815,
+"end": 169.059
+},
+{
+"text": "debt",
+"start": 169.08,
+"end": 169.372
+},
+{
+"text": "drags",
+"start": 169.398,
+"end": 169.739
+},
+{
+"text": "on.",
+"start": 169.768,
+"end": 169.963
+},
+{
+"text": "Pay",
+"start": 170.38,
+"end": 170.634
+},
+{
+"text": "only",
+"start": 170.656,
+"end": 170.96
+},
+{
+"text": "the",
+"start": 170.987,
+"end": 171.24
+},
+{
+"text": "minimum,",
+"start": 171.262,
+"end": 171.719
+},
+{
+"text": "and",
+"start": 171.759,
+"end": 172.013
+},
+{
+"text": "in",
+"start": 172.035,
+"end": 172.238
+},
+{
+"text": "our",
+"start": 172.255,
+"end": 172.509
+},
+{
+"text": "example",
+"start": 172.531,
+"end": 172.988
+},
+{
+"text": "it",
+"start": 173.027,
+"end": 173.23
+},
+{
+"text": "takes",
+"start": 173.248,
+"end": 173.603
+},
+{
+"text": "about",
+"start": 173.634,
+"end": 173.989
+},
+{
+"text": "nineteen",
+"start": 174.02,
+"end": 174.528
+},
+{
+"text": "years",
+"start": 174.572,
+"end": 174.927
+},
+{
+"text": "to",
+"start": 174.958,
+"end": 175.161
+},
+{
+"text": "clear.",
+"start": 175.178,
+"end": 175.534
+},
+{
+"text": "You'd",
+"start": 175.964,
+"end": 176.246
+},
+{
+"text": "pay",
+"start": 176.271,
+"end": 176.506
+},
+{
+"text": "around",
+"start": 176.526,
+"end": 176.902
+},
+{
+"text": "eight",
+"start": 176.934,
+"end": 177.263
+},
+{
+"text": "thousand",
+"start": 177.292,
+"end": 177.762
+},
+{
+"text": "two",
+"start": 177.802,
+"end": 178.037
+},
+{
+"text": "hundred",
+"start": 178.058,
+"end": 178.48
+},
+{
+"text": "dollars",
+"start": 178.517,
+"end": 178.94
+},
+{
+"text": "in",
+"start": 178.977,
+"end": 179.164
+},
+{
+"text": "interest.",
+"start": 179.181,
+"end": 179.651
+},
+{
+"text": "More",
+"start": 179.691,
+"end": 179.973
+},
+{
+"text": "than",
+"start": 179.998,
+"end": 180.279
+},
+{
+"text": "the",
+"start": 180.304,
+"end": 180.539
+},
+{
+"text": "original",
+"start": 180.559,
+"end": 181.029
+},
+{
+"text": "debt.",
+"start": 181.07,
+"end": 181.352
+},
+{
+"text": "Now",
+"start": 181.776,
+"end": 182.006
+},
+{
+"text": "pay",
+"start": 182.026,
+"end": 182.256
+},
+{
+"text": "a",
+"start": 182.276,
+"end": 182.414
+},
+{
+"text": "flat",
+"start": 182.425,
+"end": 182.701
+},
+{
+"text": "two",
+"start": 182.725,
+"end": 182.955
+},
+{
+"text": "hundred",
+"start": 182.975,
+"end": 183.389
+},
+{
+"text": "dollars",
+"start": 183.425,
+"end": 183.838
+},
+{
+"text": "a",
+"start": 183.874,
+"end": 184.012
+},
+{
+"text": "month",
+"start": 184.024,
+"end": 184.346
+},
+{
+"text": "instead.",
+"start": 184.374,
+"end": 184.787
+},
+{
+"text": "Done",
+"start": 185.223,
+"end": 185.52
+},
+{
+"text": "in",
+"start": 185.546,
+"end": 185.744
+},
+{
+"text": "under",
+"start": 185.761,
+"end": 186.107
+},
+{
+"text": "three",
+"start": 186.138,
+"end": 186.484
+},
+{
+"text": "years,",
+"start": 186.514,
+"end": 186.861
+},
+{
+"text": "with",
+"start": 186.891,
+"end": 187.188
+},
+{
+"text": "about",
+"start": 187.213,
+"end": 187.56
+},
+{
+"text": "eighteen",
+"start": 187.59,
+"end": 188.085
+},
+{
+"text": "hundred",
+"start": 188.128,
+"end": 188.573
+},
+{
+"text": "dollars",
+"start": 188.612,
+"end": 189.057
+},
+{
+"text": "in",
+"start": 189.096,
+"end": 189.294
+},
+{
+"text": "interest.",
+"start": 189.311,
+"end": 189.806
+},
+{
+"text": "Same",
+"start": 190.249,
+"end": 190.574
+},
+{
+"text": "debt.",
+"start": 190.603,
+"end": 190.928
+},
+{
+"text": "Same",
+"start": 190.957,
+"end": 191.282
+},
+{
+"text": "card.",
+"start": 191.31,
+"end": 191.636
+},
+{
+"text": "A",
+"start": 191.664,
+"end": 191.827
+},
+{
+"text": "different",
+"start": 191.841,
+"end": 192.437
+},
+{
+"text": "payment,",
+"start": 192.489,
+"end": 192.977
+},
+{
+"text": "and",
+"start": 193.02,
+"end": 193.291
+},
+{
+"text": "roughly",
+"start": 193.315,
+"end": 193.803
+},
+{
+"text": "six",
+"start": 193.845,
+"end": 194.116
+},
+{
+"text": "thousand",
+"start": 194.14,
+"end": 194.682
+},
+{
+"text": "dollars",
+"start": 194.729,
+"end": 195.218
+},
+{
+"text": "stays",
+"start": 195.26,
+"end": 195.64
+},
+{
+"text": "with",
+"start": 195.673,
+"end": 195.998
+},
+{
+"text": "you.",
+"start": 196.026,
+"end": 196.298
+},
+{
+"text": "And",
+"start": 196.721,
+"end": 196.969
+},
+{
+"text": "about",
+"start": 196.991,
+"end": 197.338
+},
+{
+"text": "fifteen",
+"start": 197.368,
+"end": 197.815
+},
+{
+"text": "percent",
+"start": 197.854,
+"end": 198.3
+},
+{
+"text": "of",
+"start": 198.339,
+"end": 198.537
+},
+{
+"text": "general",
+"start": 198.555,
+"end": 199.001
+},
+{
+"text": "purpose",
+"start": 199.04,
+"end": 199.486
+},
+{
+"text": "cardholders",
+"start": 199.525,
+"end": 200.17
+},
+{
+"text": "were",
+"start": 200.226,
+"end": 200.524
+},
+{
+"text": "paying",
+"start": 200.55,
+"end": 200.947
+},
+{
+"text": "only",
+"start": 200.981,
+"end": 201.279
+},
+{
+"text": "the",
+"start": 201.305,
+"end": 201.553
+},
+{
+"text": "minimum",
+"start": 201.574,
+"end": 202.021
+},
+{
+"text": "in",
+"start": 202.06,
+"end": 202.258
+},
+{
+"text": "twenty",
+"start": 202.275,
+"end": 202.672
+},
+{
+"text": "twenty-four.",
+"start": 202.707,
+"end": 203.302
+},
+{
+"text": "Now,",
+"start": 203.754,
+"end": 204.021
+},
+{
+"text": "the",
+"start": 204.044,
+"end": 204.311
+},
+{
+"text": "third",
+"start": 204.334,
+"end": 204.708
+},
+{
+"text": "money",
+"start": 204.74,
+"end": 205.114
+},
+{
+"text": "machine:",
+"start": 205.147,
+"end": 205.627
+},
+{
+"text": "fees.",
+"start": 205.669,
+"end": 205.99
+},
+{
+"text": "In",
+"start": 206.417,
+"end": 206.643
+},
+{
+"text": "twenty",
+"start": 206.662,
+"end": 207.113
+},
+{
+"text": "twenty-four,",
+"start": 207.153,
+"end": 207.829
+},
+{
+"text": "cardholders",
+"start": 207.888,
+"end": 208.621
+},
+{
+"text": "paid",
+"start": 208.684,
+"end": 209.022
+},
+{
+"text": "thirty-one",
+"start": 209.052,
+"end": 209.672
+},
+{
+"text": "billion",
+"start": 209.726,
+"end": 210.233
+},
+{
+"text": "dollars",
+"start": 210.277,
+"end": 210.784
+},
+{
+"text": "in",
+"start": 210.829,
+"end": 211.054
+},
+{
+"text": "fees.",
+"start": 211.074,
+"end": 211.412
+},
+{
+"text": "The",
+"start": 211.841,
+"end": 212.122
+},
+{
+"text": "biggest",
+"start": 212.147,
+"end": 212.653
+},
+{
+"text": "chunk?",
+"start": 212.697,
+"end": 213.091
+},
+{
+"text": "Late",
+"start": 213.125,
+"end": 213.463
+},
+{
+"text": "fees.",
+"start": 213.492,
+"end": 213.83
+},
+{
+"text": "About",
+"start": 213.859,
+"end": 214.253
+},
+{
+"text": "seventeen",
+"start": 214.287,
+"end": 214.906
+},
+{
+"text": "billion",
+"start": 214.96,
+"end": 215.466
+},
+{
+"text": "dollars.",
+"start": 215.51,
+"end": 216.016
+},
+{
+"text": "Then",
+"start": 216.46,
+"end": 216.787
+},
+{
+"text": "annual",
+"start": 216.815,
+"end": 217.251
+},
+{
+"text": "fees,",
+"start": 217.288,
+"end": 217.615
+},
+{
+"text": "around",
+"start": 217.643,
+"end": 218.079
+},
+{
+"text": "eight",
+"start": 218.117,
+"end": 218.497
+},
+{
+"text": "point",
+"start": 218.531,
+"end": 218.912
+},
+{
+"text": "seven",
+"start": 218.945,
+"end": 219.326
+},
+{
+"text": "billion.",
+"start": 219.359,
+"end": 219.848
+},
+{
+"text": "Then",
+"start": 220.291,
+"end": 220.629
+},
+{
+"text": "balance",
+"start": 220.658,
+"end": 221.164
+},
+{
+"text": "transfer",
+"start": 221.208,
+"end": 221.771
+},
+{
+"text": "fees,",
+"start": 221.82,
+"end": 222.158
+},
+{
+"text": "cash",
+"start": 222.187,
+"end": 222.524
+},
+{
+"text": "advance",
+"start": 222.554,
+"end": 223.06
+},
+{
+"text": "fees,",
+"start": 223.104,
+"end": 223.442
+},
+{
+"text": "and",
+"start": 223.471,
+"end": 223.752
+},
+{
+"text": "foreign",
+"start": 223.777,
+"end": 224.283
+},
+{
+"text": "transaction",
+"start": 224.327,
+"end": 225.059
+},
+{
+"text": "fees.",
+"start": 225.122,
+"end": 225.46
+},
+{
+"text": "Late",
+"start": 225.889,
+"end": 226.178
+},
+{
+"text": "fees",
+"start": 226.203,
+"end": 226.492
+},
+{
+"text": "hit",
+"start": 226.517,
+"end": 226.758
+},
+{
+"text": "the",
+"start": 226.779,
+"end": 227.02
+},
+{
+"text": "people",
+"start": 227.041,
+"end": 227.426
+},
+{
+"text": "who",
+"start": 227.459,
+"end": 227.7
+},
+{
+"text": "are",
+"start": 227.721,
+"end": 227.962
+},
+{
+"text": "already",
+"start": 227.983,
+"end": 228.416
+},
+{
+"text": "struggling",
+"start": 228.454,
+"end": 229.031
+},
+{
+"text": "the",
+"start": 229.082,
+"end": 229.322
+},
+{
+"text": "most,",
+"start": 229.343,
+"end": 229.632
+},
+{
+"text": "again",
+"start": 229.657,
+"end": 229.994
+},
+{
+"text": "and",
+"start": 230.024,
+"end": 230.264
+},
+{
+"text": "again.",
+"start": 230.285,
+"end": 230.622
+},
+{
+"text": "Most",
+"start": 231.052,
+"end": 231.352
+},
+{
+"text": "of",
+"start": 231.378,
+"end": 231.579
+},
+{
+"text": "these",
+"start": 231.596,
+"end": 231.947
+},
+{
+"text": "are",
+"start": 231.978,
+"end": 232.229
+},
+{
+"text": "avoidable",
+"start": 232.25,
+"end": 232.802
+},
+{
+"text": "with",
+"start": 232.85,
+"end": 233.15
+},
+{
+"text": "one",
+"start": 233.177,
+"end": 233.427
+},
+{
+"text": "setting",
+"start": 233.449,
+"end": 233.9
+},
+{
+"text": "you",
+"start": 233.939,
+"end": 234.19
+},
+{
+"text": "can",
+"start": 234.212,
+"end": 234.463
+},
+{
+"text": "turn",
+"start": 234.484,
+"end": 234.785
+},
+{
+"text": "on",
+"start": 234.811,
+"end": 235.012
+},
+{
+"text": "today.",
+"start": 235.029,
+"end": 235.38
+},
+{
+"text": "So",
+"start": 235.811,
+"end": 236.021
+},
+{
+"text": "here's",
+"start": 236.039,
+"end": 236.406
+},
+{
+"text": "the",
+"start": 236.438,
+"end": 236.701
+},
+{
+"text": "uncomfortable",
+"start": 236.723,
+"end": 237.511
+},
+{
+"text": "part",
+"start": 237.579,
+"end": 237.894
+},
+{
+"text": "about",
+"start": 237.921,
+"end": 238.289
+},
+{
+"text": "rewards.",
+"start": 238.321,
+"end": 238.793
+},
+{
+"text": "About",
+"start": 239.234,
+"end": 239.551
+},
+{
+"text": "half",
+"start": 239.578,
+"end": 239.85
+},
+{
+"text": "of",
+"start": 239.874,
+"end": 240.055
+},
+{
+"text": "card",
+"start": 240.071,
+"end": 240.342
+},
+{
+"text": "accounts",
+"start": 240.366,
+"end": 240.819
+},
+{
+"text": "carry",
+"start": 240.858,
+"end": 241.175
+},
+{
+"text": "a",
+"start": 241.202,
+"end": 241.338
+},
+{
+"text": "balance",
+"start": 241.35,
+"end": 241.758
+},
+{
+"text": "from",
+"start": 241.793,
+"end": 242.065
+},
+{
+"text": "month",
+"start": 242.088,
+"end": 242.405
+},
+{
+"text": "to",
+"start": 242.433,
+"end": 242.614
+},
+{
+"text": "month.",
+"start": 242.63,
+"end": 242.946
+},
+{
+"text": "The",
+"start": 243.374,
+"end": 243.62
+},
+{
+"text": "rest",
+"start": 243.641,
+"end": 243.936
+},
+{
+"text": "mostly",
+"start": 243.962,
+"end": 244.355
+},
+{
+"text": "pay",
+"start": 244.389,
+"end": 244.635
+},
+{
+"text": "in",
+"start": 244.656,
+"end": 244.853
+},
+{
+"text": "full,",
+"start": 244.87,
+"end": 245.165
+},
+{
+"text": "and",
+"start": 245.19,
+"end": 245.436
+},
+{
+"text": "pay",
+"start": 245.457,
+"end": 245.703
+},
+{
+"text": "no",
+"start": 245.724,
+"end": 245.921
+},
+{
+"text": "interest",
+"start": 245.938,
+"end": 246.43
+},
+{
+"text": "at",
+"start": 246.472,
+"end": 246.669
+},
+{
+"text": "all.",
+"start": 246.686,
+"end": 246.932
+},
+{
+"text": "Those",
+"start": 247.353,
+"end": 247.719
+},
+{
+"text": "people",
+"start": 247.75,
+"end": 248.168
+},
+{
+"text": "still",
+"start": 248.205,
+"end": 248.57
+},
+{
+"text": "get",
+"start": 248.602,
+"end": 248.863
+},
+{
+"text": "the",
+"start": 248.886,
+"end": 249.147
+},
+{
+"text": "points",
+"start": 249.17,
+"end": 249.587
+},
+{
+"text": "and",
+"start": 249.624,
+"end": 249.885
+},
+{
+"text": "the",
+"start": 249.907,
+"end": 250.169
+},
+{
+"text": "cash",
+"start": 250.191,
+"end": 250.505
+},
+{
+"text": "back,",
+"start": 250.532,
+"end": 250.845
+},
+{
+"text": "funded",
+"start": 250.872,
+"end": 251.29
+},
+{
+"text": "largely",
+"start": 251.327,
+"end": 251.797
+},
+{
+"text": "by",
+"start": 251.837,
+"end": 252.046
+},
+{
+"text": "swipe",
+"start": 252.064,
+"end": 252.43
+},
+{
+"text": "fees.",
+"start": 252.462,
+"end": 252.775
+},
+{
+"text": "Meanwhile,",
+"start": 253.202,
+"end": 253.761
+},
+{
+"text": "the",
+"start": 253.809,
+"end": 254.063
+},
+{
+"text": "interest",
+"start": 254.085,
+"end": 254.593
+},
+{
+"text": "that",
+"start": 254.637,
+"end": 254.941
+},
+{
+"text": "makes",
+"start": 254.968,
+"end": 255.323
+},
+{
+"text": "cards",
+"start": 255.354,
+"end": 255.709
+},
+{
+"text": "so",
+"start": 255.74,
+"end": 255.943
+},
+{
+"text": "profitable",
+"start": 255.961,
+"end": 256.57
+},
+{
+"text": "comes",
+"start": 256.623,
+"end": 256.978
+},
+{
+"text": "from",
+"start": 257.009,
+"end": 257.314
+},
+{
+"text": "the",
+"start": 257.34,
+"end": 257.594
+},
+{
+"text": "half",
+"start": 257.616,
+"end": 257.921
+},
+{
+"text": "that",
+"start": 257.947,
+"end": 258.252
+},
+{
+"text": "carries",
+"start": 258.278,
+"end": 258.735
+},
+{
+"text": "a",
+"start": 258.775,
+"end": 258.927
+},
+{
+"text": "balance.",
+"start": 258.94,
+"end": 259.397
+},
+{
+"text": "Your",
+"start": 259.837,
+"end": 260.116
+},
+{
+"text": "goal",
+"start": 260.14,
+"end": 260.419
+},
+{
+"text": "is",
+"start": 260.443,
+"end": 260.629
+},
+{
+"text": "simple.",
+"start": 260.645,
+"end": 261.017
+},
+{
+"text": "Be",
+"start": 261.049,
+"end": 261.235
+},
+{
+"text": "the",
+"start": 261.251,
+"end": 261.484
+},
+{
+"text": "customer",
+"start": 261.504,
+"end": 261.969
+},
+{
+"text": "they",
+"start": 262.009,
+"end": 262.288
+},
+{
+"text": "make",
+"start": 262.312,
+"end": 262.591
+},
+{
+"text": "the",
+"start": 262.615,
+"end": 262.848
+},
+{
+"text": "least",
+"start": 262.868,
+"end": 263.193
+},
+{
+"text": "money",
+"start": 263.222,
+"end": 263.547
+},
+{
+"text": "from.",
+"start": 263.575,
+"end": 263.854
+},
+{
+"text": "Here's",
+"start": 264.278,
+"end": 264.568
+},
+{
+"text": "how",
+"start": 264.593,
+"end": 264.8
+},
+{
+"text": "to",
+"start": 264.818,
+"end": 264.984
+},
+{
+"text": "flip",
+"start": 264.998,
+"end": 265.246
+},
+{
+"text": "the",
+"start": 265.268,
+"end": 265.475
+},
+{
+"text": "game.",
+"start": 265.493,
+"end": 265.741
+},
+{
+"text": "First.",
+"start": 266.163,
+"end": 266.55
+},
+{
+"text": "Turn",
+"start": 266.584,
+"end": 266.916
+},
+{
+"text": "on",
+"start": 266.945,
+"end": 267.166
+},
+{
+"text": "autopay",
+"start": 267.186,
+"end": 267.684
+},
+{
+"text": "for",
+"start": 267.727,
+"end": 268.004
+},
+{
+"text": "the",
+"start": 268.028,
+"end": 268.305
+},
+{
+"text": "full",
+"start": 268.329,
+"end": 268.661
+},
+{
+"text": "statement",
+"start": 268.69,
+"end": 269.298
+},
+{
+"text": "balance.",
+"start": 269.351,
+"end": 269.85
+},
+{
+"text": "That",
+"start": 269.893,
+"end": 270.225
+},
+{
+"text": "kills",
+"start": 270.254,
+"end": 270.641
+},
+{
+"text": "interest",
+"start": 270.675,
+"end": 271.228
+},
+{
+"text": "and",
+"start": 271.277,
+"end": 271.553
+},
+{
+"text": "late",
+"start": 271.577,
+"end": 271.91
+},
+{
+"text": "fees",
+"start": 271.938,
+"end": 272.271
+},
+{
+"text": "in",
+"start": 272.299,
+"end": 272.521
+},
+{
+"text": "one",
+"start": 272.54,
+"end": 272.817
+},
+{
+"text": "move.",
+"start": 272.841,
+"end": 273.173
+},
+{
+"text": "If",
+"start": 273.602,
+"end": 273.794
+},
+{
+"text": "you",
+"start": 273.811,
+"end": 274.052
+},
+{
+"text": "can't",
+"start": 274.073,
+"end": 274.361
+},
+{
+"text": "pay",
+"start": 274.386,
+"end": 274.627
+},
+{
+"text": "in",
+"start": 274.648,
+"end": 274.84
+},
+{
+"text": "full",
+"start": 274.857,
+"end": 275.146
+},
+{
+"text": "yet,",
+"start": 275.171,
+"end": 275.412
+},
+{
+"text": "at",
+"start": 275.433,
+"end": 275.625
+},
+{
+"text": "least",
+"start": 275.642,
+"end": 275.979
+},
+{
+"text": "set",
+"start": 276.008,
+"end": 276.248
+},
+{
+"text": "autopay",
+"start": 276.269,
+"end": 276.702
+},
+{
+"text": "for",
+"start": 276.74,
+"end": 276.981
+},
+{
+"text": "the",
+"start": 277.002,
+"end": 277.242
+},
+{
+"text": "minimum,",
+"start": 277.263,
+"end": 277.696
+},
+{
+"text": "so",
+"start": 277.734,
+"end": 277.926
+},
+{
+"text": "you're",
+"start": 277.943,
+"end": 278.28
+},
+{
+"text": "never",
+"start": 278.309,
+"end": 278.646
+},
+{
+"text": "late.",
+"start": 278.675,
+"end": 278.964
+},
+{
+"text": "Second.",
+"start": 279.389,
+"end": 279.794
+},
+{
+"text": "If",
+"start": 279.829,
+"end": 280.031
+},
+{
+"text": "you",
+"start": 280.048,
+"end": 280.301
+},
+{
+"text": "carry",
+"start": 280.323,
+"end": 280.677
+},
+{
+"text": "a",
+"start": 280.708,
+"end": 280.859
+},
+{
+"text": "balance,",
+"start": 280.873,
+"end": 281.327
+},
+{
+"text": "pay",
+"start": 281.367,
+"end": 281.62
+},
+{
+"text": "a",
+"start": 281.642,
+"end": 281.793
+},
+{
+"text": "fixed",
+"start": 281.806,
+"end": 282.16
+},
+{
+"text": "amount",
+"start": 282.191,
+"end": 282.595
+},
+{
+"text": "well",
+"start": 282.631,
+"end": 282.934
+},
+{
+"text": "above",
+"start": 282.96,
+"end": 283.314
+},
+{
+"text": "the",
+"start": 283.345,
+"end": 283.597
+},
+{
+"text": "minimum,",
+"start": 283.619,
+"end": 284.074
+},
+{
+"text": "and",
+"start": 284.114,
+"end": 284.367
+},
+{
+"text": "attack",
+"start": 284.389,
+"end": 284.793
+},
+{
+"text": "the",
+"start": 284.828,
+"end": 285.081
+},
+{
+"text": "highest",
+"start": 285.103,
+"end": 285.558
+},
+{
+"text": "rate",
+"start": 285.597,
+"end": 285.9
+},
+{
+"text": "first.",
+"start": 285.927,
+"end": 286.281
+},
+{
+"text": "Third.",
+"start": 286.711,
+"end": 287.07
+},
+{
+"text": "Call",
+"start": 287.101,
+"end": 287.409
+},
+{
+"text": "and",
+"start": 287.435,
+"end": 287.692
+},
+{
+"text": "ask",
+"start": 287.714,
+"end": 287.97
+},
+{
+"text": "for",
+"start": 287.992,
+"end": 288.249
+},
+{
+"text": "a",
+"start": 288.271,
+"end": 288.425
+},
+{
+"text": "lower",
+"start": 288.438,
+"end": 288.797
+},
+{
+"text": "rate.",
+"start": 288.828,
+"end": 289.135
+},
+{
+"text": "It's",
+"start": 289.162,
+"end": 289.418
+},
+{
+"text": "a",
+"start": 289.441,
+"end": 289.594
+},
+{
+"text": "five-minute",
+"start": 289.608,
+"end": 290.223
+},
+{
+"text": "call,",
+"start": 290.276,
+"end": 290.584
+},
+{
+"text": "and",
+"start": 290.61,
+"end": 290.867
+},
+{
+"text": "sometimes",
+"start": 290.889,
+"end": 291.453
+},
+{
+"text": "it",
+"start": 291.502,
+"end": 291.707
+},
+{
+"text": "works.",
+"start": 291.724,
+"end": 292.083
+},
+{
+"text": "Fourth.",
+"start": 292.514,
+"end": 292.94
+},
+{
+"text": "Be",
+"start": 292.977,
+"end": 293.19
+},
+{
+"text": "careful",
+"start": 293.208,
+"end": 293.687
+},
+{
+"text": "with",
+"start": 293.729,
+"end": 294.048
+},
+{
+"text": "zero",
+"start": 294.076,
+"end": 294.395
+},
+{
+"text": "percent",
+"start": 294.423,
+"end": 294.902
+},
+{
+"text": "balance",
+"start": 294.944,
+"end": 295.423
+},
+{
+"text": "transfers.",
+"start": 295.464,
+"end": 296.05
+},
+{
+"text": "Check",
+"start": 296.1,
+"end": 296.473
+},
+{
+"text": "the",
+"start": 296.505,
+"end": 296.771
+},
+{
+"text": "fee,",
+"start": 296.795,
+"end": 297.061
+},
+{
+"text": "and",
+"start": 297.084,
+"end": 297.35
+},
+{
+"text": "have",
+"start": 297.373,
+"end": 297.692
+},
+{
+"text": "a",
+"start": 297.72,
+"end": 297.88
+},
+{
+"text": "plan",
+"start": 297.894,
+"end": 298.213
+},
+{
+"text": "to",
+"start": 298.241,
+"end": 298.453
+},
+{
+"text": "pay",
+"start": 298.472,
+"end": 298.738
+},
+{
+"text": "it",
+"start": 298.761,
+"end": 298.974
+},
+{
+"text": "off",
+"start": 298.993,
+"end": 299.259
+},
+{
+"text": "before",
+"start": 299.282,
+"end": 299.707
+},
+{
+"text": "the",
+"start": 299.744,
+"end": 300.011
+},
+{
+"text": "promo",
+"start": 300.034,
+"end": 300.406
+},
+{
+"text": "ends.",
+"start": 300.439,
+"end": 300.758
+},
+{
+"text": "And",
+"start": 301.186,
+"end": 301.455
+},
+{
+"text": "fifth.",
+"start": 301.478,
+"end": 301.855
+},
+{
+"text": "Only",
+"start": 301.888,
+"end": 302.21
+},
+{
+"text": "chase",
+"start": 302.239,
+"end": 302.615
+},
+{
+"text": "rewards",
+"start": 302.648,
+"end": 303.132
+},
+{
+"text": "once",
+"start": 303.175,
+"end": 303.497
+},
+{
+"text": "you're",
+"start": 303.526,
+"end": 303.902
+},
+{
+"text": "paying",
+"start": 303.935,
+"end": 304.366
+},
+{
+"text": "in",
+"start": 304.403,
+"end": 304.618
+},
+{
+"text": "full",
+"start": 304.637,
+"end": 304.96
+},
+{
+"text": "every",
+"start": 304.988,
+"end": 305.365
+},
+{
+"text": "month.",
+"start": 305.398,
+"end": 305.774
+},
+{
+"text": "Points",
+"start": 305.807,
+"end": 306.238
+},
+{
+"text": "are",
+"start": 306.275,
+"end": 306.544
+},
+{
+"text": "never",
+"start": 306.568,
+"end": 306.944
+},
+{
+"text": "worth",
+"start": 306.977,
+"end": 307.354
+},
+{
+"text": "twenty-two",
+"start": 307.387,
+"end": 307.979
+},
+{
+"text": "percent.",
+"start": 308.03,
+"end": 308.514
+},
+{
+"text": "Let's",
+"start": 308.957,
+"end": 309.374
+},
+{
+"text": "recap.",
+"start": 309.41,
+"end": 309.897
+},
+{
+"text": "Card",
+"start": 310.34,
+"end": 310.677
+},
+{
+"text": "companies",
+"start": 310.706,
+"end": 311.325
+},
+{
+"text": "earn",
+"start": 311.379,
+"end": 311.716
+},
+{
+"text": "from",
+"start": 311.746,
+"end": 312.083
+},
+{
+"text": "swipe",
+"start": 312.112,
+"end": 312.506
+},
+{
+"text": "fees,",
+"start": 312.54,
+"end": 312.878
+},
+{
+"text": "interest",
+"start": 312.907,
+"end": 313.47
+},
+{
+"text": "and",
+"start": 313.518,
+"end": 313.8
+},
+{
+"text": "penalty",
+"start": 313.824,
+"end": 314.33
+},
+{
+"text": "fees.",
+"start": 314.374,
+"end": 314.712
+},
+{
+"text": "Interest",
+"start": 315.141,
+"end": 315.696
+},
+{
+"text": "is",
+"start": 315.744,
+"end": 315.966
+},
+{
+"text": "the",
+"start": 315.986,
+"end": 316.263
+},
+{
+"text": "big",
+"start": 316.287,
+"end": 316.565
+},
+{
+"text": "one:",
+"start": 316.589,
+"end": 316.866
+},
+{
+"text": "about",
+"start": 316.89,
+"end": 317.279
+},
+{
+"text": "one",
+"start": 317.312,
+"end": 317.59
+},
+{
+"text": "hundred",
+"start": 317.614,
+"end": 318.113
+},
+{
+"text": "sixty",
+"start": 318.157,
+"end": 318.545
+},
+{
+"text": "billion",
+"start": 318.579,
+"end": 319.078
+},
+{
+"text": "dollars",
+"start": 319.122,
+"end": 319.621
+},
+{
+"text": "a",
+"start": 319.665,
+"end": 319.831
+},
+{
+"text": "year,",
+"start": 319.846,
+"end": 320.179
+},
+{
+"text": "at",
+"start": 320.208,
+"end": 320.429
+},
+{
+"text": "around",
+"start": 320.449,
+"end": 320.893
+},
+{
+"text": "twenty-two",
+"start": 320.931,
+"end": 321.542
+},
+{
+"text": "percent.",
+"start": 321.595,
+"end": 322.094
+},
+{
+"text": "The",
+"start": 322.538,
+"end": 322.759
+},
+{
+"text": "minimum",
+"start": 322.778,
+"end": 323.177
+},
+{
+"text": "payment",
+"start": 323.212,
+"end": 323.61
+},
+{
+"text": "keeps",
+"start": 323.645,
+"end": 323.955
+},
+{
+"text": "you",
+"start": 323.982,
+"end": 324.204
+},
+{
+"text": "paying",
+"start": 324.223,
+"end": 324.577
+},
+{
+"text": "for",
+"start": 324.608,
+"end": 324.83
+},
+{
+"text": "years.",
+"start": 324.849,
+"end": 325.159
+},
+{
+"text": "Pay",
+"start": 325.586,
+"end": 325.844
+},
+{
+"text": "in",
+"start": 325.867,
+"end": 326.073
+},
+{
+"text": "full,",
+"start": 326.091,
+"end": 326.401
+},
+{
+"text": "automate",
+"start": 326.427,
+"end": 326.943
+},
+{
+"text": "it,",
+"start": 326.988,
+"end": 327.195
+},
+{
+"text": "and",
+"start": 327.213,
+"end": 327.471
+},
+{
+"text": "the",
+"start": 327.493,
+"end": 327.751
+},
+{
+"text": "most",
+"start": 327.774,
+"end": 328.083
+},
+{
+"text": "expensive",
+"start": 328.11,
+"end": 328.678
+},
+{
+"text": "product",
+"start": 328.727,
+"end": 329.192
+},
+{
+"text": "in",
+"start": 329.232,
+"end": 329.438
+},
+{
+"text": "your",
+"start": 329.456,
+"end": 329.766
+},
+{
+"text": "wallet",
+"start": 329.793,
+"end": 330.206
+},
+{
+"text": "becomes",
+"start": 330.242,
+"end": 330.706
+},
+{
+"text": "free.",
+"start": 330.746,
+"end": 331.056
+},
+{
+"text": "Next,",
+"start": 331.483,
+"end": 331.821
+},
+{
+"text": "we'll",
+"start": 331.85,
+"end": 332.188
+},
+{
+"text": "build",
+"start": 332.217,
+"end": 332.611
+},
+{
+"text": "a",
+"start": 332.646,
+"end": 332.814
+},
+{
+"text": "step-by-step",
+"start": 332.829,
+"end": 333.505
+},
+{
+"text": "plan",
+"start": 333.563,
+"end": 333.901
+},
+{
+"text": "to",
+"start": 333.931,
+"end": 334.156
+},
+{
+"text": "fix",
+"start": 334.175,
+"end": 334.457
+},
+{
+"text": "your",
+"start": 334.481,
+"end": 334.819
+},
+{
+"text": "finances",
+"start": 334.848,
+"end": 335.411
+},
+{
+"text": "in",
+"start": 335.46,
+"end": 335.686
+},
+{
+"text": "ninety",
+"start": 335.705,
+"end": 336.155
+},
+{
+"text": "days.",
+"start": 336.195,
+"end": 336.532
+},
+{
+"text": "Subscribe",
+"start": 336.962,
+"end": 337.487
+},
+{
+"text": "to",
+"start": 337.533,
+"end": 337.724
+},
+{
+"text": "The",
+"start": 337.741,
+"end": 337.98
+},
+{
+"text": "Boring",
+"start": 338.001,
+"end": 338.383
+},
+{
+"text": "Rich",
+"start": 338.416,
+"end": 338.703
+},
+{
+"text": "Club,",
+"start": 338.728,
+"end": 339.015
+},
+{
+"text": "and",
+"start": 339.04,
+"end": 339.278
+},
+{
+"text": "I'll",
+"start": 339.299,
+"end": 339.538
+},
+{
+"text": "see",
+"start": 339.559,
+"end": 339.798
+},
+{
+"text": "you",
+"start": 339.819,
+"end": 340.058
+},
+{
+"text": "there.",
+"start": 340.078,
+"end": 340.413
+}
+]
