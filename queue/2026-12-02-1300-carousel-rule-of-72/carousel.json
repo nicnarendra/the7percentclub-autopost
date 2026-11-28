@@ -1,0 +1,8 @@
+{"handle":"@the7.percentclub","follow":"Roz ke money lessons ke liye follow karo @the7.percentclub","disclaimer":"Sirf educational. Investment advice nahi.","swipe":"aage dekho","slides":[
+{"kind":"hook","title":"Paisa double kab?","accent":"72 se pata karo","sub":"Ek second ka Rule of 72","mood":"shock"},
+{"kind":"point","n":1,"title":["Formula:","72 / return %"],"body":["Jawab = kitne saal mein","aapka paisa double.","Approx hai, par kaafi","kareeb aata hai."]},
+{"kind":"stat","label":"PPF 7.1% (Oct-Dec 2026)","big":"~10 saal","note":"72 / 7.1 = ~10 saal mein double"},
+{"kind":"compare","title":"Kitne saal mein double?","left":["PPF 7.1%","10 saal"],"right":["Equity 12%","6 saal"],"note":"12% sirf maan ke, guaranteed nahi"},
+{"kind":"stat","label":"₹1 lakh, 30 saal, 12% maan ke","big":"~₹30 lakh","note":"kareeb 5 baar double (exact calculation)"},
+{"kind":"point","n":2,"title":["Ulta bhi chalta hai:","mehngai"],"body":["6% mehngai maan lo:","72 / 6 = 12 saal.","Aaj ka ₹100 ka saamaan,","12 saal baad ₹200 ka."]},
+{"kind":"end","title":"Save karo","sub":"har investment pe 72 wala check lagao"}]}

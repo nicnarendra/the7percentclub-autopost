@@ -1,0 +1,14 @@
+Rule of 72: apna paisa kitne saal mein double hoga, ek second mein jaano. 72 ko saalana return se divide karo. PPF 7.1% pe ~10 saal, 12% maan ke ~6 saal, aur 6% mehngai pe cheezein ~12 saal mein double mehngi.
+
+Is video ke numbers (Rule of 72 ek approximation hai; asli returns upar-neeche hote hain, guaranteed nahi):
+• PPF rate 7.1% (Oct–Dec 2026 quarter, govt ne unchanged rakha): 72/7.1 ≈ 10 saal (exact: 1.071^10 ≈ 1.99x)
+• Equity 12%/saal MAAN KE: 72/12 = 6 saal (exact: 1.12^6 ≈ 1.97x)
+• ₹1 lakh, 12%/saal, 30 saal: rule se ~₹32 lakh, exact calculation ~₹30 lakh (1.12^30 ≈ 29.96)
+• Mehngai 6%/saal MAAN KE: 72/6 = 12 saal (exact: 1.06^12 ≈ 2.01x), ₹100 ka saamaan ~₹200
+Sources: Ministry of Finance small savings rates for Q3 FY27 (via Business Today, 30 Sep 2026); compounding maths
+
+Aapka paisa kitne saal mein double ho raha hai? 👇
+
+📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.
+
+#ruleof72 #compounding #ppf #investing #personalfinancehindi

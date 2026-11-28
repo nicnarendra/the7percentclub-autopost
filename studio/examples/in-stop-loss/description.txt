@@ -1,0 +1,13 @@
+Stop-loss lagaya, phir neeche khiska diya? Yeh loss aversion hai: chhota loss maanna itna dard deta hai ki hum use bada loss bana dete hain. Stop-loss ki sabse common galti aur ek simple rule, 50 second mein.
+
+Is video ke numbers:
+• ₹100 pe buy, ₹95 SL; SL ko ₹85 tak khiskana = ₹5 ka loss ₹20 ka (4x) — sirf samjhane ka example
+• Recovery maths: −20% ke baad +25% chahiye (80 x 1.25 = 100); −50% ke baad +100% chahiye
+• SEBI ki FY26 study (Aug 2026): equity F&O mein kareeb 88% individual traders ne net loss kiya; aggregate loss ~₹91,685 crore
+Sources: SEBI study on individual traders in equity derivatives (FY26), Business Today, Moneylife
+
+Aapne kabhi apna stop-loss khiskaya hai? Sach batao 👇
+
+📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.
+
+#stoploss #tradingpsychology #stockmarkethindi #trading #sebi

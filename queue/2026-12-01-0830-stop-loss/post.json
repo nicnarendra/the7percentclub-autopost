@@ -1,0 +1,30 @@
+{
+  "day": 7,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-12-01T08:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Stop-Loss Baar Baar Khiskate Ho? Yeh Galti Mehengi Hai #Shorts",
+    "description": "Stop-loss lagaya, phir neeche khiska diya? Yeh loss aversion hai: chhota loss maanna itna dard deta hai ki hum use bada loss bana dete hain. Stop-loss ki sabse common galti aur ek simple rule, 50 second mein.\n\nIs video ke numbers:\n• ₹100 pe buy, ₹95 SL; SL ko ₹85 tak khiskana = ₹5 ka loss ₹20 ka (4x) — sirf samjhane ka example\n• Recovery maths: −20% ke baad +25% chahiye (80 x 1.25 = 100); −50% ke baad +100% chahiye\n• SEBI ki FY26 study (Aug 2026): equity F&O mein kareeb 88% individual traders ne net loss kiya; aggregate loss ~₹91,685 crore\nSources: SEBI study on individual traders in equity derivatives (FY26), Business Today, Moneylife\n\nAapne kabhi apna stop-loss khiskaya hai? Sach batao 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#stoploss #tradingpsychology #stockmarkethindi #trading #sebi",
+    "tags": [
+      "stop loss",
+      "stop loss hindi",
+      "trading psychology hindi",
+      "loss aversion",
+      "F&O losses",
+      "SEBI study",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "trading-psychology"
+  },
+  "caption": "Aapka stop-loss sahi tha. Aapne use khiska diya. Phir se. 📉\n\n₹100 pe buy, SL ₹95. Price ₹96 aaya, \"thoda aur wait\"... SL ₹90, phir ₹85.\n₹5 ka chhota loss = ₹20 ka bada loss.\n\n−20% ke baad wapas aane ke liye +25% chahiye. −50% ke baad? +100%.\nSEBI FY26 study: F&O mein ~88% individual traders loss mein.\n\nRule: SL trade se PEHLE likho. Sirf upar khiskao, kabhi neeche nahi.\n\nAapne kabhi SL khiskaya hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#stoploss #tradingpsychology #stockmarket #trading #sebi #moneytips #the7percentclub",
+  "language": "hi",
+  "voice": "sarvam bulbul:v3 kabir"
+}

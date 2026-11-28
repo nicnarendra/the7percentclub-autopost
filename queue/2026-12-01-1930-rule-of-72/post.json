@@ -1,0 +1,29 @@
+{
+  "day": 7,
+  "slot": "short",
+  "format": "short",
+  "publish_at": "2026-12-01T19:30:00+05:30",
+  "platforms": [
+    "youtube",
+    "facebook",
+    "instagram"
+  ],
+  "youtube": {
+    "title": "Rule of 72: Aapka Paisa Kitne Saal Mein Double Hoga? #Shorts",
+    "description": "Rule of 72: apna paisa kitne saal mein double hoga, ek second mein jaano. 72 ko saalana return se divide karo. PPF 7.1% pe ~10 saal, 12% maan ke ~6 saal, aur 6% mehngai pe cheezein ~12 saal mein double mehngi.\n\nIs video ke numbers (Rule of 72 ek approximation hai; asli returns upar-neeche hote hain, guaranteed nahi):\n• PPF rate 7.1% (Oct–Dec 2026 quarter, govt ne unchanged rakha): 72/7.1 ≈ 10 saal (exact: 1.071^10 ≈ 1.99x)\n• Equity 12%/saal MAAN KE: 72/12 = 6 saal (exact: 1.12^6 ≈ 1.97x)\n• ₹1 lakh, 12%/saal, 30 saal: rule se ~₹32 lakh, exact calculation ~₹30 lakh (1.12^30 ≈ 29.96)\n• Mehngai 6%/saal MAAN KE: 72/6 = 12 saal (exact: 1.06^12 ≈ 2.01x), ₹100 ka saamaan ~₹200\nSources: Ministry of Finance small savings rates for Q3 FY27 (via Business Today, 30 Sep 2026); compounding maths\n\nAapka paisa kitne saal mein double ho raha hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#ruleof72 #compounding #ppf #investing #personalfinancehindi",
+    "tags": [
+      "rule of 72",
+      "paisa double kaise kare",
+      "ppf interest rate",
+      "compounding hindi",
+      "investing basics hindi",
+      "the 7% club"
+    ],
+    "categoryId": "27",
+    "privacy": "public",
+    "playlist": "investing-india"
+  },
+  "caption": "Aapka paisa double kab hoga? Bas 72 ko divide karo. ⏱️\n\n72 / return % = saal\n• PPF 7.1% → ~10 saal\n• Equity 12% (maan ke, guaranteed nahi) → ~6 saal\n• 30 saal, 12% pe: ₹1 lakh → ~₹30 lakh\n\nUlta bhi chalta hai: mehngai 6% maan lo → 12 saal mein ₹100 ka saamaan ₹200 ka.\n\nSave karo, har investment pe yeh check karna. Aapka paisa kitne saal mein double ho raha hai? 👇\n\n📌 Sirf educational content. SEBI-registered nahi. Investment advice nahi.\n\n#ruleof72 #compounding #ppf #investing #personalfinance #moneytips #the7percentclub",
+  "language": "hi",
+  "voice": "sarvam bulbul:v3 kabir"
+}
