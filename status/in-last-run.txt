@@ -1,12 +1,12 @@
-mode=post channel=in at 2026-11-27T14:33:11Z
+mode=post channel=in at 2026-11-28T04:25:54Z
 Channel: The 7% Club (in)
-== 2026-11-27-1930-credit-card-minimum-due: due 2026-11-27T19:30:00+05:30, posting to youtube, facebook, instagram (LATE by 33 min)
-   youtube: OK https://youtube.com/shorts/nKWz_rqt6Pw
-   facebook: OK https://www.facebook.com/reel/4131720897137741
-   instagram: OK https://www.instagram.com/reel/DgP52PaheTV/
-2026-11-27-1930-credit-card-minimum-due: title/description/tags updated
-2026-11-27-1930-credit-card-minimum-due: English captions uploaded
-2026-11-27-1930-credit-card-minimum-due: added to playlist 'Money Traps: Credit Cards, EMIs & BNPL'
-2026-11-27-1930-credit-card-minimum-due: link comment posted (pin it in Studio for best results)
-Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 6, views 182
-Analytics saved to status/analytics-in.json: 1 videos with data
+== 2026-11-28-0830-telegram-tips: due 2026-11-28T08:30:00+05:30, posting to youtube, facebook, instagram (LATE by 86 min)
+   youtube: OK https://youtube.com/shorts/dnXtKPymzTw
+   facebook: OK https://www.facebook.com/reel/1126765020345119
+   instagram: OK https://www.instagram.com/reel/DgRZJzLpMtB/
+2026-11-28-0830-telegram-tips: title/description/tags updated
+2026-11-28-0830-telegram-tips: English captions uploaded
+2026-11-28-0830-telegram-tips: added to playlist 'Stock Market Scams & Red Flags'
+2026-11-28-0830-telegram-tips: link comment posted (pin it in Studio for best results)
+Profile picture saved to status/in-avatar.jpg; subscribers 1, videos 7, views 195
+Analytics saved to status/analytics-in.json: 3 videos with data

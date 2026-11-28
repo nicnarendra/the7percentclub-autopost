@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-27T14:34:13.932200+00:00",
+ "generated_at": "2026-11-28T04:26:52.488574+00:00",
  "channel": "The 7% Club",
  "youtube": {
   "window": [
-   "2026-10-30",
-   "2026-11-27"
+   "2026-10-31",
+   "2026-11-28"
   ],
   "channel": {
-   "viewCount": "182",
+   "viewCount": "195",
    "subscriberCount": "1",
    "hiddenSubscriberCount": false,
-   "videoCount": "6"
+   "videoCount": "7"
   },
   "videos": [
    {
     "video": "MySh2kVoCZM",
-    "views": 4,
-    "estimatedMinutesWatched": 1,
-    "averageViewDuration": 36,
-    "averageViewPercentage": 80.57,
+    "views": 19,
+    "estimatedMinutesWatched": 6,
+    "averageViewDuration": 27,
+    "averageViewPercentage": 61.03000000000001,
     "subscribersGained": 1,
     "likes": 1,
     "comments": 1,
@@ -27,20 +27,54 @@
     "format": "short",
     "playlist": "trading-psychology",
     "publish_at": "2026-11-24T20:55:00+05:30"
+   },
+   {
+    "video": "jE_brQQ6bo8",
+    "views": 10,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 17,
+    "averageViewPercentage": 30.81,
+    "subscribersGained": 0,
+    "likes": 0,
+    "comments": 1,
+    "shares": 0,
+    "title": "₹5,000 SIP se ₹50 Lakh? Phir Itna Slow Kyun Lagta Hai #Shorts",
+    "format": "short",
+    "playlist": "investing-india",
+    "publish_at": "2026-11-25T19:30:00+05:30"
+   },
+   {
+    "video": "O_-YWOlgSxU",
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0,
+    "likes": 0,
+    "comments": 1,
+    "shares": 0,
+    "title": "Option Khareeda, Market Upar Gaya, Phir Bhi Loss? Theta Samjho #Shorts",
+    "format": "short",
+    "playlist": "options-basics",
+    "publish_at": "2026-11-26T08:30:00+05:30"
    }
   ],
   "traffic_sources": [
+   [
+    "SHORTS",
+    21
+   ],
+   [
+    "YT_SEARCH",
+    3
+   ],
    [
     "YT_CHANNEL",
     2
    ],
    [
-    "PLAYLIST",
-    1
-   ],
-   [
-    "SHORTS",
-    1
+    "YT_OTHER_PAGE",
+    2
    ],
    [
     "NO_LINK_OTHER",
@@ -134,7 +168,7 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-26T16:40:40+0000",
     "insights": {
-     "reach": 137,
+     "reach": 138,
      "views": 153,
      "saved": 0,
      "shares": 1
@@ -179,6 +213,21 @@
     "media_product_type": "REELS",
     "timestamp": "2026-11-27T14:34:05+0000",
     "insights": {
+     "reach": 124,
+     "views": 128,
+     "saved": 0,
+     "shares": 0
+    }
+   },
+   {
+    "dir": "2026-11-28-0830-telegram-tips",
+    "title": "Free Telegram Tip? Exit Aap Ho: Pump and Dump ka Khel #Shorts",
+    "id": "18036046865883368",
+    "comments_count": 0,
+    "like_count": 0,
+    "media_product_type": "REELS",
+    "timestamp": "2026-11-28T04:26:40+0000",
+    "insights": {
      "reach": 0,
      "views": 0,
      "saved": 0,
@@ -190,7 +239,7 @@
   "instagram_account": {
    "id": "17841424590391387",
    "followers_count": 0,
-   "media_count": 9
+   "media_count": 10
   }
  },
  "queue": [
@@ -289,9 +338,9 @@
    "format": "short",
    "title": "Free Telegram Tip? Exit Aap Ho: Pump and Dump ka Khel #Shorts",
    "publish_at": "2026-11-28T08:30:00+05:30",
-   "youtube_id": null,
-   "instagram_id": null,
-   "facebook_id": null,
+   "youtube_id": "dnXtKPymzTw",
+   "instagram_id": "18036046865883368",
+   "facebook_id": "1126765020345119",
    "playlist": "scams"
   },
   {
