@@ -1,0 +1,47 @@
+$ nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv
+name, memory.total [MiB], driver_version
+Tesla T4, 15360 MiB, 580.178.04
+Tesla T4, 15360 MiB, 580.178.04
+
+$ pip install -q snac soundfile
+
+$ /usr/bin/python3 /kaggle/working/veena_job.py
+veena agastya 38.6 s audio in 124 s
+veena vinaya 39.2 s audio in 123 s
+veena kavya 40.2 s audio in 127 s
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files:  50%|█████     | 1/2 [00:38<00:38, 38.33s/it]
+Fetching 2 files: 100%|██████████| 2/2 [00:38<00:00, 19.17s/it]
+
+Loading weights:   0%|          | 0/255 [00:00<?, ?it/s]
+Loading weights:   0%|          | 1/255 [00:01<06:31,  1.54s/it]
+Loading weights:   1%|          | 2/255 [00:01<03:14,  1.30it/s]
+Loading weights:  19%|█▉        | 49/255 [00:01<00:04, 45.88it/s]
+Loading weights:  26%|██▋       | 67/255 [00:02<00:03, 57.21it/s]
+Loading weights:  32%|███▏      | 81/255 [00:02<00:02, 65.79it/s]
+Loading weights:  37%|███▋      | 94/255 [00:02<00:02, 70.71it/s]
+Loading weights:  42%|████▏     | 106/255 [00:02<00:02, 74.20it/s]
+Loading weights:  46%|████▌     | 117/255 [00:02<00:01, 77.59it/s]
+Loading weights:  50%|█████     | 128/255 [00:02<00:01, 80.41it/s]
+Loading weights:  55%|█████▍    | 139/255 [00:02<00:01, 75.04it/s]
+Loading weights:  59%|█████▉    | 150/255 [00:03<00:01, 79.53it/s]
+Loading weights:  62%|██████▏   | 159/255 [00:03<00:01, 79.91it/s]
+Loading weights:  69%|██████▊   | 175/255 [00:03<00:00, 82.91it/s]
+Loading weights:  73%|███████▎  | 185/255 [00:03<00:00, 85.29it/s]
+Loading weights:  76%|███████▌  | 194/255 [00:03<00:00, 82.08it/s]
+Loading weights:  80%|████████  | 204/255 [00:03<00:00, 83.83it/s]
+Loading weights:  86%|████████▋ | 220/255 [00:03<00:00, 88.01it/s]
+Loading weights:  90%|████████▉ | 229/255 [00:03<00:00, 83.86it/s]
+Loading weights:  94%|█████████▎| 239/255 [00:04<00:00, 79.85it/s]
+Loading weights: 100%|██████████| 255/255 [00:04<00:00, 61.25it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie model.embed_tokens.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+
+veena section 457s
+$ python -m venv /tmp/maya && /tmp/maya/bin/pip install -q --upgrade pip && /tmp/maya/bin/pip install -q soundfile numpy "maya3 @ git+https://github.com/MayaResearch/maya2-native" --extra-index-url https://download.pytorch.org/whl/cu128
+Error: Command '['/tmp/maya/bin/python3', '-m', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 1.
+
+maya section 0s
+ALL DONE
