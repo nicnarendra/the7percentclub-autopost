@@ -21,5 +21,19 @@
     "privacy": "public",
     "playlist": "money-mistakes"
   },
-  "approved": true
+  "approved": true,
+  "results": {
+    "youtube": {
+      "id": "0IvmkH6LG2E",
+      "url": "https://youtube.com/shorts/0IvmkH6LG2E",
+      "privacy": "public",
+      "posted_at": "2026-11-28T08:02:35.542953+05:30",
+      "seo": {
+        "metadata": true,
+        "captions": true,
+        "playlist": "money-mistakes",
+        "comment": true
+      }
+    }
+  }
 }
