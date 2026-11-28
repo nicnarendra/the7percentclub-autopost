@@ -21,6 +21,23 @@ json.dump(LINES, open(f"{W}/lines.json", "w"), ensure_ascii=False)
 
 ASSEMBLE = textwrap.dedent('''
 import numpy as np, soundfile as sf, json
+def pitch(a, sr):
+    import librosa
+    y = librosa.resample(np.asarray(a, dtype=np.float32).squeeze(), orig_sr=sr, target_sr=16000)
+    f0, vd, _ = librosa.pyin(y, fmin=70, fmax=400, sr=16000, frame_length=1024)
+    f = f0[vd]
+    return float(np.median(f)) if len(f) > 5 else 0.0
+BANDS = {"male": (80, 165), "female": (170, 320)}
+def pick(gen, sex, tries=8, log=print):
+    lo, hi = BANDS[sex]; best, bd = None, 1e9
+    for k in range(tries):
+        a = gen(k)
+        if a is None: continue
+        p = pitch(a, 24000); mid = (lo + hi) / 2
+        if lo <= p <= hi: return a, p, k + 1
+        d = abs(p - mid)
+        if d < bd: best, bd = (a, p), d
+    return (best[0], best[1], -1) if best else (None, 0, -1)
 def trim(a, sr, thr=0.012):
     i = np.where(np.abs(a) > thr)[0]
     return a if not len(i) else a[max(0, i[0]-int(.03*sr)): min(len(a), i[-1]+int(.10*sr))]
@@ -72,10 +89,16 @@ def synth(text, spk):
     gen = [t for t in out[0][inp.shape[1]:].tolist() if BASE <= t < BASE + 7*4096]
     a = decode(gen, True)
     return a if a is not None else decode(gen, False)
-torch.manual_seed(7)
-for spk in ["agastya", "vinaya", "kavya"]:
-    t0 = time.time(); parts = [synth(l, spk) for l in L]
-    d = assemble(parts, 24000, f"/kaggle/working/veena_{spk}"); print("veena", spk, round(d,1), "s audio in", round(time.time()-t0), "s")
+from assemble import pick
+SEX = {"agastya": "male", "vinaya": "male", "kavya": "female", "maitri": "female"}
+for spk in ["agastya", "vinaya", "kavya", "maitri"]:
+    t0 = time.time(); parts, rep = [], []
+    for i, l in enumerate(L):
+        def gen(k, l=l, i=i):
+            torch.manual_seed(1000 * i + k); return synth(l, spk)
+        a, p, n = pick(gen, SEX[spk]); parts.append(a); rep.append(f"{int(p)}Hz/{n}")
+    d = assemble(parts, 24000, f"/kaggle/working/veena_{spk}")
+    print("veena", spk, round(d,1), "s audio in", round(time.time()-t0), "s | pitch/tries per line:", " ".join(rep))
 ''')
 # ---------------- Maya 2 Native (Apache-2.0): built-in Hindi voices
 MAYA = textwrap.dedent('''
@@ -86,20 +109,24 @@ L = json.load(open("/kaggle/working/lines.json"))
 tts = Maya3TTS.from_pretrained("maya-research/maya2-native", max_seats=1)
 for v in ["Siddhant", "Akshat", "Satvik", "Ritvik", "Ahana"]:
     try:
-        t0 = time.time(); parts = [tts.generate(l, lang="hi", voice=v, normalize=True) for l in L]
-        d = assemble(parts, 24000, f"/kaggle/working/maya_{v}"); print("maya", v, round(d,1), "s audio in", round(time.time()-t0), "s")
+        from assemble import pick
+        sex = "female" if v in ("Ahana",) else "male"; t0 = time.time(); parts, rep = [], []
+        for l in L:
+            a, p, n = pick(lambda k, l=l: tts.generate(l, lang="hi", voice=v, normalize=True), sex); parts.append(a); rep.append(f"{int(p)}Hz/{n}")
+        d = assemble(parts, 24000, f"/kaggle/working/maya_{v}")
+        print("maya", v, round(d,1), "s audio in", round(time.time()-t0), "s | pitch/tries per line:", " ".join(rep))
     except Exception as e: print("maya voice fail", v, repr(e)[:400])
 tts.close()
 ''')
 open(f"{W}/veena_job.py", "w").write(VEENA); open(f"{W}/maya_job.py", "w").write(MAYA)
 sh("nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv")
 t = time.time()
-if os.environ.get("RUN_VEENA") and sh("pip install -q snac soundfile") == 0:
+if sh("pip install -q snac soundfile librosa") == 0:
     sh(f"{sys.executable} {W}/veena_job.py")
 log(f"veena section {time.time()-t:.0f}s")
 t = time.time()
 if sh("pip install -q uv && uv venv -q /tmp/maya && "
-      "uv pip install -q --python /tmp/maya/bin/python soundfile numpy \"maya3 @ git+https://github.com/MayaResearch/maya2-native\" "
+      "uv pip install -q --python /tmp/maya/bin/python soundfile numpy librosa \"maya3 @ git+https://github.com/MayaResearch/maya2-native\" "
       "--extra-index-url https://download.pytorch.org/whl/cu128 --index-strategy unsafe-best-match") == 0:
     sh(f"/tmp/maya/bin/python {W}/maya_job.py")
 log(f"maya section {time.time()-t:.0f}s")
